@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: e3492785fa099bd45a655adf363422dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6427170396109112819
+    second: sprBurningLegs_strip16_0
+  - first:
+      213: -2359203345983633166
+    second: sprBurningLegs_strip16_1
+  - first:
+      213: -2820441359872303073
+    second: sprBurningLegs_strip16_2
+  - first:
+      213: -3691350893896666929
+    second: sprBurningLegs_strip16_3
+  - first:
+      213: -4802732996137199328
+    second: sprBurningLegs_strip16_4
+  - first:
+      213: -3293761932866067613
+    second: sprBurningLegs_strip16_5
+  - first:
+      213: -6706768540290784292
+    second: sprBurningLegs_strip16_6
+  - first:
+      213: -7862634413501158863
+    second: sprBurningLegs_strip16_7
+  - first:
+      213: -8033136574192496741
+    second: sprBurningLegs_strip16_8
+  - first:
+      213: 1600456258565327060
+    second: sprBurningLegs_strip16_9
+  - first:
+      213: -5941129788673139221
+    second: sprBurningLegs_strip16_10
+  - first:
+      213: 3865711626234623877
+    second: sprBurningLegs_strip16_11
+  - first:
+      213: -842872073144789003
+    second: sprBurningLegs_strip16_12
+  - first:
+      213: -8152042730875239910
+    second: sprBurningLegs_strip16_13
+  - first:
+      213: -5234717311991724782
+    second: sprBurningLegs_strip16_14
+  - first:
+      213: -2977472623915417943
+    second: sprBurningLegs_strip16_15
+  - first:
+      213: 3762691540225879454
+    second: sprBurningLegs_strip16_16
+  - first:
+      213: 5846823656386552314
+    second: sprBurningLegs_strip16_17
+  - first:
+      213: 8442552202189089871
+    second: sprBurningLegs_strip16_18
+  - first:
+      213: 68913691278812595
+    second: sprBurningLegs_strip16_19
+  - first:
+      213: -5970133057016183808
+    second: sprBurningLegs_strip16_20
+  - first:
+      213: 3103638812919620871
+    second: sprBurningLegs_strip16_21
+  - first:
+      213: -5228992009810334272
+    second: sprBurningLegs_strip16_22
+  - first:
+      213: -1305285034998004087
+    second: sprBurningLegs_strip16_23
+  - first:
+      213: 2944241078285383579
+    second: sprBurningLegs_strip16_24
+  - first:
+      213: 3006442996138916176
+    second: sprBurningLegs_strip16_25
+  - first:
+      213: -7184232088234973309
+    second: sprBurningLegs_strip16_26
+  - first:
+      213: -2606223498119728278
+    second: sprBurningLegs_strip16_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f58df23c65e13950800000000000000
+      internalID: 6427170396109112819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f88bb17e0d624fd0800000000000000
+      internalID: -2359203345983633166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10edfac687cbd8d0800000000000000
+      internalID: -2820441359872303073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0f7fb6befa5ccc0800000000000000
+      internalID: -3691350893896666929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029d13639c3495db0800000000000000
+      internalID: -4802732996137199328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36360d029f43a42d0800000000000000
+      internalID: -3293761932866067613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3e33deb85cce2a0800000000000000
+      internalID: -6706768540290784292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a6080b8af42e290800000000000000
+      internalID: -7862634413501158863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fce0fd8d0948090800000000000000
+      internalID: -8033136574192496741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d84652dc76f53610800000000000000
+      internalID: 1600456258565327060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed55a54feddc8da0800000000000000
+      internalID: -5941129788673139221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587ffcd1e34c5a530800000000000000
+      internalID: 3865711626234623877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f79b11b0548d44f0800000000000000
+      internalID: -842872073144789003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a124060e3502ede80800000000000000
+      internalID: -8152042730875239910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2154527e65c8a57b0800000000000000
+      internalID: -5234717311991724782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae32138c64eda6d0800000000000000
+      internalID: -2977472623915417943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_16
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9de78e2504c73430800000000000000
+      internalID: 3762691540225879454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_17
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1654f3327142150800000000000000
+      internalID: 5846823656386552314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c2c215f78f92570800000000000000
+      internalID: 8442552202189089871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_19
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5a5d813a4d4f000800000000000000
+      internalID: 68913691278812595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_20
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004cbb2ad93d52da0800000000000000
+      internalID: -5970133057016183808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705603b7e07521b20800000000000000
+      internalID: 3103638812919620871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_22
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd26e1b873ee67b0800000000000000
+      internalID: -5228992009810334272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_23
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9868f462d22b2ede0800000000000000
+      internalID: -1305285034998004087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_24
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97305459ab0cd820800000000000000
+      internalID: 2944241078285383579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_25
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0593256e9f709b920800000000000000
+      internalID: 3006442996138916176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_26
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387aaccbafa7c4c90800000000000000
+      internalID: -7184232088234973309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBurningLegs_strip16_27
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a633c4d6985d4dbd0800000000000000
+      internalID: -2606223498119728278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

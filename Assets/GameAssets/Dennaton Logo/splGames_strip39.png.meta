@@ -1,0 +1,1730 @@
+fileFormatVersion: 2
+guid: 89c0a4a5a0620cb46b4cc2e4d4b6a69b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6227706406803194430
+    second: splGames_strip39_0
+  - first:
+      213: 9114172667657767242
+    second: splGames_strip39_1
+  - first:
+      213: 5770481733781267831
+    second: splGames_strip39_2
+  - first:
+      213: 1844986277617842980
+    second: splGames_strip39_3
+  - first:
+      213: 5078600714577633780
+    second: splGames_strip39_4
+  - first:
+      213: -5675372861711803780
+    second: splGames_strip39_5
+  - first:
+      213: 7424456686336147094
+    second: splGames_strip39_6
+  - first:
+      213: 539259837807947132
+    second: splGames_strip39_7
+  - first:
+      213: -1640493839446032152
+    second: splGames_strip39_8
+  - first:
+      213: 8328104058306842262
+    second: splGames_strip39_9
+  - first:
+      213: -252155042225196489
+    second: splGames_strip39_10
+  - first:
+      213: -4052261675075728578
+    second: splGames_strip39_11
+  - first:
+      213: -7289191196365851113
+    second: splGames_strip39_12
+  - first:
+      213: -3374265227189149338
+    second: splGames_strip39_13
+  - first:
+      213: 8388115826885485828
+    second: splGames_strip39_14
+  - first:
+      213: 7743089401247433940
+    second: splGames_strip39_15
+  - first:
+      213: -4954126422789752634
+    second: splGames_strip39_16
+  - first:
+      213: -8245930785079066097
+    second: splGames_strip39_17
+  - first:
+      213: -884461238991890367
+    second: splGames_strip39_18
+  - first:
+      213: -5580235491036452635
+    second: splGames_strip39_19
+  - first:
+      213: -4993811726060193323
+    second: splGames_strip39_20
+  - first:
+      213: 2688082553412127508
+    second: splGames_strip39_21
+  - first:
+      213: -2208601796908980763
+    second: splGames_strip39_22
+  - first:
+      213: -1735148382845783841
+    second: splGames_strip39_23
+  - first:
+      213: 4987250399614083653
+    second: splGames_strip39_24
+  - first:
+      213: 3978236482605848129
+    second: splGames_strip39_25
+  - first:
+      213: -6309321644097135219
+    second: splGames_strip39_26
+  - first:
+      213: 286318544044619872
+    second: splGames_strip39_27
+  - first:
+      213: -6797755849524755453
+    second: splGames_strip39_28
+  - first:
+      213: -2850963019791445873
+    second: splGames_strip39_29
+  - first:
+      213: -6059860552482772103
+    second: splGames_strip39_30
+  - first:
+      213: -5070865970934743656
+    second: splGames_strip39_31
+  - first:
+      213: 6286424649022934513
+    second: splGames_strip39_32
+  - first:
+      213: -1310798413195100650
+    second: splGames_strip39_33
+  - first:
+      213: -2741157098237585447
+    second: splGames_strip39_34
+  - first:
+      213: 8823436584230304871
+    second: splGames_strip39_35
+  - first:
+      213: 1392439253961817714
+    second: splGames_strip39_36
+  - first:
+      213: 2973969340208737323
+    second: splGames_strip39_37
+  - first:
+      213: 911958178422984580
+    second: splGames_strip39_38
+  - first:
+      213: 875842460861685101
+    second: splGames_strip39_39
+  - first:
+      213: 2394652675592967657
+    second: splGames_strip39_40
+  - first:
+      213: 6304699477614232207
+    second: splGames_strip39_41
+  - first:
+      213: -7512034555976610153
+    second: splGames_strip39_42
+  - first:
+      213: 5171289453717113779
+    second: splGames_strip39_43
+  - first:
+      213: 2824309414655930984
+    second: splGames_strip39_44
+  - first:
+      213: 1024185618429360685
+    second: splGames_strip39_45
+  - first:
+      213: 7314318022306422279
+    second: splGames_strip39_46
+  - first:
+      213: -8298320043275265488
+    second: splGames_strip39_47
+  - first:
+      213: 8609296727419866396
+    second: splGames_strip39_48
+  - first:
+      213: 7077995029180823565
+    second: splGames_strip39_49
+  - first:
+      213: -4326016825350721374
+    second: splGames_strip39_50
+  - first:
+      213: 8145271258172518133
+    second: splGames_strip39_51
+  - first:
+      213: -4598065635142558765
+    second: splGames_strip39_52
+  - first:
+      213: 1534059383327763535
+    second: splGames_strip39_53
+  - first:
+      213: 1623790456808429748
+    second: splGames_strip39_54
+  - first:
+      213: 6622519687708170619
+    second: splGames_strip39_55
+  - first:
+      213: -7544529892622256409
+    second: splGames_strip39_56
+  - first:
+      213: -2920881568814604807
+    second: splGames_strip39_57
+  - first:
+      213: 2644696387760508796
+    second: splGames_strip39_58
+  - first:
+      213: 4820281031944974559
+    second: splGames_strip39_59
+  - first:
+      213: 8353452327226317504
+    second: splGames_strip39_60
+  - first:
+      213: 3730689996969225692
+    second: splGames_strip39_61
+  - first:
+      213: -2852282523862557187
+    second: splGames_strip39_62
+  - first:
+      213: -3057089942544350952
+    second: splGames_strip39_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splGames_strip39_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 166
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd3211d40eb299a0800000000000000
+      internalID: -6227706406803194430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49c05590cb0c7e70800000000000000
+      internalID: 9114172667657767242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_2
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775a9e4409ed41050800000000000000
+      internalID: 5770481733781267831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb1ec8e35ba9910800000000000000
+      internalID: 1844986277617842980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_4
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1e17c3170da7640800000000000000
+      internalID: 5078600714577633780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 2
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a96c1a3760d31b0800000000000000
+      internalID: -5675372861711803780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef65f0508f80760800000000000000
+      internalID: 7424456686336147094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d6d2227f5db7700800000000000000
+      internalID: 539259837807947132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e04a937b8bcb39e0800000000000000
+      internalID: -1640493839446032152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_9
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 2
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e4edf448e539370800000000000000
+      internalID: 8328104058306842262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_10
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732f7d7335a208cf0800000000000000
+      internalID: -252155042225196489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b8e20f97973c7c0800000000000000
+      internalID: -4052261675075728578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_12
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71675b80a3797da90800000000000000
+      internalID: -7289191196365851113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_13
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661207b47a33c21d0800000000000000
+      internalID: -3374265227189149338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_14
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405675407e2986470800000000000000
+      internalID: 8388115826885485828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_15
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4027929caf47b60800000000000000
+      internalID: 7743089401247433940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c87d3d34486f3bb0800000000000000
+      internalID: -4954126422789752634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 6
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0287e8c3a1909d80800000000000000
+      internalID: -8245930785079066097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_18
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14859407033c9b3f0800000000000000
+      internalID: -884461238991890367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 6
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8aeb1e2650f82b0800000000000000
+      internalID: -5580235491036452635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_20
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9700981ba62bab0800000000000000
+      internalID: -4993811726060193323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_21
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 6
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b0e0b17dcfd4520800000000000000
+      internalID: 2688082553412127508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_22
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e563fc0e587951e0800000000000000
+      internalID: -2208601796908980763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_23
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd032ef2db38be7e0800000000000000
+      internalID: -1735148382845783841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_24
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5422cea90d5463540800000000000000
+      internalID: 4987250399614083653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_25
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146983ad009853730800000000000000
+      internalID: 3978236482605848129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_26
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d18e59469c078a0800000000000000
+      internalID: -6309321644097135219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_27
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 6
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068f266e23539f300800000000000000
+      internalID: 286318544044619872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_28
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3044e37221589a1a0800000000000000
+      internalID: -6797755849524755453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_29
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 6
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f805e811d385f68d0800000000000000
+      internalID: -2850963019791445873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_30
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bacdc1fec07eba0800000000000000
+      internalID: -6059860552482772103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_31
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 6
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d71da144aa0a9b0800000000000000
+      internalID: -5070865970934743656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_32
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd854059eddd3750800000000000000
+      internalID: 6286424649022934513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_33
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 6
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e3c51c9cb1fcde0800000000000000
+      internalID: -1310798413195100650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_34
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d71206742475f9d0800000000000000
+      internalID: -2741157098237585447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_35
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 6
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cbb3523d4237a70800000000000000
+      internalID: 8823436584230304871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_36
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e34bfbf10f25310800000000000000
+      internalID: 1392439253961817714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_37
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2c6b00bb59a54920800000000000000
+      internalID: 2973969340208737323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_38
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f0aeaa12de7ac00800000000000000
+      internalID: 911958178422984580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_39
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d5dd6e31e972c00800000000000000
+      internalID: 875842460861685101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_40
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e55829cbe38b3120800000000000000
+      internalID: 2394652675592967657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_41
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8289ca65cace7750800000000000000
+      internalID: 6304699477614232207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_42
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e0e8e2f54efb790800000000000000
+      internalID: -7512034555976610153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_43
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb48870c5c14c740800000000000000
+      internalID: 5171289453717113779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_44
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862bb54e276f13720800000000000000
+      internalID: 2824309414655930984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_45
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2abb82c463a63e00800000000000000
+      internalID: 1024185618429360685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_46
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70edfc50d7da18560800000000000000
+      internalID: 7314318022306422279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_47
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 9
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ad21413e176dc80800000000000000
+      internalID: -8298320043275265488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_48
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d4bc372cd5a7770800000000000000
+      internalID: 8609296727419866396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_49
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08bd4c6af61a3260800000000000000
+      internalID: 7077995029180823565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_50
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a07b981e96e6f3c0800000000000000
+      internalID: -4326016825350721374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_51
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 12
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe6296cd01d90170800000000000000
+      internalID: 8145271258172518133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_52
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db956b9aa36030c0800000000000000
+      internalID: -4598065635142558765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_53
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c2b9f91e21a4510800000000000000
+      internalID: 1534059383327763535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_54
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b85cb731dcd88610800000000000000
+      internalID: 1623790456808429748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_55
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 10
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7950ef719ae7eb50800000000000000
+      internalID: 6622519687708170619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_56
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e63fe809027c4790800000000000000
+      internalID: -7544529892622256409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_57
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd1db40b1f677d0800000000000000
+      internalID: -2920881568814604807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_58
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f493b3a59d3b420800000000000000
+      internalID: 2644696387760508796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_59
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 7
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd032a24f0415e240800000000000000
+      internalID: 4820281031944974559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_60
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 2
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1c7412ac6de370800000000000000
+      internalID: 8353452327226317504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_61
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 6
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd247449c216c330800000000000000
+      internalID: 3730689996969225692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_62
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd1e161828aa68d0800000000000000
+      internalID: -2852282523862557187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splGames_strip39_63
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 7
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8118938f4e80395d0800000000000000
+      internalID: -3057089942544350952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

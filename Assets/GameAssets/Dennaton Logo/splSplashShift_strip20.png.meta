@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: b2a765c876f2c0b428bca5954210db69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3961692718330663006
+    second: splSplashShift_strip20_0
+  - first:
+      213: -6619170026669889577
+    second: splSplashShift_strip20_1
+  - first:
+      213: 4790199918532940329
+    second: splSplashShift_strip20_2
+  - first:
+      213: -7388350453390000088
+    second: splSplashShift_strip20_3
+  - first:
+      213: -3586818707931880259
+    second: splSplashShift_strip20_4
+  - first:
+      213: -6367751246552379624
+    second: splSplashShift_strip20_5
+  - first:
+      213: 1691586824215559789
+    second: splSplashShift_strip20_6
+  - first:
+      213: 2729707625110704973
+    second: splSplashShift_strip20_7
+  - first:
+      213: 7723175407790617957
+    second: splSplashShift_strip20_8
+  - first:
+      213: 7038220586486593012
+    second: splSplashShift_strip20_9
+  - first:
+      213: 44356460455767687
+    second: splSplashShift_strip20_10
+  - first:
+      213: 6179208700054062329
+    second: splSplashShift_strip20_11
+  - first:
+      213: 4577844331390717637
+    second: splSplashShift_strip20_12
+  - first:
+      213: 8321184075311135836
+    second: splSplashShift_strip20_13
+  - first:
+      213: -1647332575285855145
+    second: splSplashShift_strip20_14
+  - first:
+      213: 4623463312891603671
+    second: splSplashShift_strip20_15
+  - first:
+      213: -6025553180755525956
+    second: splSplashShift_strip20_16
+  - first:
+      213: 9047143585058630429
+    second: splSplashShift_strip20_17
+  - first:
+      213: 4117615976355704239
+    second: splSplashShift_strip20_18
+  - first:
+      213: 1245396812770768670
+    second: splSplashShift_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splSplashShift_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af26ae667d3509c0800000000000000
+      internalID: -3961692718330663006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7ad6c3eebf324a0800000000000000
+      internalID: -6619170026669889577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d24342753a7240800000000000000
+      internalID: 4790199918532940329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820c795686e477990800000000000000
+      internalID: -7388350453390000088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4aeff836f093ec0800000000000000
+      internalID: -3586818707931880259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fc133aaf331a7a0800000000000000
+      internalID: -6367751246552379624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e79141149b97710800000000000000
+      internalID: 1691586824215559789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4316675f9ed1e520800000000000000
+      internalID: 2729707625110704973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565746f3d1b3e2b60800000000000000
+      internalID: 7723175407790617957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5ff545558cca160800000000000000
+      internalID: 7038220586486593012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ea5fc37f59d9000800000000000000
+      internalID: 44356460455767687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4c9b7e295f0c550800000000000000
+      internalID: 6179208700054062329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce44993a25c78f30800000000000000
+      internalID: 4577844331390717637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cbe8734d8ca7370800000000000000
+      internalID: 8321184075311135836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c382f20cf7329e0800000000000000
+      internalID: -1647332575285855145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da64fc0367d92040800000000000000
+      internalID: 4623463312891603671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe77dd8e4fe06ca0800000000000000
+      internalID: -6025553180755525956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1baf532829ed8d70800000000000000
+      internalID: 9047143585058630429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada7281ae5b42930800000000000000
+      internalID: 4117615976355704239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splSplashShift_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 0
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17fa958dc9884110800000000000000
+      internalID: 1245396812770768670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

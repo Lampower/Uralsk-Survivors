@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: b41c5aec1f9087b44b580a4e6ef27798
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8027771739600929290
+    second: sprBoss4Die_strip20_0
+  - first:
+      213: 8074308663348137783
+    second: sprBoss4Die_strip20_1
+  - first:
+      213: -5467666070231999761
+    second: sprBoss4Die_strip20_2
+  - first:
+      213: -4828365750642514919
+    second: sprBoss4Die_strip20_3
+  - first:
+      213: -5147152299861359264
+    second: sprBoss4Die_strip20_4
+  - first:
+      213: -515038732596696342
+    second: sprBoss4Die_strip20_5
+  - first:
+      213: -2334007362521962353
+    second: sprBoss4Die_strip20_6
+  - first:
+      213: -6420770871869452305
+    second: sprBoss4Die_strip20_7
+  - first:
+      213: -8105778180185590812
+    second: sprBoss4Die_strip20_8
+  - first:
+      213: -8870660552644686708
+    second: sprBoss4Die_strip20_9
+  - first:
+      213: 661039995361592399
+    second: sprBoss4Die_strip20_10
+  - first:
+      213: 3649122978149308454
+    second: sprBoss4Die_strip20_11
+  - first:
+      213: 3473575591085730673
+    second: sprBoss4Die_strip20_12
+  - first:
+      213: 3700967137175503963
+    second: sprBoss4Die_strip20_13
+  - first:
+      213: 6829435236911589198
+    second: sprBoss4Die_strip20_14
+  - first:
+      213: 6399658679753381729
+    second: sprBoss4Die_strip20_15
+  - first:
+      213: -8731262755551618135
+    second: sprBoss4Die_strip20_16
+  - first:
+      213: -1067648510188051432
+    second: sprBoss4Die_strip20_17
+  - first:
+      213: -8359975913973074282
+    second: sprBoss4Die_strip20_18
+  - first:
+      213: -1123757358603440380
+    second: sprBoss4Die_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 48
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdba23c220a79090800000000000000
+      internalID: -8027771739600929290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 46
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f89b523f4bd0070800000000000000
+      internalID: 8074308663348137783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 45
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9d559da2fe14b0800000000000000
+      internalID: -5467666070231999761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9146a4b7ee23efcb0800000000000000
+      internalID: -4828365750642514919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065cde90144a198b0800000000000000
+      internalID: -5147152299861359264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa10260073ad8f0800000000000000
+      internalID: -515038732596696342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f886bbd7ba0fb9fd0800000000000000
+      internalID: -2334007362521962353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefcb0629e6d4e6a0800000000000000
+      internalID: -6420770871869452305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3fcedf0bd728f80800000000000000
+      internalID: -8105778180185590812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c0b84e93515e480800000000000000
+      internalID: -8870660552644686708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 47
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f448ad99f5c7c2900800000000000000
+      internalID: 661039995361592399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 47
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6281e46c30a44a230800000000000000
+      internalID: 3649122978149308454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 45
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be127a89e943030800000000000000
+      internalID: 3473575591085730673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 45
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b548db0b00a7c5330800000000000000
+      internalID: 3700967137175503963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 46
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47a6a00a2707ce50800000000000000
+      internalID: 6829435236911589198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 48
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167127299a720d850800000000000000
+      internalID: 6399658679753381729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 48
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab5fb6b8c254d680800000000000000
+      internalID: -8731262755551618135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 48
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814244d2653fe21f0800000000000000
+      internalID: -1067648510188051432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 48
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69630d403366bfb80800000000000000
+      internalID: -8359975913973074282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss4Die_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 48
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fe5b2e2ac9760f0800000000000000
+      internalID: -1123757358603440380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

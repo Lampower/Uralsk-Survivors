@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 0e3326c1b1e4fe04bbd3b0ce9997abb2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 244498712666692994
+    second: sprBottleFlames_strip5_0
+  - first:
+      213: 550268240753406651
+    second: sprBottleFlames_strip5_1
+  - first:
+      213: 276097803513526514
+    second: sprBottleFlames_strip5_2
+  - first:
+      213: -4933234071812018193
+    second: sprBottleFlames_strip5_3
+  - first:
+      213: -8577505749751246378
+    second: sprBottleFlames_strip5_4
+  - first:
+      213: 6661374071007152172
+    second: sprBottleFlames_strip5_5
+  - first:
+      213: 427977360858830811
+    second: sprBottleFlames_strip5_6
+  - first:
+      213: 6583929397714848384
+    second: sprBottleFlames_strip5_7
+  - first:
+      213: -8471951583707122841
+    second: sprBottleFlames_strip5_8
+  - first:
+      213: -3814532001673793724
+    second: sprBottleFlames_strip5_9
+  - first:
+      213: 550534262203236734
+    second: sprBottleFlames_strip5_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dd984a842a46300800000000000000
+      internalID: 244498712666692994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2394dac02f2a700800000000000000
+      internalID: 550268240753406651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 27
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f870bd4d75e4d300800000000000000
+      internalID: 276097803513526514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef6ac3cfb1a98bb0800000000000000
+      internalID: -4933234071812018193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_4
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 3
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1d43757f396f880800000000000000
+      internalID: -8577505749751246378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_5
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 35
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2801629c64f17c50800000000000000
+      internalID: 6661374071007152172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_6
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd756e5642b70f500800000000000000
+      internalID: 427977360858830811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 45
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a8b0177e0de5b50800000000000000
+      internalID: 6583929397714848384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76334d2cbe49d6a80800000000000000
+      internalID: -8471951583707122841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 17
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fafdfca5f001bc0800000000000000
+      internalID: -3814532001673793724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBottleFlames_strip5_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e714e4f9ef3e3a700800000000000000
+      internalID: 550534262203236734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sprBottleFlames_strip5_0: 244498712666692994
+      sprBottleFlames_strip5_1: 550268240753406651
+      sprBottleFlames_strip5_10: 550534262203236734
+      sprBottleFlames_strip5_2: 276097803513526514
+      sprBottleFlames_strip5_3: -4933234071812018193
+      sprBottleFlames_strip5_4: -8577505749751246378
+      sprBottleFlames_strip5_5: 6661374071007152172
+      sprBottleFlames_strip5_6: 427977360858830811
+      sprBottleFlames_strip5_7: 6583929397714848384
+      sprBottleFlames_strip5_8: -8471951583707122841
+      sprBottleFlames_strip5_9: -3814532001673793724
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

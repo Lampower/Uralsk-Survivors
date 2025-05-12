@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 8ba009efe05019c4681c410d971a4cea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4081903201120915010
+    second: sprPKillMachete_strip23_0
+  - first:
+      213: 1013364796667381934
+    second: sprPKillMachete_strip23_1
+  - first:
+      213: -803927079069340877
+    second: sprPKillMachete_strip23_2
+  - first:
+      213: 514502464953599259
+    second: sprPKillMachete_strip23_3
+  - first:
+      213: -568184435497303346
+    second: sprPKillMachete_strip23_4
+  - first:
+      213: 1623020648874322397
+    second: sprPKillMachete_strip23_5
+  - first:
+      213: -4123887892257968005
+    second: sprPKillMachete_strip23_6
+  - first:
+      213: 9001478849764353141
+    second: sprPKillMachete_strip23_7
+  - first:
+      213: 5071874482425503753
+    second: sprPKillMachete_strip23_8
+  - first:
+      213: 6601620240828909437
+    second: sprPKillMachete_strip23_9
+  - first:
+      213: -2999643609564189287
+    second: sprPKillMachete_strip23_10
+  - first:
+      213: -3947394182862596904
+    second: sprPKillMachete_strip23_11
+  - first:
+      213: -6148874201530464187
+    second: sprPKillMachete_strip23_12
+  - first:
+      213: -4423160012455955470
+    second: sprPKillMachete_strip23_13
+  - first:
+      213: 337177438418005804
+    second: sprPKillMachete_strip23_14
+  - first:
+      213: 4694633439112379098
+    second: sprPKillMachete_strip23_15
+  - first:
+      213: -4373088609546824518
+    second: sprPKillMachete_strip23_16
+  - first:
+      213: 2860452368716279156
+    second: sprPKillMachete_strip23_17
+  - first:
+      213: -4111632390888478052
+    second: sprPKillMachete_strip23_18
+  - first:
+      213: 8291559751913114004
+    second: sprPKillMachete_strip23_19
+  - first:
+      213: -4401558785393443289
+    second: sprPKillMachete_strip23_20
+  - first:
+      213: -5012329020781053645
+    second: sprPKillMachete_strip23_21
+  - first:
+      213: 2126719608596099883
+    second: sprPKillMachete_strip23_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb178a95aaa2a57c0800000000000000
+      internalID: -4081903201120915010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8ce3dd9e1301e00800000000000000
+      internalID: 1013364796667381934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 2
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b21cab490e7d4f0800000000000000
+      internalID: -803927079069340877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 2
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154f931441e32700800000000000000
+      internalID: 514502464953599259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_4
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 3
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2074b24476d18f0800000000000000
+      internalID: -568184435497303346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_5
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 4
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd927475ea0268610800000000000000
+      internalID: 1623020648874322397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 4
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70fd60bfc105c6c0800000000000000
+      internalID: -4123887892257968005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_7
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574656d625dabec70800000000000000
+      internalID: 9001478849764353141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900275648fae26640800000000000000
+      internalID: 5071874482425503753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c2a4d1aaad9b50800000000000000
+      internalID: 6601620240828909437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_10
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99de727a7002f56d0800000000000000
+      internalID: -2999643609564189287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_11
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 3
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d41806a7e90839c0800000000000000
+      internalID: -3947394182862596904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_12
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 4
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5488639ed7fcaaaa0800000000000000
+      internalID: -6148874201530464187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 4
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3b9d05767cd92c0800000000000000
+      internalID: -4423160012455955470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_14
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 4
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6e230815eda400800000000000000
+      internalID: 337177438418005804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_15
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1
+        width: 50
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adab6f85d30b62140800000000000000
+      internalID: 4694633439112379098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_16
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab497a8441baf43c0800000000000000
+      internalID: -4373088609546824518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_17
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d2246264e52b720800000000000000
+      internalID: 2860452368716279156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_18
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a2a16ff1c80f6c0800000000000000
+      internalID: -4111632390888478052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_19
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 3
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49905bee9a9811370800000000000000
+      internalID: 8291559751913114004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_20
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 4
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ebf9aea958ae2c0800000000000000
+      internalID: -4401558785393443289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_21
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 4
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339b6f2ef41a07ab0800000000000000
+      internalID: -5012329020781053645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillMachete_strip23_22
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 4
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b237a375730a38d10800000000000000
+      internalID: 2126719608596099883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: ef79c47a23ff9574c87220b440a5824a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4142510297240818031
+    second: sprPKillDrill_strip20_0
+  - first:
+      213: -3278560483139552659
+    second: sprPKillDrill_strip20_1
+  - first:
+      213: 913438946685378076
+    second: sprPKillDrill_strip20_2
+  - first:
+      213: 8096434516433723953
+    second: sprPKillDrill_strip20_3
+  - first:
+      213: 1584814732362997456
+    second: sprPKillDrill_strip20_4
+  - first:
+      213: 551774226198169956
+    second: sprPKillDrill_strip20_5
+  - first:
+      213: 8437456476871065713
+    second: sprPKillDrill_strip20_6
+  - first:
+      213: -2690444090492142596
+    second: sprPKillDrill_strip20_7
+  - first:
+      213: 2998085897036709661
+    second: sprPKillDrill_strip20_8
+  - first:
+      213: 5869915443373209940
+    second: sprPKillDrill_strip20_9
+  - first:
+      213: -453452156369251477
+    second: sprPKillDrill_strip20_10
+  - first:
+      213: -5845298816818644664
+    second: sprPKillDrill_strip20_11
+  - first:
+      213: 8648556059979950746
+    second: sprPKillDrill_strip20_12
+  - first:
+      213: -1409388093401597424
+    second: sprPKillDrill_strip20_13
+  - first:
+      213: -8893793554252363463
+    second: sprPKillDrill_strip20_14
+  - first:
+      213: -5092926772964177988
+    second: sprPKillDrill_strip20_15
+  - first:
+      213: -4217781909464297937
+    second: sprPKillDrill_strip20_16
+  - first:
+      213: 3935777521686939670
+    second: sprPKillDrill_strip20_17
+  - first:
+      213: -5391650072093732926
+    second: sprPKillDrill_strip20_18
+  - first:
+      213: -5700551750151898250
+    second: sprPKillDrill_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e209625d8d286c0800000000000000
+      internalID: -4142510297240818031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a75d37c963082d0800000000000000
+      internalID: -3278560483139552659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e5035e1ef2dac00800000000000000
+      internalID: 913438946685378076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1326e33cb405c5070800000000000000
+      internalID: 8096434516433723953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de5d453a946ef510800000000000000
+      internalID: 1584814732362997456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46902cc3cbb48a700800000000000000
+      internalID: 551774226198169956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17008bf46fdd71570800000000000000
+      internalID: 8437456476871065713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbba22ba5f99aad0800000000000000
+      internalID: -2690444090492142596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f3bf22d375b9920800000000000000
+      internalID: 2998085897036709661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459f6dfdef0267150800000000000000
+      internalID: 5869915443373209940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 5
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d9f09aa305b9f0800000000000000
+      internalID: -453452156369251477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 5
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849738122b351eea0800000000000000
+      internalID: -5845298816818644664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a282f1ae7d50870800000000000000
+      internalID: 8648556059979950746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01af12e0ff8d07ce0800000000000000
+      internalID: -1409388093401597424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939012d32e5e29480800000000000000
+      internalID: -8893793554252363463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 4
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7c46e551a4259b0800000000000000
+      internalID: -5092926772964177988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ecf4a33bd6775c0800000000000000
+      internalID: -4217781909464297937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6180e17adc0be9630800000000000000
+      internalID: 3935777521686939670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc4ab53d20d25b0800000000000000
+      internalID: -5391650072093732926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPKillDrill_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bf674d26293e0b0800000000000000
+      internalID: -5700551750151898250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

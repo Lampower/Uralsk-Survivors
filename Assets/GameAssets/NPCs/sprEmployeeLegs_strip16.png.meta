@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: 1d125f791d6f2024b9f10850bef7c6e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5777927839173667399
+    second: sprEmployeeLegs_strip16_0
+  - first:
+      213: -591959035471124692
+    second: sprEmployeeLegs_strip16_1
+  - first:
+      213: -6044739632738937927
+    second: sprEmployeeLegs_strip16_2
+  - first:
+      213: -7043337770424583320
+    second: sprEmployeeLegs_strip16_3
+  - first:
+      213: -898985749136327039
+    second: sprEmployeeLegs_strip16_4
+  - first:
+      213: 6750626105765398964
+    second: sprEmployeeLegs_strip16_5
+  - first:
+      213: 6069082204548936620
+    second: sprEmployeeLegs_strip16_6
+  - first:
+      213: 8429969066816781639
+    second: sprEmployeeLegs_strip16_7
+  - first:
+      213: -9108572735739142240
+    second: sprEmployeeLegs_strip16_8
+  - first:
+      213: 8929992796383096606
+    second: sprEmployeeLegs_strip16_9
+  - first:
+      213: -394262303160136176
+    second: sprEmployeeLegs_strip16_10
+  - first:
+      213: 5348627519662521792
+    second: sprEmployeeLegs_strip16_11
+  - first:
+      213: -4192403941519931072
+    second: sprEmployeeLegs_strip16_12
+  - first:
+      213: -3368585781892359019
+    second: sprEmployeeLegs_strip16_13
+  - first:
+      213: -7446805914003341331
+    second: sprEmployeeLegs_strip16_14
+  - first:
+      213: 6252375663935393832
+    second: sprEmployeeLegs_strip16_15
+  - first:
+      213: 1122929224810913442
+    second: sprEmployeeLegs_strip16_16
+  - first:
+      213: -6355815745572453755
+    second: sprEmployeeLegs_strip16_17
+  - first:
+      213: 1589957325707433292
+    second: sprEmployeeLegs_strip16_18
+  - first:
+      213: 2171432749364290338
+    second: sprEmployeeLegs_strip16_19
+  - first:
+      213: -7844453950860399586
+    second: sprEmployeeLegs_strip16_20
+  - first:
+      213: 8390748927199190151
+    second: sprEmployeeLegs_strip16_21
+  - first:
+      213: -592737034498273770
+    second: sprEmployeeLegs_strip16_22
+  - first:
+      213: 5407790788596041398
+    second: sprEmployeeLegs_strip16_23
+  - first:
+      213: -4436231155394408328
+    second: sprEmployeeLegs_strip16_24
+  - first:
+      213: -2576511351339295453
+    second: sprEmployeeLegs_strip16_25
+  - first:
+      213: -6805007021162485595
+    second: sprEmployeeLegs_strip16_26
+  - first:
+      213: -2388681226571673216
+    second: sprEmployeeLegs_strip16_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b596383e3da0dfa0800000000000000
+      internalID: -5777927839173667399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c272921c460f8c7f0800000000000000
+      internalID: -591959035471124692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3ded69455cc1ca0800000000000000
+      internalID: -6044739632738937927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b30c07d99014e90800000000000000
+      internalID: -7043337770424583320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18e379469392683f0800000000000000
+      internalID: -898985749136327039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b900a54daa0fad50800000000000000
+      internalID: 6750626105765398964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3b8c21c16b93450800000000000000
+      internalID: 6069082204548936620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d352fc3344df470800000000000000
+      internalID: 8429969066816781639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd57b2b59d79180800000000000000
+      internalID: -9108572735739142240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f263b9225bdeb70800000000000000
+      internalID: 8929992796383096606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e00df268c478af0800000000000000
+      internalID: -394262303160136176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdfc5114642a3a40800000000000000
+      internalID: 5348627519662521792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049c1c6d3d691d5c0800000000000000
+      internalID: -4192403941519931072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cdfd234116041d0800000000000000
+      internalID: -3368585781892359019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def7d80e971a7a890800000000000000
+      internalID: -7446805914003341331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8209a233a86e4c650800000000000000
+      internalID: 6252375663935393832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae52c03e22759f00800000000000000
+      internalID: 1122929224810913442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c153014b9bc7a0800000000000000
+      internalID: -6355815745572453755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4552d683c9a01610800000000000000
+      internalID: 1589957325707433292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223228fa49a722e10800000000000000
+      internalID: 2171432749364290338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c6e0281b6e22390800000000000000
+      internalID: -7844453950860399586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c923571bde17470800000000000000
+      internalID: 8390748927199190151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e038dbecc26c7f0800000000000000
+      internalID: -592737034498273770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b685ed02155c0b40800000000000000
+      internalID: 5407790788596041398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8701231b4475f62c0800000000000000
+      internalID: -4436231155394408328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dd8afa3946e3cd0800000000000000
+      internalID: -2576511351339295453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a822913b22cf81a0800000000000000
+      internalID: -6805007021162485595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEmployeeLegs_strip16_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0811d888413b9ded0800000000000000
+      internalID: -2388681226571673216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

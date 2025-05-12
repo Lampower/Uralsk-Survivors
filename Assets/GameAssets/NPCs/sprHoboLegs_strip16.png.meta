@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: cf0f86b8348d59d42aaa12d54cc11bd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8225869398315427912
+    second: sprHoboLegs_strip16_0
+  - first:
+      213: -282518478701198276
+    second: sprHoboLegs_strip16_1
+  - first:
+      213: -5401772195157907399
+    second: sprHoboLegs_strip16_2
+  - first:
+      213: 322742299372945930
+    second: sprHoboLegs_strip16_3
+  - first:
+      213: -6038858998741292655
+    second: sprHoboLegs_strip16_4
+  - first:
+      213: 2486619264073735773
+    second: sprHoboLegs_strip16_5
+  - first:
+      213: 2435469756064697768
+    second: sprHoboLegs_strip16_6
+  - first:
+      213: -8998526012075631230
+    second: sprHoboLegs_strip16_7
+  - first:
+      213: 8373914054154975912
+    second: sprHoboLegs_strip16_8
+  - first:
+      213: -1824098801188363974
+    second: sprHoboLegs_strip16_9
+  - first:
+      213: -8366283295581138829
+    second: sprHoboLegs_strip16_10
+  - first:
+      213: -8599022737645167577
+    second: sprHoboLegs_strip16_11
+  - first:
+      213: -5771984410762688890
+    second: sprHoboLegs_strip16_12
+  - first:
+      213: 9146185154498135985
+    second: sprHoboLegs_strip16_13
+  - first:
+      213: -7303244887802418220
+    second: sprHoboLegs_strip16_14
+  - first:
+      213: 6975473375028853311
+    second: sprHoboLegs_strip16_15
+  - first:
+      213: -5945380778575907790
+    second: sprHoboLegs_strip16_16
+  - first:
+      213: -6180471830269766772
+    second: sprHoboLegs_strip16_17
+  - first:
+      213: -3958052462652434963
+    second: sprHoboLegs_strip16_18
+  - first:
+      213: -2074453251590859929
+    second: sprHoboLegs_strip16_19
+  - first:
+      213: 5306010163676214131
+    second: sprHoboLegs_strip16_20
+  - first:
+      213: 4615281272180841158
+    second: sprHoboLegs_strip16_21
+  - first:
+      213: 5794132420616389797
+    second: sprHoboLegs_strip16_22
+  - first:
+      213: -9010153643529275508
+    second: sprHoboLegs_strip16_23
+  - first:
+      213: 3879865753755918754
+    second: sprHoboLegs_strip16_24
+  - first:
+      213: 6931099280087630271
+    second: sprHoboLegs_strip16_25
+  - first:
+      213: 7420115985193195167
+    second: sprHoboLegs_strip16_26
+  - first:
+      213: 5960956658941604731
+    second: sprHoboLegs_strip16_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b717a06d57d7dd80800000000000000
+      internalID: -8225869398315427912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c340882c0fa441cf0800000000000000
+      internalID: -282518478701198276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938e70eeecc0905b0800000000000000
+      internalID: -5401772195157907399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020e1c496c9a7400800000000000000
+      internalID: 322742299372945930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199aa536cb9a13ca0800000000000000
+      internalID: -6038858998741292655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e12c6cb0f328220800000000000000
+      internalID: 2486619264073735773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad8177e6d68cc120800000000000000
+      internalID: 2435469756064697768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d9e1ca440de1380800000000000000
+      internalID: -8998526012075631230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aafe81277e163470800000000000000
+      internalID: 8373914054154975912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31a3f70ecf7fa6e0800000000000000
+      internalID: -1824098801188363974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3701a9c4badf4eb80800000000000000
+      internalID: -8366283295581138829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c172331622aa880800000000000000
+      internalID: -8599022737645167577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686c56b72cac5efa0800000000000000
+      internalID: -5771984410762688890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b700df70f6cdee70800000000000000
+      internalID: 9146185154498135985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db69d20879a5aa90800000000000000
+      internalID: -7303244887802418220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3ac2b31cddc060800000000000000
+      internalID: 6975473375028853311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2343c8e8ea3cd7da0800000000000000
+      internalID: -5945380778575907790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83567cad9d8a3aa0800000000000000
+      internalID: -6180471830269766772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5dd31814c2219c0800000000000000
+      internalID: -3958052462652434963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d5c332cf0633e0800000000000000
+      internalID: -2074453251590859929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3737884a12cb2a940800000000000000
+      internalID: 5306010163676214131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca1ade3dd5cc0040800000000000000
+      internalID: 4615281272180841158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a40a68ecb4e86050800000000000000
+      internalID: 5794132420616389797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87feb1cff085f280800000000000000
+      internalID: -9010153643529275508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a123dcb85d08d530800000000000000
+      internalID: 3879865753755918754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1c69c9216303060800000000000000
+      internalID: 6931099280087630271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9653a1dc2c89f660800000000000000
+      internalID: 7420115985193195167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprHoboLegs_strip16_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73b6b1bf7299b250800000000000000
+      internalID: 5960956658941604731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

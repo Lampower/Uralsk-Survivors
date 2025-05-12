@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: aaa2f4a619fb6ab4cb04b5fc288b974d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4009018093685999574
+    second: sprPInspectorAttack_strip21_0
+  - first:
+      213: 7125611702614070209
+    second: sprPInspectorAttack_strip21_1
+  - first:
+      213: -5791677472635474856
+    second: sprPInspectorAttack_strip21_2
+  - first:
+      213: 5526896986087534195
+    second: sprPInspectorAttack_strip21_3
+  - first:
+      213: 4917567705998525234
+    second: sprPInspectorAttack_strip21_4
+  - first:
+      213: 2383409697423169372
+    second: sprPInspectorAttack_strip21_5
+  - first:
+      213: -6401932420865427833
+    second: sprPInspectorAttack_strip21_6
+  - first:
+      213: -3181495321547825276
+    second: sprPInspectorAttack_strip21_7
+  - first:
+      213: 7253477411143027187
+    second: sprPInspectorAttack_strip21_8
+  - first:
+      213: -5424035005496312647
+    second: sprPInspectorAttack_strip21_9
+  - first:
+      213: 457558494776059277
+    second: sprPInspectorAttack_strip21_10
+  - first:
+      213: 9064347687452181285
+    second: sprPInspectorAttack_strip21_11
+  - first:
+      213: -3923367607069763507
+    second: sprPInspectorAttack_strip21_12
+  - first:
+      213: -8322079934020188225
+    second: sprPInspectorAttack_strip21_13
+  - first:
+      213: -5711943726598890139
+    second: sprPInspectorAttack_strip21_14
+  - first:
+      213: 3121113025112786035
+    second: sprPInspectorAttack_strip21_15
+  - first:
+      213: 1878665449333125440
+    second: sprPInspectorAttack_strip21_16
+  - first:
+      213: 2510084671884620194
+    second: sprPInspectorAttack_strip21_17
+  - first:
+      213: -8655098227625588007
+    second: sprPInspectorAttack_strip21_18
+  - first:
+      213: 743411387549072078
+    second: sprPInspectorAttack_strip21_19
+  - first:
+      213: -4044953168117184147
+    second: sprPInspectorAttack_strip21_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7844c27b4e2a730800000000000000
+      internalID: 4009018093685999574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c39da5271243e260800000000000000
+      internalID: 7125611702614070209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c2ee53604df9fa0800000000000000
+      internalID: -5791677472635474856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eaceda68b73bc40800000000000000
+      internalID: 5526896986087534195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23389f236c5be3440800000000000000
+      internalID: 4917567705998525234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 3
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c571121fd72931120800000000000000
+      internalID: 2383409697423169372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 3
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7867242d164c727a0800000000000000
+      internalID: -6401932420865427833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 3
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f13908cde09d3d0800000000000000
+      internalID: -3181495321547825276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9008d564789a460800000000000000
+      internalID: 7253477411143027187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcbb1876e4f9b4b0800000000000000
+      internalID: -5424035005496312647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 3
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85e619d603995600800000000000000
+      internalID: 457558494776059277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 3
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523883f52380bcd70800000000000000
+      internalID: 9064347687452181285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d481551c2f56d89c0800000000000000
+      internalID: -3923367607069763507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 3
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7025c6468028c80800000000000000
+      internalID: -8322079934020188225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d5d0f91791bb0b0800000000000000
+      internalID: -5711943726598890139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 3
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37441bd82cb605b20800000000000000
+      internalID: 3121113025112786035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041fc47c54c521a10800000000000000
+      internalID: 1878665449333125440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1f5d7c5bc95d220800000000000000
+      internalID: 2510084671884620194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da8346c40ae2e780800000000000000
+      internalID: -8655098227625588007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecab7dcd7b0215a00800000000000000
+      internalID: 743411387549072078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPInspectorAttack_strip21_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69c84156807dd7c0800000000000000
+      internalID: -4044953168117184147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

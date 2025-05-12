@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: aa256975d40cfe141b0e3e6591adf810
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5750364638393873177
+    second: sprNicklasVideoFace_strip16_0
+  - first:
+      213: 3193583828409329634
+    second: sprNicklasVideoFace_strip16_1
+  - first:
+      213: 6639449025172000799
+    second: sprNicklasVideoFace_strip16_2
+  - first:
+      213: -1517087320090975250
+    second: sprNicklasVideoFace_strip16_3
+  - first:
+      213: -4625981487532739858
+    second: sprNicklasVideoFace_strip16_4
+  - first:
+      213: 5447035472989937552
+    second: sprNicklasVideoFace_strip16_5
+  - first:
+      213: 3350536832622668345
+    second: sprNicklasVideoFace_strip16_6
+  - first:
+      213: -1659178439774878069
+    second: sprNicklasVideoFace_strip16_7
+  - first:
+      213: 1272967625014753058
+    second: sprNicklasVideoFace_strip16_8
+  - first:
+      213: -302055088589063660
+    second: sprNicklasVideoFace_strip16_9
+  - first:
+      213: 6485643340825085262
+    second: sprNicklasVideoFace_strip16_10
+  - first:
+      213: 3069540225586802109
+    second: sprNicklasVideoFace_strip16_11
+  - first:
+      213: 6417044625573293423
+    second: sprNicklasVideoFace_strip16_12
+  - first:
+      213: -4111002750789784957
+    second: sprNicklasVideoFace_strip16_13
+  - first:
+      213: -1952785338924582583
+    second: sprNicklasVideoFace_strip16_14
+  - first:
+      213: 3519329296350802757
+    second: sprNicklasVideoFace_strip16_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9133f600c266dcf40800000000000000
+      internalID: 5750364638393873177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e725c45293e15c20800000000000000
+      internalID: 3193583828409329634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d0b906bf042c50800000000000000
+      internalID: 6639449025172000799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee36ab8ce1932fae0800000000000000
+      internalID: -1517087320090975250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2f31ab8563dcfb0800000000000000
+      internalID: -4625981487532739858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f548e27e1c79b40800000000000000
+      internalID: 5447035472989937552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a26535f7f7f7e20800000000000000
+      internalID: 3350536832622668345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b864b3eeff969f8e0800000000000000
+      internalID: -1659178439774878069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227b39b7f4d7aa110800000000000000
+      internalID: 1272967625014753058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41abc0e4f72eecbf0800000000000000
+      internalID: -302055088589063660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45c1cd8142a10a50800000000000000
+      internalID: 6485643340825085262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdafd17292399a20800000000000000
+      internalID: 3069540225586802109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d2027861ced0950800000000000000
+      internalID: 6417044625573293423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a658877c8c2f6c0800000000000000
+      internalID: -4111002750789784957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9493fce941056e4e0800000000000000
+      internalID: -1952785338924582583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasVideoFace_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 21
+        width: 87
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437d9c495b27d030800000000000000
+      internalID: 3519329296350802757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

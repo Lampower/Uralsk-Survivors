@@ -1,0 +1,1655 @@
+fileFormatVersion: 2
+guid: 3dc6ddf329c280f40985fa92ec9b5c2d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3351244981680096603
+    second: sprSpread_strip29_0
+  - first:
+      213: -5753579308203216682
+    second: sprSpread_strip29_1
+  - first:
+      213: 2205912128732976541
+    second: sprSpread_strip29_2
+  - first:
+      213: 5740948638409426417
+    second: sprSpread_strip29_3
+  - first:
+      213: -7305902287498866329
+    second: sprSpread_strip29_4
+  - first:
+      213: 8097718712231371972
+    second: sprSpread_strip29_5
+  - first:
+      213: 706384390221377640
+    second: sprSpread_strip29_6
+  - first:
+      213: 6928911876379712228
+    second: sprSpread_strip29_7
+  - first:
+      213: -6354134989992571469
+    second: sprSpread_strip29_8
+  - first:
+      213: 6593738523753380033
+    second: sprSpread_strip29_9
+  - first:
+      213: 8192189926813526429
+    second: sprSpread_strip29_10
+  - first:
+      213: 2988519251897625032
+    second: sprSpread_strip29_11
+  - first:
+      213: 7860678252707553523
+    second: sprSpread_strip29_12
+  - first:
+      213: 3021125366487498242
+    second: sprSpread_strip29_13
+  - first:
+      213: -790188781744534055
+    second: sprSpread_strip29_14
+  - first:
+      213: -8274791523935962659
+    second: sprSpread_strip29_15
+  - first:
+      213: -4196475294330026465
+    second: sprSpread_strip29_16
+  - first:
+      213: 3575622225813901736
+    second: sprSpread_strip29_17
+  - first:
+      213: 4058233376999829091
+    second: sprSpread_strip29_18
+  - first:
+      213: 3484275979711799396
+    second: sprSpread_strip29_19
+  - first:
+      213: 2931033637179574954
+    second: sprSpread_strip29_20
+  - first:
+      213: -4719375548186667617
+    second: sprSpread_strip29_21
+  - first:
+      213: 996309979334313464
+    second: sprSpread_strip29_22
+  - first:
+      213: -4438396970359480465
+    second: sprSpread_strip29_23
+  - first:
+      213: 1787058491909569225
+    second: sprSpread_strip29_24
+  - first:
+      213: 8561815054593970526
+    second: sprSpread_strip29_25
+  - first:
+      213: -88854512736891183
+    second: sprSpread_strip29_26
+  - first:
+      213: -9044986434497890822
+    second: sprSpread_strip29_27
+  - first:
+      213: -8637909696191403928
+    second: sprSpread_strip29_28
+  - first:
+      213: 3326928809856068818
+    second: sprSpread_strip29_29
+  - first:
+      213: -4841551150398796238
+    second: sprSpread_strip29_30
+  - first:
+      213: -8691263781472116108
+    second: sprSpread_strip29_31
+  - first:
+      213: 6213633243393720328
+    second: sprSpread_strip29_32
+  - first:
+      213: 2073911548830186987
+    second: sprSpread_strip29_33
+  - first:
+      213: 925804630987249862
+    second: sprSpread_strip29_34
+  - first:
+      213: 7102427951209439968
+    second: sprSpread_strip29_35
+  - first:
+      213: 6810109947602534082
+    second: sprSpread_strip29_36
+  - first:
+      213: -7568391975694470595
+    second: sprSpread_strip29_37
+  - first:
+      213: 8380125624167512960
+    second: sprSpread_strip29_38
+  - first:
+      213: -6790975517390789004
+    second: sprSpread_strip29_39
+  - first:
+      213: 5260151467938872600
+    second: sprSpread_strip29_40
+  - first:
+      213: 3711147835874752149
+    second: sprSpread_strip29_41
+  - first:
+      213: 5871255692791856573
+    second: sprSpread_strip29_42
+  - first:
+      213: -1134261965874113437
+    second: sprSpread_strip29_43
+  - first:
+      213: -6002346072918570922
+    second: sprSpread_strip29_44
+  - first:
+      213: 2292011444153609875
+    second: sprSpread_strip29_45
+  - first:
+      213: -1458593403198619654
+    second: sprSpread_strip29_46
+  - first:
+      213: -292076751465789148
+    second: sprSpread_strip29_47
+  - first:
+      213: -4509142375259859734
+    second: sprSpread_strip29_48
+  - first:
+      213: -5271819699454764297
+    second: sprSpread_strip29_49
+  - first:
+      213: -3016338430515595563
+    second: sprSpread_strip29_50
+  - first:
+      213: -3085731821143086185
+    second: sprSpread_strip29_51
+  - first:
+      213: -5991532162479737481
+    second: sprSpread_strip29_52
+  - first:
+      213: -437595694022363088
+    second: sprSpread_strip29_53
+  - first:
+      213: -5484326625046790298
+    second: sprSpread_strip29_54
+  - first:
+      213: -4737293780168009173
+    second: sprSpread_strip29_55
+  - first:
+      213: -11579136657836726
+    second: sprSpread_strip29_56
+  - first:
+      213: 4653120968250775929
+    second: sprSpread_strip29_57
+  - first:
+      213: 6018101915995816108
+    second: sprSpread_strip29_58
+  - first:
+      213: 5788855021269381012
+    second: sprSpread_strip29_59
+  - first:
+      213: -2517369478944240630
+    second: sprSpread_strip29_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprSpread_strip29_0
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 23
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b554a502e83028e20800000000000000
+      internalID: 3351244981680096603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_1
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 22
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0728b5a1e2720b0800000000000000
+      internalID: -5753579308203216682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_2
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 21
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95dad6c469fc9e10800000000000000
+      internalID: 2205912128732976541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_3
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 19
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5082aae52fbaf40800000000000000
+      internalID: 5740948638409426417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_4
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 17
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619aede3983c9a90800000000000000
+      internalID: -7305902287498866329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_5
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 17
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a595e340e06070800000000000000
+      internalID: 8097718712231371972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_6
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 15
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b60e3cd49dc900800000000000000
+      internalID: 706384390221377640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_7
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 29
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea199ff3a0782060800000000000000
+      internalID: 6928911876379712228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_8
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 29
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdcc9a64e391d7a0800000000000000
+      internalID: -6354134989992571469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_9
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 29
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8f022904aa18b50800000000000000
+      internalID: 6593738523753380033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_10
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 51
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99e048955180b170800000000000000
+      internalID: 8192189926813526429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_11
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 52
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c926cdfc6a597920800000000000000
+      internalID: 2988519251897625032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_12
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 54
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0a542293db61d60800000000000000
+      internalID: 7860678252707553523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_13
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 56
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb863a3813de920800000000000000
+      internalID: 3021125366487498242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_14
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 62
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd4e965d7fa805f0800000000000000
+      internalID: -790188781744534055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_15
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 71
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9326163f80a2d80800000000000000
+      internalID: -8274791523935962659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_16
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 64
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1681c424ff13c5c0800000000000000
+      internalID: -4196475294330026465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_17
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 63
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a111ac48792f9130800000000000000
+      internalID: 3575622225813901736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_18
+      rect:
+        serializedVersion: 2
+        x: 2468
+        y: 19
+        width: 204
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e65b341cdb15830800000000000000
+      internalID: 4058233376999829091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_19
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 42
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460e5260b82aa5030800000000000000
+      internalID: 3484275979711799396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 40
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa4fc0509f1da820800000000000000
+      internalID: 2931033637179574954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_21
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 39
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f955ba871f8618eb0800000000000000
+      internalID: -4719375548186667617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_22
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 37
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f50664c5aa93dd00800000000000000
+      internalID: 996309979334313464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 35
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f9d899875a762c0800000000000000
+      internalID: -4438396970359480465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_24
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca7d1bea38ecc810800000000000000
+      internalID: 1787058491909569225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_25
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 32
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e515aa10e6da1d670800000000000000
+      internalID: 8561815054593970526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 31
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de80ab9a4354cef0800000000000000
+      internalID: -88854512736891183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_27
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 28
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5b68d92c0c97280800000000000000
+      internalID: -9044986434497890822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_28
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 25
+        width: 46
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868eb9c95eaff1880800000000000000
+      internalID: -8637909696191403928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_29
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 14
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dceb703020ab2e20800000000000000
+      internalID: 3326928809856068818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_30
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 35
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e889e51ea5fccb0800000000000000
+      internalID: -4841551150398796238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_31
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 12
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472e22893ad626780800000000000000
+      internalID: -8691263781472116108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_32
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 33
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8008a0d73824b3650800000000000000
+      internalID: 6213633243393720328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_33
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 10
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed7a9bc09308cc10800000000000000
+      internalID: 2073911548830186987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_34
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 32
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c81861286e19dc00800000000000000
+      internalID: 925804630987249862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_35
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 30
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2e4a26794e09260800000000000000
+      internalID: 7102427951209439968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_36
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 11
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cef3347aee528e50800000000000000
+      internalID: 6810109947602534082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_37
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 32
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3270dfd89ba7f690800000000000000
+      internalID: -7568391975694470595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_38
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 30
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b37a9fadf2c4470800000000000000
+      internalID: 8380125624167512960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_39
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 12
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4762c8f3fbb91c1a0800000000000000
+      internalID: -6790975517390789004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_40
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 36
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dfe3ff3efcff840800000000000000
+      internalID: 5260151467938872600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_41
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 32
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59636425b45a08330800000000000000
+      internalID: 3711147835874752149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_42
+      rect:
+        serializedVersion: 2
+        x: 2127
+        y: 49
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd395202f3ea7150800000000000000
+      internalID: 5871255692791856573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_43
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 14
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36456d960ca4240f0800000000000000
+      internalID: -1134261965874113437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_44
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 37
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6584ab86c0263bca0800000000000000
+      internalID: -6002346072918570922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_45
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 33
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ee7edc34cdecf10800000000000000
+      internalID: 2292011444153609875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_46
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 51
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff3e9a170902cbe0800000000000000
+      internalID: -1458593403198619654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_47
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 17
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4294bb5fdb552fbf0800000000000000
+      internalID: -292076751465789148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_48
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 29
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae499f076ee4c61c0800000000000000
+      internalID: -4509142375259859734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_49
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa97162aebb6d6b0800000000000000
+      internalID: -5271819699454764297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_50
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 38
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d632cebd20d326d0800000000000000
+      internalID: -3016338430515595563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_51
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 33
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ba5a0f1474d25d0800000000000000
+      internalID: -3085731821143086185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_52
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 53
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77531132e3dc9dca0800000000000000
+      internalID: -5991532162479737481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_53
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 22
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0387e86e8095de9f0800000000000000
+      internalID: -437595694022363088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_54
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 38
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f7ed1edf1c3e3b0800000000000000
+      internalID: -5484326625046790298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_55
+      rect:
+        serializedVersion: 2
+        x: 2373
+        y: 52
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a1b6cf760c14eb0800000000000000
+      internalID: -4737293780168009173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_56
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 33
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4534b826dcd6dff0800000000000000
+      internalID: -11579136657836726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_57
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 21
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97952890ed4339040800000000000000
+      internalID: 4653120968250775929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_58
+      rect:
+        serializedVersion: 2
+        x: 2258
+        y: 22
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0470daec7948350800000000000000
+      internalID: 6018101915995816108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_59
+      rect:
+        serializedVersion: 2
+        x: 2334
+        y: 17
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f6ffe98f4265050800000000000000
+      internalID: 5788855021269381012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprSpread_strip29_60
+      rect:
+        serializedVersion: 2
+        x: 2431
+        y: 19
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c4e17ebc1801dd0800000000000000
+      internalID: -2517369478944240630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

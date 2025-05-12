@@ -1,0 +1,605 @@
+fileFormatVersion: 2
+guid: bd799fb88b71b8f49b55643019c3e005
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7914068766144248873
+    second: sprJanitorFinger_strip19_0
+  - first:
+      213: 6892087663321467112
+    second: sprJanitorFinger_strip19_1
+  - first:
+      213: 889233419548146163
+    second: sprJanitorFinger_strip19_2
+  - first:
+      213: 8402096638694483660
+    second: sprJanitorFinger_strip19_3
+  - first:
+      213: 5326871058931727523
+    second: sprJanitorFinger_strip19_4
+  - first:
+      213: -5162451236359254778
+    second: sprJanitorFinger_strip19_5
+  - first:
+      213: -3653547323933095735
+    second: sprJanitorFinger_strip19_6
+  - first:
+      213: 253361997046827480
+    second: sprJanitorFinger_strip19_7
+  - first:
+      213: -1561480672614698505
+    second: sprJanitorFinger_strip19_8
+  - first:
+      213: -2573273173576496677
+    second: sprJanitorFinger_strip19_9
+  - first:
+      213: -2230091299024971584
+    second: sprJanitorFinger_strip19_10
+  - first:
+      213: -2265124604271819018
+    second: sprJanitorFinger_strip19_11
+  - first:
+      213: -9187415680871751591
+    second: sprJanitorFinger_strip19_12
+  - first:
+      213: -8548132273963314223
+    second: sprJanitorFinger_strip19_13
+  - first:
+      213: 548753210416452035
+    second: sprJanitorFinger_strip19_14
+  - first:
+      213: -4060185514424708179
+    second: sprJanitorFinger_strip19_15
+  - first:
+      213: 9213559063780760359
+    second: sprJanitorFinger_strip19_16
+  - first:
+      213: -3546958744707552355
+    second: sprJanitorFinger_strip19_17
+  - first:
+      213: -991318690009336461
+    second: sprJanitorFinger_strip19_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cba0ebc9b64dd60800000000000000
+      internalID: 7914068766144248873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8c025c63d95af50800000000000000
+      internalID: 6892087663321467112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 4
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b29e6511375c00800000000000000
+      internalID: 889233419548146163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc663ed606e3a9470800000000000000
+      internalID: 8402096638694483660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac3fef4109dce940800000000000000
+      internalID: 5326871058931727523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dc78ec3f94b58b0800000000000000
+      internalID: -5162451236359254778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_6
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c883e2f01efb4dc0800000000000000
+      internalID: -3653547323933095735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d94f89d46f148300800000000000000
+      internalID: 253361997046827480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1b921f991845ae0800000000000000
+      internalID: -1561480672614698505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd94ee2bea5e94cd0800000000000000
+      internalID: -2573273173576496677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_10
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c85de077cf1d01e0800000000000000
+      internalID: -2230091299024971584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6816e6c29a090e0800000000000000
+      internalID: -2265124604271819018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95029c18d1ebf7080800000000000000
+      internalID: -9187415680871751591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d35d5d9cfeee5980800000000000000
+      internalID: -8548132273963314223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c15a3033209d9700800000000000000
+      internalID: 548753210416452035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3578259c257a7c0800000000000000
+      internalID: -4060185514424708179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 4
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b9bb927232ddf70800000000000000
+      internalID: 9213559063780760359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_17
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 4
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9badb470dba6cec0800000000000000
+      internalID: -3546958744707552355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorFinger_strip19_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375b9c657e02e32f0800000000000000
+      internalID: -991318690009336461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

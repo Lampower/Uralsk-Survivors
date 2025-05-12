@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: 4cbf2c7da7034d744b5b8303e17905fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4747054131250705936
+    second: sprJanitorLegs_strip16_0
+  - first:
+      213: 2890996698683956868
+    second: sprJanitorLegs_strip16_1
+  - first:
+      213: -5997777977707379583
+    second: sprJanitorLegs_strip16_2
+  - first:
+      213: -5546555528703155725
+    second: sprJanitorLegs_strip16_3
+  - first:
+      213: -6925859255233846767
+    second: sprJanitorLegs_strip16_4
+  - first:
+      213: 6066746165642493466
+    second: sprJanitorLegs_strip16_5
+  - first:
+      213: -143763373830833114
+    second: sprJanitorLegs_strip16_6
+  - first:
+      213: 859129066137571978
+    second: sprJanitorLegs_strip16_7
+  - first:
+      213: 3070814992479978401
+    second: sprJanitorLegs_strip16_8
+  - first:
+      213: -7073502646423672871
+    second: sprJanitorLegs_strip16_9
+  - first:
+      213: 7273234287706774011
+    second: sprJanitorLegs_strip16_10
+  - first:
+      213: -7821824111131170313
+    second: sprJanitorLegs_strip16_11
+  - first:
+      213: 6309159547076205180
+    second: sprJanitorLegs_strip16_12
+  - first:
+      213: -8832881095645171939
+    second: sprJanitorLegs_strip16_13
+  - first:
+      213: 6664103062227049338
+    second: sprJanitorLegs_strip16_14
+  - first:
+      213: -7568162951931824062
+    second: sprJanitorLegs_strip16_15
+  - first:
+      213: 5520203624981239026
+    second: sprJanitorLegs_strip16_16
+  - first:
+      213: 9003219161941430891
+    second: sprJanitorLegs_strip16_17
+  - first:
+      213: -4884082042105299336
+    second: sprJanitorLegs_strip16_18
+  - first:
+      213: 3708575141820626229
+    second: sprJanitorLegs_strip16_19
+  - first:
+      213: -8637455345872256131
+    second: sprJanitorLegs_strip16_20
+  - first:
+      213: 5176233310013440770
+    second: sprJanitorLegs_strip16_21
+  - first:
+      213: 1069895094503639968
+    second: sprJanitorLegs_strip16_22
+  - first:
+      213: -7222428085148468563
+    second: sprJanitorLegs_strip16_23
+  - first:
+      213: 8234109241659267111
+    second: sprJanitorLegs_strip16_24
+  - first:
+      213: -5994736461487405401
+    second: sprJanitorLegs_strip16_25
+  - first:
+      213: 4662352267233626917
+    second: sprJanitorLegs_strip16_26
+  - first:
+      213: 8445244828944047698
+    second: sprJanitorLegs_strip16_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f940492b631f1eb0800000000000000
+      internalID: -4747054131250705936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e52e72e22ee1820800000000000000
+      internalID: 2890996698683956868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844715f4bc93cca0800000000000000
+      internalID: -5997777977707379583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f16ba0322da603b0800000000000000
+      internalID: -5546555528703155725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1126f6fb3b762ef90800000000000000
+      internalID: -6925859255233846767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e7591ae79613450800000000000000
+      internalID: 6066746165642493466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cf91329ff310ef0800000000000000
+      internalID: -143763373830833114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82d753755d3ceb00800000000000000
+      internalID: 859129066137571978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a386bd37f9bd9a20800000000000000
+      internalID: 3070814992479978401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7a122f1ded5dd90800000000000000
+      internalID: -7073502646423672871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 15
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf914f6ac08bfe460800000000000000
+      internalID: 7273234287706774011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e078a96c437390800000000000000
+      internalID: -7821824111131170313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7addb24e23ae8750800000000000000
+      internalID: 6309159547076205180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f6ece217d4b6580800000000000000
+      internalID: -8832881095645171939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bd2aa5d66ab7c50800000000000000
+      internalID: 6664103062227049338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248f4df94eb78f690800000000000000
+      internalID: -7568162951931824062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f494da13f3bb9c40800000000000000
+      internalID: 5520203624981239026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62528e602cd1fc70800000000000000
+      internalID: 9003219161941430891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ef27a7241483cb0800000000000000
+      internalID: -4884082042105299336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535ff0f4171877330800000000000000
+      internalID: 3708575141820626229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 8
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d734cf94028912880800000000000000
+      internalID: -8637455345872256131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 16
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20345e545cca5d740800000000000000
+      internalID: 5176233310013440770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab82de7be709de00800000000000000
+      internalID: 1069895094503639968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 16
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daabbe03ce7c4cb90800000000000000
+      internalID: -7222428085148468563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 7
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7289cd6aabe654270800000000000000
+      internalID: 8234109241659267111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 16
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a606f223fa6ecca0800000000000000
+      internalID: -5994736461487405401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b82325fa004b040800000000000000
+      internalID: 4662352267233626917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprJanitorLegs_strip16_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e1a665d69833570800000000000000
+      internalID: 8445244828944047698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

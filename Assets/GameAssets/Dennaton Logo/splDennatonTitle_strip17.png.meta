@@ -1,0 +1,3405 @@
+fileFormatVersion: 2
+guid: 1cba7602f6ad1a0448539f2c502d1a9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1151176810438686878
+    second: splDennatonTitle_strip17_0
+  - first:
+      213: -6208370526244695736
+    second: splDennatonTitle_strip17_1
+  - first:
+      213: 68609466481568315
+    second: splDennatonTitle_strip17_2
+  - first:
+      213: -3959796786032300427
+    second: splDennatonTitle_strip17_3
+  - first:
+      213: -6736711098833880560
+    second: splDennatonTitle_strip17_4
+  - first:
+      213: -3082860264062592811
+    second: splDennatonTitle_strip17_5
+  - first:
+      213: -1503870082314697282
+    second: splDennatonTitle_strip17_6
+  - first:
+      213: -8582543232366795405
+    second: splDennatonTitle_strip17_7
+  - first:
+      213: -5909309262393445176
+    second: splDennatonTitle_strip17_8
+  - first:
+      213: 8675033557743471344
+    second: splDennatonTitle_strip17_9
+  - first:
+      213: 7766773912144370503
+    second: splDennatonTitle_strip17_10
+  - first:
+      213: 6141386138761141684
+    second: splDennatonTitle_strip17_11
+  - first:
+      213: -6118032720457259322
+    second: splDennatonTitle_strip17_12
+  - first:
+      213: -7890691599116837728
+    second: splDennatonTitle_strip17_13
+  - first:
+      213: 6805743520597431839
+    second: splDennatonTitle_strip17_14
+  - first:
+      213: -1606361028700617144
+    second: splDennatonTitle_strip17_15
+  - first:
+      213: -3075236296690067134
+    second: splDennatonTitle_strip17_16
+  - first:
+      213: 260161166021381008
+    second: splDennatonTitle_strip17_17
+  - first:
+      213: -8272425826451570178
+    second: splDennatonTitle_strip17_18
+  - first:
+      213: -5518578647884259855
+    second: splDennatonTitle_strip17_19
+  - first:
+      213: 7697941013384670708
+    second: splDennatonTitle_strip17_20
+  - first:
+      213: 4530122937511504769
+    second: splDennatonTitle_strip17_21
+  - first:
+      213: 5006620655882981757
+    second: splDennatonTitle_strip17_22
+  - first:
+      213: -3455680692031395279
+    second: splDennatonTitle_strip17_23
+  - first:
+      213: -7798442925656564475
+    second: splDennatonTitle_strip17_24
+  - first:
+      213: -6847165719232011632
+    second: splDennatonTitle_strip17_25
+  - first:
+      213: 7664231235033795104
+    second: splDennatonTitle_strip17_26
+  - first:
+      213: -4086581251523413910
+    second: splDennatonTitle_strip17_27
+  - first:
+      213: 4133282079965811957
+    second: splDennatonTitle_strip17_28
+  - first:
+      213: 6923113595377920632
+    second: splDennatonTitle_strip17_29
+  - first:
+      213: -5228538950639829198
+    second: splDennatonTitle_strip17_30
+  - first:
+      213: 5488006537475240307
+    second: splDennatonTitle_strip17_31
+  - first:
+      213: -3804221858168416016
+    second: splDennatonTitle_strip17_32
+  - first:
+      213: -8852634783730639544
+    second: splDennatonTitle_strip17_33
+  - first:
+      213: 5311391455270347557
+    second: splDennatonTitle_strip17_34
+  - first:
+      213: -3198174145430216362
+    second: splDennatonTitle_strip17_35
+  - first:
+      213: 2024361761740301439
+    second: splDennatonTitle_strip17_36
+  - first:
+      213: 17600029133132252
+    second: splDennatonTitle_strip17_37
+  - first:
+      213: 6202047660195632156
+    second: splDennatonTitle_strip17_38
+  - first:
+      213: -7037649336170476342
+    second: splDennatonTitle_strip17_39
+  - first:
+      213: -2694494154562396635
+    second: splDennatonTitle_strip17_40
+  - first:
+      213: -3987215846856115606
+    second: splDennatonTitle_strip17_41
+  - first:
+      213: -3281344263020193315
+    second: splDennatonTitle_strip17_42
+  - first:
+      213: -5537014249291357725
+    second: splDennatonTitle_strip17_43
+  - first:
+      213: -878404486919542659
+    second: splDennatonTitle_strip17_44
+  - first:
+      213: -1556284768580989473
+    second: splDennatonTitle_strip17_45
+  - first:
+      213: 5036559740038161062
+    second: splDennatonTitle_strip17_46
+  - first:
+      213: -6309184453686027607
+    second: splDennatonTitle_strip17_47
+  - first:
+      213: 1689575567899534571
+    second: splDennatonTitle_strip17_48
+  - first:
+      213: -4575027031890908010
+    second: splDennatonTitle_strip17_49
+  - first:
+      213: 8647885869888336963
+    second: splDennatonTitle_strip17_50
+  - first:
+      213: -6535283048156547240
+    second: splDennatonTitle_strip17_51
+  - first:
+      213: -7913791146675351619
+    second: splDennatonTitle_strip17_52
+  - first:
+      213: -4975541320576668553
+    second: splDennatonTitle_strip17_53
+  - first:
+      213: 188613663956472603
+    second: splDennatonTitle_strip17_54
+  - first:
+      213: 4937118247275834111
+    second: splDennatonTitle_strip17_55
+  - first:
+      213: -6565843132594547416
+    second: splDennatonTitle_strip17_56
+  - first:
+      213: 4613558396717336591
+    second: splDennatonTitle_strip17_57
+  - first:
+      213: -7960701862292880042
+    second: splDennatonTitle_strip17_58
+  - first:
+      213: -790392197691030360
+    second: splDennatonTitle_strip17_59
+  - first:
+      213: -8120323170482269341
+    second: splDennatonTitle_strip17_60
+  - first:
+      213: 119174426619916344
+    second: splDennatonTitle_strip17_61
+  - first:
+      213: 4447617729123809017
+    second: splDennatonTitle_strip17_62
+  - first:
+      213: -1037254029201255036
+    second: splDennatonTitle_strip17_63
+  - first:
+      213: -1569682032307199758
+    second: splDennatonTitle_strip17_64
+  - first:
+      213: -4765499631980338365
+    second: splDennatonTitle_strip17_65
+  - first:
+      213: 7359316646625063557
+    second: splDennatonTitle_strip17_66
+  - first:
+      213: 5649398165938558595
+    second: splDennatonTitle_strip17_67
+  - first:
+      213: -3401527808637468736
+    second: splDennatonTitle_strip17_68
+  - first:
+      213: 1874793794228237493
+    second: splDennatonTitle_strip17_69
+  - first:
+      213: -4310165674769574989
+    second: splDennatonTitle_strip17_70
+  - first:
+      213: 9197082316195936580
+    second: splDennatonTitle_strip17_71
+  - first:
+      213: -2808025196898442207
+    second: splDennatonTitle_strip17_72
+  - first:
+      213: -139087235245497705
+    second: splDennatonTitle_strip17_73
+  - first:
+      213: 6147439407769473357
+    second: splDennatonTitle_strip17_74
+  - first:
+      213: -4581365868250371756
+    second: splDennatonTitle_strip17_75
+  - first:
+      213: -8706208080976413033
+    second: splDennatonTitle_strip17_76
+  - first:
+      213: 3713997160614586277
+    second: splDennatonTitle_strip17_77
+  - first:
+      213: 3207868994785950122
+    second: splDennatonTitle_strip17_78
+  - first:
+      213: -6395277058790895585
+    second: splDennatonTitle_strip17_79
+  - first:
+      213: -3445846251089101245
+    second: splDennatonTitle_strip17_80
+  - first:
+      213: 6040689269631976775
+    second: splDennatonTitle_strip17_81
+  - first:
+      213: -6704334854505932465
+    second: splDennatonTitle_strip17_82
+  - first:
+      213: -7362333532141643282
+    second: splDennatonTitle_strip17_83
+  - first:
+      213: 9206975294393690498
+    second: splDennatonTitle_strip17_84
+  - first:
+      213: 6941843193298912159
+    second: splDennatonTitle_strip17_85
+  - first:
+      213: 4918278921858232398
+    second: splDennatonTitle_strip17_86
+  - first:
+      213: -3988894444714546502
+    second: splDennatonTitle_strip17_87
+  - first:
+      213: -8429847993720664285
+    second: splDennatonTitle_strip17_88
+  - first:
+      213: -2740012576473534598
+    second: splDennatonTitle_strip17_89
+  - first:
+      213: 2871913649219811716
+    second: splDennatonTitle_strip17_90
+  - first:
+      213: -6509057519295675807
+    second: splDennatonTitle_strip17_91
+  - first:
+      213: -6414109338909836098
+    second: splDennatonTitle_strip17_92
+  - first:
+      213: 2607081000871719715
+    second: splDennatonTitle_strip17_93
+  - first:
+      213: -7826417683568861004
+    second: splDennatonTitle_strip17_94
+  - first:
+      213: 8639245376990309900
+    second: splDennatonTitle_strip17_95
+  - first:
+      213: 1873060491958757988
+    second: splDennatonTitle_strip17_96
+  - first:
+      213: 831951815822520934
+    second: splDennatonTitle_strip17_97
+  - first:
+      213: -6943271197680823482
+    second: splDennatonTitle_strip17_98
+  - first:
+      213: 4323969262123502538
+    second: splDennatonTitle_strip17_99
+  - first:
+      213: -7970179263212732343
+    second: splDennatonTitle_strip17_100
+  - first:
+      213: 7750044407860692403
+    second: splDennatonTitle_strip17_101
+  - first:
+      213: -7379116188703130428
+    second: splDennatonTitle_strip17_102
+  - first:
+      213: -5803563032892148794
+    second: splDennatonTitle_strip17_103
+  - first:
+      213: -5821761877646815108
+    second: splDennatonTitle_strip17_104
+  - first:
+      213: -4657626396281186569
+    second: splDennatonTitle_strip17_105
+  - first:
+      213: 8743770488750749783
+    second: splDennatonTitle_strip17_106
+  - first:
+      213: -7614023671637581254
+    second: splDennatonTitle_strip17_107
+  - first:
+      213: 5375681077476660856
+    second: splDennatonTitle_strip17_108
+  - first:
+      213: 6881802954343924777
+    second: splDennatonTitle_strip17_109
+  - first:
+      213: -2067780156260618343
+    second: splDennatonTitle_strip17_110
+  - first:
+      213: 6384715946900697051
+    second: splDennatonTitle_strip17_111
+  - first:
+      213: 2918689486481812554
+    second: splDennatonTitle_strip17_112
+  - first:
+      213: 194618656537196873
+    second: splDennatonTitle_strip17_113
+  - first:
+      213: -5911831550260572004
+    second: splDennatonTitle_strip17_114
+  - first:
+      213: 1546536389012918658
+    second: splDennatonTitle_strip17_115
+  - first:
+      213: -6026127139709807800
+    second: splDennatonTitle_strip17_116
+  - first:
+      213: -7930618479610325626
+    second: splDennatonTitle_strip17_117
+  - first:
+      213: 6375890675811127253
+    second: splDennatonTitle_strip17_118
+  - first:
+      213: -7342905268050551375
+    second: splDennatonTitle_strip17_119
+  - first:
+      213: 411152118571575783
+    second: splDennatonTitle_strip17_120
+  - first:
+      213: -1404982772014462041
+    second: splDennatonTitle_strip17_121
+  - first:
+      213: 9169914386338270925
+    second: splDennatonTitle_strip17_122
+  - first:
+      213: 5669827820544642366
+    second: splDennatonTitle_strip17_123
+  - first:
+      213: -7717904375471098129
+    second: splDennatonTitle_strip17_124
+  - first:
+      213: 3420776790534111446
+    second: splDennatonTitle_strip17_125
+  - first:
+      213: 1689970530849144961
+    second: splDennatonTitle_strip17_126
+  - first:
+      213: 4235152845799168830
+    second: splDennatonTitle_strip17_127
+  - first:
+      213: 7570994601534568165
+    second: splDennatonTitle_strip17_128
+  - first:
+      213: -2410888398810352107
+    second: splDennatonTitle_strip17_129
+  - first:
+      213: 516994369572802349
+    second: splDennatonTitle_strip17_130
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5
+        width: 143
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e987ddbb53dc9ff00800000000000000
+      internalID: 1151176810438686878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 5
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8411e2556ef67d9a0800000000000000
+      internalID: -6208370526244695736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 5
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aecdd32ffb3f000800000000000000
+      internalID: 68609466481568315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eafc19dc9fb09c0800000000000000
+      internalID: -3959796786032300427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a339fb2f46282a0800000000000000
+      internalID: -6736711098833880560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d16c6cea7735d0800000000000000
+      internalID: -3082860264062592811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb58b43c02e212be0800000000000000
+      internalID: -1503870082314697282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_7
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3752855076ea4e880800000000000000
+      internalID: -8582543232366795405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_8
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 5
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4fc13e88aedfda0800000000000000
+      internalID: -5909309262393445176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_9
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 5
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa84e7fe09e36870800000000000000
+      internalID: 8675033557743471344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bd22419bf19cb60800000000000000
+      internalID: 7766773912144370503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_11
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd9d5d97269a3550800000000000000
+      internalID: 6141386138761141684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 4
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6adecc7a1681ba0800000000000000
+      internalID: -6118032720457259322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac5b7a1cc1ae7290800000000000000
+      internalID: -7890691599116837728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_14
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 4
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1650a17cabd27e50800000000000000
+      internalID: 6805743520597431839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 4
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846c44fb72f05b9e0800000000000000
+      internalID: -1606361028700617144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_16
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 4
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2499667a1e09255d0800000000000000
+      internalID: -3075236296690067134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_17
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 4
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b4e0db3374c9300800000000000000
+      internalID: 260161166021381008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_18
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1469f3a80723d80800000000000000
+      internalID: -8272425826451570178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_19
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd9dcb55f11a63b0800000000000000
+      internalID: -5518578647884259855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd24b4f09494da60800000000000000
+      internalID: 7697941013384670708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18be83f5fca3ede30800000000000000
+      internalID: 4530122937511504769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71d907d5f61b7540800000000000000
+      internalID: 5006620655882981757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13aea4638b4fa00d0800000000000000
+      internalID: -3455680692031395279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d151f1a7d56c390800000000000000
+      internalID: -7798442925656564475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_25
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092a1f26e0bf9f0a0800000000000000
+      internalID: -6847165719232011632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 3
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a84a093b1dc5a60800000000000000
+      internalID: 7664231235033795104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_27
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68fc2dd00c8947c0800000000000000
+      internalID: -4086581251523413910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_28
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f499d4172e5c5930800000000000000
+      internalID: 4133282079965811957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_29
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87aad208227d31060800000000000000
+      internalID: 6923113595377920632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_30
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fb1d0c68f7077b0800000000000000
+      internalID: -5228538950639829198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_31
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371bb3f7ed0592c40800000000000000
+      internalID: 5488006537475240307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_32
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f858192060b43bc0800000000000000
+      internalID: -3804221858168416016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_33
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84dd775419f152580800000000000000
+      internalID: -8852634783730639544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 2
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5232f6a336ad5b940800000000000000
+      internalID: 5311391455270347557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512bc33f8dcd93d0800000000000000
+      internalID: -3198174145430216362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_36
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f742a69fb4af71c10800000000000000
+      internalID: 2024361761740301439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_37
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1548c12278e3000800000000000000
+      internalID: 17600029133132252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_38
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14d002bc79121650800000000000000
+      internalID: 6202047660195632156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_39
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc8bcf373f355e90800000000000000
+      internalID: -7037649336170476342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_40
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e11fba7db3b9ad0800000000000000
+      internalID: -2694494154562396635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_41
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a355dff409aa8c0800000000000000
+      internalID: -3987215846856115606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_42
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd95ae037c25672d0800000000000000
+      internalID: -3281344263020193315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_43
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e166ba60e29823b0800000000000000
+      internalID: -5537014249291357725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_44
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d782d0ce5c74fc3f0800000000000000
+      internalID: -878404486919542659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_45
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd016f9f37f66ae0800000000000000
+      internalID: -1556284768580989473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a22203166475e540800000000000000
+      internalID: 5036559740038161062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_47
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa90a7ba264178a0800000000000000
+      internalID: -6309184453686027607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_48
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4a4d9f604927710800000000000000
+      internalID: 1689575567899534571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_49
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c255e672d3280c0800000000000000
+      internalID: -4575027031890908010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_50
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34470d45166730870800000000000000
+      internalID: 8647885869888336963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_51
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8573fff61b20e45a0800000000000000
+      internalID: -6535283048156547240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_52
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfc8c391e09c2290800000000000000
+      internalID: -7913791146675351619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_53
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cefbdc78353fab0800000000000000
+      internalID: -4975541320576668553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_54
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1319e7c0271e9200800000000000000
+      internalID: 188613663956472603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaa9fe43ea248440800000000000000
+      internalID: 4937118247275834111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_56
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82593ce457071e4a0800000000000000
+      internalID: -6565843132594547416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_57
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f088bda0be6a60040800000000000000
+      internalID: 4613558396717336591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_58
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6550e3775d7e58190800000000000000
+      internalID: -7960701862292880042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_59
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4c26fdb76f705f0800000000000000
+      internalID: -790392197691030360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_60
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d70a8911de4f80800000000000000
+      internalID: -8120323170482269341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_61
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830bdf4728467a100800000000000000
+      internalID: 119174426619916344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_62
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6772992cc19bd30800000000000000
+      internalID: 4447617729123809017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_63
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485dd9fb4feea91f0800000000000000
+      internalID: -1037254029201255036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_64
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f02406128e573ae0800000000000000
+      internalID: -1569682032307199758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_65
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343ae8a555b8dddb0800000000000000
+      internalID: -4765499631980338365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_66
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b4bfaf7b812660800000000000000
+      internalID: 7359316646625063557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_67
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386d28b33b1b66e40800000000000000
+      internalID: 5649398165938558595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_68
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cffc88ea785bc0d0800000000000000
+      internalID: -3401527808637468736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_69
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4b414d50b940a10800000000000000
+      internalID: 1874793794228237493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_70
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b31740b7273f24c0800000000000000
+      internalID: -4310165674769574989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_71
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449b2ea63a992af70800000000000000
+      internalID: 9197082316195936580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_72
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124a58206f3e709d0800000000000000
+      internalID: -2808025196898442207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_73
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792a66e75ecd11ef0800000000000000
+      internalID: -139087235245497705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_74
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4156522297105550800000000000000
+      internalID: 6147439407769473357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_75
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45966d41408bb60c0800000000000000
+      internalID: -4581365868250371756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_76
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef3c8b0e55d2780800000000000000
+      internalID: -8706208080976413033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_77
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7ed3f6db4ca8330800000000000000
+      internalID: 3713997160614586277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_78
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9b430dad3a48c20800000000000000
+      internalID: 3207868994785950122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_79
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10509e06696f37a0800000000000000
+      internalID: -6395277058790895585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_80
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ef83d6715ed20d0800000000000000
+      internalID: -3445846251089101245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_81
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7458de2c2e6d4d350800000000000000
+      internalID: 6040689269631976775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_82
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4957ed88fa65f2a0800000000000000
+      internalID: -6704334854505932465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_83
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee910cae8acb3d990800000000000000
+      internalID: -7362333532141643282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_84
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2892226ef3fb5cf70800000000000000
+      internalID: 9206975294393690498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_85
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f938b07da91665060800000000000000
+      internalID: 6941843193298912159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_86
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b6ab0f9c314440800000000000000
+      internalID: 4918278921858232398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_87
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abaa248f2a994a8c0800000000000000
+      internalID: -3988894444714546502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_88
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f8db7b9e9230b80800000000000000
+      internalID: -8429847993720664285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_89
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f2133341589f9d0800000000000000
+      internalID: -2740012576473534598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_90
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489b7577f361bd720800000000000000
+      internalID: 2871913649219811716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_91
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162cbc33cae2ba5a0800000000000000
+      internalID: -6509057519295675807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_92
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc73c72a818cf6a0800000000000000
+      internalID: -6414109338909836098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_93
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323f0ad7b563e2420800000000000000
+      internalID: 2607081000871719715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_94
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0ea0b359af26390800000000000000
+      internalID: -7826417683568861004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_95
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e61fec5e3c4e770800000000000000
+      internalID: 8639245376990309900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_96
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a2502f7927ef910800000000000000
+      internalID: 1873060491958757988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_97
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662b754c4cfab8b00800000000000000
+      internalID: 831951815822520934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_98
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643980bf1ab84af90800000000000000
+      internalID: -6943271197680823482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_99
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb44907223d10c30800000000000000
+      internalID: 4323969262123502538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_100
+      rect:
+        serializedVersion: 2
+        x: 1686
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940450c103c346190800000000000000
+      internalID: -7970179263212732343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_101
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b50a04d350bd8b60800000000000000
+      internalID: 7750044407860692403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_102
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccf3003cec189990800000000000000
+      internalID: -7379116188703130428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_103
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3ffd09b2a957fa0800000000000000
+      internalID: -5803563032892148794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_104
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7053f3da62f43fa0800000000000000
+      internalID: -5821761877646815108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_105
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f65d214879cc5fb0800000000000000
+      internalID: -4657626396281186569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_106
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758388bdeec185970800000000000000
+      internalID: 8743770488750749783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_107
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3260acbfcd855690800000000000000
+      internalID: -7614023671637581254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_108
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87619c855714a9a40800000000000000
+      internalID: 5375681077476660856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_109
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92447eb5353118f50800000000000000
+      internalID: 6881802954343924777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_110
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99feb7847e4cd43e0800000000000000
+      internalID: -2067780156260618343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_111
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdfa9c673511b9850800000000000000
+      internalID: 6384715946900697051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_112
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c6a63cf94418820800000000000000
+      internalID: 2918689486481812554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_113
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949309113ac63b200800000000000000
+      internalID: 194618656537196873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_114
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9095caf684f4fda0800000000000000
+      internalID: -5911831550260572004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_115
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2819453e6a6667510800000000000000
+      internalID: 1546536389012918658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_116
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84391425b45ee5ca0800000000000000
+      internalID: -6026127139709807800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_117
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6859da1d288c0f190800000000000000
+      internalID: -7930618479610325626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_118
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df827ae9c6bb7850800000000000000
+      internalID: 6375890675811127253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_119
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd90862092c81a90800000000000000
+      internalID: -7342905268050551375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_120
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9ab186ca4b4b500800000000000000
+      internalID: 411152118571575783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_121
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abc88edc9f708ce0800000000000000
+      internalID: -1404982772014462041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_122
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcecf62dc84124f70800000000000000
+      internalID: 9169914386338270925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_123
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dc03ddc564fae40800000000000000
+      internalID: 5669827820544642366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_124
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6bc999cde74e490800000000000000
+      internalID: -7717904375471098129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_125
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0cfafed5a097f20800000000000000
+      internalID: 3420776790534111446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_126
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18044247e3bf37710800000000000000
+      internalID: 1689970530849144961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_127
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 0
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b185f031946ca30800000000000000
+      internalID: 4235152845799168830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_128
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e63edc2a73911960800000000000000
+      internalID: 7570994601534568165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_129
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5167cc356cdca8ed0800000000000000
+      internalID: -2410888398810352107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splDennatonTitle_strip17_130
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 0
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f8345d3abbc2700800000000000000
+      internalID: 516994369572802349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

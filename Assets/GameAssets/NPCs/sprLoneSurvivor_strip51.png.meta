@@ -1,0 +1,1405 @@
+fileFormatVersion: 2
+guid: 87708626f58f5e64ca357aa0d88499b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3859169736912987570
+    second: sprLoneSurvivor_strip51_0
+  - first:
+      213: 7544496527467799571
+    second: sprLoneSurvivor_strip51_1
+  - first:
+      213: -7489532826203106644
+    second: sprLoneSurvivor_strip51_2
+  - first:
+      213: 4774319008868652556
+    second: sprLoneSurvivor_strip51_3
+  - first:
+      213: -3261625023860109332
+    second: sprLoneSurvivor_strip51_4
+  - first:
+      213: -2239714316743059631
+    second: sprLoneSurvivor_strip51_5
+  - first:
+      213: -6632213454373318869
+    second: sprLoneSurvivor_strip51_6
+  - first:
+      213: -2683142933219662648
+    second: sprLoneSurvivor_strip51_7
+  - first:
+      213: 1668925192739706209
+    second: sprLoneSurvivor_strip51_8
+  - first:
+      213: -9127160483413647829
+    second: sprLoneSurvivor_strip51_9
+  - first:
+      213: -1980907759531282148
+    second: sprLoneSurvivor_strip51_10
+  - first:
+      213: -9080573442046219100
+    second: sprLoneSurvivor_strip51_11
+  - first:
+      213: -8044456773911420827
+    second: sprLoneSurvivor_strip51_12
+  - first:
+      213: 5258822192178926487
+    second: sprLoneSurvivor_strip51_13
+  - first:
+      213: 4360566745777034201
+    second: sprLoneSurvivor_strip51_14
+  - first:
+      213: 8046022024143456449
+    second: sprLoneSurvivor_strip51_15
+  - first:
+      213: 3886353037650115638
+    second: sprLoneSurvivor_strip51_16
+  - first:
+      213: 5621676049194357648
+    second: sprLoneSurvivor_strip51_17
+  - first:
+      213: 1652945247390259524
+    second: sprLoneSurvivor_strip51_18
+  - first:
+      213: -8975764480147728197
+    second: sprLoneSurvivor_strip51_19
+  - first:
+      213: 3686280075229422943
+    second: sprLoneSurvivor_strip51_20
+  - first:
+      213: 1252259391150704903
+    second: sprLoneSurvivor_strip51_21
+  - first:
+      213: -9103109593676942101
+    second: sprLoneSurvivor_strip51_22
+  - first:
+      213: -9059161380313158583
+    second: sprLoneSurvivor_strip51_23
+  - first:
+      213: 7349233477999642365
+    second: sprLoneSurvivor_strip51_24
+  - first:
+      213: 6817698685432129517
+    second: sprLoneSurvivor_strip51_25
+  - first:
+      213: 2352706557465850909
+    second: sprLoneSurvivor_strip51_26
+  - first:
+      213: -6942674696763741556
+    second: sprLoneSurvivor_strip51_27
+  - first:
+      213: -6321035916304330579
+    second: sprLoneSurvivor_strip51_28
+  - first:
+      213: 8558271044820093483
+    second: sprLoneSurvivor_strip51_29
+  - first:
+      213: 4319363322336125263
+    second: sprLoneSurvivor_strip51_30
+  - first:
+      213: -2800800631825512920
+    second: sprLoneSurvivor_strip51_31
+  - first:
+      213: 7722992194682180784
+    second: sprLoneSurvivor_strip51_32
+  - first:
+      213: 6701109721159499553
+    second: sprLoneSurvivor_strip51_33
+  - first:
+      213: -4772855254213974472
+    second: sprLoneSurvivor_strip51_34
+  - first:
+      213: 4231100348132643631
+    second: sprLoneSurvivor_strip51_35
+  - first:
+      213: 2912104683814397855
+    second: sprLoneSurvivor_strip51_36
+  - first:
+      213: -1226696949709188228
+    second: sprLoneSurvivor_strip51_37
+  - first:
+      213: 9030689723904420851
+    second: sprLoneSurvivor_strip51_38
+  - first:
+      213: 7262690664376699292
+    second: sprLoneSurvivor_strip51_39
+  - first:
+      213: 411539250914114972
+    second: sprLoneSurvivor_strip51_40
+  - first:
+      213: -7777086142288699529
+    second: sprLoneSurvivor_strip51_41
+  - first:
+      213: 1466384598147267595
+    second: sprLoneSurvivor_strip51_42
+  - first:
+      213: -6429993987637548237
+    second: sprLoneSurvivor_strip51_43
+  - first:
+      213: -2332323790370344983
+    second: sprLoneSurvivor_strip51_44
+  - first:
+      213: 7015874266048190146
+    second: sprLoneSurvivor_strip51_45
+  - first:
+      213: 67640069037820102
+    second: sprLoneSurvivor_strip51_46
+  - first:
+      213: -6707759556061191862
+    second: sprLoneSurvivor_strip51_47
+  - first:
+      213: 8693902387611570341
+    second: sprLoneSurvivor_strip51_48
+  - first:
+      213: -9141198793517832062
+    second: sprLoneSurvivor_strip51_49
+  - first:
+      213: -2679306287342797510
+    second: sprLoneSurvivor_strip51_50
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5e2a0dd668e8530800000000000000
+      internalID: 3859169736912987570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314e2e88e9f63b860800000000000000
+      internalID: 7544496527467799571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca259886395df0890800000000000000
+      internalID: -7489532826203106644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06d208d7d9c14240800000000000000
+      internalID: 4774319008868652556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0b4652516cb2d0800000000000000
+      internalID: -3261625023860109332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1575c2802bfeae0e0800000000000000
+      internalID: -2239714316743059631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f03819005a5f3a0800000000000000
+      internalID: -6632213454373318869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4a7d7d7bf83cad0800000000000000
+      internalID: -2683142933219662648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16553f5de96392710800000000000000
+      internalID: 1668925192739706209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e952ae5efc55180800000000000000
+      internalID: -9127160483413647829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11b25453e66284e0800000000000000
+      internalID: -1980907759531282148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac2dfdb0925bf180800000000000000
+      internalID: -9080573442046219100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_12
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560660c7f295c5090800000000000000
+      internalID: -8044456773911420827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79314cddbe61bf840800000000000000
+      internalID: 5258822192178926487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_14
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3db6d1a58d38c30800000000000000
+      internalID: 4360566745777034201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_15
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c84a0cb66639af60800000000000000
+      internalID: 8046022024143456449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c35e83f791fe530800000000000000
+      internalID: 3886353037650115638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0931d82f494340e40800000000000000
+      internalID: 5621676049194357648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449dddfd1f070f610800000000000000
+      internalID: 1652945247390259524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8d93dc2cdaf6380800000000000000
+      internalID: -8975764480147728197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_20
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5566aa923c482330800000000000000
+      internalID: 3686280075229422943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7094f20184be06110800000000000000
+      internalID: 1252259391150704903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_22
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 5
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be47f6d0e024ba180800000000000000
+      internalID: -9103109593676942101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_23
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c2f7bd8b4674280800000000000000
+      internalID: -9059161380313158583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_24
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6c39b09e8bdf560800000000000000
+      internalID: 7349233477999642365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_25
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 5
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de764da25d45d9e50800000000000000
+      internalID: 6817698685432129517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14fb7a162e76a020800000000000000
+      internalID: 2352706557465850909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_27
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aed4ca52aa6af90800000000000000
+      internalID: -6942674696763741556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0d13c035b2748a0800000000000000
+      internalID: -6321035916304330579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_29
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a430eeb2615c670800000000000000
+      internalID: 8558271044820093483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_30
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4122b38e0671fb30800000000000000
+      internalID: 4319363322336125263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_31
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826c9552aae8129d0800000000000000
+      internalID: -2800800631825512920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_32
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4552f9b749d2b60800000000000000
+      internalID: 7722992194682180784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_33
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ff0a299cf1ffc50800000000000000
+      internalID: 6701109721159499553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_34
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83628381f6963cdb0800000000000000
+      internalID: -4772855254213974472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_35
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f235a7b6953e7ba30800000000000000
+      internalID: 4231100348132643631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_36
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97228be7cfd96820800000000000000
+      internalID: 2912104683814397855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_37
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735781af95e9fee0800000000000000
+      internalID: -1226696949709188228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_38
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbe71e0574735d70800000000000000
+      internalID: 9030689723904420851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_39
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9908bb0ea24ac460800000000000000
+      internalID: 7262690664376699292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_40
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dbddda4c416b500800000000000000
+      internalID: 411539250914114972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_41
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fd44dbb5d321490800000000000000
+      internalID: -7777086142288699529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_42
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cfba4d505a95410800000000000000
+      internalID: 1466384598147267595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_43
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b67fa298214c6a0800000000000000
+      internalID: -6429993987637548237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_44
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef68cdaedbe1afd0800000000000000
+      internalID: -2332323790370344983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_45
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 6
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c65b9829746d5160800000000000000
+      internalID: 7015874266048190146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_46
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8059fc84e40f000800000000000000
+      internalID: 67640069037820102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_47
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41ad36193049e2a0800000000000000
+      internalID: -6707759556061191862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_48
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 6
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a01285c822f6a870800000000000000
+      internalID: 8693902387611570341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_49
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288e3232120f32180800000000000000
+      internalID: -9141198793517832062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprLoneSurvivor_strip51_50
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d3672902131dad0800000000000000
+      internalID: -2679306287342797510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

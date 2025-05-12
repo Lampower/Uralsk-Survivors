@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: e961ad26915c29a4988958a20a359809
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 505988928649777610
+    second: sprAssassinBloodyFace_strip16_0
+  - first:
+      213: -6262414053185943026
+    second: sprAssassinBloodyFace_strip16_1
+  - first:
+      213: -5570243794352511237
+    second: sprAssassinBloodyFace_strip16_2
+  - first:
+      213: -8761541886953966784
+    second: sprAssassinBloodyFace_strip16_3
+  - first:
+      213: 6546616265246926619
+    second: sprAssassinBloodyFace_strip16_4
+  - first:
+      213: -3552342178912403447
+    second: sprAssassinBloodyFace_strip16_5
+  - first:
+      213: 76372837192779318
+    second: sprAssassinBloodyFace_strip16_6
+  - first:
+      213: 629091396111666164
+    second: sprAssassinBloodyFace_strip16_7
+  - first:
+      213: 1872732275717111439
+    second: sprAssassinBloodyFace_strip16_8
+  - first:
+      213: -3754209546821145372
+    second: sprAssassinBloodyFace_strip16_9
+  - first:
+      213: 6280439486329781203
+    second: sprAssassinBloodyFace_strip16_10
+  - first:
+      213: 7681565423316003358
+    second: sprAssassinBloodyFace_strip16_11
+  - first:
+      213: -5597440060005889066
+    second: sprAssassinBloodyFace_strip16_12
+  - first:
+      213: 5924753760133907951
+    second: sprAssassinBloodyFace_strip16_13
+  - first:
+      213: -3005217184744551628
+    second: sprAssassinBloodyFace_strip16_14
+  - first:
+      213: 4157378378807231987
+    second: sprAssassinBloodyFace_strip16_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 29
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac15370ff32a50700800000000000000
+      internalID: 505988928649777610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a007b299f6719a0800000000000000
+      internalID: -6262414053185943026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 27
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf66b4d08c482b2b0800000000000000
+      internalID: -5570243794352511237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 043376f0310c86680800000000000000
+      internalID: -8761541886953966784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 29
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1766dacec04ada50800000000000000
+      internalID: 6546616265246926619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000a410c9b83bec0800000000000000
+      internalID: -3552342178912403447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 27
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6364d57d0b45f0100800000000000000
+      internalID: 76372837192779318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb8d7caa4bfab800800000000000000
+      internalID: 629091396111666164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 29
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ef68525184df910800000000000000
+      internalID: 1872732275717111439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec685dce4e56ebc0800000000000000
+      internalID: -3754209546821145372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 27
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbf508007a982750800000000000000
+      internalID: 6280439486329781203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a6ca7cd076a9a60800000000000000
+      internalID: 7681565423316003358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 29
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbcec30ce5e152b0800000000000000
+      internalID: -5597440060005889066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe501767724f83250800000000000000
+      internalID: 5924753760133907951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 27
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc66e84e25b46d0800000000000000
+      internalID: -3005217184744551628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprAssassinBloodyFace_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 28
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5c1b9db99f1b930800000000000000
+      internalID: 4157378378807231987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

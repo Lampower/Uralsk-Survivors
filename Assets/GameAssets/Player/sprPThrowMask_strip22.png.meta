@@ -1,0 +1,680 @@
+fileFormatVersion: 2
+guid: 287be42ee26acf8489addac5b1efe1e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2545277016699728747
+    second: sprPThrowMask_strip22_0
+  - first:
+      213: 273839375823408936
+    second: sprPThrowMask_strip22_1
+  - first:
+      213: 1272609138323253392
+    second: sprPThrowMask_strip22_2
+  - first:
+      213: -4643661556611064820
+    second: sprPThrowMask_strip22_3
+  - first:
+      213: -855809390221066552
+    second: sprPThrowMask_strip22_4
+  - first:
+      213: 8471411478660610175
+    second: sprPThrowMask_strip22_5
+  - first:
+      213: -7084436370139534295
+    second: sprPThrowMask_strip22_6
+  - first:
+      213: -8719755737320047148
+    second: sprPThrowMask_strip22_7
+  - first:
+      213: -7453037299416855990
+    second: sprPThrowMask_strip22_8
+  - first:
+      213: -7199016640898984327
+    second: sprPThrowMask_strip22_9
+  - first:
+      213: -6365265310501313505
+    second: sprPThrowMask_strip22_10
+  - first:
+      213: 2551850365776535107
+    second: sprPThrowMask_strip22_11
+  - first:
+      213: -7605336911142761560
+    second: sprPThrowMask_strip22_12
+  - first:
+      213: -172658018348600035
+    second: sprPThrowMask_strip22_13
+  - first:
+      213: -2896030519975928692
+    second: sprPThrowMask_strip22_14
+  - first:
+      213: 976105012421657172
+    second: sprPThrowMask_strip22_15
+  - first:
+      213: -638267118352700608
+    second: sprPThrowMask_strip22_16
+  - first:
+      213: 6151115623940478579
+    second: sprPThrowMask_strip22_17
+  - first:
+      213: 2753559422467198338
+    second: sprPThrowMask_strip22_18
+  - first:
+      213: 2465794548703382386
+    second: sprPThrowMask_strip22_19
+  - first:
+      213: 1906082082884915976
+    second: sprPThrowMask_strip22_20
+  - first:
+      213: 8992012698676861186
+    second: sprPThrowMask_strip22_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c85ace90c5dacd0800000000000000
+      internalID: -2545277016699728747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 5
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f0871267fdcc300800000000000000
+      internalID: 273839375823408936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0986cabc44739a110800000000000000
+      internalID: 1272609138323253392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c5f0dda666e8fb0800000000000000
+      internalID: -4643661556611064820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 4
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cefd64d4ed8f14f0800000000000000
+      internalID: -855809390221066552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 4
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f787bbb3bdf709570800000000000000
+      internalID: 8471411478660610175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ca9f308a60fad90800000000000000
+      internalID: -7084436370139534295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd3ddc2b543df680800000000000000
+      internalID: -8719755737320047148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_8
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a8586601e719890800000000000000
+      internalID: -7453037299416855990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_9
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9761713d184f71c90800000000000000
+      internalID: -7199016640898984327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14e37abce80aa7a0800000000000000
+      internalID: -6365265310501313505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e9f0c236ef96320800000000000000
+      internalID: 2551850365776535107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab4b26cf5a647690800000000000000
+      internalID: -7605336911142761560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1575b472789a9df0800000000000000
+      internalID: -172658018348600035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c152ef59b3fc7d0800000000000000
+      internalID: -2896030519975928692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4520fd05652db8d00800000000000000
+      internalID: 976105012421657172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_16
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b66c2007b6427f0800000000000000
+      internalID: -638267118352700608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_17
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 3
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376d359e1172d5550800000000000000
+      internalID: 6151115623940478579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_18
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d461ca4bb963620800000000000000
+      internalID: 2753559422467198338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_19
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 3
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b4f84e313483220800000000000000
+      internalID: 2465794548703382386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80397173e83c37a10800000000000000
+      internalID: 1906082082884915976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPThrowMask_strip22_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2099f6068eb0acc70800000000000000
+      internalID: 8992012698676861186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

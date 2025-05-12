@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: 0e917d666a12a4d48a93a03afa7d9b94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5636175888818192637
+    second: sprBoss1Finish_strip30_0
+  - first:
+      213: 2368309820525963503
+    second: sprBoss1Finish_strip30_1
+  - first:
+      213: 7463852505760006052
+    second: sprBoss1Finish_strip30_2
+  - first:
+      213: -971602310175171827
+    second: sprBoss1Finish_strip30_3
+  - first:
+      213: 5099746258335158324
+    second: sprBoss1Finish_strip30_4
+  - first:
+      213: 8851785219610722707
+    second: sprBoss1Finish_strip30_5
+  - first:
+      213: -319747737117112990
+    second: sprBoss1Finish_strip30_6
+  - first:
+      213: -505085906391393741
+    second: sprBoss1Finish_strip30_7
+  - first:
+      213: 4678986307144877990
+    second: sprBoss1Finish_strip30_8
+  - first:
+      213: -156178082090085150
+    second: sprBoss1Finish_strip30_9
+  - first:
+      213: -1209617580619390200
+    second: sprBoss1Finish_strip30_10
+  - first:
+      213: 4550683394858947990
+    second: sprBoss1Finish_strip30_11
+  - first:
+      213: -5742049607789298545
+    second: sprBoss1Finish_strip30_12
+  - first:
+      213: 7218296253381330181
+    second: sprBoss1Finish_strip30_13
+  - first:
+      213: -6672159022777293916
+    second: sprBoss1Finish_strip30_14
+  - first:
+      213: -3766406302568706708
+    second: sprBoss1Finish_strip30_15
+  - first:
+      213: 8013636318530843393
+    second: sprBoss1Finish_strip30_16
+  - first:
+      213: 4325914582680254848
+    second: sprBoss1Finish_strip30_17
+  - first:
+      213: -2106935269022289356
+    second: sprBoss1Finish_strip30_18
+  - first:
+      213: 6711858018667626177
+    second: sprBoss1Finish_strip30_19
+  - first:
+      213: 1105589087409230664
+    second: sprBoss1Finish_strip30_20
+  - first:
+      213: 132845852382505753
+    second: sprBoss1Finish_strip30_21
+  - first:
+      213: 3080482334831318748
+    second: sprBoss1Finish_strip30_22
+  - first:
+      213: 8289938280725601946
+    second: sprBoss1Finish_strip30_23
+  - first:
+      213: 4194548487962874579
+    second: sprBoss1Finish_strip30_24
+  - first:
+      213: -5403764081133912875
+    second: sprBoss1Finish_strip30_25
+  - first:
+      213: -9042554296620456176
+    second: sprBoss1Finish_strip30_26
+  - first:
+      213: 3346611059596047384
+    second: sprBoss1Finish_strip30_27
+  - first:
+      213: -2020740379176402832
+    second: sprBoss1Finish_strip30_28
+  - first:
+      213: -4986977314094890499
+    second: sprBoss1Finish_strip30_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df041a0fb18b73e40800000000000000
+      internalID: 5636175888818192637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8e482eb3dedd020800000000000000
+      internalID: 2368309820525963503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4affbbd0f4ee49760800000000000000
+      internalID: 7463852505760006052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b5f0fb8dc2482f0800000000000000
+      internalID: -971602310175171827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430d1bcc330f5c640800000000000000
+      internalID: 5099746258335158324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_5
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39143fa22cbd7da70800000000000000
+      internalID: 8851785219610722707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265466f8027009bf0800000000000000
+      internalID: -319747737117112990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_7
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 14
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33a1c705b039df8f0800000000000000
+      internalID: -505085906391393741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 13
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7894a81491fe040800000000000000
+      internalID: 4678986307144877990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 13
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4915f9cd425ddf0800000000000000
+      internalID: -156178082090085150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_10
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8032d112833963fe0800000000000000
+      internalID: -1209617580619390200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_11
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69516d3ef66472f30800000000000000
+      internalID: 4550683394858947990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_12
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c3c0ded442050b0800000000000000
+      internalID: -5742049607789298545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_13
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 16
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c352c23a8c2460800000000000000
+      internalID: 7218296253381330181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_14
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 16
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3217a28bab763a0800000000000000
+      internalID: -6672159022777293916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_15
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 16
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d899f4c690bbbc0800000000000000
+      internalID: -3766406302568706708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_16
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 16
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103333d06c7263f60800000000000000
+      internalID: 8013636318530843393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_17
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089b65da46cb80c30800000000000000
+      internalID: 4325914582680254848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_18
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4323f2d2989a2c2e0800000000000000
+      internalID: -2106935269022289356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_19
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce7a899e4f452d50800000000000000
+      internalID: 6711858018667626177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_20
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8435396da67d75f00800000000000000
+      internalID: 1105589087409230664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_21
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ba4215996f7d100800000000000000
+      internalID: 132845852382505753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_22
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd69c78cc5210ca20800000000000000
+      internalID: 3080482334831318748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_23
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 15
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9edf80c1f6cb0370800000000000000
+      internalID: 8289938280725601946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_24
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 12
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2dd2a40a7063a30800000000000000
+      internalID: 4194548487962874579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_25
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 6
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc7ff5d239f105b0800000000000000
+      internalID: -5403764081133912875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_26
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 8
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01761c7d6c4628280800000000000000
+      internalID: -9042554296620456176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_27
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 8
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814bd90170d817e20800000000000000
+      internalID: 3346611059596047384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_28
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 6
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07007ebd453e4f3e0800000000000000
+      internalID: -2020740379176402832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprBoss1Finish_strip30_29
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 8
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df141721e82bacab0800000000000000
+      internalID: -4986977314094890499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

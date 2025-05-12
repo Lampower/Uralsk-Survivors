@@ -1,0 +1,830 @@
+fileFormatVersion: 2
+guid: ae379b46f874db447aa1a2910c14a378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3194967557686052860
+    second: sprEFatLegs_strip16_0
+  - first:
+      213: 1108649353588919758
+    second: sprEFatLegs_strip16_1
+  - first:
+      213: 6099409603905975525
+    second: sprEFatLegs_strip16_2
+  - first:
+      213: 7639870323120064642
+    second: sprEFatLegs_strip16_3
+  - first:
+      213: -2260876720245475662
+    second: sprEFatLegs_strip16_4
+  - first:
+      213: -3325524805110892695
+    second: sprEFatLegs_strip16_5
+  - first:
+      213: 2853149214663687783
+    second: sprEFatLegs_strip16_6
+  - first:
+      213: 5597891372882651751
+    second: sprEFatLegs_strip16_7
+  - first:
+      213: 7288961877947377028
+    second: sprEFatLegs_strip16_8
+  - first:
+      213: 5677669331106516819
+    second: sprEFatLegs_strip16_9
+  - first:
+      213: 4424680090991450277
+    second: sprEFatLegs_strip16_10
+  - first:
+      213: 7677419074536546453
+    second: sprEFatLegs_strip16_11
+  - first:
+      213: -1465333853575672109
+    second: sprEFatLegs_strip16_12
+  - first:
+      213: 1461111142335623706
+    second: sprEFatLegs_strip16_13
+  - first:
+      213: 3381661091223581033
+    second: sprEFatLegs_strip16_14
+  - first:
+      213: -5485389553292897092
+    second: sprEFatLegs_strip16_15
+  - first:
+      213: -7570348385848101937
+    second: sprEFatLegs_strip16_16
+  - first:
+      213: -8225156497749106824
+    second: sprEFatLegs_strip16_17
+  - first:
+      213: 1098094755791704741
+    second: sprEFatLegs_strip16_18
+  - first:
+      213: -7195023991718232975
+    second: sprEFatLegs_strip16_19
+  - first:
+      213: -5646521822342432528
+    second: sprEFatLegs_strip16_20
+  - first:
+      213: 5470953035092451678
+    second: sprEFatLegs_strip16_21
+  - first:
+      213: 616783883080202969
+    second: sprEFatLegs_strip16_22
+  - first:
+      213: -3071915582904316461
+    second: sprEFatLegs_strip16_23
+  - first:
+      213: -3850478068857064578
+    second: sprEFatLegs_strip16_24
+  - first:
+      213: 2471772427820030479
+    second: sprEFatLegs_strip16_25
+  - first:
+      213: -1647802239723424962
+    second: sprEFatLegs_strip16_26
+  - first:
+      213: 8982773190373395467
+    second: sprEFatLegs_strip16_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf746c8e01ec65c20800000000000000
+      internalID: 3194967557686052860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd422596b6b26f00800000000000000
+      internalID: 1108649353588919758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4fb6cf7b475a450800000000000000
+      internalID: 6099409603905975525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288ce93c495460a60800000000000000
+      internalID: 7639870323120064642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b671d00a90cf90e0800000000000000
+      internalID: -2260876720245475662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9677d932fcc59d1d0800000000000000
+      internalID: -3325524805110892695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 14
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76eb637181c689720800000000000000
+      internalID: 2853149214663687783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 7
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ae4e37b84bfad40800000000000000
+      internalID: 5597891372882651751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485ea6c9538972560800000000000000
+      internalID: 7288961877947377028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 8
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fcbb0dc222bce40800000000000000
+      internalID: 5677669331106516819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 15
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8d94c891f976d30800000000000000
+      internalID: 4424680090991450277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 8
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902f89b8fbab8a60800000000000000
+      internalID: 7677419074536546453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 15
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de8444bf961aabe0800000000000000
+      internalID: -1465333853575672109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 8
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12b748b7d8e64410800000000000000
+      internalID: 1461111142335623706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961342d78d21eee20800000000000000
+      internalID: 3381661091223581033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4965d934bffd3b0800000000000000
+      internalID: -5485389553292897092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_16
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc37293a048b0f690800000000000000
+      internalID: -7570348385848101937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_17
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f1ba97ebf5add80800000000000000
+      internalID: -8225156497749106824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_18
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a21fa8cc573d3f00800000000000000
+      internalID: 1098094755791704741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_19
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cb837ecc3262c90800000000000000
+      internalID: -7195023991718232975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 7
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8b9c2b15683a1b0800000000000000
+      internalID: -5646521822342432528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_21
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51e78f8ccabceb40800000000000000
+      internalID: 5470953035092451678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_22
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da7e2e7ca14f8800800000000000000
+      internalID: 616783883080202969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_23
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 15
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd40059d0d5e55d0800000000000000
+      internalID: -3071915582904316461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 7
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73b75ad89a509ac0800000000000000
+      internalID: -3850478068857064578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_25
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 15
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a51d55def7d4220800000000000000
+      internalID: 2471772427820030479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 7
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e333139e794d129e0800000000000000
+      internalID: -1647802239723424962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEFatLegs_strip16_27
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 15
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ccb16bf9839ac70800000000000000
+      internalID: 8982773190373395467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

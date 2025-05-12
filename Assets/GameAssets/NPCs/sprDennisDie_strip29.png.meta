@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 4dbcabc54cf18904895d7b45d601cc72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8572428073468008239
+    second: sprDennisDie_strip29_0
+  - first:
+      213: -455870067747106156
+    second: sprDennisDie_strip29_1
+  - first:
+      213: -4689583669562308788
+    second: sprDennisDie_strip29_2
+  - first:
+      213: -7543876441377724358
+    second: sprDennisDie_strip29_3
+  - first:
+      213: 2186441347751285419
+    second: sprDennisDie_strip29_4
+  - first:
+      213: -2145437807407527949
+    second: sprDennisDie_strip29_5
+  - first:
+      213: -9057122411069475422
+    second: sprDennisDie_strip29_6
+  - first:
+      213: 5008920592714699853
+    second: sprDennisDie_strip29_7
+  - first:
+      213: -2600606307919013487
+    second: sprDennisDie_strip29_8
+  - first:
+      213: -5018986011560686650
+    second: sprDennisDie_strip29_9
+  - first:
+      213: -6839898786735536668
+    second: sprDennisDie_strip29_10
+  - first:
+      213: -5158524057612642897
+    second: sprDennisDie_strip29_11
+  - first:
+      213: -150528300794578711
+    second: sprDennisDie_strip29_12
+  - first:
+      213: 2026649699114902135
+    second: sprDennisDie_strip29_13
+  - first:
+      213: 6464540372352201142
+    second: sprDennisDie_strip29_14
+  - first:
+      213: 7548303041297053231
+    second: sprDennisDie_strip29_15
+  - first:
+      213: 1807912905847525353
+    second: sprDennisDie_strip29_16
+  - first:
+      213: 6532883079541556991
+    second: sprDennisDie_strip29_17
+  - first:
+      213: 2894561297733290420
+    second: sprDennisDie_strip29_18
+  - first:
+      213: -3990326462715757168
+    second: sprDennisDie_strip29_19
+  - first:
+      213: 8794493224384538668
+    second: sprDennisDie_strip29_20
+  - first:
+      213: -3253618524896576114
+    second: sprDennisDie_strip29_21
+  - first:
+      213: 6271798394885052309
+    second: sprDennisDie_strip29_22
+  - first:
+      213: 7497240993797613787
+    second: sprDennisDie_strip29_23
+  - first:
+      213: -1256294333652000501
+    second: sprDennisDie_strip29_24
+  - first:
+      213: -4586458147086261637
+    second: sprDennisDie_strip29_25
+  - first:
+      213: 9201634982020016799
+    second: sprDennisDie_strip29_26
+  - first:
+      213: 8775363442453589812
+    second: sprDennisDie_strip29_27
+  - first:
+      213: 3817576918358531262
+    second: sprDennisDie_strip29_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2795a50ae167f670800000000000000
+      internalID: 8572428073468008239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4925334b69c6ca9f0800000000000000
+      internalID: -455870067747106156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47044fbf704beeb0800000000000000
+      internalID: -4689583669562308788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_3
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a382e328854ce4790800000000000000
+      internalID: -7543876441377724358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_4
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba211fe42dcc75e10800000000000000
+      internalID: 2186441347751285419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f708c16eafd932e0800000000000000
+      internalID: -2145437807407527949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 0
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a579f06723ae4280800000000000000
+      internalID: -9057122411069475422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_7
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4416ec9db2438540800000000000000
+      internalID: 5008920592714699853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_8
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199d8df675ac8ebd0800000000000000
+      internalID: -2600606307919013487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb454070daf85ab0800000000000000
+      internalID: -5018986011560686650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_10
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5c005fa4cc311a0800000000000000
+      internalID: -6839898786735536668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_11
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa511bc53bd3968b0800000000000000
+      internalID: -5158524057612642897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_12
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8fe76de4739edf0800000000000000
+      internalID: -150528300794578711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_13
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77265e7e92b102c10800000000000000
+      internalID: 2026649699114902135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_14
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b17932d739a6b950800000000000000
+      internalID: 6464540372352201142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_15
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26f2899f95f0c860800000000000000
+      internalID: 7548303041297053231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_16
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efc2e9853ff61910800000000000000
+      internalID: 1807912905847525353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff60c335c8679aa50800000000000000
+      internalID: 6532883079541556991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_18
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b98cfb0a2c8b2820800000000000000
+      internalID: 2894561297733290420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_19
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d7cfb49338f98c0800000000000000
+      internalID: -3990326462715757168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_20
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28250b0ef05c0a70800000000000000
+      internalID: 8794493224384538668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8db8e4a033d8d2d0800000000000000
+      internalID: -3253618524896576114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_22
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 0
+        width: 63
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5971df52967e90750800000000000000
+      internalID: 6271798394885052309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_23
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 0
+        width: 63
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8adc636fc8b0860800000000000000
+      internalID: 7497240993797613787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_24
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 0
+        width: 63
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01265da5feb09ee0800000000000000
+      internalID: -1256294333652000501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_25
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 0
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b722ab58d90a950c0800000000000000
+      internalID: -4586458147086261637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_26
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 0
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a6c188346c2bf70800000000000000
+      internalID: 9201634982020016799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_27
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 0
+        width: 63
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f256a9e8a58c970800000000000000
+      internalID: 8775363442453589812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprDennisDie_strip29_28
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 0
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9d791bf1caf430800000000000000
+      internalID: 3817576918358531262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

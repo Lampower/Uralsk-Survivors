@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 1e4aa2ed328db14468fd162890de5735
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4277612183632461327
+    second: splWaveComing_strip13_0
+  - first:
+      213: -2566712055960548276
+    second: splWaveComing_strip13_1
+  - first:
+      213: 3466375319332805937
+    second: splWaveComing_strip13_2
+  - first:
+      213: 7263587278813504182
+    second: splWaveComing_strip13_3
+  - first:
+      213: -6998099714554608218
+    second: splWaveComing_strip13_4
+  - first:
+      213: 228869620861230115
+    second: splWaveComing_strip13_5
+  - first:
+      213: 6280144305156454660
+    second: splWaveComing_strip13_6
+  - first:
+      213: -3329628164238089187
+    second: splWaveComing_strip13_7
+  - first:
+      213: -7819604040537266581
+    second: splWaveComing_strip13_8
+  - first:
+      213: -3324902022450862087
+    second: splWaveComing_strip13_9
+  - first:
+      213: 2466450202513564596
+    second: splWaveComing_strip13_10
+  - first:
+      213: 8332712644952307741
+    second: splWaveComing_strip13_11
+  - first:
+      213: 8565678192322364071
+    second: splWaveComing_strip13_12
+  - first:
+      213: 1760100267772713702
+    second: splWaveComing_strip13_13
+  - first:
+      213: -467958631013389382
+    second: splWaveComing_strip13_14
+  - first:
+      213: -1297495990370991467
+    second: splWaveComing_strip13_15
+  - first:
+      213: -3364539989933889457
+    second: splWaveComing_strip13_16
+  - first:
+      213: 398853726098527266
+    second: splWaveComing_strip13_17
+  - first:
+      213: -3350150491978544516
+    second: splWaveComing_strip13_18
+  - first:
+      213: -3696769892998221493
+    second: splWaveComing_strip13_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: splWaveComing_strip13_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 107
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f144bbf16ed2a4c0800000000000000
+      internalID: -4277612183632461327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 68
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c42cfebf4316cd0800000000000000
+      internalID: -2566712055960548276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2
+        width: 105
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d530fbcf90b1030800000000000000
+      internalID: 3466375319332805937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_3
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 66
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2a9bc55227dc460800000000000000
+      internalID: 7263587278813504182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 4
+        width: 100
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5c53b1361c1ee90800000000000000
+      internalID: -6998099714554608218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_5
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 62
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cdf4325bb1d2300800000000000000
+      internalID: 228869620861230115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_6
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 5
+        width: 98
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409fa0fc8fd872750800000000000000
+      internalID: 6280144305156454660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5
+        width: 94
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14e37463d8cac1d0800000000000000
+      internalID: -3329628164238089187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 56
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66219f1e8f2b7390800000000000000
+      internalID: -7819604040537266581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_9
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 7
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7a6d60a339bd1d0800000000000000
+      internalID: -3324902022450862087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_10
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 8
+        width: 81
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e20134679a3220800000000000000
+      internalID: 2466450202513564596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_11
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 45
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18b9c1800eb3a370800000000000000
+      internalID: 8332712644952307741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_12
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 9
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a24fa9dee66fd670800000000000000
+      internalID: 8565678192322364071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_13
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 9
+        width: 67
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea99ad3ed12d6810800000000000000
+      internalID: 1760100267772713702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_14
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 10
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb6edcba1a7189f0800000000000000
+      internalID: -467958631013389382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_15
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 10
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592817c654e5efde0800000000000000
+      internalID: -1297495990370991467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_16
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 11
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48e46b84b0ce41d0800000000000000
+      internalID: -3364539989933889457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_17
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 9
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2249175c953098500800000000000000
+      internalID: 398853726098527266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_18
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 11
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ac48d90efd181d0800000000000000
+      internalID: -3350150491978544516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: splWaveComing_strip13_19
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 8
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b417b7f5e5f62bcc0800000000000000
+      internalID: -3696769892998221493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,805 @@
+fileFormatVersion: 2
+guid: cb54234cf73d96348a6830c7d95e0a7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1558067095301087609
+    second: sprEBackShotgunVomit_strip27_0
+  - first:
+      213: 8878529536237684436
+    second: sprEBackShotgunVomit_strip27_1
+  - first:
+      213: 2636620114513366218
+    second: sprEBackShotgunVomit_strip27_2
+  - first:
+      213: -7480967113244969425
+    second: sprEBackShotgunVomit_strip27_3
+  - first:
+      213: -230493525248141674
+    second: sprEBackShotgunVomit_strip27_4
+  - first:
+      213: 6335144319059631037
+    second: sprEBackShotgunVomit_strip27_5
+  - first:
+      213: 6960379306695573322
+    second: sprEBackShotgunVomit_strip27_6
+  - first:
+      213: 5461430011289918191
+    second: sprEBackShotgunVomit_strip27_7
+  - first:
+      213: 583674001618914155
+    second: sprEBackShotgunVomit_strip27_8
+  - first:
+      213: 7782122161709183725
+    second: sprEBackShotgunVomit_strip27_9
+  - first:
+      213: -2930050624920685297
+    second: sprEBackShotgunVomit_strip27_10
+  - first:
+      213: 3204296423203833332
+    second: sprEBackShotgunVomit_strip27_11
+  - first:
+      213: -2125001459318031390
+    second: sprEBackShotgunVomit_strip27_12
+  - first:
+      213: -5118272753485157002
+    second: sprEBackShotgunVomit_strip27_13
+  - first:
+      213: -3885573830656379647
+    second: sprEBackShotgunVomit_strip27_14
+  - first:
+      213: -8758414799038801280
+    second: sprEBackShotgunVomit_strip27_15
+  - first:
+      213: 5996589992263097289
+    second: sprEBackShotgunVomit_strip27_16
+  - first:
+      213: -7858019126665808521
+    second: sprEBackShotgunVomit_strip27_17
+  - first:
+      213: -6624567332977415072
+    second: sprEBackShotgunVomit_strip27_18
+  - first:
+      213: -2747211140541137895
+    second: sprEBackShotgunVomit_strip27_19
+  - first:
+      213: 1264211573890998597
+    second: sprEBackShotgunVomit_strip27_20
+  - first:
+      213: -2096232586583262745
+    second: sprEBackShotgunVomit_strip27_21
+  - first:
+      213: -5632273333866634239
+    second: sprEBackShotgunVomit_strip27_22
+  - first:
+      213: 2317178741741704675
+    second: sprEBackShotgunVomit_strip27_23
+  - first:
+      213: -161349845802735008
+    second: sprEBackShotgunVomit_strip27_24
+  - first:
+      213: -6589350817788931943
+    second: sprEBackShotgunVomit_strip27_25
+  - first:
+      213: 3662421801875853234
+    second: sprEBackShotgunVomit_strip27_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 20
+        width: 53
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97165a7a4cd5f9510800000000000000
+      internalID: 1558067095301087609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 20
+        width: 52
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6c24f929fd63b70800000000000000
+      internalID: 8878529536237684436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc08355608279420800000000000000
+      internalID: 2636620114513366218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 21
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2677aedb044e2890800000000000000
+      internalID: -7480967113244969425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_4
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 21
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6969e882c5f1dccf0800000000000000
+      internalID: -230493525248141674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_5
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 21
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb12627134fae750800000000000000
+      internalID: 6335144319059631037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_6
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 21
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fb19d0a1c389060800000000000000
+      internalID: 6960379306695573322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_7
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 21
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fead79cc8a5eacb40800000000000000
+      internalID: 5461430011289918191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b402b7960a91800800000000000000
+      internalID: 583674001618914155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 21
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2fe57efd6affb60800000000000000
+      internalID: 7782122161709183725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_10
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05f0bf0b7e5657d0800000000000000
+      internalID: -2930050624920685297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_11
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f58e1cae92f77c20800000000000000
+      internalID: 3204296423203833332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_12
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb79267e6a7282e0800000000000000
+      internalID: -2125001459318031390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_13
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67de4f86c0e38f8b0800000000000000
+      internalID: -5118272753485157002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_14
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1053c2b003ba31ac0800000000000000
+      internalID: -3885573830656379647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_15
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a94c3f42cd37680800000000000000
+      internalID: -8758414799038801280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_16
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb1180a3da283350800000000000000
+      internalID: 5996589992263097289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_17
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775fbd4ec35b2f290800000000000000
+      internalID: -7858019126665808521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_18
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c693feb1fc014a0800000000000000
+      internalID: -6624567332977415072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_19
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cbc05e502ffd9d0800000000000000
+      internalID: -2747211140541137895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_20
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 21
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541e5b67ab16b8110800000000000000
+      internalID: 1264211573890998597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_21
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 20
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e93b1e919fa8e2e0800000000000000
+      internalID: -2096232586583262745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_22
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 20
+        width: 53
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10469f07e3526d1b0800000000000000
+      internalID: -5632273333866634239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_23
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 14
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5d996e9c5482020800000000000000
+      internalID: 2317178741741704675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_24
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 12
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a2d5c8b25c2cdf0800000000000000
+      internalID: -161349845802735008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_25
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 12
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990d245d75ced84a0800000000000000
+      internalID: -6589350817788931943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprEBackShotgunVomit_strip27_26
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 12
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfc476793983d230800000000000000
+      internalID: 3662421801875853234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

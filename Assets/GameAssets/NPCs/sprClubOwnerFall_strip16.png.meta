@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 84688c7f13eb04d4ebabed83424230fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1223915744757701496
+    second: sprClubOwnerFall_strip16_0
+  - first:
+      213: -3321000862561207241
+    second: sprClubOwnerFall_strip16_1
+  - first:
+      213: 680554159632542103
+    second: sprClubOwnerFall_strip16_2
+  - first:
+      213: 5294494389028077367
+    second: sprClubOwnerFall_strip16_3
+  - first:
+      213: -1887801071813302123
+    second: sprClubOwnerFall_strip16_4
+  - first:
+      213: -2877320387161468457
+    second: sprClubOwnerFall_strip16_5
+  - first:
+      213: 2623489749033220466
+    second: sprClubOwnerFall_strip16_6
+  - first:
+      213: 8172564060643482564
+    second: sprClubOwnerFall_strip16_7
+  - first:
+      213: -2471096005131242904
+    second: sprClubOwnerFall_strip16_8
+  - first:
+      213: 3631050839407944632
+    second: sprClubOwnerFall_strip16_9
+  - first:
+      213: -9040154234042591856
+    second: sprClubOwnerFall_strip16_10
+  - first:
+      213: -802977747199079658
+    second: sprClubOwnerFall_strip16_11
+  - first:
+      213: 8530527381091102990
+    second: sprClubOwnerFall_strip16_12
+  - first:
+      213: -3747113614810743288
+    second: sprClubOwnerFall_strip16_13
+  - first:
+      213: -1789344516889836168
+    second: sprClubOwnerFall_strip16_14
+  - first:
+      213: -6652512846103439499
+    second: sprClubOwnerFall_strip16_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 7
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884a5be5d17c30fe0800000000000000
+      internalID: -1223915744757701496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 7
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73cf5489f4f69e1d0800000000000000
+      internalID: -3321000862561207241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 799ef470760d17900800000000000000
+      internalID: 680554159632542103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 7
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f315b6892d97940800000000000000
+      internalID: 5294494389028077367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 7
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59867fb5dee2dc5e0800000000000000
+      internalID: -1887801071813302123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 7
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d150424a54b118d0800000000000000
+      internalID: -2877320387161468457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 7
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279f003e602886420800000000000000
+      internalID: 2623489749033220466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 5
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb57ca86b7ca6170800000000000000
+      internalID: 8172564060643482564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 5
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862f3489647e4bdd0800000000000000
+      internalID: -2471096005131242904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b36b441085146230800000000000000
+      internalID: 3631050839407944632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095d525fe9bea8280800000000000000
+      internalID: -9040154234042591856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 5
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bc7a74eff3bd4f0800000000000000
+      internalID: -802977747199079658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 6
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01bda8d475826670800000000000000
+      internalID: 8530527381091102990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 6
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80efc2835049ffbc0800000000000000
+      internalID: -3747113614810743288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 6
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8750df964a8fa27e0800000000000000
+      internalID: -1789344516889836168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerFall_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 6
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577184020d68da3a0800000000000000
+      internalID: -6652512846103439499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

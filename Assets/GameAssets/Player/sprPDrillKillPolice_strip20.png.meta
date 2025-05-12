@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 2da7da943cd2be846b8d301dc18cf999
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1718554667498996416
+    second: sprPDrillKillPolice_strip20_0
+  - first:
+      213: 6703371132753879330
+    second: sprPDrillKillPolice_strip20_1
+  - first:
+      213: -8617927588111713081
+    second: sprPDrillKillPolice_strip20_2
+  - first:
+      213: -1129193453494618432
+    second: sprPDrillKillPolice_strip20_3
+  - first:
+      213: 5566978964315011394
+    second: sprPDrillKillPolice_strip20_4
+  - first:
+      213: -3296432400346717496
+    second: sprPDrillKillPolice_strip20_5
+  - first:
+      213: 3185709895336811782
+    second: sprPDrillKillPolice_strip20_6
+  - first:
+      213: -7173832738665467187
+    second: sprPDrillKillPolice_strip20_7
+  - first:
+      213: 5432084103591882808
+    second: sprPDrillKillPolice_strip20_8
+  - first:
+      213: -7670531603881136817
+    second: sprPDrillKillPolice_strip20_9
+  - first:
+      213: -8893528776753523989
+    second: sprPDrillKillPolice_strip20_10
+  - first:
+      213: -5796511484595436313
+    second: sprPDrillKillPolice_strip20_11
+  - first:
+      213: 3417561070593826516
+    second: sprPDrillKillPolice_strip20_12
+  - first:
+      213: 4775585975140597363
+    second: sprPDrillKillPolice_strip20_13
+  - first:
+      213: -4122317347731105244
+    second: sprPDrillKillPolice_strip20_14
+  - first:
+      213: 608211644435095049
+    second: sprPDrillKillPolice_strip20_15
+  - first:
+      213: 7248395805434739734
+    second: sprPDrillKillPolice_strip20_16
+  - first:
+      213: 1145971095568301754
+    second: sprPDrillKillPolice_strip20_17
+  - first:
+      213: 331608873604480460
+    second: sprPDrillKillPolice_strip20_18
+  - first:
+      213: -6110449587665062753
+    second: sprPDrillKillPolice_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c20e536d5889d710800000000000000
+      internalID: 1718554667498996416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 3
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221276d7788270d50800000000000000
+      internalID: 6703371132753879330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccff82b488f66880800000000000000
+      internalID: -8617927588111713081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 4
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6b1c9698c4450f0800000000000000
+      internalID: -1129193453494618432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24971187fd1e14d40800000000000000
+      internalID: 5566978964315011394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 4
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2ee377238b042d0800000000000000
+      internalID: -3296432400346717496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 4
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60d5ffc654ae53c20800000000000000
+      internalID: 3185709895336811782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 5
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2f6cdf12d617c90800000000000000
+      internalID: -7173832738665467187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 5
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830f3a836b3a26b40800000000000000
+      internalID: 5432084103591882808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4de140852ccc8590800000000000000
+      internalID: -7670531603881136817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 5
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be254ed82b6d39480800000000000000
+      internalID: -8893528776753523989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 5
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e487381487ae8fa0800000000000000
+      internalID: -5796511484595436313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 4
+        width: 59
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ded2facfad9d6f20800000000000000
+      internalID: 3417561070593826516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 4
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37eb79a642a464240800000000000000
+      internalID: 4775585975140597363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 4
+        width: 60
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a9e0596369ac6c0800000000000000
+      internalID: -4122317347731105244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 4
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e5fc6a44dc07800800000000000000
+      internalID: 608211644435095049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c7e56d499779460800000000000000
+      internalID: 7248395805434739734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abeb63ac3ae47ef00800000000000000
+      internalID: 1145971095568301754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdff8b738c1a9400800000000000000
+      internalID: 331608873604480460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPDrillKillPolice_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 3
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94ba4d7972533ba0800000000000000
+      internalID: -6110449587665062753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

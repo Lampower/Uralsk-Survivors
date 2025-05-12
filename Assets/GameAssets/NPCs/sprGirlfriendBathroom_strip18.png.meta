@@ -1,0 +1,580 @@
+fileFormatVersion: 2
+guid: bf9dc7670e8734f438cae7dcade90260
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 362670348009861364
+    second: sprGirlfriendBathroom_strip18_0
+  - first:
+      213: -1619338744104252243
+    second: sprGirlfriendBathroom_strip18_1
+  - first:
+      213: -2130174892899367519
+    second: sprGirlfriendBathroom_strip18_2
+  - first:
+      213: 1709521430896686109
+    second: sprGirlfriendBathroom_strip18_3
+  - first:
+      213: -8681020831583695611
+    second: sprGirlfriendBathroom_strip18_4
+  - first:
+      213: 4057749880347493810
+    second: sprGirlfriendBathroom_strip18_5
+  - first:
+      213: -6378597764164374526
+    second: sprGirlfriendBathroom_strip18_6
+  - first:
+      213: -5319486608565070262
+    second: sprGirlfriendBathroom_strip18_7
+  - first:
+      213: 904223628481665372
+    second: sprGirlfriendBathroom_strip18_8
+  - first:
+      213: 4620249170935159165
+    second: sprGirlfriendBathroom_strip18_9
+  - first:
+      213: -4390363185013243003
+    second: sprGirlfriendBathroom_strip18_10
+  - first:
+      213: -2686674297671932956
+    second: sprGirlfriendBathroom_strip18_11
+  - first:
+      213: 4275725156133781500
+    second: sprGirlfriendBathroom_strip18_12
+  - first:
+      213: 5935267990474008093
+    second: sprGirlfriendBathroom_strip18_13
+  - first:
+      213: 4427973688982367290
+    second: sprGirlfriendBathroom_strip18_14
+  - first:
+      213: 4727359631895147070
+    second: sprGirlfriendBathroom_strip18_15
+  - first:
+      213: -526263114314944658
+    second: sprGirlfriendBathroom_strip18_16
+  - first:
+      213: -7386533933734354931
+    second: sprGirlfriendBathroom_strip18_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 20
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0f1bf82c6780500800000000000000
+      internalID: 362670348009861364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 20
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac83aaedf3f689e0800000000000000
+      internalID: -1619338744104252243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 20
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5074798391072e0800000000000000
+      internalID: -2130174892899367519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_3
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 20
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14b3881fa079b710800000000000000
+      internalID: 1709521430896686109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 20
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d00b53c81d68780800000000000000
+      internalID: -8681020831583695611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 20
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b50f7d6406005830800000000000000
+      internalID: 4057749880347493810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_6
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 20
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200b1e5f02baa77a0800000000000000
+      internalID: -6378597764164374526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 20
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4618050d136d26b0800000000000000
+      internalID: -5319486608565070262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_8
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 20
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c591a2d69927c8c00800000000000000
+      internalID: 904223628481665372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_9
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 20
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79126f442c6e1040800000000000000
+      internalID: 4620249170935159165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_10
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 20
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5834552c1fb4213c0800000000000000
+      internalID: -4390363185013243003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_11
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 20
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3a71cf5f307bad0800000000000000
+      internalID: -2686674297671932956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_12
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 20
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff3e80306d665b30800000000000000
+      internalID: 4275725156133781500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_13
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 20
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1623fa7ace4e5250800000000000000
+      internalID: 5935267990474008093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_14
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 20
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce1961c92537d30800000000000000
+      internalID: 4427973688982367290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_15
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 20
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32b1a0e984fa9140800000000000000
+      internalID: 4727359631895147070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_16
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 20
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6feddc5c7652b8f0800000000000000
+      internalID: -526263114314944658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendBathroom_strip18_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 20
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d002566d582cd7990800000000000000
+      internalID: -7386533933734354931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

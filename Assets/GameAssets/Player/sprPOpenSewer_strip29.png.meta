@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 64f86a71c1cdff541a987e22067edb94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5115316752802461839
+    second: sprPOpenSewer_strip29_0
+  - first:
+      213: -5625246255965594986
+    second: sprPOpenSewer_strip29_1
+  - first:
+      213: -4067510486235670156
+    second: sprPOpenSewer_strip29_2
+  - first:
+      213: -3458721340850100318
+    second: sprPOpenSewer_strip29_3
+  - first:
+      213: 770598668583520536
+    second: sprPOpenSewer_strip29_4
+  - first:
+      213: 4630464362417674318
+    second: sprPOpenSewer_strip29_5
+  - first:
+      213: 269467469697441807
+    second: sprPOpenSewer_strip29_6
+  - first:
+      213: -6846893839320537673
+    second: sprPOpenSewer_strip29_7
+  - first:
+      213: -4501339111282074783
+    second: sprPOpenSewer_strip29_8
+  - first:
+      213: -7338279392551869247
+    second: sprPOpenSewer_strip29_9
+  - first:
+      213: -2541977290160787327
+    second: sprPOpenSewer_strip29_10
+  - first:
+      213: 4799672098448704651
+    second: sprPOpenSewer_strip29_11
+  - first:
+      213: 4360847308096962099
+    second: sprPOpenSewer_strip29_12
+  - first:
+      213: 9043029919246227585
+    second: sprPOpenSewer_strip29_13
+  - first:
+      213: -3662031411386213455
+    second: sprPOpenSewer_strip29_14
+  - first:
+      213: 4171220655943895229
+    second: sprPOpenSewer_strip29_15
+  - first:
+      213: -6408066027640048445
+    second: sprPOpenSewer_strip29_16
+  - first:
+      213: 1807970127957908841
+    second: sprPOpenSewer_strip29_17
+  - first:
+      213: -7159733628570243194
+    second: sprPOpenSewer_strip29_18
+  - first:
+      213: 48686122359106418
+    second: sprPOpenSewer_strip29_19
+  - first:
+      213: -3348970755355391501
+    second: sprPOpenSewer_strip29_20
+  - first:
+      213: 8054758278089741220
+    second: sprPOpenSewer_strip29_21
+  - first:
+      213: -7979979724392427910
+    second: sprPOpenSewer_strip29_22
+  - first:
+      213: -4403182405832063701
+    second: sprPOpenSewer_strip29_23
+  - first:
+      213: -7888039612011517189
+    second: sprPOpenSewer_strip29_24
+  - first:
+      213: -5507974516191076771
+    second: sprPOpenSewer_strip29_25
+  - first:
+      213: 2580530585824734441
+    second: sprPOpenSewer_strip29_26
+  - first:
+      213: 2746146716137513915
+    second: sprPOpenSewer_strip29_27
+  - first:
+      213: 7774425174865146177
+    second: sprPOpenSewer_strip29_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177ca93f38eb209b0800000000000000
+      internalID: -5115316752802461839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a1313855c1fe1b0800000000000000
+      internalID: -5625246255965594986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791fbb63cc4d87c0800000000000000
+      internalID: -4067510486235670156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7219df3472000d0800000000000000
+      internalID: -3458721340850100318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8194f410867b1ba00800000000000000
+      internalID: 770598668583520536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48d20bedc6b24040800000000000000
+      internalID: 4630464362417674318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00e6d96c375db300800000000000000
+      internalID: 269467469697441807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b52d7c5452faf0a0800000000000000
+      internalID: -6846893839320537673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b957a6de70881c0800000000000000
+      internalID: -4501339111282074783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c46068b5c1392a90800000000000000
+      internalID: -7338279392551869247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1803bd06f1519bcd0800000000000000
+      internalID: -2541977290160787327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b848362085cdb9240800000000000000
+      internalID: 4799672098448704651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e76de9587d48c30800000000000000
+      internalID: 4360847308096962099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18896edaccb4f7d70800000000000000
+      internalID: 9043029919246227585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb900865d9dd2dc0800000000000000
+      internalID: -3662031411386213455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8ce45261723e930800000000000000
+      internalID: 4171220655943895229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4344536e9f117a0800000000000000
+      internalID: -6408066027640048445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd2799043371910800000000000000
+      internalID: 1807970127957908841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_18
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68fe6aed23483ac90800000000000000
+      internalID: -7159733628570243194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_19
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 3
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ba4b435c7fca000800000000000000
+      internalID: 48686122359106418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_20
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ced377d01681d0800000000000000
+      internalID: -3348970755355391501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a31d2d5aff38cf60800000000000000
+      internalID: 8054758278089741220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_22
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e05cc68ba614190800000000000000
+      internalID: -7979979724392427910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_23
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2541235ee0c4e2c0800000000000000
+      internalID: -4403182405832063701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_24
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfae7d7f3cd088290800000000000000
+      internalID: -7888039612011517189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_25
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ed68a2c5ebf83b0800000000000000
+      internalID: -5507974516191076771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2d1445e2efc320800000000000000
+      internalID: 2580530585824734441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_27
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 4
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb36b7c73e54c1620800000000000000
+      internalID: 2746146716137513915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPOpenSewer_strip29_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141f0b0818e44eb60800000000000000
+      internalID: 7774425174865146177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

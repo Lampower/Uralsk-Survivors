@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 4d9541bebac172445b71609a8e9f06fc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7504394738826846288
+    second: sprPantherSit_strip20_0
+  - first:
+      213: 8122336919196842843
+    second: sprPantherSit_strip20_1
+  - first:
+      213: -2510585493872538311
+    second: sprPantherSit_strip20_2
+  - first:
+      213: 7598519450045744889
+    second: sprPantherSit_strip20_3
+  - first:
+      213: 1685793987977061298
+    second: sprPantherSit_strip20_4
+  - first:
+      213: 4358582932691343250
+    second: sprPantherSit_strip20_5
+  - first:
+      213: -3051474697221797038
+    second: sprPantherSit_strip20_6
+  - first:
+      213: 6737854779774101377
+    second: sprPantherSit_strip20_7
+  - first:
+      213: -6769150055234582207
+    second: sprPantherSit_strip20_8
+  - first:
+      213: -5924603611864071450
+    second: sprPantherSit_strip20_9
+  - first:
+      213: 5655425893867310627
+    second: sprPantherSit_strip20_10
+  - first:
+      213: -18729810377540822
+    second: sprPantherSit_strip20_11
+  - first:
+      213: 1912243455640507574
+    second: sprPantherSit_strip20_12
+  - first:
+      213: -2683900167280335085
+    second: sprPantherSit_strip20_13
+  - first:
+      213: -8919024408662512087
+    second: sprPantherSit_strip20_14
+  - first:
+      213: -3679776127483296254
+    second: sprPantherSit_strip20_15
+  - first:
+      213: 4217920549532215394
+    second: sprPantherSit_strip20_16
+  - first:
+      213: 3692079433641644068
+    second: sprPantherSit_strip20_17
+  - first:
+      213: 7564371555460619246
+    second: sprPantherSit_strip20_18
+  - first:
+      213: -6204028063432117963
+    second: sprPantherSit_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bf5ae9beb80bd790800000000000000
+      internalID: -7504394738826846288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 4
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bb4ced46658b070800000000000000
+      internalID: 8122336919196842843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d8a738bcb982dd0800000000000000
+      internalID: -2510585493872538311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 4
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f68fde5e2d537960800000000000000
+      internalID: 7598519450045744889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 4
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3acd943b4256710800000000000000
+      internalID: 1685793987977061298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 4
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297d523a51ccc7c30800000000000000
+      internalID: 4358582932691343250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 4
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b80072eebf6a5d0800000000000000
+      internalID: -3051474697221797038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 4
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1876a98393ba18d50800000000000000
+      internalID: 6737854779774101377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1494d66a3e52f02a0800000000000000
+      internalID: -6769150055234582207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e288d7a76497cda0800000000000000
+      internalID: -5924603611864071450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 4
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ec18103eb1c7e40800000000000000
+      internalID: 5655425893867310627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 4
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b7cb136557dbff0800000000000000
+      internalID: -18729810377540822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 4
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b494899a47a98a10800000000000000
+      internalID: 1912243455640507574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 4
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317e4ac840fd0cad0800000000000000
+      internalID: -2683900167280335085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 4
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ee1aa2e82493480800000000000000
+      internalID: -8919024408662512087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 4
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206456cbb1fceecc0800000000000000
+      internalID: -3679776127483296254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26820bd6460198a30800000000000000
+      internalID: 4217920549532215394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 4
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4205cb4fea6ec3330800000000000000
+      internalID: 3692079433641644068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 4
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb9c481adb0af860800000000000000
+      internalID: 7564371555460619246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPantherSit_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 4
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531f29eb85dd6e9a0800000000000000
+      internalID: -6204028063432117963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

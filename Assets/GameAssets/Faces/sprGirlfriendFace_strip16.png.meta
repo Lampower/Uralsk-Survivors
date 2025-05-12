@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: 92d140986c265f0478018d6bea21bf94
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3018073493733318678
+    second: sprGirlfriendFace_strip16_0
+  - first:
+      213: -9035380592283328915
+    second: sprGirlfriendFace_strip16_1
+  - first:
+      213: 1238754381149264793
+    second: sprGirlfriendFace_strip16_2
+  - first:
+      213: 5444409935178425058
+    second: sprGirlfriendFace_strip16_3
+  - first:
+      213: 5504445391350065963
+    second: sprGirlfriendFace_strip16_4
+  - first:
+      213: -1885707128648913665
+    second: sprGirlfriendFace_strip16_5
+  - first:
+      213: 6621567487649849524
+    second: sprGirlfriendFace_strip16_6
+  - first:
+      213: -5839781604399294608
+    second: sprGirlfriendFace_strip16_7
+  - first:
+      213: -1040168546410587679
+    second: sprGirlfriendFace_strip16_8
+  - first:
+      213: -4036364375562946639
+    second: sprGirlfriendFace_strip16_9
+  - first:
+      213: 1858487933952062913
+    second: sprGirlfriendFace_strip16_10
+  - first:
+      213: 1157484868145692437
+    second: sprGirlfriendFace_strip16_11
+  - first:
+      213: -8006049490200605974
+    second: sprGirlfriendFace_strip16_12
+  - first:
+      213: -7198172433836924607
+    second: sprGirlfriendFace_strip16_13
+  - first:
+      213: -1155406922149709013
+    second: sprGirlfriendFace_strip16_14
+  - first:
+      213: -4038280331546573882
+    second: sprGirlfriendFace_strip16_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6102ff32ad952e920800000000000000
+      internalID: 3018073493733318678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e5e7a0931eb9280800000000000000
+      internalID: -9035380592283328915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b5c54eb80f03110800000000000000
+      internalID: 1238754381149264793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2eae58dfd6e8b40800000000000000
+      internalID: 5444409935178425058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2be4fc6be7b36c40800000000000000
+      internalID: 5504445391350065963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffca57e7b5f94d5e0800000000000000
+      internalID: -1885707128648913665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b025a52c8884eb50800000000000000
+      internalID: 6621567487649849524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0775bef329de4fea0800000000000000
+      internalID: -5839781604399294608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e999a4d7349091f0800000000000000
+      internalID: -1040168546410587679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7778a6cf3fbf7c0800000000000000
+      internalID: -4036364375562946639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c5ff82edecaac910800000000000000
+      internalID: 1858487933952062913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fb6beda56301010800000000000000
+      internalID: 1157484868145692437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 1470
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea4562186cc4e090800000000000000
+      internalID: -8006049490200605974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14124291f44fa1c90800000000000000
+      internalID: -7198172433836924607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 30
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b3d32a68b27ffe0800000000000000
+      internalID: -1155406922149709013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprGirlfriendFace_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 29
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c348b62f6525f7c0800000000000000
+      internalID: -4038280331546573882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

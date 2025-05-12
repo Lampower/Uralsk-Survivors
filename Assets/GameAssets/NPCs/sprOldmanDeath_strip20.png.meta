@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 921453318f098754bb81f6db24065c03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6651625357430249734
+    second: sprOldmanDeath_strip20_0
+  - first:
+      213: 44067017579114963
+    second: sprOldmanDeath_strip20_1
+  - first:
+      213: -3301892806536286660
+    second: sprOldmanDeath_strip20_2
+  - first:
+      213: 4464902572308456159
+    second: sprOldmanDeath_strip20_3
+  - first:
+      213: -8271157642053255338
+    second: sprOldmanDeath_strip20_4
+  - first:
+      213: 9076258548601158198
+    second: sprOldmanDeath_strip20_5
+  - first:
+      213: 5678358842035736113
+    second: sprOldmanDeath_strip20_6
+  - first:
+      213: -980227713107832502
+    second: sprOldmanDeath_strip20_7
+  - first:
+      213: 312191801203464450
+    second: sprOldmanDeath_strip20_8
+  - first:
+      213: -771595594288527630
+    second: sprOldmanDeath_strip20_9
+  - first:
+      213: -8168690250217068027
+    second: sprOldmanDeath_strip20_10
+  - first:
+      213: -1366343463905960837
+    second: sprOldmanDeath_strip20_11
+  - first:
+      213: -5451388429193854832
+    second: sprOldmanDeath_strip20_12
+  - first:
+      213: 2900894230734226712
+    second: sprOldmanDeath_strip20_13
+  - first:
+      213: -1125237289332093893
+    second: sprOldmanDeath_strip20_14
+  - first:
+      213: 6860710192045737786
+    second: sprOldmanDeath_strip20_15
+  - first:
+      213: 6490855221154129082
+    second: sprOldmanDeath_strip20_16
+  - first:
+      213: 3058756740187549439
+    second: sprOldmanDeath_strip20_17
+  - first:
+      213: -3153791979109284245
+    second: sprOldmanDeath_strip20_18
+  - first:
+      213: -3536641849055229646
+    second: sprOldmanDeath_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6095c9055025f4c50800000000000000
+      internalID: 6651625357430249734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d13d1118be8c9000800000000000000
+      internalID: 44067017579114963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eacf39cf15d22d0800000000000000
+      internalID: -3301892806536286660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd26c23cb3586fd30800000000000000
+      internalID: 4464902572308456159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f782072f1f63d80800000000000000
+      internalID: -8271157642053255338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 15
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a79f6df0955fd70800000000000000
+      internalID: 9076258548601158198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 15
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0db618459dce40800000000000000
+      internalID: 5678358842035736113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 15
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d631a6188562f0800000000000000
+      internalID: -980227713107832502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 15
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20995840ac0255400800000000000000
+      internalID: 312191801203464450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 15
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f60d2425edba45f0800000000000000
+      internalID: -771595594288527630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a6d9b3f7bf2ae80800000000000000
+      internalID: -8168690250217068027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c55b8dbd5c90de0800000000000000
+      internalID: -1366343463905960837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c9393b17c854b0800000000000000
+      internalID: -5451388429193854832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815c4e9eeeb024820800000000000000
+      internalID: 2900894230734226712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4659a5aa5260f0800000000000000
+      internalID: -1125237289332093893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37c9cfe193263f50800000000000000
+      internalID: 6860710192045737786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4a1610f66241a50800000000000000
+      internalID: 6490855221154129082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee5399c03e27a20800000000000000
+      internalID: 3058756740187549439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6607bd87ea7b34d0800000000000000
+      internalID: -3153791979109284245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprOldmanDeath_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 15
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2394849e9f25beec0800000000000000
+      internalID: -3536641849055229646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

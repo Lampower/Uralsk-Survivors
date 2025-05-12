@@ -1,0 +1,1455 @@
+fileFormatVersion: 2
+guid: 5fb614f53d54be94fac8b78cbb046a31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9166627030497415798
+    second: sprPVomit_strip51_0
+  - first:
+      213: 4269385716297691015
+    second: sprPVomit_strip51_1
+  - first:
+      213: 337264745783868853
+    second: sprPVomit_strip51_2
+  - first:
+      213: -7632032690415781574
+    second: sprPVomit_strip51_3
+  - first:
+      213: 5607729679023357056
+    second: sprPVomit_strip51_4
+  - first:
+      213: 7335767100082206321
+    second: sprPVomit_strip51_5
+  - first:
+      213: -597882406894976516
+    second: sprPVomit_strip51_6
+  - first:
+      213: -6970868256751097727
+    second: sprPVomit_strip51_7
+  - first:
+      213: 5437368424344178445
+    second: sprPVomit_strip51_8
+  - first:
+      213: 8755279885632075265
+    second: sprPVomit_strip51_9
+  - first:
+      213: -8959337770116094762
+    second: sprPVomit_strip51_10
+  - first:
+      213: -7248946000113036391
+    second: sprPVomit_strip51_11
+  - first:
+      213: 4553753905180195299
+    second: sprPVomit_strip51_12
+  - first:
+      213: 8522476331402968581
+    second: sprPVomit_strip51_13
+  - first:
+      213: -7460969984977623033
+    second: sprPVomit_strip51_14
+  - first:
+      213: -2431485135616413220
+    second: sprPVomit_strip51_15
+  - first:
+      213: 1116676060825164439
+    second: sprPVomit_strip51_16
+  - first:
+      213: 33240231463585494
+    second: sprPVomit_strip51_17
+  - first:
+      213: 1594122931885681343
+    second: sprPVomit_strip51_18
+  - first:
+      213: 455296157881486637
+    second: sprPVomit_strip51_19
+  - first:
+      213: -1698411109866747532
+    second: sprPVomit_strip51_20
+  - first:
+      213: -4619489439799559788
+    second: sprPVomit_strip51_21
+  - first:
+      213: 6196029588329984163
+    second: sprPVomit_strip51_22
+  - first:
+      213: 1497034267343612673
+    second: sprPVomit_strip51_23
+  - first:
+      213: -3934614148824829498
+    second: sprPVomit_strip51_24
+  - first:
+      213: 3761848245735963360
+    second: sprPVomit_strip51_25
+  - first:
+      213: -2453579001360878228
+    second: sprPVomit_strip51_26
+  - first:
+      213: 7429787684519126617
+    second: sprPVomit_strip51_27
+  - first:
+      213: -7807481605290533571
+    second: sprPVomit_strip51_28
+  - first:
+      213: -4232413355417186707
+    second: sprPVomit_strip51_29
+  - first:
+      213: 6232781349664273205
+    second: sprPVomit_strip51_30
+  - first:
+      213: -8185119198922664644
+    second: sprPVomit_strip51_31
+  - first:
+      213: -9066177047470876711
+    second: sprPVomit_strip51_32
+  - first:
+      213: 3647546106796118740
+    second: sprPVomit_strip51_33
+  - first:
+      213: 6660840786508536521
+    second: sprPVomit_strip51_34
+  - first:
+      213: 4830993297819633576
+    second: sprPVomit_strip51_35
+  - first:
+      213: 2597814547455189237
+    second: sprPVomit_strip51_36
+  - first:
+      213: -5065063920082191044
+    second: sprPVomit_strip51_37
+  - first:
+      213: 9012844367345852130
+    second: sprPVomit_strip51_38
+  - first:
+      213: -3861907245550587412
+    second: sprPVomit_strip51_39
+  - first:
+      213: -9049214600012087948
+    second: sprPVomit_strip51_40
+  - first:
+      213: -5269981253271607101
+    second: sprPVomit_strip51_41
+  - first:
+      213: -3313236582532577808
+    second: sprPVomit_strip51_42
+  - first:
+      213: 7674138455534291475
+    second: sprPVomit_strip51_43
+  - first:
+      213: 4639530928327493961
+    second: sprPVomit_strip51_44
+  - first:
+      213: 7225971482963441926
+    second: sprPVomit_strip51_45
+  - first:
+      213: 7355087368301070642
+    second: sprPVomit_strip51_46
+  - first:
+      213: -3438980011097369601
+    second: sprPVomit_strip51_47
+  - first:
+      213: -2741999487384683096
+    second: sprPVomit_strip51_48
+  - first:
+      213: 1857146326154490174
+    second: sprPVomit_strip51_49
+  - first:
+      213: -7057154255582995595
+    second: sprPVomit_strip51_50
+  - first:
+      213: -3093919670195077636
+    second: sprPVomit_strip51_51
+  - first:
+      213: 5288508650928785594
+    second: sprPVomit_strip51_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPVomit_strip51_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 7
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d25ba584999c080800000000000000
+      internalID: -9166627030497415798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fec0550b7ef3b30800000000000000
+      internalID: 4269385716297691015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 6
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb5b7df743ea400800000000000000
+      internalID: 337264745783868853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39399d44b2951690800000000000000
+      internalID: -7632032690415781574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c3a9a9e68a2dd40800000000000000
+      internalID: 5607729679023357056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_5
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176b56b9f41edc560800000000000000
+      internalID: 7335767100082206321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1c19f5e15e3b7f0800000000000000
+      internalID: -597882406894976516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_7
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188ed44f040824f90800000000000000
+      internalID: -6970868256751097727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fc5f506c9657b40800000000000000
+      internalID: 5437368424344178445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106f8342ba0018970800000000000000
+      internalID: 8755279885632075265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_10
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d46d7544c90aa380800000000000000
+      internalID: -8959337770116094762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_11
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 6
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993164bf402966b90800000000000000
+      internalID: -7248946000113036391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_12
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 6
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e930d8cc0f223f30800000000000000
+      internalID: 4553753905180195299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_13
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eb2f3c11be54670800000000000000
+      internalID: 8522476331402968581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_14
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 6
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ae8d145f457890800000000000000
+      internalID: -7460969984977623033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_15
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f0f6d621a14ed0800000000000000
+      internalID: -2431485135616413220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_16
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a9aaef5fa3f7f00800000000000000
+      internalID: 1116676060825164439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_17
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d683ac70d7167000800000000000000
+      internalID: 33240231463585494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_18
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbaa95b4c567f1610800000000000000
+      internalID: 1594122931885681343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_19
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d402e7179815600800000000000000
+      internalID: 455296157881486637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_20
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479c0d918180e68e0800000000000000
+      internalID: -1698411109866747532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_21
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499341164d644efb0800000000000000
+      internalID: -4619489439799559788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_22
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f7362518bcf550800000000000000
+      internalID: 6196029588329984163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 5
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b6a990cb886c410800000000000000
+      internalID: 1497034267343612673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_24
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 5
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1f11337417569c0800000000000000
+      internalID: -3934614148824829498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_25
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 5
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eab4026c05c43430800000000000000
+      internalID: 3761848245735963360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_26
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 5
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65f68bd5e223fdd0800000000000000
+      internalID: -2453579001360878228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_27
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 5
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956a55cc888eb1760800000000000000
+      internalID: 7429787684519126617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_28
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 5
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dd24688d046a390800000000000000
+      internalID: -7807481605290533571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_29
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 5
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e4dbf3a727345c0800000000000000
+      internalID: -4232413355417186707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_30
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 5
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5333b656d994f7650800000000000000
+      internalID: 6232781349664273205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_31
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 5
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c351cf7847d986e80800000000000000
+      internalID: -8185119198922664644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_32
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7d2be82087e2280800000000000000
+      internalID: -9066177047470876711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_33
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2117dcbdfae9230800000000000000
+      internalID: 3647546106796118740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_34
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca5649976f007c50800000000000000
+      internalID: 6660840786508536521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_35
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a705d40fc22b0340800000000000000
+      internalID: 4830993297819633576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_36
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0a86d219a4d0420800000000000000
+      internalID: 2597814547455189237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_37
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d7ad6533745b9b0800000000000000
+      internalID: -5065063920082191044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_38
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee9783333e041d70800000000000000
+      internalID: 9012844367345852130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_39
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1337942dfb76ac0800000000000000
+      internalID: -3861907245550587412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_40
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d300e144bba6280800000000000000
+      internalID: -9049214600012087948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_41
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c827c1c8f34dd6b0800000000000000
+      internalID: -5269981253271607101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_42
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f50159e1e40502d0800000000000000
+      internalID: -3313236582532577808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_43
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a49471444008a60800000000000000
+      internalID: 7674138455534291475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_44
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949066b4ccce26040800000000000000
+      internalID: 4639530928327493961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_45
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609732767cec74460800000000000000
+      internalID: 7225971482963441926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_46
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 5
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2394c871ef4821660800000000000000
+      internalID: 7355087368301070642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_47
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 6
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff35fd086e94640d0800000000000000
+      internalID: -3438980011097369601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_48
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 6
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adf1247ef572f9d0800000000000000
+      internalID: -2741999487384683096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_49
+      rect:
+        serializedVersion: 2
+        x: 1964
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e313c5a7eb8e5c910800000000000000
+      internalID: 1857146326154490174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_50
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 9
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bd6de4893ff0e90800000000000000
+      internalID: -7057154255582995595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_51
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 5
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdbd66c3703015d0800000000000000
+      internalID: -3093919670195077636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPVomit_strip51_52
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 9
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c03a299e846940800000000000000
+      internalID: 5288508650928785594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

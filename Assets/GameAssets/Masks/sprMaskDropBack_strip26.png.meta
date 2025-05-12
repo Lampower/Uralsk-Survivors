@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: d4e1136d6abc39e4a955c5241040233d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1679788032237307678
+    second: sprMaskDropBack_strip26_0
+  - first:
+      213: 340714441605785873
+    second: sprMaskDropBack_strip26_1
+  - first:
+      213: -4360216991755858803
+    second: sprMaskDropBack_strip26_2
+  - first:
+      213: -5592005177063597141
+    second: sprMaskDropBack_strip26_3
+  - first:
+      213: 2716894780427341722
+    second: sprMaskDropBack_strip26_4
+  - first:
+      213: -5189978242621879553
+    second: sprMaskDropBack_strip26_5
+  - first:
+      213: -5439679017230618322
+    second: sprMaskDropBack_strip26_6
+  - first:
+      213: -5506900649479199990
+    second: sprMaskDropBack_strip26_7
+  - first:
+      213: -423457991909842241
+    second: sprMaskDropBack_strip26_8
+  - first:
+      213: 8720867921838560539
+    second: sprMaskDropBack_strip26_9
+  - first:
+      213: -7402590377004912272
+    second: sprMaskDropBack_strip26_10
+  - first:
+      213: 7203173937251240157
+    second: sprMaskDropBack_strip26_11
+  - first:
+      213: -4456751434994032825
+    second: sprMaskDropBack_strip26_12
+  - first:
+      213: -8063654793426704045
+    second: sprMaskDropBack_strip26_13
+  - first:
+      213: 6257587547817687570
+    second: sprMaskDropBack_strip26_14
+  - first:
+      213: 1719095826799998364
+    second: sprMaskDropBack_strip26_15
+  - first:
+      213: -5619655680500653785
+    second: sprMaskDropBack_strip26_16
+  - first:
+      213: -4595540012013735839
+    second: sprMaskDropBack_strip26_17
+  - first:
+      213: 9151776074240145729
+    second: sprMaskDropBack_strip26_18
+  - first:
+      213: -1760019256902220074
+    second: sprMaskDropBack_strip26_19
+  - first:
+      213: 5255479661638649839
+    second: sprMaskDropBack_strip26_20
+  - first:
+      213: 430898277954914225
+    second: sprMaskDropBack_strip26_21
+  - first:
+      213: 5584360440850353731
+    second: sprMaskDropBack_strip26_22
+  - first:
+      213: 7386480722535556236
+    second: sprMaskDropBack_strip26_23
+  - first:
+      213: 4238879220950537396
+    second: sprMaskDropBack_strip26_24
+  - first:
+      213: -3969118303699038207
+    second: sprMaskDropBack_strip26_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8fa804fa130b8e0800000000000000
+      internalID: -1679788032237307678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11922cdbaf57ab400800000000000000
+      internalID: 340714441605785873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c05c65fb56d73c0800000000000000
+      internalID: -4360216991755858803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab9afe4be43562b0800000000000000
+      internalID: -5592005177063597141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 3
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f0c77786954b520800000000000000
+      internalID: 2716894780427341722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa4488394e79f7b0800000000000000
+      internalID: -5189978242621879553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21b2d521c06284b0800000000000000
+      internalID: -5439679017230618322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 3
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03ac6e390f8393b0800000000000000
+      internalID: -5506900649479199990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2e9ee23339f1af0800000000000000
+      internalID: -423457991909842241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1559467b2fb60970800000000000000
+      internalID: 8720867921838560539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 071b5e0d547b44990800000000000000
+      internalID: -7402590377004912272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_11
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd846392880d6f360800000000000000
+      internalID: 7203173937251240157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 3
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fd7f8ce207622c0800000000000000
+      internalID: -4456751434994032825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359ec6e30b4281090800000000000000
+      internalID: -8063654793426704045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_14
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ab49a78ba67d650800000000000000
+      internalID: 6257587547817687570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95354bdb847bd710800000000000000
+      internalID: 1719095826799998364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_16
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721a0cbcee8f202b0800000000000000
+      internalID: -5619655680500653785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160b3d015bc5930c0800000000000000
+      internalID: -4595540012013735839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_18
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149b001f9d3a10f70800000000000000
+      internalID: 9151776074240145729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_19
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d60f729fc72397e0800000000000000
+      internalID: -1760019256902220074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_20
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7034458e63fe840800000000000000
+      internalID: 5255479661638649839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_21
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b784d763bbdaf500800000000000000
+      internalID: 430898277954914225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_22
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e01a6db32af7d40800000000000000
+      internalID: 5584360440850353731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_23
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84a007f41d028660800000000000000
+      internalID: 7386480722535556236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_24
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b49a82613683da30800000000000000
+      internalID: 4238879220950537396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprMaskDropBack_strip26_25
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100948c9eebdae8c0800000000000000
+      internalID: -3969118303699038207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

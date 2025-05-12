@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: cbf87f936c0f2ae4a80508337bdb7195
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5068613393006250938
+    second: sprPStrangleAssassin_strip50_0
+  - first:
+      213: -7050979948915106632
+    second: sprPStrangleAssassin_strip50_1
+  - first:
+      213: -268433554577472706
+    second: sprPStrangleAssassin_strip50_2
+  - first:
+      213: 4471326243573896141
+    second: sprPStrangleAssassin_strip50_3
+  - first:
+      213: 2520318221585753878
+    second: sprPStrangleAssassin_strip50_4
+  - first:
+      213: 2325277478600434443
+    second: sprPStrangleAssassin_strip50_5
+  - first:
+      213: 8543368647527465325
+    second: sprPStrangleAssassin_strip50_6
+  - first:
+      213: 9131638622670594810
+    second: sprPStrangleAssassin_strip50_7
+  - first:
+      213: 2806905108152183159
+    second: sprPStrangleAssassin_strip50_8
+  - first:
+      213: 6417512558322800391
+    second: sprPStrangleAssassin_strip50_9
+  - first:
+      213: 5465492382224464926
+    second: sprPStrangleAssassin_strip50_10
+  - first:
+      213: 5114463166143220633
+    second: sprPStrangleAssassin_strip50_11
+  - first:
+      213: -8091307424939223409
+    second: sprPStrangleAssassin_strip50_12
+  - first:
+      213: 4858990149844653765
+    second: sprPStrangleAssassin_strip50_13
+  - first:
+      213: -7381380903183125684
+    second: sprPStrangleAssassin_strip50_14
+  - first:
+      213: 2758829207618146806
+    second: sprPStrangleAssassin_strip50_15
+  - first:
+      213: 3390271768465367186
+    second: sprPStrangleAssassin_strip50_16
+  - first:
+      213: -8214477013134759282
+    second: sprPStrangleAssassin_strip50_17
+  - first:
+      213: -6072905669543057850
+    second: sprPStrangleAssassin_strip50_18
+  - first:
+      213: 5507367824598686941
+    second: sprPStrangleAssassin_strip50_19
+  - first:
+      213: -2436011760229190143
+    second: sprPStrangleAssassin_strip50_20
+  - first:
+      213: 5464852864112635294
+    second: sprPStrangleAssassin_strip50_21
+  - first:
+      213: -5394750427661289666
+    second: sprPStrangleAssassin_strip50_22
+  - first:
+      213: 8272968574797780221
+    second: sprPStrangleAssassin_strip50_23
+  - first:
+      213: -7742084218317245394
+    second: sprPStrangleAssassin_strip50_24
+  - first:
+      213: 60884583559048375
+    second: sprPStrangleAssassin_strip50_25
+  - first:
+      213: -2199966898875007544
+    second: sprPStrangleAssassin_strip50_26
+  - first:
+      213: -3978025148343324923
+    second: sprPStrangleAssassin_strip50_27
+  - first:
+      213: 175601207483881523
+    second: sprPStrangleAssassin_strip50_28
+  - first:
+      213: 2775668216905812966
+    second: sprPStrangleAssassin_strip50_29
+  - first:
+      213: -7792326496188250243
+    second: sprPStrangleAssassin_strip50_30
+  - first:
+      213: 9121948806276698954
+    second: sprPStrangleAssassin_strip50_31
+  - first:
+      213: -8693908728567378116
+    second: sprPStrangleAssassin_strip50_32
+  - first:
+      213: 4115436970000561228
+    second: sprPStrangleAssassin_strip50_33
+  - first:
+      213: -479555295229397878
+    second: sprPStrangleAssassin_strip50_34
+  - first:
+      213: -3894443288920977085
+    second: sprPStrangleAssassin_strip50_35
+  - first:
+      213: 5376235649807786704
+    second: sprPStrangleAssassin_strip50_36
+  - first:
+      213: -3158123793891696794
+    second: sprPStrangleAssassin_strip50_37
+  - first:
+      213: 344922184559174731
+    second: sprPStrangleAssassin_strip50_38
+  - first:
+      213: -1828348541932788731
+    second: sprPStrangleAssassin_strip50_39
+  - first:
+      213: -89060142836433975
+    second: sprPStrangleAssassin_strip50_40
+  - first:
+      213: 8441998292149775983
+    second: sprPStrangleAssassin_strip50_41
+  - first:
+      213: -991634708937192167
+    second: sprPStrangleAssassin_strip50_42
+  - first:
+      213: -2964293862586773085
+    second: sprPStrangleAssassin_strip50_43
+  - first:
+      213: -2589810128480285940
+    second: sprPStrangleAssassin_strip50_44
+  - first:
+      213: -7112390659561753556
+    second: sprPStrangleAssassin_strip50_45
+  - first:
+      213: 4539089748605504153
+    second: sprPStrangleAssassin_strip50_46
+  - first:
+      213: -304688266731907203
+    second: sprPStrangleAssassin_strip50_47
+  - first:
+      213: 1039047588975823065
+    second: sprPStrangleAssassin_strip50_48
+  - first:
+      213: -6351613773158831196
+    second: sprPStrangleAssassin_strip50_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbcce9b605575640800000000000000
+      internalID: 5068613393006250938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc538a1813e52e90800000000000000
+      internalID: -7050979948915106632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e334d95ba15564cf0800000000000000
+      internalID: -268433554577472706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc39a1747875d0e30800000000000000
+      internalID: 4471326243573896141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617209eb118f9f220800000000000000
+      internalID: 2520318221585753878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_5
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03e1340c8b054020800000000000000
+      internalID: 2325277478600434443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61851d2584209670800000000000000
+      internalID: 8543368647527465325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_7
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2a48122f81abe70800000000000000
+      internalID: 9131638622670594810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_8
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779e3a1035124f620800000000000000
+      internalID: 2806905108152183159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_9
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707507c9ba59f0950800000000000000
+      internalID: 6417512558322800391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_10
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cb71d3d5459db40800000000000000
+      internalID: 5465492382224464926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_11
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b49cae6293af640800000000000000
+      internalID: 5114463166143220633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86540044c6e5bf80800000000000000
+      internalID: -8091307424939223409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_13
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6dc981cc99e6340800000000000000
+      internalID: 4858990149844653765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_14
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43fae14d21109990800000000000000
+      internalID: -7381380903183125684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_15
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f15d042c84594620800000000000000
+      internalID: 2758829207618146806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_16
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290e963063aac0f20800000000000000
+      internalID: 3390271768465367186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_17
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aad70cda0500e80800000000000000
+      internalID: -8214477013134759282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_18
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6462e6c1874b8bba0800000000000000
+      internalID: -6072905669543057850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_19
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcde907bd91e6c40800000000000000
+      internalID: 5507367824598686941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_20
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1067ddae53c813ed0800000000000000
+      internalID: -2436011760229190143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_21
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 1
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9da533d9be07db40800000000000000
+      internalID: 5464852864112635294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_22
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37bc53911ff125b0800000000000000
+      internalID: -5394750427661289666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_23
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df49ac2361d7fc270800000000000000
+      internalID: 8272968574797780221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_24
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24fa0a3c679e8490800000000000000
+      internalID: -7742084218317245394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_25
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bca557c43e48d000800000000000000
+      internalID: 60884583559048375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_26
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdffeae2c52871e0800000000000000
+      internalID: -2199966898875007544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_27
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fec6d34373bc8c0800000000000000
+      internalID: -3978025148343324923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_28
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 1
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338d43a2e5cdf6200800000000000000
+      internalID: 175601207483881523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_29
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb43038987258620800000000000000
+      internalID: 2775668216905812966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_30
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c5d456581cd390800000000000000
+      internalID: -7792326496188250243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_31
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43db61fb1ca79e70800000000000000
+      internalID: 9121948806276698954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_32
+      rect:
+        serializedVersion: 2
+        x: 2051
+        y: 1
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fc21cd218095780800000000000000
+      internalID: -8693908728567378116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_33
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44b464ae18fc1930800000000000000
+      internalID: 4115436970000561228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_34
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84b1b1fff64859f0800000000000000
+      internalID: -479555295229397878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_35
+      rect:
+        serializedVersion: 2
+        x: 2246
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34116fd567824f9c0800000000000000
+      internalID: -3894443288920977085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_36
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2a597c6d93c9a40800000000000000
+      internalID: 5376235649807786704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_37
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f506454271c24d0800000000000000
+      internalID: -3158123793891696794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_38
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b442dcd36e869c400800000000000000
+      internalID: 344922184559174731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_39
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5042e7820b660a6e0800000000000000
+      internalID: -1828348541932788731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_40
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb69e954893cef0800000000000000
+      internalID: -89060142836433975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_41
+      rect:
+        serializedVersion: 2
+        x: 2630
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eaa0618b0082570800000000000000
+      internalID: 8441998292149775983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_42
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 1
+        width: 51
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dc9d27c710d32f0800000000000000
+      internalID: -991634708937192167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_43
+      rect:
+        serializedVersion: 2
+        x: 2758
+        y: 0
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a115aeff66bcd6d0800000000000000
+      internalID: -2964293862586773085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_44
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4938d8652f0cd0800000000000000
+      internalID: -2589810128480285940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_45
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24f301d066bb4d90800000000000000
+      internalID: -7112390659561753556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_46
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a8f35c3161efe30800000000000000
+      internalID: 4539089748605504153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_47
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77173eb2a785cbf0800000000000000
+      internalID: -304688266731907203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_48
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d841ade6407b6e00800000000000000
+      internalID: 1039047588975823065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPStrangleAssassin_strip50_49
+      rect:
+        serializedVersion: 2
+        x: 3142
+        y: 0
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba364fce88ad7a0800000000000000
+      internalID: -6351613773158831196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

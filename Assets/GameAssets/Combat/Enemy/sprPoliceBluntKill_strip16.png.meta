@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: a3e224c1c528ae3478c2424f64d50903
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4171862239578563136
+    second: sprPoliceBluntKill_strip16_0
+  - first:
+      213: -680675636181218109
+    second: sprPoliceBluntKill_strip16_1
+  - first:
+      213: 4074116056220926038
+    second: sprPoliceBluntKill_strip16_2
+  - first:
+      213: -1254328188486554664
+    second: sprPoliceBluntKill_strip16_3
+  - first:
+      213: -5907556689131919263
+    second: sprPoliceBluntKill_strip16_4
+  - first:
+      213: 5084159458011352812
+    second: sprPoliceBluntKill_strip16_5
+  - first:
+      213: -3493719091491005572
+    second: sprPoliceBluntKill_strip16_6
+  - first:
+      213: 1430493310868998549
+    second: sprPoliceBluntKill_strip16_7
+  - first:
+      213: -7617367776076408694
+    second: sprPoliceBluntKill_strip16_8
+  - first:
+      213: 6936626732164197448
+    second: sprPoliceBluntKill_strip16_9
+  - first:
+      213: 5623185121827941580
+    second: sprPoliceBluntKill_strip16_10
+  - first:
+      213: 5041385773013841836
+    second: sprPoliceBluntKill_strip16_11
+  - first:
+      213: 6767785330721027233
+    second: sprPoliceBluntKill_strip16_12
+  - first:
+      213: -555625400356187143
+    second: sprPoliceBluntKill_strip16_13
+  - first:
+      213: 4358546596090782356
+    second: sprPoliceBluntKill_strip16_14
+  - first:
+      213: -3952008159426433298
+    second: sprPoliceBluntKill_strip16_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cddd0685619a16c0800000000000000
+      internalID: -4171862239578563136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 15
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccc7228d11cd86f0800000000000000
+      internalID: -680675636181218109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 16
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65083c0b7fa2a8830800000000000000
+      internalID: 4074116056220926038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dbef75882bb79ee0800000000000000
+      internalID: -1254328188486554664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 16
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1682fc5ad74240ea0800000000000000
+      internalID: -5907556689131919263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_5
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 15
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee853c07109e8640800000000000000
+      internalID: 5084159458011352812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 16
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b9dae2ff0d38fc0800000000000000
+      internalID: -3493719091491005572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 16
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5994bef46122ad310800000000000000
+      internalID: 1430493310868998549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_8
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 16
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88557fbd5ca94690800000000000000
+      internalID: -7617367776076408694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_9
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 15
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c2026d249d34060800000000000000
+      internalID: 6936626732164197448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 16
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce0dc4311990e40800000000000000
+      internalID: 5623185121827941580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 16
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca7b23076a996f540800000000000000
+      internalID: 5041385773013841836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 16
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4f9b9a6e00ced50800000000000000
+      internalID: 6767785330721027233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_13
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 15
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3d59764a50a48f0800000000000000
+      internalID: -555625400356187143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_14
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 16
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492aafc590bac7c30800000000000000
+      internalID: 4358546596090782356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPoliceBluntKill_strip16_15
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 16
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee21f38485a729c0800000000000000
+      internalID: -3952008159426433298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

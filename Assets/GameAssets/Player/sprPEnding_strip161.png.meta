@@ -1,0 +1,4155 @@
+fileFormatVersion: 2
+guid: 31d26fe0cfc3bc1499a003e4319f14ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2301524320789209281
+    second: sprPEnding_strip161_0
+  - first:
+      213: 5421112965470662426
+    second: sprPEnding_strip161_1
+  - first:
+      213: -4729131051812207743
+    second: sprPEnding_strip161_2
+  - first:
+      213: -4023488269727176556
+    second: sprPEnding_strip161_3
+  - first:
+      213: 3114200285617359520
+    second: sprPEnding_strip161_4
+  - first:
+      213: 840157375648167906
+    second: sprPEnding_strip161_5
+  - first:
+      213: 4266982731819131540
+    second: sprPEnding_strip161_6
+  - first:
+      213: 3685840282585733697
+    second: sprPEnding_strip161_7
+  - first:
+      213: -3882474175248917491
+    second: sprPEnding_strip161_8
+  - first:
+      213: 3686019712070874856
+    second: sprPEnding_strip161_9
+  - first:
+      213: -2360291077400737807
+    second: sprPEnding_strip161_10
+  - first:
+      213: 8564457060648269326
+    second: sprPEnding_strip161_11
+  - first:
+      213: -7055055840873805794
+    second: sprPEnding_strip161_12
+  - first:
+      213: 760995883472397083
+    second: sprPEnding_strip161_13
+  - first:
+      213: -1095162199165981068
+    second: sprPEnding_strip161_14
+  - first:
+      213: -3671511003585334543
+    second: sprPEnding_strip161_15
+  - first:
+      213: -4972779320269656508
+    second: sprPEnding_strip161_16
+  - first:
+      213: 2388107980697838162
+    second: sprPEnding_strip161_17
+  - first:
+      213: 6206375107529088946
+    second: sprPEnding_strip161_18
+  - first:
+      213: 4505084162920431241
+    second: sprPEnding_strip161_19
+  - first:
+      213: -4261993935473987633
+    second: sprPEnding_strip161_20
+  - first:
+      213: -7849820376760225193
+    second: sprPEnding_strip161_21
+  - first:
+      213: 2018373828692153680
+    second: sprPEnding_strip161_22
+  - first:
+      213: -2067084309724472181
+    second: sprPEnding_strip161_23
+  - first:
+      213: 9036899064345089737
+    second: sprPEnding_strip161_24
+  - first:
+      213: -7211615021282699796
+    second: sprPEnding_strip161_25
+  - first:
+      213: 4061869666566716426
+    second: sprPEnding_strip161_26
+  - first:
+      213: 1386164679999951733
+    second: sprPEnding_strip161_27
+  - first:
+      213: -4840095755223778914
+    second: sprPEnding_strip161_28
+  - first:
+      213: 5812494168544316712
+    second: sprPEnding_strip161_29
+  - first:
+      213: 4849498558949222929
+    second: sprPEnding_strip161_30
+  - first:
+      213: 4970111850436443750
+    second: sprPEnding_strip161_31
+  - first:
+      213: 775442878538238333
+    second: sprPEnding_strip161_32
+  - first:
+      213: 263514836728526840
+    second: sprPEnding_strip161_33
+  - first:
+      213: -615517301936159320
+    second: sprPEnding_strip161_34
+  - first:
+      213: 7603721271294123062
+    second: sprPEnding_strip161_35
+  - first:
+      213: 6637286907813536494
+    second: sprPEnding_strip161_36
+  - first:
+      213: -7164140080183159054
+    second: sprPEnding_strip161_37
+  - first:
+      213: -5170323563677320571
+    second: sprPEnding_strip161_38
+  - first:
+      213: 7811342777712449050
+    second: sprPEnding_strip161_39
+  - first:
+      213: -4603458888473617414
+    second: sprPEnding_strip161_40
+  - first:
+      213: -3202807838769007467
+    second: sprPEnding_strip161_41
+  - first:
+      213: 4656647974704639516
+    second: sprPEnding_strip161_42
+  - first:
+      213: -7546850990874853134
+    second: sprPEnding_strip161_43
+  - first:
+      213: -3379463873461893155
+    second: sprPEnding_strip161_44
+  - first:
+      213: 7908499711387976400
+    second: sprPEnding_strip161_45
+  - first:
+      213: -7622208354624833869
+    second: sprPEnding_strip161_46
+  - first:
+      213: -3280166851399746943
+    second: sprPEnding_strip161_47
+  - first:
+      213: 65359621838299410
+    second: sprPEnding_strip161_48
+  - first:
+      213: 8170882334829879606
+    second: sprPEnding_strip161_49
+  - first:
+      213: 7658186956764159288
+    second: sprPEnding_strip161_50
+  - first:
+      213: 1360224894765348576
+    second: sprPEnding_strip161_51
+  - first:
+      213: 8485619529599888776
+    second: sprPEnding_strip161_52
+  - first:
+      213: -7040794714678654585
+    second: sprPEnding_strip161_53
+  - first:
+      213: -2004347380462673911
+    second: sprPEnding_strip161_54
+  - first:
+      213: -8862052821981283797
+    second: sprPEnding_strip161_55
+  - first:
+      213: -5907011176663292929
+    second: sprPEnding_strip161_56
+  - first:
+      213: 1082448533572356952
+    second: sprPEnding_strip161_57
+  - first:
+      213: 7515130520843309093
+    second: sprPEnding_strip161_58
+  - first:
+      213: -3147940789761132582
+    second: sprPEnding_strip161_59
+  - first:
+      213: 773675923581333081
+    second: sprPEnding_strip161_60
+  - first:
+      213: -5036857513460403716
+    second: sprPEnding_strip161_61
+  - first:
+      213: -7967523645933679522
+    second: sprPEnding_strip161_62
+  - first:
+      213: -9200375319211630705
+    second: sprPEnding_strip161_63
+  - first:
+      213: 8206985036630205711
+    second: sprPEnding_strip161_64
+  - first:
+      213: 7175067523539183043
+    second: sprPEnding_strip161_65
+  - first:
+      213: 1053419983105399164
+    second: sprPEnding_strip161_66
+  - first:
+      213: -7970170998446317424
+    second: sprPEnding_strip161_67
+  - first:
+      213: -1872606066404346756
+    second: sprPEnding_strip161_68
+  - first:
+      213: -7895141522007218288
+    second: sprPEnding_strip161_69
+  - first:
+      213: 6549630144858162899
+    second: sprPEnding_strip161_70
+  - first:
+      213: -3079754235119411244
+    second: sprPEnding_strip161_71
+  - first:
+      213: 7218974276701097914
+    second: sprPEnding_strip161_72
+  - first:
+      213: 1112860190416546916
+    second: sprPEnding_strip161_73
+  - first:
+      213: -7355912249155821828
+    second: sprPEnding_strip161_74
+  - first:
+      213: -2928741186693301098
+    second: sprPEnding_strip161_75
+  - first:
+      213: -5356357686071654188
+    second: sprPEnding_strip161_76
+  - first:
+      213: 6382905733418336703
+    second: sprPEnding_strip161_77
+  - first:
+      213: 4047632600794334371
+    second: sprPEnding_strip161_78
+  - first:
+      213: -7623688424788353256
+    second: sprPEnding_strip161_79
+  - first:
+      213: -4743969309814773821
+    second: sprPEnding_strip161_80
+  - first:
+      213: -1218828680846762986
+    second: sprPEnding_strip161_81
+  - first:
+      213: -4399648595727897901
+    second: sprPEnding_strip161_82
+  - first:
+      213: 1538712282827195270
+    second: sprPEnding_strip161_83
+  - first:
+      213: 2505117869838576959
+    second: sprPEnding_strip161_84
+  - first:
+      213: -765412858123989030
+    second: sprPEnding_strip161_85
+  - first:
+      213: 9052979704055057563
+    second: sprPEnding_strip161_86
+  - first:
+      213: -8302288163399876473
+    second: sprPEnding_strip161_87
+  - first:
+      213: 4827881063535502766
+    second: sprPEnding_strip161_88
+  - first:
+      213: -772770277858428196
+    second: sprPEnding_strip161_89
+  - first:
+      213: 5929899275770202534
+    second: sprPEnding_strip161_90
+  - first:
+      213: 5013504976533201648
+    second: sprPEnding_strip161_91
+  - first:
+      213: 8886926426011596186
+    second: sprPEnding_strip161_92
+  - first:
+      213: 5979894332301493157
+    second: sprPEnding_strip161_93
+  - first:
+      213: 4294903916990928072
+    second: sprPEnding_strip161_94
+  - first:
+      213: 8573653479561072468
+    second: sprPEnding_strip161_95
+  - first:
+      213: -1796264513046961234
+    second: sprPEnding_strip161_96
+  - first:
+      213: 8711950917775135251
+    second: sprPEnding_strip161_97
+  - first:
+      213: -7448859901022135045
+    second: sprPEnding_strip161_98
+  - first:
+      213: -570786411927721160
+    second: sprPEnding_strip161_99
+  - first:
+      213: -6140186888476845734
+    second: sprPEnding_strip161_100
+  - first:
+      213: -7740393849034787330
+    second: sprPEnding_strip161_101
+  - first:
+      213: -4756211245499167248
+    second: sprPEnding_strip161_102
+  - first:
+      213: -7561847160397851376
+    second: sprPEnding_strip161_103
+  - first:
+      213: -1656270471905917170
+    second: sprPEnding_strip161_104
+  - first:
+      213: -8907256559710099195
+    second: sprPEnding_strip161_105
+  - first:
+      213: -185533034544139982
+    second: sprPEnding_strip161_106
+  - first:
+      213: -2316003295284242913
+    second: sprPEnding_strip161_107
+  - first:
+      213: 9122136363033234953
+    second: sprPEnding_strip161_108
+  - first:
+      213: 3107254169970575441
+    second: sprPEnding_strip161_109
+  - first:
+      213: 6348038188676036057
+    second: sprPEnding_strip161_110
+  - first:
+      213: -736974656343992449
+    second: sprPEnding_strip161_111
+  - first:
+      213: 5963549133480607508
+    second: sprPEnding_strip161_112
+  - first:
+      213: 2715876427459574033
+    second: sprPEnding_strip161_113
+  - first:
+      213: 697281549341703246
+    second: sprPEnding_strip161_114
+  - first:
+      213: 6274826185383695541
+    second: sprPEnding_strip161_115
+  - first:
+      213: -8790494067884508359
+    second: sprPEnding_strip161_116
+  - first:
+      213: 8454454618878367726
+    second: sprPEnding_strip161_117
+  - first:
+      213: -2611764513898968745
+    second: sprPEnding_strip161_118
+  - first:
+      213: 8137684980533552361
+    second: sprPEnding_strip161_119
+  - first:
+      213: -7695974183374759905
+    second: sprPEnding_strip161_120
+  - first:
+      213: 1748861060815855507
+    second: sprPEnding_strip161_121
+  - first:
+      213: -8232065104144121529
+    second: sprPEnding_strip161_122
+  - first:
+      213: 6310472318789334226
+    second: sprPEnding_strip161_123
+  - first:
+      213: 2076598908625666649
+    second: sprPEnding_strip161_124
+  - first:
+      213: 2647513252540467854
+    second: sprPEnding_strip161_125
+  - first:
+      213: -3859082906127156617
+    second: sprPEnding_strip161_126
+  - first:
+      213: -364498277090431777
+    second: sprPEnding_strip161_127
+  - first:
+      213: -440853546662439546
+    second: sprPEnding_strip161_128
+  - first:
+      213: -4219601391703382942
+    second: sprPEnding_strip161_129
+  - first:
+      213: -3415679765271908340
+    second: sprPEnding_strip161_130
+  - first:
+      213: 4516451106499200801
+    second: sprPEnding_strip161_131
+  - first:
+      213: -16490512161473484
+    second: sprPEnding_strip161_132
+  - first:
+      213: -1378419808043876191
+    second: sprPEnding_strip161_133
+  - first:
+      213: 7444592658243533423
+    second: sprPEnding_strip161_134
+  - first:
+      213: 5233652746144535851
+    second: sprPEnding_strip161_135
+  - first:
+      213: -6530379817610136924
+    second: sprPEnding_strip161_136
+  - first:
+      213: -7724602802913001332
+    second: sprPEnding_strip161_137
+  - first:
+      213: -316255819633835681
+    second: sprPEnding_strip161_138
+  - first:
+      213: 7451970864033888515
+    second: sprPEnding_strip161_139
+  - first:
+      213: 1753858105608545151
+    second: sprPEnding_strip161_140
+  - first:
+      213: 1594649417244545373
+    second: sprPEnding_strip161_141
+  - first:
+      213: -4379826609083971380
+    second: sprPEnding_strip161_142
+  - first:
+      213: -6165845989135275705
+    second: sprPEnding_strip161_143
+  - first:
+      213: 1012061471679798172
+    second: sprPEnding_strip161_144
+  - first:
+      213: -8193419444827778486
+    second: sprPEnding_strip161_145
+  - first:
+      213: 5564484349890660327
+    second: sprPEnding_strip161_146
+  - first:
+      213: -8038957573642260798
+    second: sprPEnding_strip161_147
+  - first:
+      213: 3554323239847884095
+    second: sprPEnding_strip161_148
+  - first:
+      213: -2875353553256230382
+    second: sprPEnding_strip161_149
+  - first:
+      213: 6035832854486882459
+    second: sprPEnding_strip161_150
+  - first:
+      213: 5978380828307071993
+    second: sprPEnding_strip161_151
+  - first:
+      213: -4291981842880347062
+    second: sprPEnding_strip161_152
+  - first:
+      213: -8417529651337056173
+    second: sprPEnding_strip161_153
+  - first:
+      213: 7384533478873307707
+    second: sprPEnding_strip161_154
+  - first:
+      213: 1526265916977194097
+    second: sprPEnding_strip161_155
+  - first:
+      213: -152713428166916496
+    second: sprPEnding_strip161_156
+  - first:
+      213: 8244329270329865003
+    second: sprPEnding_strip161_157
+  - first:
+      213: -4896981496601334648
+    second: sprPEnding_strip161_158
+  - first:
+      213: -6238556587783257534
+    second: sprPEnding_strip161_159
+  - first:
+      213: 2525900964877306364
+    second: sprPEnding_strip161_160
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPEnding_strip161_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0209efc28a0ff10800000000000000
+      internalID: 2301524320789209281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fa4221589ab3b40800000000000000
+      internalID: 5421112965470662426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183c6784d50ce5eb0800000000000000
+      internalID: -4729131051812207743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498e5fc6cb2b928c0800000000000000
+      internalID: -4023488269727176556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa84a7f8acd73b20800000000000000
+      internalID: 3114200285617359520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7feea8ea6d8ab00800000000000000
+      internalID: 840157375648167906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 4
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4922ec8ef2e573b30800000000000000
+      internalID: 4266982731819131540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14a1956653cb62330800000000000000
+      internalID: 3685840282585733697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c19aece4eae1ac0800000000000000
+      internalID: -3882474175248917491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e67215166f572330800000000000000
+      internalID: 3686019712070874856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7410d35cf8e3fd0800000000000000
+      internalID: -2360291077400737807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 5
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b60af1501bd670800000000000000
+      internalID: 8564457060648269326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_12
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180c2e8718671e90800000000000000
+      internalID: -7055055840873805794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_13
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1328ed59b99f8a00800000000000000
+      internalID: 760995883472397083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_14
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 5
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ea64348c33dc0f0800000000000000
+      internalID: -1095162199165981068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_15
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2bb5ad13c2c0dc0800000000000000
+      internalID: -3671511003585334543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e2bec1e832dfab0800000000000000
+      internalID: -4972779320269656508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_17
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25225c24e83442120800000000000000
+      internalID: 2388107980697838162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_18
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf191b0749712650800000000000000
+      internalID: 6206375107529088946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_19
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e3c1e5d26458e30800000000000000
+      internalID: 4505084162920431241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_20
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf2431c81b5ad4c0800000000000000
+      internalID: -4261993935473987633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_21
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752759c15f5df0390800000000000000
+      internalID: -7849820376760225193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_22
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055142bad44b20c10800000000000000
+      internalID: 2018373828692153680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_23
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cd61ea5cd3053e0800000000000000
+      internalID: -2067084309724472181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c65959c1d3896d70800000000000000
+      internalID: 9036899064345089737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_25
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 5
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5d29fc8523beb90800000000000000
+      internalID: -7211615021282699796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_26
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 5
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cb4a7e0f8ae5830800000000000000
+      internalID: 4061869666566716426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_27
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 4
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5731797ae65ac3310800000000000000
+      internalID: 1386164679999951733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_28
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99b207fd8684dcb0800000000000000
+      internalID: -4840095755223778914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_29
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d0d1f76a02aa050800000000000000
+      internalID: 5812494168544316712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_30
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11aefe0ee31ec4340800000000000000
+      internalID: 4849498558949222929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_31
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66e393b256269f440800000000000000
+      internalID: 4970111850436443750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_32
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 4
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79c0e6803de2ca00800000000000000
+      internalID: 775442878538238333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_33
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7bf3c095138a300800000000000000
+      internalID: 263514836728526840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_34
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a50df8664e3577f0800000000000000
+      internalID: -615517301936159320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_35
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c5192c538d58960800000000000000
+      internalID: 7603721271294123062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_36
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2a39cd6416c1c50800000000000000
+      internalID: 6637286907813536494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_37
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f65b87ed8cd39c90800000000000000
+      internalID: -7164140080183159054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_38
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a7e25cc125f38b0800000000000000
+      internalID: -5170323563677320571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_39
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161d5cbed6776c60800000000000000
+      internalID: 7811342777712449050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_40
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb5a66f78a3d10c0800000000000000
+      internalID: -4603458888473617414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_41
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59436566d375d83d0800000000000000
+      internalID: -3202807838769007467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_42
+      rect:
+        serializedVersion: 2
+        x: 1352
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eef4839acbf9040800000000000000
+      internalID: 4656647974704639516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_43
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0891c3203344790800000000000000
+      internalID: -7546850990874853134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_44
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7c903238bb911d0800000000000000
+      internalID: -3379463873461893155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_45
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d24f832692a0cd60800000000000000
+      internalID: 7908499711387976400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_46
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6729ab2e9783690800000000000000
+      internalID: -7622208354624833869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_47
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a7e42b0a18a72d0800000000000000
+      internalID: -3280166851399746943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_48
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2116352da3438e000800000000000000
+      internalID: 65359621838299410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_49
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631ac0d313ec46170800000000000000
+      internalID: 8170882334829879606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_50
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d157d5678574a60800000000000000
+      internalID: 7658186956764159288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_51
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6b123c55d70e210800000000000000
+      internalID: 1360224894765348576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_52
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d2be0e00af2c570800000000000000
+      internalID: 8485619529599888776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_53
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789812fb2821a4e90800000000000000
+      internalID: -7040794714678654585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_54
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900a90d4da02f24e0800000000000000
+      internalID: -2004347380462673911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_55
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2abe0d59e9a30580800000000000000
+      internalID: -8862052821981283797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_56
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3e8baa1a4160ea0800000000000000
+      internalID: -5907011176663292929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_57
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b093bc431a50f00800000000000000
+      internalID: 1082448533572356952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_58
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520df8f446b1b4860800000000000000
+      internalID: 7515130520843309093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_59
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7335cb7844054d0800000000000000
+      internalID: -3147940789761132582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_60
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e66544726acba00800000000000000
+      internalID: 773675923581333081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_61
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf17fe527cc791ab0800000000000000
+      internalID: -5036857513460403716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_62
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c0990357bad6190800000000000000
+      internalID: -7967523645933679522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_63
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f9e129463b15080800000000000000
+      internalID: -9200375319211630705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_64
+      rect:
+        serializedVersion: 2
+        x: 2055
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f052a49886115e170800000000000000
+      internalID: 8206985036630205711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_65
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5aef3c5e5f29360800000000000000
+      internalID: 7175067523539183043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_66
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c799b44b4ef7e9e00800000000000000
+      internalID: 1053419983105399164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_67
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090ac7664b3446190800000000000000
+      internalID: -7970170998446317424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_68
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 3
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c743abf34ba2306e0800000000000000
+      internalID: -1872606066404346756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_69
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097a251bd92de6290800000000000000
+      internalID: -7895141522007218288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_70
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 3
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d606725ae5f4ea50800000000000000
+      internalID: 6549630144858162899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_71
+      rect:
+        serializedVersion: 2
+        x: 2279
+        y: 3
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd33427d38245d0800000000000000
+      internalID: -3079754235119411244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_72
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf837d5bd2fe2460800000000000000
+      internalID: 7218974276701097914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_73
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ca37e627ca17f00800000000000000
+      internalID: 1112860190416546916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_74
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe5f1e58cc8ae990800000000000000
+      internalID: -7355912249155821828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_75
+      rect:
+        serializedVersion: 2
+        x: 2408
+        y: 4
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cf61868650b57d0800000000000000
+      internalID: -2928741186693301098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_76
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d804cf40156aa5b0800000000000000
+      internalID: -5356357686071654188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_77
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1443b42f2a49850800000000000000
+      internalID: 6382905733418336703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_78
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a403a7b7641c2830800000000000000
+      internalID: 4047632600794334371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_79
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f9b3a05c7333690800000000000000
+      internalID: -7623688424788353256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_80
+      rect:
+        serializedVersion: 2
+        x: 2568
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c7a22f1c090a2eb0800000000000000
+      internalID: -4743969309814773821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_81
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c121cb5c9d51fe0800000000000000
+      internalID: -1218828680846762986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_82
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3daa71b99ee41f2c0800000000000000
+      internalID: -4399648595727897901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_83
+      rect:
+        serializedVersion: 2
+        x: 2664
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68302753baa9a5510800000000000000
+      internalID: 1538712282827195270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_84
+      rect:
+        serializedVersion: 2
+        x: 2696
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d26301e67f3c220800000000000000
+      internalID: 2505117869838576959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_85
+      rect:
+        serializedVersion: 2
+        x: 2728
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfc0059f05b065f0800000000000000
+      internalID: -765412858123989030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_86
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cc50b7315a2ad70800000000000000
+      internalID: 9052979704055057563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_87
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780ce9d17e858cc80800000000000000
+      internalID: -8302288163399876473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_88
+      rect:
+        serializedVersion: 2
+        x: 2824
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea56ed18f34100340800000000000000
+      internalID: 4827881063535502766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_89
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdab44fc6819645f0800000000000000
+      internalID: -772770277858428196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_90
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 5
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9012e29fb3b4250800000000000000
+      internalID: 5929899275770202534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_91
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 4
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f22ae5a63c839540800000000000000
+      internalID: 5013504976533201648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_92
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95f37fdf74b45b70800000000000000
+      internalID: 8886926426011596186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_93
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3c33f563adcf250800000000000000
+      internalID: 5979894332301493157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_94
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c49dac6b509a9b30800000000000000
+      internalID: 4294903916990928072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_95
+      rect:
+        serializedVersion: 2
+        x: 3047
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f878c1a6cbbf670800000000000000
+      internalID: 8573653479561072468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_96
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3223141f26217e0800000000000000
+      internalID: -1796264513046961234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_97
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31210aaa33117e870800000000000000
+      internalID: 8711950917775135251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_98
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc9ce1c26550a890800000000000000
+      internalID: -7448859901022135045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_99
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bad6258c82418f0800000000000000
+      internalID: -570786411927721160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_100
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5993d99e8ca9caa0800000000000000
+      internalID: -6140186888476845734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_101
+      rect:
+        serializedVersion: 2
+        x: 3239
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5b9aefdc8949490800000000000000
+      internalID: -7740393849034787330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_102
+      rect:
+        serializedVersion: 2
+        x: 3271
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fdcd4b521b8efdb0800000000000000
+      internalID: -4756211245499167248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_103
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01590be621cee0790800000000000000
+      internalID: -7561847160397851376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_104
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e074416f7ceb309e0800000000000000
+      internalID: -1656270471905917170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_105
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50926330a51136480800000000000000
+      internalID: -8907256559710099195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_106
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23175e520badc6df0800000000000000
+      internalID: -185533034544139982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_107
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16d2fd0647ebdfd0800000000000000
+      internalID: -2316003295284242913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_108
+      rect:
+        serializedVersion: 2
+        x: 3463
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e0547e0b6589e70800000000000000
+      internalID: 9122136363033234953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_109
+      rect:
+        serializedVersion: 2
+        x: 3495
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15882f3643f2f1b20800000000000000
+      internalID: 3107254169970575441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_110
+      rect:
+        serializedVersion: 2
+        x: 3527
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d536a86913c81850800000000000000
+      internalID: 6348038188676036057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_111
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f779628647db5c5f0800000000000000
+      internalID: -736974656343992449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_112
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 3
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f33b53758c2c250800000000000000
+      internalID: 5963549133480607508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_113
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 3
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119b590b83bb0b520800000000000000
+      internalID: 2715876427459574033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_114
+      rect:
+        serializedVersion: 2
+        x: 3655
+        y: 3
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c32f0ffdd3da900800000000000000
+      internalID: 697281549341703246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_115
+      rect:
+        serializedVersion: 2
+        x: 3687
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b45d1f8b29a41750800000000000000
+      internalID: 6274826185383695541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_116
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bb0932834e10680800000000000000
+      internalID: -8790494067884508359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_117
+      rect:
+        serializedVersion: 2
+        x: 3751
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7d7e7aea1445570800000000000000
+      internalID: 8454454618878367726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_118
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759c418230621cbd0800000000000000
+      internalID: -2611764513898968745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_119
+      rect:
+        serializedVersion: 2
+        x: 3815
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ebbedf5ddee070800000000000000
+      internalID: 8137684980533552361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_120
+      rect:
+        serializedVersion: 2
+        x: 3847
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18de575148623590800000000000000
+      internalID: -7695974183374759905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_121
+      rect:
+        serializedVersion: 2
+        x: 3879
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f11737ed3354810800000000000000
+      internalID: 1748861060815855507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_122
+      rect:
+        serializedVersion: 2
+        x: 3911
+        y: 3
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741c9933764d1cd80800000000000000
+      internalID: -8232065104144121529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_123
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 3
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4bf5eb32d439750800000000000000
+      internalID: 6310472318789334226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_124
+      rect:
+        serializedVersion: 2
+        x: 3975
+        y: 3
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952c89184bf81dc10800000000000000
+      internalID: 2076598908625666649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_125
+      rect:
+        serializedVersion: 2
+        x: 4007
+        y: 3
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a40dba64bddb420800000000000000
+      internalID: 2647513252540467854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_126
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 3
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a328d0b88c17ac0800000000000000
+      internalID: -3859082906127156617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_127
+      rect:
+        serializedVersion: 2
+        x: 4071
+        y: 3
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc68c88fba01faf0800000000000000
+      internalID: -364498277090431777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_128
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685d639f806c1e9f0800000000000000
+      internalID: -440853546662439546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_129
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a6c104e6f075c0800000000000000
+      internalID: -4219601391703382942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_130
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c007a7cb9511990d0800000000000000
+      internalID: -3415679765271908340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_131
+      rect:
+        serializedVersion: 2
+        x: 4199
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1270e482a58adae30800000000000000
+      internalID: 4516451106499200801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_132
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c737077f965cff0800000000000000
+      internalID: -16490512161473484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_133
+      rect:
+        serializedVersion: 2
+        x: 4263
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0ce2edc7ededce0800000000000000
+      internalID: -1378419808043876191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_134
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a361c5491805760800000000000000
+      internalID: 7444592658243533423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_135
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2551bb817ba1a840800000000000000
+      internalID: 5233652746144535851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_136
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2b7f2c72e6f55a0800000000000000
+      internalID: -6530379817610136924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_137
+      rect:
+        serializedVersion: 2
+        x: 4391
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80426d6da2bcc490800000000000000
+      internalID: -7724602802913001332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_138
+      rect:
+        serializedVersion: 2
+        x: 4423
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f514394f10f6c9bf0800000000000000
+      internalID: -316255819633835681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_139
+      rect:
+        serializedVersion: 2
+        x: 4455
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309fc43c408ba6760800000000000000
+      internalID: 7451970864033888515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_140
+      rect:
+        serializedVersion: 2
+        x: 4488
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73ac3b97a4f65810800000000000000
+      internalID: 1753858105608545151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_141
+      rect:
+        serializedVersion: 2
+        x: 4520
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5115283235512610800000000000000
+      internalID: 1594649417244545373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_142
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc80fb387eab733c0800000000000000
+      internalID: -4379826609083971380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_143
+      rect:
+        serializedVersion: 2
+        x: 4584
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74923ddadb38e6aa0800000000000000
+      internalID: -6165845989135275705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_144
+      rect:
+        serializedVersion: 2
+        x: 4616
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b555edb809b0e00800000000000000
+      internalID: 1012061471679798172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_145
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42134fec602b4e80800000000000000
+      internalID: -8193419444827778486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_146
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70479c805093d40800000000000000
+      internalID: 5564484349890660327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_147
+      rect:
+        serializedVersion: 2
+        x: 4712
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ceed92dda2ef6090800000000000000
+      internalID: -8038957573642260798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_148
+      rect:
+        serializedVersion: 2
+        x: 4744
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f357c00b72e735130800000000000000
+      internalID: 3554323239847884095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_149
+      rect:
+        serializedVersion: 2
+        x: 4776
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21251867d21b818d0800000000000000
+      internalID: -2875353553256230382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_150
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98925f700693c350800000000000000
+      internalID: 6035832854486882459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_151
+      rect:
+        serializedVersion: 2
+        x: 4840
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3af3340b977f250800000000000000
+      internalID: 5978380828307071993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_152
+      rect:
+        serializedVersion: 2
+        x: 4872
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44c0b8f041df64c0800000000000000
+      internalID: -4291981842880347062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_153
+      rect:
+        serializedVersion: 2
+        x: 4904
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350bcbd416dee2b80800000000000000
+      internalID: -8417529651337056173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_154
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a1938f2122b7660800000000000000
+      internalID: 7384533478873307707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_155
+      rect:
+        serializedVersion: 2
+        x: 4968
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1742636d3c26e2510800000000000000
+      internalID: 1526265916977194097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_156
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076cda932f371edf0800000000000000
+      internalID: -152713428166916496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_157
+      rect:
+        serializedVersion: 2
+        x: 5032
+        y: 5
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23fd518acdb96270800000000000000
+      internalID: 8244329270329865003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_158
+      rect:
+        serializedVersion: 2
+        x: 5064
+        y: 5
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88caa6f264d6a0cb0800000000000000
+      internalID: -4896981496601334648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_159
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 4
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242810236d13c69a0800000000000000
+      internalID: -6238556587783257534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPEnding_strip161_160
+      rect:
+        serializedVersion: 2
+        x: 5127
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf904557b8dcd0320800000000000000
+      internalID: 2525900964877306364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

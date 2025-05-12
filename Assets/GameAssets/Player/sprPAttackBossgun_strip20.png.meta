@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: e1ed792af3b407046a58336ea143cc97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7013370040920826493
+    second: sprPAttackBossgun_strip20_0
+  - first:
+      213: -2965497954207492593
+    second: sprPAttackBossgun_strip20_1
+  - first:
+      213: -3703081038645403483
+    second: sprPAttackBossgun_strip20_2
+  - first:
+      213: 1873599880489194815
+    second: sprPAttackBossgun_strip20_3
+  - first:
+      213: -7802165833423198795
+    second: sprPAttackBossgun_strip20_4
+  - first:
+      213: -3688353397668025932
+    second: sprPAttackBossgun_strip20_5
+  - first:
+      213: -2538566427541850462
+    second: sprPAttackBossgun_strip20_6
+  - first:
+      213: -1337933016792219654
+    second: sprPAttackBossgun_strip20_7
+  - first:
+      213: 7987148958846357397
+    second: sprPAttackBossgun_strip20_8
+  - first:
+      213: 6201365609397362499
+    second: sprPAttackBossgun_strip20_9
+  - first:
+      213: 2602036139011555341
+    second: sprPAttackBossgun_strip20_10
+  - first:
+      213: 4639222919275257064
+    second: sprPAttackBossgun_strip20_11
+  - first:
+      213: -4571842003643047278
+    second: sprPAttackBossgun_strip20_12
+  - first:
+      213: 7236125431426030151
+    second: sprPAttackBossgun_strip20_13
+  - first:
+      213: -3837854219266787072
+    second: sprPAttackBossgun_strip20_14
+  - first:
+      213: 2244700070852879729
+    second: sprPAttackBossgun_strip20_15
+  - first:
+      213: -4602845523247335130
+    second: sprPAttackBossgun_strip20_16
+  - first:
+      213: -4399481349454457260
+    second: sprPAttackBossgun_strip20_17
+  - first:
+      213: -5644492081981668606
+    second: sprPAttackBossgun_strip20_18
+  - first:
+      213: -1740219160108728450
+    second: sprPAttackBossgun_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72e37fc4ee745160800000000000000
+      internalID: 7013370040920826493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f069051925f68d6d0800000000000000
+      internalID: -2965497954207492593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a06e054a630c9cc0800000000000000
+      internalID: -3703081038645403483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 5
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35d5cf1a2d500a10800000000000000
+      internalID: 1873599880489194815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5ee1c138329b390800000000000000
+      internalID: -7802165833423198795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b964e5602650dcc0800000000000000
+      internalID: -3688353397668025932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6b2a7b84335ccd0800000000000000
+      internalID: -2538566427541850462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff35d88205be6de0800000000000000
+      internalID: -1337933016792219654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f0b2c09ad08de60800000000000000
+      internalID: 7987148958846357397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f147e5a2daf0650800000000000000
+      internalID: 6201365609397362499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 5
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00438e051a4c1420800000000000000
+      internalID: 2602036139011555341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 6
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec90495aa4d16040800000000000000
+      internalID: 4639222919275257064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 6
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29265ab9bed8d80c0800000000000000
+      internalID: -4571842003643047278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a9152cdb1eb6460800000000000000
+      internalID: 7236125431426030151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 6
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0097ed0ebe33dbac0800000000000000
+      internalID: -3837854219266787072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 4
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175ea7e42d6c62f10800000000000000
+      internalID: 2244700070852879729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62978de22686f10c0800000000000000
+      internalID: -4602845523247335130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4569fc9a507e1f2c0800000000000000
+      internalID: -4399481349454457260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 3
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2034af37b5cbaa1b0800000000000000
+      internalID: -5644492081981668606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPAttackBossgun_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 3
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ff36ad4ef79d7e0800000000000000
+      internalID: -1740219160108728450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

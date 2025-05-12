@@ -1,0 +1,880 @@
+fileFormatVersion: 2
+guid: b1ec1daa659a31c4a8931be4390ec3d5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5388605705452874073
+    second: sprNicklasServe_strip30_0
+  - first:
+      213: -3327898226972929737
+    second: sprNicklasServe_strip30_1
+  - first:
+      213: -9064967287179449597
+    second: sprNicklasServe_strip30_2
+  - first:
+      213: -7350963073266112292
+    second: sprNicklasServe_strip30_3
+  - first:
+      213: 7368131283867923343
+    second: sprNicklasServe_strip30_4
+  - first:
+      213: -2351006183213197894
+    second: sprNicklasServe_strip30_5
+  - first:
+      213: 8081334987733144271
+    second: sprNicklasServe_strip30_6
+  - first:
+      213: -6826093117097188100
+    second: sprNicklasServe_strip30_7
+  - first:
+      213: 6176664814254578743
+    second: sprNicklasServe_strip30_8
+  - first:
+      213: -4393996600502964434
+    second: sprNicklasServe_strip30_9
+  - first:
+      213: 9119807153974462663
+    second: sprNicklasServe_strip30_10
+  - first:
+      213: 2254387851351315546
+    second: sprNicklasServe_strip30_11
+  - first:
+      213: 6946434595174752574
+    second: sprNicklasServe_strip30_12
+  - first:
+      213: 8334338443573144051
+    second: sprNicklasServe_strip30_13
+  - first:
+      213: 6480956938229751033
+    second: sprNicklasServe_strip30_14
+  - first:
+      213: -2821398194902318149
+    second: sprNicklasServe_strip30_15
+  - first:
+      213: 5578639725026012261
+    second: sprNicklasServe_strip30_16
+  - first:
+      213: 769126085600646899
+    second: sprNicklasServe_strip30_17
+  - first:
+      213: -4715548487324895957
+    second: sprNicklasServe_strip30_18
+  - first:
+      213: 1829791917154774595
+    second: sprNicklasServe_strip30_19
+  - first:
+      213: 1944880511620678551
+    second: sprNicklasServe_strip30_20
+  - first:
+      213: -6308999624360218363
+    second: sprNicklasServe_strip30_21
+  - first:
+      213: -3497220223566032637
+    second: sprNicklasServe_strip30_22
+  - first:
+      213: 5384453975638279026
+    second: sprNicklasServe_strip30_23
+  - first:
+      213: 2786720882410884443
+    second: sprNicklasServe_strip30_24
+  - first:
+      213: -62927395729107767
+    second: sprNicklasServe_strip30_25
+  - first:
+      213: -5013434146311593977
+    second: sprNicklasServe_strip30_26
+  - first:
+      213: 1647055195135488818
+    second: sprNicklasServe_strip30_27
+  - first:
+      213: 8665194597941403079
+    second: sprNicklasServe_strip30_28
+  - first:
+      213: -8059774985045430361
+    second: sprNicklasServe_strip30_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959692cc65c28ca40800000000000000
+      internalID: 5388605705452874073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 7
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73150acc13ee0d1d0800000000000000
+      internalID: -3327898226972929737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 8
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30be123d744c23280800000000000000
+      internalID: -9064967287179449597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 9
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8a5fc28022cf990800000000000000
+      internalID: -7350963073266112292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f3695d5cd04660800000000000000
+      internalID: 7368131283867923343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab594d0255c8f5fd0800000000000000
+      internalID: -2351006183213197894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc215c6ca5ba62070800000000000000
+      internalID: 8081334987733144271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4eea7e978d441a0800000000000000
+      internalID: -6826093117097188100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c5c465cebe7b550800000000000000
+      internalID: 6176664814254578743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f2fba4f536503c0800000000000000
+      internalID: -4393996600502964434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_10
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8c6b8a940109e70800000000000000
+      internalID: 9119807153974462663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_11
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5450c97ec1394f10800000000000000
+      internalID: 2254387851351315546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_12
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3120e4e571b66060800000000000000
+      internalID: 6946434595174752574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_13
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f92f0f38a489a370800000000000000
+      internalID: 8334338443573144051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_14
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc99cb6ffbf0f950800000000000000
+      internalID: 6480956938229751033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_15
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb34be64a4168d8d0800000000000000
+      internalID: -2821398194902318149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 9
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cee04e54f4b6d40800000000000000
+      internalID: 5578639725026012261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_17
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 9
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f696bf891c7caa00800000000000000
+      internalID: 769126085600646899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 4
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b257ed382a10f8eb0800000000000000
+      internalID: -4715548487324895957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_19
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e24e2dd0ab46910800000000000000
+      internalID: 1829791917154774595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_20
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7930bb9558a9dfa10800000000000000
+      internalID: 1944880511620678551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_21
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 3
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501bfe5a44ee178a0800000000000000
+      internalID: -6308999624360218363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_22
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 8
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301d8095cb0677fc0800000000000000
+      internalID: -3497220223566032637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_23
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2730c5fdc5c69ba40800000000000000
+      internalID: 5384453975638279026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d834cb0eb6ca620800000000000000
+      internalID: 2786720882410884443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_25
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 9
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c41de2fddf602ff0800000000000000
+      internalID: -62927395729107767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_26
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 9
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700a84cc434bc6ab0800000000000000
+      internalID: -5013434146311593977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_27
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 8
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233338739f38bd610800000000000000
+      internalID: 1647055195135488818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 7
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd5eef9394f04870800000000000000
+      internalID: 8665194597941403079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprNicklasServe_strip30_29
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 6
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afa9c68a5de52090800000000000000
+      internalID: -8059774985045430361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

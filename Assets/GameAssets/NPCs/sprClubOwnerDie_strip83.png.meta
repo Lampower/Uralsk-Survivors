@@ -1,0 +1,2205 @@
+fileFormatVersion: 2
+guid: 0901978234b5e8d4b88d1e796fbaad5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1195031991545284458
+    second: sprClubOwnerDie_strip83_0
+  - first:
+      213: 318462247290968907
+    second: sprClubOwnerDie_strip83_1
+  - first:
+      213: 6896887167678868683
+    second: sprClubOwnerDie_strip83_2
+  - first:
+      213: 5779986611018345686
+    second: sprClubOwnerDie_strip83_3
+  - first:
+      213: -7848416358839104919
+    second: sprClubOwnerDie_strip83_4
+  - first:
+      213: -4267463558113067824
+    second: sprClubOwnerDie_strip83_5
+  - first:
+      213: -7654336740670098801
+    second: sprClubOwnerDie_strip83_6
+  - first:
+      213: 9198678936671343256
+    second: sprClubOwnerDie_strip83_7
+  - first:
+      213: -390833355498205869
+    second: sprClubOwnerDie_strip83_8
+  - first:
+      213: -663892837208678770
+    second: sprClubOwnerDie_strip83_9
+  - first:
+      213: -583725945643633273
+    second: sprClubOwnerDie_strip83_10
+  - first:
+      213: -435185999561950329
+    second: sprClubOwnerDie_strip83_11
+  - first:
+      213: -7811632734429806055
+    second: sprClubOwnerDie_strip83_12
+  - first:
+      213: -1715688643610307657
+    second: sprClubOwnerDie_strip83_13
+  - first:
+      213: 491942839996401683
+    second: sprClubOwnerDie_strip83_14
+  - first:
+      213: 6775995187822969586
+    second: sprClubOwnerDie_strip83_15
+  - first:
+      213: -6006349936732132134
+    second: sprClubOwnerDie_strip83_16
+  - first:
+      213: 756996826046916814
+    second: sprClubOwnerDie_strip83_17
+  - first:
+      213: 7052171754751184311
+    second: sprClubOwnerDie_strip83_18
+  - first:
+      213: -1273765324142029878
+    second: sprClubOwnerDie_strip83_19
+  - first:
+      213: 3804947824384139168
+    second: sprClubOwnerDie_strip83_20
+  - first:
+      213: 2423665864841876996
+    second: sprClubOwnerDie_strip83_21
+  - first:
+      213: -4737523573946696407
+    second: sprClubOwnerDie_strip83_22
+  - first:
+      213: 2780091950404752114
+    second: sprClubOwnerDie_strip83_23
+  - first:
+      213: 7371566970181757005
+    second: sprClubOwnerDie_strip83_24
+  - first:
+      213: -3967897350305777652
+    second: sprClubOwnerDie_strip83_25
+  - first:
+      213: -8081269580844882446
+    second: sprClubOwnerDie_strip83_26
+  - first:
+      213: 8942369605421149477
+    second: sprClubOwnerDie_strip83_27
+  - first:
+      213: -1309589149862460329
+    second: sprClubOwnerDie_strip83_28
+  - first:
+      213: 7730279181384469363
+    second: sprClubOwnerDie_strip83_29
+  - first:
+      213: 6044526076872675599
+    second: sprClubOwnerDie_strip83_30
+  - first:
+      213: 46350195114324828
+    second: sprClubOwnerDie_strip83_31
+  - first:
+      213: -8601169564115495855
+    second: sprClubOwnerDie_strip83_32
+  - first:
+      213: -4592773785433576451
+    second: sprClubOwnerDie_strip83_33
+  - first:
+      213: 5431966828972915102
+    second: sprClubOwnerDie_strip83_34
+  - first:
+      213: 7077418469157068603
+    second: sprClubOwnerDie_strip83_35
+  - first:
+      213: -3639470378319554780
+    second: sprClubOwnerDie_strip83_36
+  - first:
+      213: 3615065735319040051
+    second: sprClubOwnerDie_strip83_37
+  - first:
+      213: 243760612105148906
+    second: sprClubOwnerDie_strip83_38
+  - first:
+      213: 5409594150047661426
+    second: sprClubOwnerDie_strip83_39
+  - first:
+      213: -2154339314743364886
+    second: sprClubOwnerDie_strip83_40
+  - first:
+      213: -1236689739251129071
+    second: sprClubOwnerDie_strip83_41
+  - first:
+      213: -1904461167874708620
+    second: sprClubOwnerDie_strip83_42
+  - first:
+      213: 8896067575491310168
+    second: sprClubOwnerDie_strip83_43
+  - first:
+      213: 5764008026011793429
+    second: sprClubOwnerDie_strip83_44
+  - first:
+      213: 3575257784800601870
+    second: sprClubOwnerDie_strip83_45
+  - first:
+      213: -4576276152553389630
+    second: sprClubOwnerDie_strip83_46
+  - first:
+      213: -611408435398006057
+    second: sprClubOwnerDie_strip83_47
+  - first:
+      213: 3480324202213485760
+    second: sprClubOwnerDie_strip83_48
+  - first:
+      213: -6190009244013268966
+    second: sprClubOwnerDie_strip83_49
+  - first:
+      213: -426847796058285009
+    second: sprClubOwnerDie_strip83_50
+  - first:
+      213: -2574337380463533462
+    second: sprClubOwnerDie_strip83_51
+  - first:
+      213: -4446320295023549866
+    second: sprClubOwnerDie_strip83_52
+  - first:
+      213: 1303911331448937684
+    second: sprClubOwnerDie_strip83_53
+  - first:
+      213: -859990460691372099
+    second: sprClubOwnerDie_strip83_54
+  - first:
+      213: 6150657719205206535
+    second: sprClubOwnerDie_strip83_55
+  - first:
+      213: 2920421704711513708
+    second: sprClubOwnerDie_strip83_56
+  - first:
+      213: -2255353528369006986
+    second: sprClubOwnerDie_strip83_57
+  - first:
+      213: 2199514480319198000
+    second: sprClubOwnerDie_strip83_58
+  - first:
+      213: 6298590747113368066
+    second: sprClubOwnerDie_strip83_59
+  - first:
+      213: -1566653092783543338
+    second: sprClubOwnerDie_strip83_60
+  - first:
+      213: 6814960133141745920
+    second: sprClubOwnerDie_strip83_61
+  - first:
+      213: -1096308547189825470
+    second: sprClubOwnerDie_strip83_62
+  - first:
+      213: 2013669979840533683
+    second: sprClubOwnerDie_strip83_63
+  - first:
+      213: -4266882578703674268
+    second: sprClubOwnerDie_strip83_64
+  - first:
+      213: 2544534319823657663
+    second: sprClubOwnerDie_strip83_65
+  - first:
+      213: -671393371924850783
+    second: sprClubOwnerDie_strip83_66
+  - first:
+      213: 7639310654698731977
+    second: sprClubOwnerDie_strip83_67
+  - first:
+      213: -3843703917666404723
+    second: sprClubOwnerDie_strip83_68
+  - first:
+      213: -1970449854411159772
+    second: sprClubOwnerDie_strip83_69
+  - first:
+      213: -564073734718052776
+    second: sprClubOwnerDie_strip83_70
+  - first:
+      213: 6269236287470727130
+    second: sprClubOwnerDie_strip83_71
+  - first:
+      213: -2458463198467263540
+    second: sprClubOwnerDie_strip83_72
+  - first:
+      213: 2653281259633504752
+    second: sprClubOwnerDie_strip83_73
+  - first:
+      213: 2505522463775704480
+    second: sprClubOwnerDie_strip83_74
+  - first:
+      213: -9118580298493974637
+    second: sprClubOwnerDie_strip83_75
+  - first:
+      213: -6840618241974709488
+    second: sprClubOwnerDie_strip83_76
+  - first:
+      213: -8286794799880898548
+    second: sprClubOwnerDie_strip83_77
+  - first:
+      213: -3770244104246816404
+    second: sprClubOwnerDie_strip83_78
+  - first:
+      213: 2907072931304673280
+    second: sprClubOwnerDie_strip83_79
+  - first:
+      213: -6436034648413872515
+    second: sprClubOwnerDie_strip83_80
+  - first:
+      213: -2652597435570296323
+    second: sprClubOwnerDie_strip83_81
+  - first:
+      213: -3775860929147148959
+    second: sprClubOwnerDie_strip83_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 6
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67c847c34b959010800000000000000
+      internalID: 1195031991545284458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b96240ab76b6400800000000000000
+      internalID: 318462247290968907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcce275765aa6bf50800000000000000
+      internalID: 6896887167678868683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc2344f233a63050800000000000000
+      internalID: 5779986611018345686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ac70287e2d41390800000000000000
+      internalID: -7848416358839104919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_5
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 5
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcfebef08ce6c4c0800000000000000
+      internalID: -4267463558113067824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82332de94556c590800000000000000
+      internalID: -7654336740670098801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_7
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 6
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892d92791c548af70800000000000000
+      internalID: 9198678936671343256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_8
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 6
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dc727422b739af0800000000000000
+      internalID: -390833355498205869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 6
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e10456bf069c6f0800000000000000
+      internalID: -663892837208678770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 6
+        width: 52
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7857bbb585036e7f0800000000000000
+      internalID: -583725945643633273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_11
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bf2ec93a8e5f9f0800000000000000
+      internalID: -435185999561950329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_12
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9128f747a61879390800000000000000
+      internalID: -7811632734429806055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_13
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 4
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b39f6cc446a038e0800000000000000
+      internalID: -1715688643610307657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_14
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31848c3186bb3d600800000000000000
+      internalID: 491942839996401683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_15
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 5
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2c1f9f8bb290e50800000000000000
+      internalID: 6775995187822969586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_16
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc24683e8825aca0800000000000000
+      internalID: -6006349936732132134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_17
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8ef904a94618a00800000000000000
+      internalID: 756996826046916814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_18
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 6
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdccf0d8d85ed160800000000000000
+      internalID: 7052171754751184311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_19
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 6
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3dd47bf2da25ee0800000000000000
+      internalID: -1273765324142029878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_20
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 6
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afdf4503e3edc430800000000000000
+      internalID: 3804947824384139168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_21
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406d320534792a120800000000000000
+      internalID: 2423665864841876996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_22
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d3ed3f86fe04eb0800000000000000
+      internalID: -4737523573946696407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_23
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 4
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f25cca36eed49620800000000000000
+      internalID: 2780091950404752114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_24
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 3
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48afa76a111d4660800000000000000
+      internalID: 7371566970181757005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_25
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 5
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c087fc9f1623fe8c0800000000000000
+      internalID: -3967897350305777652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_26
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 6
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f52293f12099df80800000000000000
+      internalID: -8081269580844882446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_27
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 6
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52da06507cda91c70800000000000000
+      internalID: 8942369605421149477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_28
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 6
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7540eb05b9763dde0800000000000000
+      internalID: -1309589149862460329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_29
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 6
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bc40d65f7774b60800000000000000
+      internalID: 7730279181384469363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_30
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 6
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01d49f017872e350800000000000000
+      internalID: 6044526076872675599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_31
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 6
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c533f03c14ba4a000800000000000000
+      internalID: 46350195114324828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_32
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 6
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1549ef53ad182a880800000000000000
+      internalID: -8601169564115495855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_33
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 4
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb618163903340c0800000000000000
+      internalID: -4592773785433576451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_34
+      rect:
+        serializedVersion: 2
+        x: 2223
+        y: 3
+        width: 49
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99b2a81d09326b40800000000000000
+      internalID: 5431966828972915102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_35
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 5
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f55e4999a083260800000000000000
+      internalID: 7077418469157068603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_36
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 6
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d4b149f00e7dc0800000000000000
+      internalID: -3639470378319554780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_37
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 6
+        width: 49
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330b061022b4b2230800000000000000
+      internalID: 3615065735319040051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_38
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 6
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae952c63cf2026300800000000000000
+      internalID: 243760612105148906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_39
+      rect:
+        serializedVersion: 2
+        x: 2544
+        y: 6
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d3f9cd73db21b40800000000000000
+      internalID: 5409594150047661426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_40
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 6
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae23013becf3a12e0800000000000000
+      internalID: -2154339314743364886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_41
+      rect:
+        serializedVersion: 2
+        x: 2674
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115e0920c3566dee0800000000000000
+      internalID: -1236689739251129071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_42
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b6d4878aef195e0800000000000000
+      internalID: -1904461167874708620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_43
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852b707935e257b70800000000000000
+      internalID: 8896067575491310168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_44
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518fee8b2ceddff40800000000000000
+      internalID: 5764008026011793429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_45
+      rect:
+        serializedVersion: 2
+        x: 2934
+        y: 6
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e076d73430edd9130800000000000000
+      internalID: 3575257784800601870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_46
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 6
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1c6fcd51dcd70c0800000000000000
+      internalID: -4576276152553389630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_47
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 6
+        width: 54
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7daac637447d387f0800000000000000
+      internalID: -611408435398006057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_48
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc21202c689c4030800000000000000
+      internalID: 3480324202213485760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_49
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10743e736ba81aa0800000000000000
+      internalID: -6190009244013268966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_50
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c99c6e038831af0800000000000000
+      internalID: -426847796058285009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_51
+      rect:
+        serializedVersion: 2
+        x: 3324
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a622679bacd164cd0800000000000000
+      internalID: -2574337380463533462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_52
+      rect:
+        serializedVersion: 2
+        x: 3389
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652e281df3f7b42c0800000000000000
+      internalID: -4446320295023549866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_53
+      rect:
+        serializedVersion: 2
+        x: 3454
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcde91927c681210800000000000000
+      internalID: 1303911331448937684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_54
+      rect:
+        serializedVersion: 2
+        x: 3519
+        y: 6
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db724408b33b014f0800000000000000
+      internalID: -859990460691372099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_55
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a9d38ab968b5550800000000000000
+      internalID: 6150657719205206535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_56
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66abaf311c678820800000000000000
+      internalID: 2920421704711513708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_57
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67634a25aef53b0e0800000000000000
+      internalID: -2255353528369006986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_58
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033f0cd24ce368e10800000000000000
+      internalID: 2199514480319198000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_59
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a2143c9e6196750800000000000000
+      internalID: 6298590747113368066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_60
+      rect:
+        serializedVersion: 2
+        x: 3909
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbae560051224ae0800000000000000
+      internalID: -1566653092783543338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_61
+      rect:
+        serializedVersion: 2
+        x: 3974
+        y: 6
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001dc56422a939e50800000000000000
+      internalID: 6814960133141745920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_62
+      rect:
+        serializedVersion: 2
+        x: 4039
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240a6805f2129c0f0800000000000000
+      internalID: -1096308547189825470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_63
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b453438d2ef1fb10800000000000000
+      internalID: 2013669979840533683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_64
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464901ec6ecf8c4c0800000000000000
+      internalID: -4266882578703674268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_65
+      rect:
+        serializedVersion: 2
+        x: 4234
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba11eb7b70005320800000000000000
+      internalID: 2544534319823657663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_66
+      rect:
+        serializedVersion: 2
+        x: 4299
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a71ed1194bbea6f0800000000000000
+      internalID: -671393371924850783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_67
+      rect:
+        serializedVersion: 2
+        x: 4364
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9bc2ec098440a60800000000000000
+      internalID: 7639310654698731977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_68
+      rect:
+        serializedVersion: 2
+        x: 4429
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8677b5d6ab68aac0800000000000000
+      internalID: -3843703917666404723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_69
+      rect:
+        serializedVersion: 2
+        x: 4494
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4274a1c1c4e87a4e0800000000000000
+      internalID: -1970449854411159772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_70
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856a0074de10c28f0800000000000000
+      internalID: -564073734718052776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_71
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 6
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf6ea7003dc00750800000000000000
+      internalID: 6269236287470727130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_72
+      rect:
+        serializedVersion: 2
+        x: 4689
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3fcf91fb8c1edd0800000000000000
+      internalID: -2458463198467263540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_73
+      rect:
+        serializedVersion: 2
+        x: 4754
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1f7a97f3952d420800000000000000
+      internalID: 2653281259633504752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_74
+      rect:
+        serializedVersion: 2
+        x: 4819
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5cc1ee76765c220800000000000000
+      internalID: 2505522463775704480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_75
+      rect:
+        serializedVersion: 2
+        x: 4884
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3972464e78b447180800000000000000
+      internalID: -9118580298493974637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_76
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0135a0bb3fd3111a0800000000000000
+      internalID: -6840618241974709488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_77
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c087b8ae8046ffc80800000000000000
+      internalID: -8286794799880898548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_78
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c619bd976f66dabc0800000000000000
+      internalID: -3770244104246816404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_79
+      rect:
+        serializedVersion: 2
+        x: 5144
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000919ebd6ff75820800000000000000
+      internalID: 2907072931304673280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_80
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e5f2b369c9ea6a0800000000000000
+      internalID: -6436034648413872515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_81
+      rect:
+        serializedVersion: 2
+        x: 5274
+        y: 6
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df968b8bfa4103bd0800000000000000
+      internalID: -2652597435570296323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprClubOwnerDie_strip83_82
+      rect:
+        serializedVersion: 2
+        x: 5339
+        y: 6
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16568e48d72799bc0800000000000000
+      internalID: -3775860929147148959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

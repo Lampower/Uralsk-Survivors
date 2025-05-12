@@ -1,0 +1,630 @@
+fileFormatVersion: 2
+guid: 6422796693b5a634f9ecccebe3ea3b9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9141909161467588969
+    second: sprPBrokenPoolKill_strip20_0
+  - first:
+      213: 7665753084910575745
+    second: sprPBrokenPoolKill_strip20_1
+  - first:
+      213: -726347535737604843
+    second: sprPBrokenPoolKill_strip20_2
+  - first:
+      213: 6511773760456741678
+    second: sprPBrokenPoolKill_strip20_3
+  - first:
+      213: -7927878437497808830
+    second: sprPBrokenPoolKill_strip20_4
+  - first:
+      213: -7418986196348419151
+    second: sprPBrokenPoolKill_strip20_5
+  - first:
+      213: 8861184875347541121
+    second: sprPBrokenPoolKill_strip20_6
+  - first:
+      213: 6432134787490051771
+    second: sprPBrokenPoolKill_strip20_7
+  - first:
+      213: -1792121798054000745
+    second: sprPBrokenPoolKill_strip20_8
+  - first:
+      213: 2894434547218290450
+    second: sprPBrokenPoolKill_strip20_9
+  - first:
+      213: 5375822963711216528
+    second: sprPBrokenPoolKill_strip20_10
+  - first:
+      213: 4176526700031804204
+    second: sprPBrokenPoolKill_strip20_11
+  - first:
+      213: 2280238614892804319
+    second: sprPBrokenPoolKill_strip20_12
+  - first:
+      213: 1710028612256266480
+    second: sprPBrokenPoolKill_strip20_13
+  - first:
+      213: -4362221585475565507
+    second: sprPBrokenPoolKill_strip20_14
+  - first:
+      213: -425637298154796982
+    second: sprPBrokenPoolKill_strip20_15
+  - first:
+      213: -5748735246148483539
+    second: sprPBrokenPoolKill_strip20_16
+  - first:
+      213: 1630823080296856813
+    second: sprPBrokenPoolKill_strip20_17
+  - first:
+      213: 2957714500964410318
+    second: sprPBrokenPoolKill_strip20_18
+  - first:
+      213: 1470284115754622179
+    second: sprPBrokenPoolKill_strip20_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 19
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9613a2a42f59ede70800000000000000
+      internalID: 9141909161467588969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18023f9d0d9326a60800000000000000
+      internalID: 7665753084910575745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 20
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51531ecb3ce7be5f0800000000000000
+      internalID: -726347535737604843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_3
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 20
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23dbb9fbb77e5a50800000000000000
+      internalID: 6511773760456741678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 19
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248d67690948af190800000000000000
+      internalID: -7927878437497808830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_5
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 19
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b34025ac577a0990800000000000000
+      internalID: -7418986196348419151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_6
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 19
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c772012b049fa70800000000000000
+      internalID: 8861184875347541121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 19
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6f6c3a288834950800000000000000
+      internalID: 6432134787490051771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_8
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 19
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c1c048ba1127e0800000000000000
+      internalID: -1792121798054000745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_9
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 19
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2179094a2e81b2820800000000000000
+      internalID: 2894434547218290450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_10
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 19
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b056fc082ca9a40800000000000000
+      internalID: 5375822963711216528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_11
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 19
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23845ec7e006f930800000000000000
+      internalID: 4176526700031804204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_12
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd870d360f805af10800000000000000
+      internalID: 2280238614892804319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_13
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8f94576fd3bb710800000000000000
+      internalID: 1710028612256266480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_14
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38003e74964673c0800000000000000
+      internalID: -4362221585475565507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_15
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 19
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a488358e125d71af0800000000000000
+      internalID: -425637298154796982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_16
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 19
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d264d8170c36830b0800000000000000
+      internalID: -5748735246148483539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_17
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 19
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec3a9873f8d1a610800000000000000
+      internalID: 1630823080296856813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_18
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 19
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec361010ba9eb0920800000000000000
+      internalID: 2957714500964410318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprPBrokenPoolKill_strip20_19
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 19
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec14760d9f776410800000000000000
+      internalID: 1470284115754622179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

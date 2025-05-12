@@ -1,0 +1,2030 @@
+fileFormatVersion: 2
+guid: 240cb658f4e9a35448c6779b0541fd5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4928640049892178957
+    second: sprTitle_strip4_0
+  - first:
+      213: -7223623184134645858
+    second: sprTitle_strip4_1
+  - first:
+      213: 2835403178605616500
+    second: sprTitle_strip4_2
+  - first:
+      213: -9208099197286978393
+    second: sprTitle_strip4_3
+  - first:
+      213: 7595871119629927181
+    second: sprTitle_strip4_4
+  - first:
+      213: 4139510083014405313
+    second: sprTitle_strip4_5
+  - first:
+      213: -6646689302252555850
+    second: sprTitle_strip4_6
+  - first:
+      213: 3762053875869911558
+    second: sprTitle_strip4_7
+  - first:
+      213: 9038441797014878917
+    second: sprTitle_strip4_8
+  - first:
+      213: 5838583678971455257
+    second: sprTitle_strip4_9
+  - first:
+      213: -6379018762706829735
+    second: sprTitle_strip4_10
+  - first:
+      213: -6426379692911456089
+    second: sprTitle_strip4_11
+  - first:
+      213: 4809017566605138837
+    second: sprTitle_strip4_12
+  - first:
+      213: -7667226248487515270
+    second: sprTitle_strip4_13
+  - first:
+      213: -3471739382089431776
+    second: sprTitle_strip4_14
+  - first:
+      213: -771390351329056994
+    second: sprTitle_strip4_15
+  - first:
+      213: 634160053685837928
+    second: sprTitle_strip4_16
+  - first:
+      213: -3007006716524858981
+    second: sprTitle_strip4_17
+  - first:
+      213: -4922205034769308721
+    second: sprTitle_strip4_18
+  - first:
+      213: -3276322670403334286
+    second: sprTitle_strip4_19
+  - first:
+      213: -1477583288087586220
+    second: sprTitle_strip4_20
+  - first:
+      213: 104330068839910397
+    second: sprTitle_strip4_21
+  - first:
+      213: -7070592736047002005
+    second: sprTitle_strip4_22
+  - first:
+      213: -797724837985107017
+    second: sprTitle_strip4_23
+  - first:
+      213: -5380469370721449632
+    second: sprTitle_strip4_24
+  - first:
+      213: 1427935373439630793
+    second: sprTitle_strip4_25
+  - first:
+      213: -2531117910894588875
+    second: sprTitle_strip4_26
+  - first:
+      213: -6445844117527863506
+    second: sprTitle_strip4_27
+  - first:
+      213: 596281570807919014
+    second: sprTitle_strip4_28
+  - first:
+      213: -2400477313966600537
+    second: sprTitle_strip4_29
+  - first:
+      213: -4247641148786232632
+    second: sprTitle_strip4_30
+  - first:
+      213: -8753127460975262302
+    second: sprTitle_strip4_31
+  - first:
+      213: 4717237512157531935
+    second: sprTitle_strip4_32
+  - first:
+      213: 832762040140444437
+    second: sprTitle_strip4_33
+  - first:
+      213: -7971424011496415857
+    second: sprTitle_strip4_34
+  - first:
+      213: 5993877154910876755
+    second: sprTitle_strip4_35
+  - first:
+      213: 8853079268467281608
+    second: sprTitle_strip4_36
+  - first:
+      213: -5392856045996345941
+    second: sprTitle_strip4_37
+  - first:
+      213: -6525517943801749571
+    second: sprTitle_strip4_38
+  - first:
+      213: -475310440311584986
+    second: sprTitle_strip4_39
+  - first:
+      213: -5961109867997299127
+    second: sprTitle_strip4_40
+  - first:
+      213: 1509358489352836023
+    second: sprTitle_strip4_41
+  - first:
+      213: 7727263528793432995
+    second: sprTitle_strip4_42
+  - first:
+      213: -7258516706382239081
+    second: sprTitle_strip4_43
+  - first:
+      213: 7525474714020684202
+    second: sprTitle_strip4_44
+  - first:
+      213: -5553220805821386130
+    second: sprTitle_strip4_45
+  - first:
+      213: 8484681403656259427
+    second: sprTitle_strip4_46
+  - first:
+      213: 3537187028232201274
+    second: sprTitle_strip4_47
+  - first:
+      213: -3989636867105143706
+    second: sprTitle_strip4_48
+  - first:
+      213: -3015383134081622914
+    second: sprTitle_strip4_49
+  - first:
+      213: -8013150569967125074
+    second: sprTitle_strip4_50
+  - first:
+      213: -7811858478487758255
+    second: sprTitle_strip4_51
+  - first:
+      213: 7342020981480101619
+    second: sprTitle_strip4_52
+  - first:
+      213: 2440004620595246986
+    second: sprTitle_strip4_53
+  - first:
+      213: 7986440545706046868
+    second: sprTitle_strip4_54
+  - first:
+      213: 9038910043798935527
+    second: sprTitle_strip4_55
+  - first:
+      213: -3981247218930694978
+    second: sprTitle_strip4_56
+  - first:
+      213: 1393433093813008552
+    second: sprTitle_strip4_57
+  - first:
+      213: -1572545368612596022
+    second: sprTitle_strip4_58
+  - first:
+      213: -6758573443805350653
+    second: sprTitle_strip4_59
+  - first:
+      213: -6000034819277187949
+    second: sprTitle_strip4_60
+  - first:
+      213: -7459778602475232465
+    second: sprTitle_strip4_61
+  - first:
+      213: 1053524502656703517
+    second: sprTitle_strip4_62
+  - first:
+      213: -2087077079939878833
+    second: sprTitle_strip4_63
+  - first:
+      213: 850174055158218985
+    second: sprTitle_strip4_64
+  - first:
+      213: -531306028150996285
+    second: sprTitle_strip4_65
+  - first:
+      213: -1386096195173220239
+    second: sprTitle_strip4_66
+  - first:
+      213: 3490435882438665477
+    second: sprTitle_strip4_67
+  - first:
+      213: 1648936826285058869
+    second: sprTitle_strip4_68
+  - first:
+      213: 6388625228290497678
+    second: sprTitle_strip4_69
+  - first:
+      213: 6424004159484385224
+    second: sprTitle_strip4_70
+  - first:
+      213: 4786151702010330531
+    second: sprTitle_strip4_71
+  - first:
+      213: 4266234785951932311
+    second: sprTitle_strip4_72
+  - first:
+      213: 6716860708810383354
+    second: sprTitle_strip4_73
+  - first:
+      213: 863600309471994612
+    second: sprTitle_strip4_74
+  - first:
+      213: -995169090907428681
+    second: sprTitle_strip4_75
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprTitle_strip4_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3c968dcf3f99bb0800000000000000
+      internalID: -4928640049892178957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 14
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97d0668cf880cb90800000000000000
+      internalID: -7223623184134645858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d1dc71b20695720800000000000000
+      internalID: 2835403178605616500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac66211192463080800000000000000
+      internalID: -9208099197286978393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 15
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03c035e984f96960800000000000000
+      internalID: 7595871119629927181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 14
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca83a0d7e727930800000000000000
+      internalID: 4139510083014405313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 14
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1f8d69b4732c3a0800000000000000
+      internalID: -6646689302252555850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a8b116110853430800000000000000
+      internalID: 3762053875869911558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_8
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca7d1a3deefe6d70800000000000000
+      internalID: 9038441797014878917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917ac700ce0d60150800000000000000
+      internalID: 5838583678971455257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_10
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ebe499b3c2977a0800000000000000
+      internalID: -6379018762706829735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_11
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 48
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a09a3cb7b9e0d6a0800000000000000
+      internalID: -6426379692911456089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_12
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 56
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bdc106fff0db240800000000000000
+      internalID: 4809017566605138837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_13
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 48
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bc956895a889590800000000000000
+      internalID: -7667226248487515270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_14
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 56
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02543d11d67e1dfc0800000000000000
+      internalID: -3471739382089431776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_15
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 15
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e172eddff887b45f0800000000000000
+      internalID: -771390351329056994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_16
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 14
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860efaa753dfcc800800000000000000
+      internalID: 634160053685837928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_17
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b917258b257f446d0800000000000000
+      internalID: -3007006716524858981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_18
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc3afee8990d0bbb0800000000000000
+      internalID: -4922205034769308721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_19
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 15
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fcc05d3e92882d0800000000000000
+      internalID: -3276322670403334286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_20
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 14
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a5c7bf3d19e7be0800000000000000
+      internalID: -1477583288087586220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_21
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 14
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb489415a7a27100800000000000000
+      internalID: 104330068839910397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_22
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e06704e5530ed90800000000000000
+      internalID: -7070592736047002005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_23
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 0
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b344638c79ede4f0800000000000000
+      internalID: -797724837985107017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_24
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06947414d9bb455b0800000000000000
+      internalID: -5380469370721449632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_25
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 15
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd751818ab01d310800000000000000
+      internalID: 1427935373439630793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_26
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 48
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ccf74aba9afdcd0800000000000000
+      internalID: -2531117910894588875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_27
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 56
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fd5393de2cb86a0800000000000000
+      internalID: -6445844117527863506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_28
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 31
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13e1eedea664800800000000000000
+      internalID: 596281570807919014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_29
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 40
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae03a9e99acfaed0800000000000000
+      internalID: -2400477313966600537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_30
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 31
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2b34151e85d05c0800000000000000
+      internalID: -4247641148786232632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_31
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 40
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a54ad643f4a68680800000000000000
+      internalID: -8753127460975262302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_32
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 31
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f0c49368ef67140800000000000000
+      internalID: 4717237512157531935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_33
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 40
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5133001d9a09e8b00800000000000000
+      internalID: 832762040140444437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_34
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 23
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d9cb09810df5190800000000000000
+      internalID: -7971424011496415857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_35
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354bac5f3878e2350800000000000000
+      internalID: 5993877154910876755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_36
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 23
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce0e5560b47cda70800000000000000
+      internalID: 8853079268467281608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_37
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5f19daff9b825b0800000000000000
+      internalID: -5392856045996345941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_38
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 23
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf5248f004b075a0800000000000000
+      internalID: -6525517943801749571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_39
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 15
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627813f3cab5769f0800000000000000
+      internalID: -475310440311584986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_40
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ef1fa8822e54da0800000000000000
+      internalID: -5961109867997299127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_41
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 2
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b398949c8152f410800000000000000
+      internalID: 1509358489352836023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_42
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a360971d31cc3b60800000000000000
+      internalID: 7727263528793432995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_43
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a29d74381944b90800000000000000
+      internalID: -7258516706382239081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_44
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa12367716bdf6860800000000000000
+      internalID: 7525474714020684202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_45
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6235bd691ffee2b0800000000000000
+      internalID: -5553220805821386130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_46
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3674b4968c4afb570800000000000000
+      internalID: 8484681403656259427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3466e18cdc961130800000000000000
+      internalID: 3537187028232201274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_48
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66445694866f1a8c0800000000000000
+      internalID: -3989636867105143706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_49
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c5c5704053726d0800000000000000
+      internalID: -3015383134081622914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_50
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 2
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadf36913029bc090800000000000000
+      internalID: -8013150569967125074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_51
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a1d125a14b69390800000000000000
+      internalID: -7811858478487758255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_52
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f61696de2914e560800000000000000
+      internalID: 7342020981480101619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_53
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8734e45643acd120800000000000000
+      internalID: 2440004620595246986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_54
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495f592cc5985de60800000000000000
+      internalID: 7986440545706046868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_55
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7985d6bc8a07d70800000000000000
+      internalID: 9038910043798935527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_56
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4cf987fb4cfb8c0800000000000000
+      internalID: -3981247218930694978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a87ffe1408765310800000000000000
+      internalID: 1393433093813008552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_58
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac619a6a1523d2ae0800000000000000
+      internalID: -1572545368612596022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_59
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305f795e249b432a0800000000000000
+      internalID: -6758573443805350653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_60
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39412051f189bbca0800000000000000
+      internalID: -6000034819277187949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_61
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23676872ea897890800000000000000
+      internalID: -7459778602475232465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_62
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cd50f04fede9e00800000000000000
+      internalID: 1053524502656703517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_63
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40f25f14763903e0800000000000000
+      internalID: -2087077079939878833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_64
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e085fa7ccc6ccb00800000000000000
+      internalID: 850174055158218985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_65
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2490d7bfb60a8f0800000000000000
+      internalID: -531306028150996285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1700e26bad893cce0800000000000000
+      internalID: -1386096195173220239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_67
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 2
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505a80421f4807030800000000000000
+      internalID: 3490435882438665477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_68
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53be7cb9e4332e610800000000000000
+      internalID: 1648936826285058869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_69
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c9a57fbc4f8a850800000000000000
+      internalID: 6388625228290497678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_70
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 2
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7d2b94fb5a62950800000000000000
+      internalID: 6424004159484385224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_71
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adf4776d93db6240800000000000000
+      internalID: 4786151702010330531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_72
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f54113fe5b43b30800000000000000
+      internalID: 4266234785951932311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_73
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 2
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affdb6a2a35173d50800000000000000
+      internalID: 6716860708810383354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_74
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 2
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2eef9e7ef1cfb00800000000000000
+      internalID: 863600309471994612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprTitle_strip4_75
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 2
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a3050cf27032f0800000000000000
+      internalID: -995169090907428681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
