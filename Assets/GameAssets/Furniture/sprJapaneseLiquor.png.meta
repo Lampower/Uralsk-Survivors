@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJapaneseLiquor_0: 2148332888465306573
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

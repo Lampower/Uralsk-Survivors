@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBloodSmoke_strip9_0: -2460871547768341639
+      sprBloodSmoke_strip9_1: -5170606638988329480
+      sprBloodSmoke_strip9_2: 4374818187371863897
+      sprBloodSmoke_strip9_3: 6680063535135931381
+      sprBloodSmoke_strip9_4: -8244007503944087861
+      sprBloodSmoke_strip9_5: 4736760818556545069
+      sprBloodSmoke_strip9_6: -8951977591400987025
+      sprBloodSmoke_strip9_7: -8259174367691136849
+      sprBloodSmoke_strip9_8: 6593760687922425574
+      sprBloodSmoke_strip9_9: 4700208054396760522
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

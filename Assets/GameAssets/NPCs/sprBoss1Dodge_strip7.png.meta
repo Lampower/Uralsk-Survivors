@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss1Dodge_strip7_0: 7943712243928608312
+      sprBoss1Dodge_strip7_1: -8914311453184810485
+      sprBoss1Dodge_strip7_2: 5068534570369426620
+      sprBoss1Dodge_strip7_3: -3312042495810739592
+      sprBoss1Dodge_strip7_4: 317082431642736390
+      sprBoss1Dodge_strip7_5: 656954992264156126
+      sprBoss1Dodge_strip7_6: 7747415815838902845
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

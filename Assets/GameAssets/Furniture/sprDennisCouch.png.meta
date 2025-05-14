@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDennisCouch_0: 5099929863495770156
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

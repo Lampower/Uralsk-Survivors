@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHighballChairBig_0: -3726042758107748867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

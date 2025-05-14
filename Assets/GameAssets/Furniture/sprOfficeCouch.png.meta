@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOfficeCouch_0: 4462668474426231516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

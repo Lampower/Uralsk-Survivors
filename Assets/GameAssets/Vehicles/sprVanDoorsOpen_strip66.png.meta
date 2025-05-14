@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprVanDoorsOpen_strip66_0: -690587293393300930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

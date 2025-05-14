@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss3Face_strip16_0: -3615268124557663990
+      sprBoss3Face_strip16_1: -7873728595057949497
+      sprBoss3Face_strip16_10: 8535395727928128120
+      sprBoss3Face_strip16_11: 5595001122173088543
+      sprBoss3Face_strip16_12: 7864587292737783168
+      sprBoss3Face_strip16_13: -6159836625703758696
+      sprBoss3Face_strip16_14: -8503943406927972362
+      sprBoss3Face_strip16_15: 6721813737215786125
+      sprBoss3Face_strip16_2: 3660715460836192597
+      sprBoss3Face_strip16_3: -3756808390348722185
+      sprBoss3Face_strip16_4: 8149275378726647736
+      sprBoss3Face_strip16_5: -4850908994829526969
+      sprBoss3Face_strip16_6: -8342729446796045191
+      sprBoss3Face_strip16_7: -3602230815937723912
+      sprBoss3Face_strip16_8: -2901531335159836061
+      sprBoss3Face_strip16_9: 8654317087506605152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

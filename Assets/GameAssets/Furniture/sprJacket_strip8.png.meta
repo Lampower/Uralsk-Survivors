@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJacket_strip8_0: -1725880736128117964
+      sprJacket_strip8_1: -5409729287050280374
+      sprJacket_strip8_2: 8519634725454926073
+      sprJacket_strip8_3: 8328811567045470197
+      sprJacket_strip8_4: -848844455257770049
+      sprJacket_strip8_5: -7628056823789201606
+      sprJacket_strip8_6: 8437665984515933936
+      sprJacket_strip8_7: -3527929336950948215
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -40,7 +40,7 @@ public abstract class RangedWeapon : AbstractWeapon
     {
         yield return new WaitForSeconds(reloadTime);
         currentAmmo = maxAmmo;
-        OnFinishedReloading.Invoke(this);
+        OnFinishedReloading?.Invoke(this);
     }
 
 }

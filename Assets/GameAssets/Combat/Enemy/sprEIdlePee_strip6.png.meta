@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEIdlePee_strip6_0: -2096220756817867517
+      sprEIdlePee_strip6_1: -9170586798465191178
+      sprEIdlePee_strip6_2: 1415465811394122534
+      sprEIdlePee_strip6_3: -6564287638671851417
+      sprEIdlePee_strip6_4: -7161652135735909168
+      sprEIdlePee_strip6_5: 7732085303538047118
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

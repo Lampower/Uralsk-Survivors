@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCrocodileMan_strip3_0: -8294162218413585817
+      sprCrocodileMan_strip3_1: -654018984909259516
+      sprCrocodileMan_strip3_2: 3185441501504156025
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

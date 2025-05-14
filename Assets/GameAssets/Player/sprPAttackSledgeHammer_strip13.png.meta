@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackSledgeHammer_strip13_0: 3009047622171963198
+      sprPAttackSledgeHammer_strip13_1: 8291506078526485310
+      sprPAttackSledgeHammer_strip13_10: 1582780681004089069
+      sprPAttackSledgeHammer_strip13_11: 1461563803178753667
+      sprPAttackSledgeHammer_strip13_12: 525682925719390232
+      sprPAttackSledgeHammer_strip13_2: 7934702596321821805
+      sprPAttackSledgeHammer_strip13_3: -1321179664708721430
+      sprPAttackSledgeHammer_strip13_4: -8175282813966644696
+      sprPAttackSledgeHammer_strip13_5: -2967250240664087681
+      sprPAttackSledgeHammer_strip13_6: -7466146594327777744
+      sprPAttackSledgeHammer_strip13_7: 1625970042100430507
+      sprPAttackSledgeHammer_strip13_8: -8808564675399457821
+      sprPAttackSledgeHammer_strip13_9: -3686701187441362655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

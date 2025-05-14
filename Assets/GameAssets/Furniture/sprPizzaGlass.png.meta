@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPizzaGlass_0: -6745443131437374142
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMaskDropBack_strip26_0: -1679788032237307678
+      sprMaskDropBack_strip26_1: 340714441605785873
+      sprMaskDropBack_strip26_10: -7402590377004912272
+      sprMaskDropBack_strip26_11: 7203173937251240157
+      sprMaskDropBack_strip26_12: -4456751434994032825
+      sprMaskDropBack_strip26_13: -8063654793426704045
+      sprMaskDropBack_strip26_14: 6257587547817687570
+      sprMaskDropBack_strip26_15: 1719095826799998364
+      sprMaskDropBack_strip26_16: -5619655680500653785
+      sprMaskDropBack_strip26_17: -4595540012013735839
+      sprMaskDropBack_strip26_18: 9151776074240145729
+      sprMaskDropBack_strip26_19: -1760019256902220074
+      sprMaskDropBack_strip26_2: -4360216991755858803
+      sprMaskDropBack_strip26_20: 5255479661638649839
+      sprMaskDropBack_strip26_21: 430898277954914225
+      sprMaskDropBack_strip26_22: 5584360440850353731
+      sprMaskDropBack_strip26_23: 7386480722535556236
+      sprMaskDropBack_strip26_24: 4238879220950537396
+      sprMaskDropBack_strip26_25: -3969118303699038207
+      sprMaskDropBack_strip26_3: -5592005177063597141
+      sprMaskDropBack_strip26_4: 2716894780427341722
+      sprMaskDropBack_strip26_5: -5189978242621879553
+      sprMaskDropBack_strip26_6: -5439679017230618322
+      sprMaskDropBack_strip26_7: -5506900649479199990
+      sprMaskDropBack_strip26_8: -423457991909842241
+      sprMaskDropBack_strip26_9: 8720867921838560539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

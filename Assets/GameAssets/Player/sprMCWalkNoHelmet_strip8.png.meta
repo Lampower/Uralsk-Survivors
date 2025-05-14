@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCWalkNoHelmet_strip8_0: 3629807225239480187
+      sprMCWalkNoHelmet_strip8_1: -6738072298406967099
+      sprMCWalkNoHelmet_strip8_2: -6662686484283631273
+      sprMCWalkNoHelmet_strip8_3: -737908940235029865
+      sprMCWalkNoHelmet_strip8_4: -5698463124420246942
+      sprMCWalkNoHelmet_strip8_5: -1186679074560498933
+      sprMCWalkNoHelmet_strip8_6: -1601017842383595355
+      sprMCWalkNoHelmet_strip8_7: 8632861960952312503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

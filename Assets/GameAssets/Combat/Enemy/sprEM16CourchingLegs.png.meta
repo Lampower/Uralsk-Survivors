@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEM16CourchingLegs_0: -6813208700970579099
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

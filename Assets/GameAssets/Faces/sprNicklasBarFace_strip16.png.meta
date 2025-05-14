@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNicklasBarFace_strip16_0: 8709156318908751961
+      sprNicklasBarFace_strip16_1: 4033490851813515926
+      sprNicklasBarFace_strip16_10: 7147311354289624693
+      sprNicklasBarFace_strip16_11: 8365328203236829225
+      sprNicklasBarFace_strip16_12: 1738004443899662756
+      sprNicklasBarFace_strip16_13: -4174594629264566409
+      sprNicklasBarFace_strip16_14: 1012778597406415984
+      sprNicklasBarFace_strip16_15: -2838911043065980662
+      sprNicklasBarFace_strip16_2: 6964740305585691023
+      sprNicklasBarFace_strip16_3: -5956683478534661151
+      sprNicklasBarFace_strip16_4: 8580325648230207736
+      sprNicklasBarFace_strip16_5: 1450213179564065510
+      sprNicklasBarFace_strip16_6: -2489487541167631091
+      sprNicklasBarFace_strip16_7: 3660614689083232016
+      sprNicklasBarFace_strip16_8: -3684300127821766424
+      sprNicklasBarFace_strip16_9: -6656650901632826969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

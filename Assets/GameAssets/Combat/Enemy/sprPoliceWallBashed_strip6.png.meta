@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceWallBashed_strip6_0: -5427290202796443656
+      sprPoliceWallBashed_strip6_1: 2251000073602102088
+      sprPoliceWallBashed_strip6_2: -82504625034300317
+      sprPoliceWallBashed_strip6_3: 1309895855652935791
+      sprPoliceWallBashed_strip6_4: -8987532949998579796
+      sprPoliceWallBashed_strip6_5: 1934482177726301806
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

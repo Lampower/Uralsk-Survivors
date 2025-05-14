@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJonatanDie_strip16_0: -1729049800524132995
+      sprJonatanDie_strip16_1: 5542025139483785993
+      sprJonatanDie_strip16_10: 8702775250274944983
+      sprJonatanDie_strip16_11: 6023191052939783920
+      sprJonatanDie_strip16_12: 1182850397788006774
+      sprJonatanDie_strip16_13: -6125197001521845804
+      sprJonatanDie_strip16_14: 5466887157136845136
+      sprJonatanDie_strip16_15: 2366569286582387204
+      sprJonatanDie_strip16_16: 6773537458334213744
+      sprJonatanDie_strip16_17: 2265830645075789579
+      sprJonatanDie_strip16_18: -6320545361817814861
+      sprJonatanDie_strip16_19: -1581048498661727020
+      sprJonatanDie_strip16_2: 315373760437952101
+      sprJonatanDie_strip16_20: 488685868369295858
+      sprJonatanDie_strip16_21: -3571045045666385051
+      sprJonatanDie_strip16_3: 988192511926564550
+      sprJonatanDie_strip16_4: 1760085196311458205
+      sprJonatanDie_strip16_5: 2797651509572730573
+      sprJonatanDie_strip16_6: 7553410128851136708
+      sprJonatanDie_strip16_7: -4397655756325096079
+      sprJonatanDie_strip16_8: 2815345832933783669
+      sprJonatanDie_strip16_9: -133609096792548251
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

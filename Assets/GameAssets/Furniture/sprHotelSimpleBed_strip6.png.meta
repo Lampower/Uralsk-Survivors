@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotelSimpleBed_strip6_0: -8349766173320671173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

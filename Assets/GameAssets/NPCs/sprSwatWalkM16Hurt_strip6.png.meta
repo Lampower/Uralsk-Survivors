@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatWalkM16Hurt_strip6_0: 6800137522959586331
+      sprSwatWalkM16Hurt_strip6_1: 59406060633034617
+      sprSwatWalkM16Hurt_strip6_2: 8833978627855476386
+      sprSwatWalkM16Hurt_strip6_3: -3972178700669705483
+      sprSwatWalkM16Hurt_strip6_4: -4862475536648849653
+      sprSwatWalkM16Hurt_strip6_5: 6387962170956759064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

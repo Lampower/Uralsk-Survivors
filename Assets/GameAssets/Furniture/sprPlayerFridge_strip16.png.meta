@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPlayerFridge_strip16_0: -1042371905984331213
+      sprPlayerFridge_strip16_1: -1387400294927491754
+      sprPlayerFridge_strip16_10: 6349095848485233858
+      sprPlayerFridge_strip16_11: 2726907160069245974
+      sprPlayerFridge_strip16_12: 2507536854617053023
+      sprPlayerFridge_strip16_13: 8788482464470289520
+      sprPlayerFridge_strip16_14: 3518276095656901331
+      sprPlayerFridge_strip16_15: -2284362434282067956
+      sprPlayerFridge_strip16_2: 1273207854166845944
+      sprPlayerFridge_strip16_3: -1692979835471558195
+      sprPlayerFridge_strip16_4: -4114573731692795523
+      sprPlayerFridge_strip16_5: 3978250144746608337
+      sprPlayerFridge_strip16_6: 4348677953152295432
+      sprPlayerFridge_strip16_7: 5246646518121661787
+      sprPlayerFridge_strip16_8: -1823642154464539950
+      sprPlayerFridge_strip16_9: -8851201357627498953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

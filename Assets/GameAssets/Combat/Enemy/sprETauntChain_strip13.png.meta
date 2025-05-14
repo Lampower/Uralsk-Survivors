@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprETauntChain_strip13_0: 3726006007203791095
+      sprETauntChain_strip13_1: 2156941406883262620
+      sprETauntChain_strip13_10: 9183750920621228823
+      sprETauntChain_strip13_11: 4439009517523144737
+      sprETauntChain_strip13_12: -8970084130377900177
+      sprETauntChain_strip13_2: 6781242605413770150
+      sprETauntChain_strip13_3: -7682612028929469295
+      sprETauntChain_strip13_4: -2801674712624339302
+      sprETauntChain_strip13_5: 4865283140493215352
+      sprETauntChain_strip13_6: -5657303965826680035
+      sprETauntChain_strip13_7: 2676755068207346240
+      sprETauntChain_strip13_8: 6890239392860932546
+      sprETauntChain_strip13_9: -1048703789991137695
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGoldenBarBooth_strip9_0: -2313836678047493920
+      sprGoldenBarBooth_strip9_1: 2077039336745958818
+      sprGoldenBarBooth_strip9_2: 3253155271264738515
+      sprGoldenBarBooth_strip9_3: 5395697566893538807
+      sprGoldenBarBooth_strip9_4: -5844425001764755644
+      sprGoldenBarBooth_strip9_5: 6545008548415850828
+      sprGoldenBarBooth_strip9_6: 3651913821118898096
+      sprGoldenBarBooth_strip9_7: 1690154487840664617
+      sprGoldenBarBooth_strip9_8: -682799954894997698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFireAxe_strip2_0: -1276733425675608800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

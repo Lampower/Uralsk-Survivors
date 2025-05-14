@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMonkeyMask_strip4_0: -8947168187033752639
+      sprMonkeyMask_strip4_1: -82930198053695368
+      sprMonkeyMask_strip4_2: -9029096393197069040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

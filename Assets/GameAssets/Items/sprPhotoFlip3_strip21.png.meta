@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPhotoFlip3_strip21_0: 3211469027097400237
+      sprPhotoFlip3_strip21_1: -8411193939738101277
+      sprPhotoFlip3_strip21_10: 598601333228135653
+      sprPhotoFlip3_strip21_2: -3470115734421447027
+      sprPhotoFlip3_strip21_3: -5337783633394704217
+      sprPhotoFlip3_strip21_4: -3670963019947666466
+      sprPhotoFlip3_strip21_5: 1274879746115613544
+      sprPhotoFlip3_strip21_6: -6976393417333995230
+      sprPhotoFlip3_strip21_7: 9171407866358668782
+      sprPhotoFlip3_strip21_8: -2244822319431774027
+      sprPhotoFlip3_strip21_9: 5042645829169762760
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

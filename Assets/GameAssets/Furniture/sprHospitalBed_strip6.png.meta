@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHospitalBed_strip6_0: -7855472273151629129
+      sprHospitalBed_strip6_1: -3358487840783964990
+      sprHospitalBed_strip6_2: -4253444785275321220
+      sprHospitalBed_strip6_3: 2672718511959322231
+      sprHospitalBed_strip6_4: -5596516694540879264
+      sprHospitalBed_strip6_5: 8749364873806118674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

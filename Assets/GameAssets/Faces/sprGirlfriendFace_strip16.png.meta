@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGirlfriendFace_strip16_0: 3018073493733318678
+      sprGirlfriendFace_strip16_1: -9035380592283328915
+      sprGirlfriendFace_strip16_10: 1858487933952062913
+      sprGirlfriendFace_strip16_11: 1157484868145692437
+      sprGirlfriendFace_strip16_12: -8006049490200605974
+      sprGirlfriendFace_strip16_13: -7198172433836924607
+      sprGirlfriendFace_strip16_14: -1155406922149709013
+      sprGirlfriendFace_strip16_15: -4038280331546573882
+      sprGirlfriendFace_strip16_2: 1238754381149264793
+      sprGirlfriendFace_strip16_3: 5444409935178425058
+      sprGirlfriendFace_strip16_4: 5504445391350065963
+      sprGirlfriendFace_strip16_5: -1885707128648913665
+      sprGirlfriendFace_strip16_6: 6621567487649849524
+      sprGirlfriendFace_strip16_7: -5839781604399294608
+      sprGirlfriendFace_strip16_8: -1040168546410587679
+      sprGirlfriendFace_strip16_9: -4036364375562946639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

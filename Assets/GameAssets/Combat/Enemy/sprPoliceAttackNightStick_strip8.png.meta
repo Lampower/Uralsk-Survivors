@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceAttackNightStick_strip8_0: -3338863257167794285
+      sprPoliceAttackNightStick_strip8_1: -4468598270260805066
+      sprPoliceAttackNightStick_strip8_2: 8233524150736178027
+      sprPoliceAttackNightStick_strip8_3: -1129333653457567237
+      sprPoliceAttackNightStick_strip8_4: -6506092773960496186
+      sprPoliceAttackNightStick_strip8_5: -2441220840007950082
+      sprPoliceAttackNightStick_strip8_6: -9205952599628681294
+      sprPoliceAttackNightStick_strip8_7: -6495223018833136811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

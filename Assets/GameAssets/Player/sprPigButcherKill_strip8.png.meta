@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPigButcherKill_strip8_0: 8168966956203266605
+      sprPigButcherKill_strip8_1: 7147967489271596679
+      sprPigButcherKill_strip8_2: -6652680385028084392
+      sprPigButcherKill_strip8_3: 4598787618356041211
+      sprPigButcherKill_strip8_4: -1423187481065739627
+      sprPigButcherKill_strip8_5: -4146041576405120500
+      sprPigButcherKill_strip8_6: 2239697944063152473
+      sprPigButcherKill_strip8_7: 1433742632420093719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

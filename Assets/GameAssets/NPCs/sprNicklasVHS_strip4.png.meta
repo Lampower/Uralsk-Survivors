@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNicklasVHS_strip4_0: -8058706852668564255
+      sprNicklasVHS_strip4_1: 8486800597067029066
+      sprNicklasVHS_strip4_2: 8458532461613589628
+      sprNicklasVHS_strip4_3: 7210172849030055508
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

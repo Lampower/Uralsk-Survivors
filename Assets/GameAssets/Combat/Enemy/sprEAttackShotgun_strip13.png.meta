@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEAttackShotgun_strip13_0: 4553980008389547963
+      sprEAttackShotgun_strip13_1: -4348629001084826091
+      sprEAttackShotgun_strip13_10: -8785142114270437738
+      sprEAttackShotgun_strip13_11: -1955639047181828906
+      sprEAttackShotgun_strip13_12: -3256599861291392193
+      sprEAttackShotgun_strip13_2: 2693509275001818032
+      sprEAttackShotgun_strip13_3: 1871065694594164698
+      sprEAttackShotgun_strip13_4: 5145254775178547703
+      sprEAttackShotgun_strip13_5: 484945805665620351
+      sprEAttackShotgun_strip13_6: 5846616408033071482
+      sprEAttackShotgun_strip13_7: -3233870733985647922
+      sprEAttackShotgun_strip13_8: -3646061117587222358
+      sprEAttackShotgun_strip13_9: -6967243628633807192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

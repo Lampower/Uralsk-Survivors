@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSushiGuyFace_strip16_0: -3169056079399590477
+      sprSushiGuyFace_strip16_1: -3427399047319195896
+      sprSushiGuyFace_strip16_10: -3327794195166192638
+      sprSushiGuyFace_strip16_11: -1742168439806823154
+      sprSushiGuyFace_strip16_12: 8615825080660204661
+      sprSushiGuyFace_strip16_13: -8137952386162946354
+      sprSushiGuyFace_strip16_14: 2787994725563286437
+      sprSushiGuyFace_strip16_15: -4539050928441689339
+      sprSushiGuyFace_strip16_2: 7167966638677598117
+      sprSushiGuyFace_strip16_3: 1235934479847609692
+      sprSushiGuyFace_strip16_4: 5195675140243441870
+      sprSushiGuyFace_strip16_5: -715137207240268273
+      sprSushiGuyFace_strip16_6: -4177961869530937590
+      sprSushiGuyFace_strip16_7: 5068090714563491648
+      sprSushiGuyFace_strip16_8: -6292524306433596126
+      sprSushiGuyFace_strip16_9: -4650605626514926303
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

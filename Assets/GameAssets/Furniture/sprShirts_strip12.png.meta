@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShirts_strip12_0: -7514004250149155989
+      sprShirts_strip12_1: -1351650970473727169
+      sprShirts_strip12_10: 8708022867887701981
+      sprShirts_strip12_11: -7020539599227772905
+      sprShirts_strip12_2: -1110596536054655654
+      sprShirts_strip12_3: 6101785323618327041
+      sprShirts_strip12_4: 7616054043652826533
+      sprShirts_strip12_5: 6389970606490943941
+      sprShirts_strip12_6: 100016248222787720
+      sprShirts_strip12_7: 4875032715917977483
+      sprShirts_strip12_8: 5597508242733706423
+      sprShirts_strip12_9: -485616565841954829
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

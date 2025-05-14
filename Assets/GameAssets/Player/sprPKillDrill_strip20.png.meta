@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKillDrill_strip20_0: -4142510297240818031
+      sprPKillDrill_strip20_1: -3278560483139552659
+      sprPKillDrill_strip20_10: -453452156369251477
+      sprPKillDrill_strip20_11: -5845298816818644664
+      sprPKillDrill_strip20_12: 8648556059979950746
+      sprPKillDrill_strip20_13: -1409388093401597424
+      sprPKillDrill_strip20_14: -8893793554252363463
+      sprPKillDrill_strip20_15: -5092926772964177988
+      sprPKillDrill_strip20_16: -4217781909464297937
+      sprPKillDrill_strip20_17: 3935777521686939670
+      sprPKillDrill_strip20_18: -5391650072093732926
+      sprPKillDrill_strip20_19: -5700551750151898250
+      sprPKillDrill_strip20_2: 913438946685378076
+      sprPKillDrill_strip20_3: 8096434516433723953
+      sprPKillDrill_strip20_4: 1584814732362997456
+      sprPKillDrill_strip20_5: 551774226198169956
+      sprPKillDrill_strip20_6: 8437456476871065713
+      sprPKillDrill_strip20_7: -2690444090492142596
+      sprPKillDrill_strip20_8: 2998085897036709661
+      sprPKillDrill_strip20_9: 5869915443373209940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

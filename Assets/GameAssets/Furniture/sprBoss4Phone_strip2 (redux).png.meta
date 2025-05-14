@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss4Phone_strip2 (redux)_0: -8514277630559448923
+      sprBoss4Phone_strip2 (redux)_1: -7114267462418349181
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

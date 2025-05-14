@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBallOfDuty_0: -6253719811285555697
+      sprBallOfDuty_1: -9153839768080600695
+      sprBallOfDuty_2: -1099135510720386469
+      sprBallOfDuty_3: 7410693822031753256
+      sprBallOfDuty_4: -8444055179441178050
+      sprBallOfDuty_5: 2828506537545783137
+      sprBallOfDuty_6: 1596285644573098058
+      sprBallOfDuty_7: 204804457889301938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPSneakPipe_strip4_0: -2951779472666801851
+      sprPSneakPipe_strip4_1: 1791879792168646974
+      sprPSneakPipe_strip4_2: 1261851676286472520
+      sprPSneakPipe_strip4_3: -5893783119698821278
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

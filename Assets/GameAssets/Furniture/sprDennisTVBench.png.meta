@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDennisTVBench_0: 3270105618543578297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEDrinkingLegs_0: -3451242446419876045
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprChineseLight_strip3_0: -3898425505875594795
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPHumanShieldSilencerShoot_strip2_0: -6931990279939990081
+      sprPHumanShieldSilencerShoot_strip2_1: -7909034307962529943
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

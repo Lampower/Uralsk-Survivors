@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEWalkBat_strip8_0: -7152866179326445363
+      sprEWalkBat_strip8_1: 1606854710463398123
+      sprEWalkBat_strip8_2: 4495082145294381696
+      sprEWalkBat_strip8_3: 2097165980049403774
+      sprEWalkBat_strip8_4: 8314457041768896484
+      sprEWalkBat_strip8_5: -546994156031826888
+      sprEWalkBat_strip8_6: -9031965602906763541
+      sprEWalkBat_strip8_7: -5130551673623958741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

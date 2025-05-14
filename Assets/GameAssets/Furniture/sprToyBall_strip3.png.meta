@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprToyBall_strip3_0: 4650854850613924473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

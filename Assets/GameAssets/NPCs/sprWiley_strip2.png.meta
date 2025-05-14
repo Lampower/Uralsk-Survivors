@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWiley_strip2_0: 2149500963054589264
+      sprWiley_strip2_1: -7881816552052141885
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBikerLegsStairs_strip8_0: 1130493399118631490
+      sprBikerLegsStairs_strip8_1: 3990714824962145819
+      sprBikerLegsStairs_strip8_10: 2901089813763972480
+      sprBikerLegsStairs_strip8_11: 2245023236565470362
+      sprBikerLegsStairs_strip8_2: -8140727658234250345
+      sprBikerLegsStairs_strip8_3: -616302438756465069
+      sprBikerLegsStairs_strip8_4: -474056750752748322
+      sprBikerLegsStairs_strip8_5: -1261893423286474473
+      sprBikerLegsStairs_strip8_6: -677228075126934356
+      sprBikerLegsStairs_strip8_7: 5589603546401527794
+      sprBikerLegsStairs_strip8_8: 2248756435367474854
+      sprBikerLegsStairs_strip8_9: -7280875325975012605
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

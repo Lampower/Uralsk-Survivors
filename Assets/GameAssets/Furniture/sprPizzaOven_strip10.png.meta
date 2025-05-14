@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPizzaOven_strip10_0: -3751672371971567037
+      sprPizzaOven_strip10_1: 8994617520186570850
+      sprPizzaOven_strip10_2: 4535950059215245632
+      sprPizzaOven_strip10_3: 6329869003425595041
+      sprPizzaOven_strip10_4: 7953517956574881642
+      sprPizzaOven_strip10_5: -7916720551340580618
+      sprPizzaOven_strip10_6: -7683467683887855238
+      sprPizzaOven_strip10_7: -6491584460362698702
+      sprPizzaOven_strip10_8: 619554866607791600
+      sprPizzaOven_strip10_9: 2094723949374922737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

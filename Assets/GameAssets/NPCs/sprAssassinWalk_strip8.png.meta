@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinWalk_strip8_0: 4534665881226821057
+      sprAssassinWalk_strip8_1: 33693829459566432
+      sprAssassinWalk_strip8_2: -2376206236599880703
+      sprAssassinWalk_strip8_3: 1784922140711132912
+      sprAssassinWalk_strip8_4: -9073582669689795400
+      sprAssassinWalk_strip8_5: -5209536948024632105
+      sprAssassinWalk_strip8_6: -4168539194503767693
+      sprAssassinWalk_strip8_7: 8951579771657774286
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

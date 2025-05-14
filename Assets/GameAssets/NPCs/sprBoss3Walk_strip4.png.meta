@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss3Walk_strip4_0: 19526682997364137
+      sprBoss3Walk_strip4_1: -2822645929147647139
+      sprBoss3Walk_strip4_2: 448524915315913682
+      sprBoss3Walk_strip4_3: -4113837997411779975
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

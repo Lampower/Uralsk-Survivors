@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFatmanShit_strip20_0: -3559907306769839967
+      sprFatmanShit_strip20_1: 4062575465596452269
+      sprFatmanShit_strip20_10: 330666039259792513
+      sprFatmanShit_strip20_11: 621440938260499850
+      sprFatmanShit_strip20_12: 2177746590233153027
+      sprFatmanShit_strip20_13: 934730881529983102
+      sprFatmanShit_strip20_14: 8455640917546680196
+      sprFatmanShit_strip20_15: -1763861129504404794
+      sprFatmanShit_strip20_16: 2569370931055554241
+      sprFatmanShit_strip20_17: -5731584683330190160
+      sprFatmanShit_strip20_18: 6185147572466973476
+      sprFatmanShit_strip20_19: 2558458124128672847
+      sprFatmanShit_strip20_2: 1497355946684917530
+      sprFatmanShit_strip20_3: -760183472681956592
+      sprFatmanShit_strip20_4: 3439803857976175336
+      sprFatmanShit_strip20_5: 6912769480934769062
+      sprFatmanShit_strip20_6: 4534803392886094992
+      sprFatmanShit_strip20_7: -162571205095362101
+      sprFatmanShit_strip20_8: -4167645888007426838
+      sprFatmanShit_strip20_9: -6606224852532839912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceSearchGun_strip10_0: -6412955458541441470
+      sprPoliceSearchGun_strip10_1: 1860454005800329052
+      sprPoliceSearchGun_strip10_2: 6122956095307411683
+      sprPoliceSearchGun_strip10_3: 4222006082185850193
+      sprPoliceSearchGun_strip10_4: -1664343277522312631
+      sprPoliceSearchGun_strip10_5: -8602054775369300975
+      sprPoliceSearchGun_strip10_6: -4661188133429949439
+      sprPoliceSearchGun_strip10_7: 8410504310213259662
+      sprPoliceSearchGun_strip10_8: 2612816463527498105
+      sprPoliceSearchGun_strip10_9: -8543763467342028746
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

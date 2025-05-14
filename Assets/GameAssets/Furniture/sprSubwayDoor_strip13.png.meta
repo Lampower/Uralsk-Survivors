@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSubwayDoor_strip13_0: 1970469037345011613
+      sprSubwayDoor_strip13_1: 7916646396482621017
+      sprSubwayDoor_strip13_10: 1520959229281605313
+      sprSubwayDoor_strip13_11: -8491769552812146337
+      sprSubwayDoor_strip13_12: -3559707448963099268
+      sprSubwayDoor_strip13_2: -7237721457476187634
+      sprSubwayDoor_strip13_3: 492465014187212763
+      sprSubwayDoor_strip13_4: -7012837960696865669
+      sprSubwayDoor_strip13_5: -4551275926950733388
+      sprSubwayDoor_strip13_6: 9161914257253416053
+      sprSubwayDoor_strip13_7: -577641009082101295
+      sprSubwayDoor_strip13_8: -8657474160117207836
+      sprSubwayDoor_strip13_9: 1462623434641274780
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

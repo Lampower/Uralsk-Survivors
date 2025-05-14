@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotel_strip16_0: 879743343917323514
+      sprHotel_strip16_1: -2766524885870057072
+      sprHotel_strip16_10: 8413183684572740289
+      sprHotel_strip16_11: 4360532511483017980
+      sprHotel_strip16_12: -2095060729410271620
+      sprHotel_strip16_13: 1983587808906920779
+      sprHotel_strip16_14: -1497761236093701650
+      sprHotel_strip16_15: -6428563862703943918
+      sprHotel_strip16_2: -4955361739718858527
+      sprHotel_strip16_3: 6409846782173751863
+      sprHotel_strip16_4: -6808753731369245235
+      sprHotel_strip16_5: -1014249141600288115
+      sprHotel_strip16_6: 5855848374725403420
+      sprHotel_strip16_7: -2206014491588194546
+      sprHotel_strip16_8: 5158278317713199824
+      sprHotel_strip16_9: -4958484555338966132
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

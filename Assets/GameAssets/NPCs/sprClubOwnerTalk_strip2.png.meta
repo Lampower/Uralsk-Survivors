@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprClubOwnerTalk_strip2_0: -8707391536633780037
+      sprClubOwnerTalk_strip2_1: -3219386363360803962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

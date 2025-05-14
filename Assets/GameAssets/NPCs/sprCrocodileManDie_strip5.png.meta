@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCrocodileManDie_strip5_0: -3322172472834728356
+      sprCrocodileManDie_strip5_1: 7116946574648587768
+      sprCrocodileManDie_strip5_2: -4749966688190691861
+      sprCrocodileManDie_strip5_3: -8871943067067273431
+      sprCrocodileManDie_strip5_4: 2743956973934400055
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCDriveOff_strip8_0: 3218982462821908296
+      sprMCDriveOff_strip8_1: -747352059371884373
+      sprMCDriveOff_strip8_2: -2503271197151354232
+      sprMCDriveOff_strip8_3: -1700680452419221416
+      sprMCDriveOff_strip8_4: -8506302966308855542
+      sprMCDriveOff_strip8_5: 4248798001410579388
+      sprMCDriveOff_strip8_6: 3008356843008685588
+      sprMCDriveOff_strip8_7: -1359198070557068927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

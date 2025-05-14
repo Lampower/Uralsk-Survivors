@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBartenderDeath_strip3_0: 3475441398232301094
+      sprBartenderDeath_strip3_1: -2391113077579036622
+      sprBartenderDeath_strip3_2: -5886420685424734959
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

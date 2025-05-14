@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSubwayTrain_0: -4655955254742394788
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

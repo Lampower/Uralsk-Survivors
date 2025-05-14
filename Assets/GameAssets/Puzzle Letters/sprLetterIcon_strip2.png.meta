@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprLetterIcon_strip2_0: 1866500262821226086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

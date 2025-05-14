@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatWalkM16_strip8_0: 7876449518196952304
+      sprSwatWalkM16_strip8_1: -901642431067146202
+      sprSwatWalkM16_strip8_2: 2582431083305185576
+      sprSwatWalkM16_strip8_3: -5475521239165924510
+      sprSwatWalkM16_strip8_4: 5948760270481513716
+      sprSwatWalkM16_strip8_5: -6990557495195918733
+      sprSwatWalkM16_strip8_6: 7651202770127567797
+      sprSwatWalkM16_strip8_7: -3749243043921918009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

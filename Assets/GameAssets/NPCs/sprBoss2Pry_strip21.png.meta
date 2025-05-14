@@ -697,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss2Pry_strip21_0: -6428561702218726024
+      sprBoss2Pry_strip21_1: 7485562816481457460
+      sprBoss2Pry_strip21_10: 5254407995893685616
+      sprBoss2Pry_strip21_11: -7638581425938569147
+      sprBoss2Pry_strip21_12: 1072954277298405696
+      sprBoss2Pry_strip21_13: 7323182310401952815
+      sprBoss2Pry_strip21_14: -1064805790418664504
+      sprBoss2Pry_strip21_15: -4181824958736613663
+      sprBoss2Pry_strip21_16: -3516909700329862756
+      sprBoss2Pry_strip21_17: -1985693357249624623
+      sprBoss2Pry_strip21_18: -7412544032781412532
+      sprBoss2Pry_strip21_19: -3808045692237745867
+      sprBoss2Pry_strip21_2: 4362874212579516089
+      sprBoss2Pry_strip21_20: -7248727246097903412
+      sprBoss2Pry_strip21_21: -6587574543638762288
+      sprBoss2Pry_strip21_22: -7185359580376594162
+      sprBoss2Pry_strip21_3: -587134814743449136
+      sprBoss2Pry_strip21_4: 2827360621018851057
+      sprBoss2Pry_strip21_5: 5058616870700285907
+      sprBoss2Pry_strip21_6: -1206823063049867907
+      sprBoss2Pry_strip21_7: 5315035780692445128
+      sprBoss2Pry_strip21_8: 3756166082859404275
+      sprBoss2Pry_strip21_9: -4869996254749861182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

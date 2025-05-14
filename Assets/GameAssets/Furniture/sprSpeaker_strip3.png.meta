@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSpeaker_strip3_0: -2567735827840586385
+      sprSpeaker_strip3_1: 8413292177338373817
+      sprSpeaker_strip3_2: -825367744626990299
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

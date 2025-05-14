@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGlimmer_strip24_0: 8504100750549286012
+      sprGlimmer_strip24_1: 2398487453892836971
+      sprGlimmer_strip24_2: 728122608165471239
+      sprGlimmer_strip24_3: -3060074889732659996
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

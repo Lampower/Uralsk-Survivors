@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss4Sofa_0: 7126136727773172632
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

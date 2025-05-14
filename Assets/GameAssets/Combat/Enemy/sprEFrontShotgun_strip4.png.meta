@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEFrontShotgun_strip4_0: -2415473291706278183
+      sprEFrontShotgun_strip4_1: 2426091771599913095
+      sprEFrontShotgun_strip4_2: 1864385625176383161
+      sprEFrontShotgun_strip4_3: -6625354189797871468
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

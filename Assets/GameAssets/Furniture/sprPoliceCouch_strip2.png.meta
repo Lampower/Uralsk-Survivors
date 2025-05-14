@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceCouch_strip2_0: -5480496946861035362
+      sprPoliceCouch_strip2_1: 2222316924066436260
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

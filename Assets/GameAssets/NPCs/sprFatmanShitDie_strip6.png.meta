@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFatmanShitDie_strip6_0: 2072718221768189829
+      sprFatmanShitDie_strip6_1: -2100702214634615824
+      sprFatmanShitDie_strip6_2: -876632081906304087
+      sprFatmanShitDie_strip6_3: -2023951359462862004
+      sprFatmanShitDie_strip6_4: -7632779424452920208
+      sprFatmanShitDie_strip6_5: 4837074541305225217
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

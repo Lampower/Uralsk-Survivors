@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackFaceKick_strip10_0: -3684547453569456266
+      sprPAttackFaceKick_strip10_1: 8368913339196402340
+      sprPAttackFaceKick_strip10_2: -5645281592913589016
+      sprPAttackFaceKick_strip10_3: -7098214232404822461
+      sprPAttackFaceKick_strip10_4: 1471997047754481639
+      sprPAttackFaceKick_strip10_5: 1743593074028286308
+      sprPAttackFaceKick_strip10_6: -363488143162770568
+      sprPAttackFaceKick_strip10_7: 7780239677878830356
+      sprPAttackFaceKick_strip10_8: -2798738974397687294
+      sprPAttackFaceKick_strip10_9: -7852102437274178901
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

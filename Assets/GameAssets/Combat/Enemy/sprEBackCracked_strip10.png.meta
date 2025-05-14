@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEBackCracked_strip10_0: 7108813432896079572
+      sprEBackCracked_strip10_1: -3166346529847292955
+      sprEBackCracked_strip10_2: -4609835326731255779
+      sprEBackCracked_strip10_3: 2803024394769008280
+      sprEBackCracked_strip10_4: 2301558829893108980
+      sprEBackCracked_strip10_5: 7078316115815876995
+      sprEBackCracked_strip10_6: 6247627308439196439
+      sprEBackCracked_strip10_7: 7085630485496331968
+      sprEBackCracked_strip10_8: 6217540344941873309
+      sprEBackCracked_strip10_9: -5335442355917188287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

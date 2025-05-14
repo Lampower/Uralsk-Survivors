@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEDeadDart_strip14_0: -5504403077458910498
+      sprEDeadDart_strip14_1: 3502673010706629024
+      sprEDeadDart_strip14_10: 6355388308691543635
+      sprEDeadDart_strip14_11: 5293444159818732860
+      sprEDeadDart_strip14_12: 957716606790073264
+      sprEDeadDart_strip14_13: -430587471758147987
+      sprEDeadDart_strip14_2: -1318166256347680867
+      sprEDeadDart_strip14_3: 5306948334539659110
+      sprEDeadDart_strip14_4: 3715508058768577594
+      sprEDeadDart_strip14_5: 5432335781709605693
+      sprEDeadDart_strip14_6: 1180481703159246618
+      sprEDeadDart_strip14_7: 8482673477700161285
+      sprEDeadDart_strip14_8: 8636102734659651062
+      sprEDeadDart_strip14_9: 7769583650358045201
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

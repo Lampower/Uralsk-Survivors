@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBossClub2_strip8_0: -390844410613662154
+      sprBossClub2_strip8_1: 4088675631056416516
+      sprBossClub2_strip8_2: -7012265521908938271
+      sprBossClub2_strip8_3: -5138492118736919752
+      sprBossClub2_strip8_4: -694590922682500913
+      sprBossClub2_strip8_5: 6910246325729789205
+      sprBossClub2_strip8_6: -832283132460516868
+      sprBossClub2_strip8_7: -1539413004846082337
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

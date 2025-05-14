@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDogEat_strip12_0: -8814953333720751121
+      sprDogEat_strip12_1: -7407868423091056493
+      sprDogEat_strip12_10: 723247651382051440
+      sprDogEat_strip12_11: -5115302429718679084
+      sprDogEat_strip12_2: -981705508574052409
+      sprDogEat_strip12_3: -5517188239108705293
+      sprDogEat_strip12_4: -3364728428670472181
+      sprDogEat_strip12_5: -3614975373222121904
+      sprDogEat_strip12_6: -6043427705570184078
+      sprDogEat_strip12_7: 6328822688688489167
+      sprDogEat_strip12_8: -398904346495655533
+      sprDogEat_strip12_9: -1744328573475681725
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

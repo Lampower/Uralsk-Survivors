@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGirlfriendFaceOld_0: -6624167506791497622
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

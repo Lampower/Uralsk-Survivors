@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOldmanFace_strip16_0: -1884175177887953830
+      sprOldmanFace_strip16_1: -2115111601390289696
+      sprOldmanFace_strip16_10: 7263133079382339049
+      sprOldmanFace_strip16_11: -7048111044122465638
+      sprOldmanFace_strip16_12: -5900807727529342656
+      sprOldmanFace_strip16_13: 7393678609198382750
+      sprOldmanFace_strip16_14: -3916863415278465628
+      sprOldmanFace_strip16_15: 3460561946627571280
+      sprOldmanFace_strip16_2: 3402203443769463914
+      sprOldmanFace_strip16_3: 7638224141230874646
+      sprOldmanFace_strip16_4: -7167043951110752767
+      sprOldmanFace_strip16_5: -4445617187144613644
+      sprOldmanFace_strip16_6: 8740385800645843385
+      sprOldmanFace_strip16_7: 7911997061253695895
+      sprOldmanFace_strip16_8: 3193143651342514963
+      sprOldmanFace_strip16_9: -9018694787682115988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

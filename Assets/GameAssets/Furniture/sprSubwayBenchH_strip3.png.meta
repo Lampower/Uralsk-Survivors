@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSubwayBenchH_strip3_0: 6295824808432417623
+      sprSubwayBenchH_strip3_1: 962861287116342753
+      sprSubwayBenchH_strip3_2: -2568758543498729447
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

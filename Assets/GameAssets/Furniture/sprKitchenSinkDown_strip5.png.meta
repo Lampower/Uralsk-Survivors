@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprKitchenSinkDown_strip5_0: 2801820306024715278
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

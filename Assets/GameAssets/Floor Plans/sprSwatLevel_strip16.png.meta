@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatLevel_strip16_0: 8178411839823787048
+      sprSwatLevel_strip16_1: -1461705221385173022
+      sprSwatLevel_strip16_10: 1926499119210809724
+      sprSwatLevel_strip16_11: 1834530088009356113
+      sprSwatLevel_strip16_12: 6633888872737624095
+      sprSwatLevel_strip16_13: -3770236614718594392
+      sprSwatLevel_strip16_14: -237066659054384396
+      sprSwatLevel_strip16_15: -5741223858533523132
+      sprSwatLevel_strip16_2: 4859443600671386524
+      sprSwatLevel_strip16_3: 4204591375216434834
+      sprSwatLevel_strip16_4: 3304331317260235254
+      sprSwatLevel_strip16_5: 8083232691631324605
+      sprSwatLevel_strip16_6: 9135947989928628185
+      sprSwatLevel_strip16_7: 8472345976527234233
+      sprSwatLevel_strip16_8: -5170076289262453065
+      sprSwatLevel_strip16_9: -627363495483608962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

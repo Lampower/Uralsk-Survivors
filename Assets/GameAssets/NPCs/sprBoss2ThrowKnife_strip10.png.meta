@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss2ThrowKnife_strip10_0: 228031756998260432
+      sprBoss2ThrowKnife_strip10_1: -9079764436021661827
+      sprBoss2ThrowKnife_strip10_2: -900973583878800349
+      sprBoss2ThrowKnife_strip10_3: -6299632443265066811
+      sprBoss2ThrowKnife_strip10_4: -4753223067424933734
+      sprBoss2ThrowKnife_strip10_5: -2991162647857641720
+      sprBoss2ThrowKnife_strip10_6: 6989669347533470306
+      sprBoss2ThrowKnife_strip10_7: -6125083857104919554
+      sprBoss2ThrowKnife_strip10_8: 4665898038869879820
+      sprBoss2ThrowKnife_strip10_9: 5592960547089563493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherRun_strip5_0: -4547314695789548349
+      sprPantherRun_strip5_1: 4206923690582754337
+      sprPantherRun_strip5_2: 5030275817447153343
+      sprPantherRun_strip5_3: 483384469256088356
+      sprPantherRun_strip5_4: 5431806101550098697
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

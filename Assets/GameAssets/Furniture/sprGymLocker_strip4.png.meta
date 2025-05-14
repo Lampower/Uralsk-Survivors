@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGymLocker_strip4_0: 6089376655063641861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

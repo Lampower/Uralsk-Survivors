@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBikerHurt_strip16_0: -2034178748262808382
+      sprBikerHurt_strip16_1: -2427219814933715886
+      sprBikerHurt_strip16_10: 3599621931756784159
+      sprBikerHurt_strip16_11: 2100397579552287244
+      sprBikerHurt_strip16_12: 8437733280618353917
+      sprBikerHurt_strip16_13: -130130898482238060
+      sprBikerHurt_strip16_14: 2636759580760729240
+      sprBikerHurt_strip16_15: -4081075482604791276
+      sprBikerHurt_strip16_2: 841775870068406496
+      sprBikerHurt_strip16_3: 1843586880005188124
+      sprBikerHurt_strip16_4: -8929591570666912463
+      sprBikerHurt_strip16_5: -2894680032660468664
+      sprBikerHurt_strip16_6: -6244355397880833764
+      sprBikerHurt_strip16_7: 5335581592764723462
+      sprBikerHurt_strip16_8: 5280270173186462972
+      sprBikerHurt_strip16_9: 8228812411376166776
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

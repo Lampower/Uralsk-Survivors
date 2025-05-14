@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatSign_strip21_0: 7339470763026792214
+      sprSwatSign_strip21_1: 778837401687443468
+      sprSwatSign_strip21_10: -1416532868766877809
+      sprSwatSign_strip21_11: 3470230602214009054
+      sprSwatSign_strip21_12: 7147817938655825833
+      sprSwatSign_strip21_13: 1162643345548515639
+      sprSwatSign_strip21_14: -1381322027507997125
+      sprSwatSign_strip21_15: -914147094634780475
+      sprSwatSign_strip21_16: 8079958842687821478
+      sprSwatSign_strip21_17: 4406982513683260592
+      sprSwatSign_strip21_18: 6939531688625630640
+      sprSwatSign_strip21_19: -9220407267835357376
+      sprSwatSign_strip21_2: 1947044548305178772
+      sprSwatSign_strip21_20: -7845913598921452884
+      sprSwatSign_strip21_3: 6175314042276967081
+      sprSwatSign_strip21_4: -7994194999100431868
+      sprSwatSign_strip21_5: -766347942424081478
+      sprSwatSign_strip21_6: -2949986382869886792
+      sprSwatSign_strip21_7: 1926474647496426880
+      sprSwatSign_strip21_8: 5422742366162320533
+      sprSwatSign_strip21_9: 5635703182896767835
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

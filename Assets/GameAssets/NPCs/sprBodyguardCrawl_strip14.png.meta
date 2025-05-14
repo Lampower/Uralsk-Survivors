@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBodyguardCrawl_strip14_0: -126801787357140639
+      sprBodyguardCrawl_strip14_1: 2459019453658713369
+      sprBodyguardCrawl_strip14_10: 3476371851210262769
+      sprBodyguardCrawl_strip14_11: 8550250065723016673
+      sprBodyguardCrawl_strip14_12: 4607296312169749050
+      sprBodyguardCrawl_strip14_13: 6782474681084636488
+      sprBodyguardCrawl_strip14_2: 3627169350788657654
+      sprBodyguardCrawl_strip14_3: 3658364289486106340
+      sprBodyguardCrawl_strip14_4: -426761679359539147
+      sprBodyguardCrawl_strip14_5: 7460537568729410134
+      sprBodyguardCrawl_strip14_6: -5719758272622019
+      sprBodyguardCrawl_strip14_7: 2341687400269668990
+      sprBodyguardCrawl_strip14_8: -1457371988693866244
+      sprBodyguardCrawl_strip14_9: 304730597490009361
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackAxe_strip7_0: -6052079311633843579
+      sprPAttackAxe_strip7_1: 735842878185116084
+      sprPAttackAxe_strip7_2: -6177957812740021255
+      sprPAttackAxe_strip7_3: 2051841849198962523
+      sprPAttackAxe_strip7_4: -2297784296880553019
+      sprPAttackAxe_strip7_5: 2336713047930832111
+      sprPAttackAxe_strip7_6: 1688284445539867374
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

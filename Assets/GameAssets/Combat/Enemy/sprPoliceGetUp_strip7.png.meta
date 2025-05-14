@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceGetUp_strip7_0: -8813175903461275605
+      sprPoliceGetUp_strip7_1: -8905823034649078421
+      sprPoliceGetUp_strip7_2: -3904844574474503806
+      sprPoliceGetUp_strip7_3: 3387104925847719320
+      sprPoliceGetUp_strip7_4: -8073101029763873144
+      sprPoliceGetUp_strip7_5: -6166095912560652964
+      sprPoliceGetUp_strip7_6: -4530899934039684501
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

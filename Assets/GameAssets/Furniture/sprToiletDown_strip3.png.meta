@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprToiletDown_strip3_0: 3614769482353312097
+      sprToiletDown_strip3_1: 5586953957113607867
+      sprToiletDown_strip3_2: -7109349800521289496
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

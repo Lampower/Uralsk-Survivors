@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBartender_strip4_0: 4359343575151771000
+      sprBartender_strip4_1: 9028960389072211733
+      sprBartender_strip4_2: 7662481494948358655
+      sprBartender_strip4_3: -1739320801218464051
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

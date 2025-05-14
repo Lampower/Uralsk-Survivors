@@ -47,9 +47,26 @@ public class Player : LivingEntity, IHolder, IMoveable, IRotateable
     {
         moveDir = GameInput.Instance.movement.action.ReadValue<Vector2>();
         var mousePos = GameInput.Instance.mousePos.action.ReadValue<Vector2>();
-        mousePos = Camera.main.ScreenToWorldPoint(mousePos);
-        var newLookDir = (mousePos - (Vector2)transform.position);
-        lookDir = newLookDir == Vector2.zero ? lookDir : newLookDir;
+        var look = GameInput.Instance.look.action.ReadValue<Vector2>();
+        print(mousePos);
+        print(look);
+        if (Application.platform != RuntimePlatform.Android)
+        {
+            mousePos = Camera.main.ScreenToWorldPoint(mousePos);
+            var newLookDir = (mousePos - (Vector2)transform.position);
+            lookDir = newLookDir == Vector2.zero ? lookDir : newLookDir;
+        }
+        else
+        {
+            if (look == Vector2.zero)
+            {
+                lookDir = moveDir;
+            }
+            else
+            {
+                lookDir = look;
+            }
+        }
 
         isPickingUp = GameInput.Instance.interact.action.WasPerformedThisFrame();
         isAttacking = GameInput.Instance.attack.action.IsInProgress();
@@ -162,6 +179,15 @@ public class Player : LivingEntity, IHolder, IMoveable, IRotateable
     public override void TakeDamage(int damage, LivingEntity takenBy = null)
     {
         Health -= damage;
+        if (Health < 0)
+        {
+            EntityDiesEvent evt = new EntityDiesEvent();
+            evt.diedEntity = this;
+            evt.killer = takenBy;
+            GameEvents.OnEntityDies?.Invoke(evt);
+
+            fsm.SetState<PAfkState>();
+        }
     }
 
     public void AddScoreForPlayer(EntityDiesEvent evt)
@@ -172,5 +198,11 @@ public class Player : LivingEntity, IHolder, IMoveable, IRotateable
         score += evt.diedEntity.ScoreForKilling;
     }
 
+    public void Revive()
+    {
+        score = 0;
+        Health = 100;
+        fsm.SetState<PMovingState>();
+    }
 
 }

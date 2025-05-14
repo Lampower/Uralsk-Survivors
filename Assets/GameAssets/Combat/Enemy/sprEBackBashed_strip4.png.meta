@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEBackBashed_strip4_0: 4808613450753898458
+      sprEBackBashed_strip4_1: 2721666830372893552
+      sprEBackBashed_strip4_2: -5952361423919273899
+      sprEBackBashed_strip4_3: -2906423458096106332
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

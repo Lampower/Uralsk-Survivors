@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackThroat_strip11_0: 741153383154343028
+      sprPAttackThroat_strip11_1: -2888206309289625791
+      sprPAttackThroat_strip11_10: 3668040350947903168
+      sprPAttackThroat_strip11_2: 6778777248557138423
+      sprPAttackThroat_strip11_3: -6057889377885913511
+      sprPAttackThroat_strip11_4: -2260379032215013973
+      sprPAttackThroat_strip11_5: 8023103113112297271
+      sprPAttackThroat_strip11_6: -4406243033763864884
+      sprPAttackThroat_strip11_7: 4229907539355277415
+      sprPAttackThroat_strip11_8: -8383194288062013596
+      sprPAttackThroat_strip11_9: -1372189075957860613
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

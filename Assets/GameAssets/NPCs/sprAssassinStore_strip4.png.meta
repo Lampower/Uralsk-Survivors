@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinStore_strip4_0: -4265025742119252785
+      sprAssassinStore_strip4_1: -6977654456298775062
+      sprAssassinStore_strip4_2: -8183669860658418076
+      sprAssassinStore_strip4_3: 1938513360234481028
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

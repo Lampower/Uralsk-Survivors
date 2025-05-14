@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWaiterWalkFood_strip8_0: -1844852536227258350
+      sprWaiterWalkFood_strip8_1: -6145030435801886968
+      sprWaiterWalkFood_strip8_2: 3419313712059116411
+      sprWaiterWalkFood_strip8_3: -19515533148464064
+      sprWaiterWalkFood_strip8_4: 1604938253036244030
+      sprWaiterWalkFood_strip8_5: -2479797442185576202
+      sprWaiterWalkFood_strip8_6: -4225642970421856031
+      sprWaiterWalkFood_strip8_7: -3227234803813439953
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

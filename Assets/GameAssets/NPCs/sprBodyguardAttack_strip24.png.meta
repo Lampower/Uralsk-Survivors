@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBodyguardAttack_strip24_0: -4925701036628729581
+      sprBodyguardAttack_strip24_1: -5516558689243455834
+      sprBodyguardAttack_strip24_10: -9082778262493974124
+      sprBodyguardAttack_strip24_11: -7283029136323739591
+      sprBodyguardAttack_strip24_12: 7254575836639803468
+      sprBodyguardAttack_strip24_13: -6179970828619973015
+      sprBodyguardAttack_strip24_14: -6548076460312587981
+      sprBodyguardAttack_strip24_15: -2327445685560119613
+      sprBodyguardAttack_strip24_16: -672705429697242731
+      sprBodyguardAttack_strip24_17: 7073484214069135636
+      sprBodyguardAttack_strip24_18: 761297142496303178
+      sprBodyguardAttack_strip24_19: 151161041679366464
+      sprBodyguardAttack_strip24_2: 2226236292534057125
+      sprBodyguardAttack_strip24_20: -3604871110283644747
+      sprBodyguardAttack_strip24_21: 4869547450045187953
+      sprBodyguardAttack_strip24_22: 7805467261245332547
+      sprBodyguardAttack_strip24_23: -2820116165209492312
+      sprBodyguardAttack_strip24_3: -2408286208410185277
+      sprBodyguardAttack_strip24_4: -185896670836794752
+      sprBodyguardAttack_strip24_5: 6898904604350533980
+      sprBodyguardAttack_strip24_6: 5120790586150377552
+      sprBodyguardAttack_strip24_7: 1640916415546940242
+      sprBodyguardAttack_strip24_8: 7887997724695627036
+      sprBodyguardAttack_strip24_9: -2159456056116566706
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCocaineBox_strip3_0: -5240931728702391925
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

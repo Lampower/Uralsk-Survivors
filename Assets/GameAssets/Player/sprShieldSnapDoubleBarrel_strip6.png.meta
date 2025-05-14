@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShieldSnapDoubleBarrel_strip6_0: 8235812302772881425
+      sprShieldSnapDoubleBarrel_strip6_1: -6813025953536883061
+      sprShieldSnapDoubleBarrel_strip6_2: -1449805537964872253
+      sprShieldSnapDoubleBarrel_strip6_3: -4996877473777204694
+      sprShieldSnapDoubleBarrel_strip6_4: 6202681886296326889
+      sprShieldSnapDoubleBarrel_strip6_5: -7577657278573477859
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

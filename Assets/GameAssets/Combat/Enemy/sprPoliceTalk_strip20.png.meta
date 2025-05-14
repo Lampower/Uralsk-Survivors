@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceTalk_strip20_0: 8675520131517681172
+      sprPoliceTalk_strip20_1: 8430566596688198489
+      sprPoliceTalk_strip20_10: 3863142135920313823
+      sprPoliceTalk_strip20_11: -3324159717583477488
+      sprPoliceTalk_strip20_12: 7711078206264265572
+      sprPoliceTalk_strip20_13: -6639806963307266417
+      sprPoliceTalk_strip20_14: 9053860924534690923
+      sprPoliceTalk_strip20_15: -7944998716824524540
+      sprPoliceTalk_strip20_16: 5890125888793500452
+      sprPoliceTalk_strip20_17: -2863317049588650772
+      sprPoliceTalk_strip20_18: 6003674873295832404
+      sprPoliceTalk_strip20_19: -775028415185115050
+      sprPoliceTalk_strip20_2: -8429098988015625695
+      sprPoliceTalk_strip20_3: 8506678484375054895
+      sprPoliceTalk_strip20_4: -8178175665356884861
+      sprPoliceTalk_strip20_5: -8017046945461681165
+      sprPoliceTalk_strip20_6: -7331497970682426438
+      sprPoliceTalk_strip20_7: -8062810221951992920
+      sprPoliceTalk_strip20_8: -9018409174042360045
+      sprPoliceTalk_strip20_9: -1995857423274167898
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

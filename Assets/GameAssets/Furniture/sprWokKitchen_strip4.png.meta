@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWokKitchen_strip4_0: -3554391468282503229
+      sprWokKitchen_strip4_1: -1997848303630826695
+      sprWokKitchen_strip4_2: 9095572189397568315
+      sprWokKitchen_strip4_3: 7026471950606857497
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

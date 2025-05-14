@@ -1,6 +1,9 @@
 using Events;
 using UnityEngine;
 using Pathfinding;
+using UnityEngine.UIElements;
+using UnityEditor.Rendering.LookDev;
+using UnityEngine.Events;
 
 
 public class BaseEnemy : LivingEntity
@@ -18,10 +21,20 @@ public class BaseEnemy : LivingEntity
 
     public Fsm fsm;
 
+    public UnityEvent<BaseEnemy> OnEntityDeath;
+
     public void Start()
     {
         path = GetComponent<AIPath>();
         destinationSetter = GetComponent<AIDestinationSetter>();
+        if (destinationSetter)
+        {
+            destinationSetter.target = GameManager.Instance.mainPlayer.transform;
+        }
+        if (path)
+        {
+            path.maxSpeed = moveSpeed;
+        }
 
         InitFsm();
     }
@@ -52,6 +65,8 @@ public class BaseEnemy : LivingEntity
         evt.killer = killer;
         GameEvents.OnEntityDies?.Invoke(evt);
 
+        OnEntityDeath?.Invoke(this);
+
         if (evt.isCancelled) return;
 
         Destroy(this.gameObject);
@@ -70,22 +85,29 @@ public class BaseEnemy : LivingEntity
 
     public virtual void StartMoving()
     {
-        path.maxSpeed = moveSpeed;
+        path.canMove = true;
     }
 
     public virtual void StopMoving()
     {
-        path.maxSpeed = 0;
+        path.canMove = false;
     }
 
     public virtual void StartRotation()
     {
-        path.rotationSpeed = rotationSpeed;
+        path.enableRotation = true;
     }
 
     public virtual void StopRotation()
     {
-        path.rotationSpeed = 0; 
+        path.enableRotation = false; 
+    }
+
+    public virtual void Rotate()
+    {
+        var rotationAngle = destinationSetter.target.position - transform.position;
+        float angle = Mathf.Atan2(rotationAngle.y, rotationAngle.x) * Mathf.Rad2Deg;
+        transform.rotation = Quaternion.Euler(0, 0, angle - 90);
     }
 
     public virtual void Attack()

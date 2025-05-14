@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprRezzedLogo_0: -3690685214955286472
+      sprRezzedLogo_1: 9117867500229404690
+      sprRezzedLogo_2: -7372489050212217229
+      sprRezzedLogo_3: -2666939205618524910
+      sprRezzedLogo_4: -4012340604642142008
+      sprRezzedLogo_5: 4677578743335550819
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWorkerDead_strip3_0: 664173680816478583
+      sprWorkerDead_strip3_1: -2724198832437312191
+      sprWorkerDead_strip3_2: -6650105337583274289
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

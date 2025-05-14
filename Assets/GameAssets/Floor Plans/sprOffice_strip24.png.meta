@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOffice_strip24_0: -740894354908241246
+      sprOffice_strip24_1: -6177956863450580803
+      sprOffice_strip24_10: 6481985238674207975
+      sprOffice_strip24_11: 3334922201384586248
+      sprOffice_strip24_12: -7577655610281509077
+      sprOffice_strip24_13: 838139812093266896
+      sprOffice_strip24_14: 9153218137506579576
+      sprOffice_strip24_15: 7389093917767643432
+      sprOffice_strip24_16: 2987578479937115007
+      sprOffice_strip24_17: -2241659834006294169
+      sprOffice_strip24_18: 3549408450460070842
+      sprOffice_strip24_19: -4826854969444984859
+      sprOffice_strip24_2: -6933562126465931188
+      sprOffice_strip24_20: -4027235673997519596
+      sprOffice_strip24_21: 5235851152940016499
+      sprOffice_strip24_22: 6986243088607245587
+      sprOffice_strip24_23: 201750022143126479
+      sprOffice_strip24_3: -4534311917523306788
+      sprOffice_strip24_4: -4600037196580541403
+      sprOffice_strip24_5: 4750897326828198161
+      sprOffice_strip24_6: 4322976884504871933
+      sprOffice_strip24_7: 2781187963259942165
+      sprOffice_strip24_8: 2494268162056536451
+      sprOffice_strip24_9: -3460385902075785465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

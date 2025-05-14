@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHelmetBroken_0: -585029473082437257
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

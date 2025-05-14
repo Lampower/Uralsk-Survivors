@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss3BreakArm_strip18_0: -4450232953322293361
+      sprBoss3BreakArm_strip18_1: 8720131395737647239
+      sprBoss3BreakArm_strip18_10: -5388141747082043763
+      sprBoss3BreakArm_strip18_11: 8188234545377957207
+      sprBoss3BreakArm_strip18_12: 59543515584162237
+      sprBoss3BreakArm_strip18_13: 7998507121887117014
+      sprBoss3BreakArm_strip18_14: 7680861896066569306
+      sprBoss3BreakArm_strip18_15: -6007295492187993244
+      sprBoss3BreakArm_strip18_16: -6305022445225328657
+      sprBoss3BreakArm_strip18_17: -1077217468883154467
+      sprBoss3BreakArm_strip18_2: 88885775444095799
+      sprBoss3BreakArm_strip18_3: -676222663916796043
+      sprBoss3BreakArm_strip18_4: -4878250733351657611
+      sprBoss3BreakArm_strip18_5: -6466391605783188542
+      sprBoss3BreakArm_strip18_6: -2918246569219110350
+      sprBoss3BreakArm_strip18_7: -8548943444469848820
+      sprBoss3BreakArm_strip18_8: 7698719545442924342
+      sprBoss3BreakArm_strip18_9: 2637689605953489799
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

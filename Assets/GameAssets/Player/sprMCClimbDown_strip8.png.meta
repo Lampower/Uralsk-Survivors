@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCClimbDown_strip8_0: -5205859855011944280
+      sprMCClimbDown_strip8_1: 7534498954280289510
+      sprMCClimbDown_strip8_2: -4371733974283005119
+      sprMCClimbDown_strip8_3: -903536263813445805
+      sprMCClimbDown_strip8_4: -5639474242972201339
+      sprMCClimbDown_strip8_5: 4226115028271279560
+      sprMCClimbDown_strip8_6: 8775657376970508244
+      sprMCClimbDown_strip8_7: 729060057545761988
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

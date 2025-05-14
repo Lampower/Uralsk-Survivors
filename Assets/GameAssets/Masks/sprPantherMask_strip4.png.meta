@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherMask_strip4_0: -6173406395465962191
+      sprPantherMask_strip4_1: -654608673197347565
+      sprPantherMask_strip4_2: -1746642541529051429
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

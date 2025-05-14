@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprToaster_strip3_0: 7887102903666419075
+      sprToaster_strip3_1: -2899632267242845098
+      sprToaster_strip3_2: -277351359870239586
+      sprToaster_strip3_3: -2738327550039992590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDanceFloor_strip8_0: -9058116613803857855
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

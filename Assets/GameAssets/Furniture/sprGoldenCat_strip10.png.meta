@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGoldenCat_strip10_0: 4352313676954965183
+      sprGoldenCat_strip10_1: -1377581213749159189
+      sprGoldenCat_strip10_2: 1192767028813945460
+      sprGoldenCat_strip10_3: -7861561732492091692
+      sprGoldenCat_strip10_4: -4817494510569209537
+      sprGoldenCat_strip10_5: -5475898635323049826
+      sprGoldenCat_strip10_6: -1035081747419639649
+      sprGoldenCat_strip10_7: -6782705388868915962
+      sprGoldenCat_strip10_8: -5235919948619143948
+      sprGoldenCat_strip10_9: -6798107174849161026
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

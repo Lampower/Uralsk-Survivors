@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatLegsHurt_strip6_0: -7447026256489992024
+      sprSwatLegsHurt_strip6_1: -3513911298225384279
+      sprSwatLegsHurt_strip6_2: -6410430012586807366
+      sprSwatLegsHurt_strip6_3: -3469958322055780994
+      sprSwatLegsHurt_strip6_4: -580244303710234076
+      sprSwatLegsHurt_strip6_5: -5636104327342094391
+      sprSwatLegsHurt_strip6_6: -4432523589638228681
+      sprSwatLegsHurt_strip6_7: 6355015881170153306
+      sprSwatLegsHurt_strip6_8: -7941214654856766113
+      sprSwatLegsHurt_strip6_9: -8064669189300237650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprArcadeLight1_strip2_0: 4696598887555715037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSolarium_strip8_0: 3324114120205040725
+      sprSolarium_strip8_1: -2510485435225332761
+      sprSolarium_strip8_2: 7227471421683018517
+      sprSolarium_strip8_3: -2116707943104194834
+      sprSolarium_strip8_4: 2838933953653571254
+      sprSolarium_strip8_5: -1002609217646315288
+      sprSolarium_strip8_6: -5809821675411517337
+      sprSolarium_strip8_7: -8541250316196939356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGlassPanelBrokenV_0: -1893917055792583577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSewerForms_0: -3759442191307552595
+      sprSewerForms_1: 7846446900595118350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

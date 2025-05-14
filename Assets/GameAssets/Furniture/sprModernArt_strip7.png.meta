@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprModernArt_strip7_0: -5174719543128292042
+      sprModernArt_strip7_1: 3335216991033969607
+      sprModernArt_strip7_2: -8026969304694728891
+      sprModernArt_strip7_3: 7583371966478151781
+      sprModernArt_strip7_4: 5343169830573687830
+      sprModernArt_strip7_5: -7573010900940387083
+      sprModernArt_strip7_6: 7419949181944270237
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

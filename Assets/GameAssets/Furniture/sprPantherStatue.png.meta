@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherStatue_0: 3764902681571851444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

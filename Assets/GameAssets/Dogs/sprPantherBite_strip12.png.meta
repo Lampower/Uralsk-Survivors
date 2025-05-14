@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherBite_strip12_0: -5551083700800067631
+      sprPantherBite_strip12_1: 690214662124263609
+      sprPantherBite_strip12_10: -800292225147221764
+      sprPantherBite_strip12_11: -3558502470337517909
+      sprPantherBite_strip12_2: 268546713963159047
+      sprPantherBite_strip12_3: 6242262175566389748
+      sprPantherBite_strip12_4: -2494659471972839630
+      sprPantherBite_strip12_5: 3662290809072016478
+      sprPantherBite_strip12_6: -6731565755547618297
+      sprPantherBite_strip12_7: -2096073585298653792
+      sprPantherBite_strip12_8: 5277251106063674518
+      sprPantherBite_strip12_9: 7729366065883615737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

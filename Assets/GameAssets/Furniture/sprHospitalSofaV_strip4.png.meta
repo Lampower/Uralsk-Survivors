@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHospitalSofaV_strip4_0: -1009815305603775835
+      sprHospitalSofaV_strip4_1: -4822306304297002693
+      sprHospitalSofaV_strip4_2: 6566171489348698778
+      sprHospitalSofaV_strip4_3: -3991714244931966566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

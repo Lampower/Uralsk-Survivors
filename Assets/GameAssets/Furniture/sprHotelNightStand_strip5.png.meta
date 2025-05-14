@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotelNightStand_strip5_0: -9199195331473819086
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

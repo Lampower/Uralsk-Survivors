@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCoconuts_strip13_0: 6480353443472363782
+      sprCoconuts_strip13_1: 7405945972615480912
+      sprCoconuts_strip13_10: 4253485435454830539
+      sprCoconuts_strip13_11: 4642268832935263721
+      sprCoconuts_strip13_12: -280931629826311146
+      sprCoconuts_strip13_2: 6574776589941899182
+      sprCoconuts_strip13_3: 642701104933821836
+      sprCoconuts_strip13_4: 2328208962807288236
+      sprCoconuts_strip13_5: -1780864415305009376
+      sprCoconuts_strip13_6: -434765536304988292
+      sprCoconuts_strip13_7: -3251443755977251881
+      sprCoconuts_strip13_8: -733157958702844035
+      sprCoconuts_strip13_9: 1216076239917120662
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

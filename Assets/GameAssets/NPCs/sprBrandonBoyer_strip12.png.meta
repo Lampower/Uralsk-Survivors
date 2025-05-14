@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBrandonBoyer_strip12_0: -769071495479543327
+      sprBrandonBoyer_strip12_1: 3250310428977328801
+      sprBrandonBoyer_strip12_10: -3343878914878818479
+      sprBrandonBoyer_strip12_11: 8255232996593018401
+      sprBrandonBoyer_strip12_2: 6370313206167955232
+      sprBrandonBoyer_strip12_3: 3027283246563968236
+      sprBrandonBoyer_strip12_4: 60638060607958436
+      sprBrandonBoyer_strip12_5: 1840470225565630790
+      sprBrandonBoyer_strip12_6: -707156426840592166
+      sprBrandonBoyer_strip12_7: -1583064354746574826
+      sprBrandonBoyer_strip12_8: 1086227146293092079
+      sprBrandonBoyer_strip12_9: 6761846272730342190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

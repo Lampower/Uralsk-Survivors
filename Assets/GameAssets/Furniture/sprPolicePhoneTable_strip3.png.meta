@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPolicePhoneTable_strip3_0: 3836689209063148235
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

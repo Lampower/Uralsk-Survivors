@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDeadCivilians_strip4_0: -9024999107074913634
+      sprDeadCivilians_strip4_1: 1889513394558527236
+      sprDeadCivilians_strip4_2: 8809080315374925304
+      sprDeadCivilians_strip4_3: -7735642488896072601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

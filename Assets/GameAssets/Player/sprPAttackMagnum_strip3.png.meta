@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackMagnum_strip3_0: -7664319034808476261
+      sprPAttackMagnum_strip3_1: -4020206563397953470
+      sprPAttackMagnum_strip3_2: 8010363978852706005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

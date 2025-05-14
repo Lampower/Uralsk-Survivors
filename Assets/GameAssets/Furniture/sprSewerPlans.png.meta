@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSewerPlans_0: -7899815471041144805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

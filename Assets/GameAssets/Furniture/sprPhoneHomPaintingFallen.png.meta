@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPhoneHomPaintingFallen_0: -8559079236546468256
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

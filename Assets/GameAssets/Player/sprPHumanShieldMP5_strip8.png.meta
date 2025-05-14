@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPHumanShieldMP5_strip8_0: -8181019808228431623
+      sprPHumanShieldMP5_strip8_1: -8368203193794033811
+      sprPHumanShieldMP5_strip8_2: 339285230945467346
+      sprPHumanShieldMP5_strip8_3: -8636485146336072424
+      sprPHumanShieldMP5_strip8_4: -5628184377195571610
+      sprPHumanShieldMP5_strip8_5: 2332860514808333387
+      sprPHumanShieldMP5_strip8_6: -8178940882149221986
+      sprPHumanShieldMP5_strip8_7: 7580157024794830068
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

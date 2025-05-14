@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWileyDead_0: -5707328486714688887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

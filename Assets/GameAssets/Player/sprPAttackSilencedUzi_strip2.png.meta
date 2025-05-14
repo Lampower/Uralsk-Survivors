@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackSilencedUzi_strip2_0: 5427758824509286646
+      sprPAttackSilencedUzi_strip2_1: -6320868608349041525
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPFrontMachinegun2_strip5_0: -4649120933893483873
+      sprPFrontMachinegun2_strip5_1: 3970147693176020756
+      sprPFrontMachinegun2_strip5_2: 7100866177947683430
+      sprPFrontMachinegun2_strip5_3: 3616526079402673496
+      sprPFrontMachinegun2_strip5_4: -91272697701345396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

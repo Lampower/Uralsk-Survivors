@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJanitorClean_strip9_0: -2551335523796148065
+      sprJanitorClean_strip9_1: 5699822031915754093
+      sprJanitorClean_strip9_10: -2202725902880342466
+      sprJanitorClean_strip9_11: -6345809782299386231
+      sprJanitorClean_strip9_12: -6095605859525521333
+      sprJanitorClean_strip9_13: 8032370206594254206
+      sprJanitorClean_strip9_14: 6835333628411925897
+      sprJanitorClean_strip9_15: 5193507234842907853
+      sprJanitorClean_strip9_16: 6315905423556857476
+      sprJanitorClean_strip9_17: -5484345289492997318
+      sprJanitorClean_strip9_2: -6991724532768765721
+      sprJanitorClean_strip9_3: 6489154395141994119
+      sprJanitorClean_strip9_4: 3024706099849382299
+      sprJanitorClean_strip9_5: 4908002162461350182
+      sprJanitorClean_strip9_6: -7693383101748783843
+      sprJanitorClean_strip9_7: 8338889890347550626
+      sprJanitorClean_strip9_8: 2609505553068689915
+      sprJanitorClean_strip9_9: -1605949840090983938
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

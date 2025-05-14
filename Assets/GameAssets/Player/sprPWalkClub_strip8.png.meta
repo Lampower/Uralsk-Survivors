@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkClub_strip8_0: 6582413218483402567
+      sprPWalkClub_strip8_1: 7212415038835023550
+      sprPWalkClub_strip8_2: 4537755988188936705
+      sprPWalkClub_strip8_3: 6759815097253544323
+      sprPWalkClub_strip8_4: -468598575089517581
+      sprPWalkClub_strip8_5: -8462247014031389109
+      sprPWalkClub_strip8_6: -408376022957281828
+      sprPWalkClub_strip8_7: 2556318524946814135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprTigerCarpet_0: 6461712833230289440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

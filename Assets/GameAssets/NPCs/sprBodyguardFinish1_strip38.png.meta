@@ -1072,7 +1072,45 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBodyguardFinish1_strip38_0: -7779028145425370007
+      sprBodyguardFinish1_strip38_1: 5092792574993877376
+      sprBodyguardFinish1_strip38_10: 7451382206048012566
+      sprBodyguardFinish1_strip38_11: 1996093006020890842
+      sprBodyguardFinish1_strip38_12: 8790990208118630164
+      sprBodyguardFinish1_strip38_13: 6340911954101828090
+      sprBodyguardFinish1_strip38_14: -6762912914614557332
+      sprBodyguardFinish1_strip38_15: 6325516466827456450
+      sprBodyguardFinish1_strip38_16: -2813004988663503602
+      sprBodyguardFinish1_strip38_17: 3063524863032058574
+      sprBodyguardFinish1_strip38_18: -5052804208526723324
+      sprBodyguardFinish1_strip38_19: 616900473043629190
+      sprBodyguardFinish1_strip38_2: 4950765655115289509
+      sprBodyguardFinish1_strip38_20: 3555121439510916512
+      sprBodyguardFinish1_strip38_21: 3833269650128003527
+      sprBodyguardFinish1_strip38_22: -8020538964602418169
+      sprBodyguardFinish1_strip38_23: -7247582020155844772
+      sprBodyguardFinish1_strip38_24: -1391125713346027287
+      sprBodyguardFinish1_strip38_25: -6441088715595591859
+      sprBodyguardFinish1_strip38_26: -1935105698715172243
+      sprBodyguardFinish1_strip38_27: 1497982623207486605
+      sprBodyguardFinish1_strip38_28: -6494178230282599930
+      sprBodyguardFinish1_strip38_29: -867830930238478869
+      sprBodyguardFinish1_strip38_3: -146784543064785724
+      sprBodyguardFinish1_strip38_30: -3370732216853813451
+      sprBodyguardFinish1_strip38_31: 2111491134821216524
+      sprBodyguardFinish1_strip38_32: -3028491091516661191
+      sprBodyguardFinish1_strip38_33: -3273192617538844519
+      sprBodyguardFinish1_strip38_34: 7156288757033501895
+      sprBodyguardFinish1_strip38_35: 9136797121274521852
+      sprBodyguardFinish1_strip38_36: 2757562057838734610
+      sprBodyguardFinish1_strip38_37: -8232549613927637208
+      sprBodyguardFinish1_strip38_4: -1736081161072766170
+      sprBodyguardFinish1_strip38_5: -5358551057319621390
+      sprBodyguardFinish1_strip38_6: 901177422241878053
+      sprBodyguardFinish1_strip38_7: 8057411271786873309
+      sprBodyguardFinish1_strip38_8: -7504864219722591467
+      sprBodyguardFinish1_strip38_9: -2341501692256478899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

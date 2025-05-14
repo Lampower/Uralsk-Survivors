@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinUzi_0: 6871191680460262203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

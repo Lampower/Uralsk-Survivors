@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprVinylRecord_strip7_0: 4311090356163282138
+      sprVinylRecord_strip7_1: -4424387482825372879
+      sprVinylRecord_strip7_2: -914295240172117964
+      sprVinylRecord_strip7_3: -8609200098191534351
+      sprVinylRecord_strip7_4: -505666005842859709
+      sprVinylRecord_strip7_5: 1425070364268413046
+      sprVinylRecord_strip7_6: -2010991323507329962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

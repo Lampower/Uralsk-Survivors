@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprTinyShard_strip11_0: 7509436789421493843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHouse3_strip24_0: -5456688612925340403
+      sprHouse3_strip24_1: -4580889252896602008
+      sprHouse3_strip24_10: 1642478474110703391
+      sprHouse3_strip24_11: 5959569073419353954
+      sprHouse3_strip24_12: -1527611875194390265
+      sprHouse3_strip24_13: 1710000790231341414
+      sprHouse3_strip24_14: 7084374725338088886
+      sprHouse3_strip24_15: 7187138044085043906
+      sprHouse3_strip24_16: 1395261418876847713
+      sprHouse3_strip24_17: -6928421369801899798
+      sprHouse3_strip24_18: 2550857885638315966
+      sprHouse3_strip24_19: -4472714599821116087
+      sprHouse3_strip24_2: -7846821601233430980
+      sprHouse3_strip24_20: 8953286792099272292
+      sprHouse3_strip24_21: 581565105419802879
+      sprHouse3_strip24_22: -1555023156713088833
+      sprHouse3_strip24_23: 7294480045201576374
+      sprHouse3_strip24_3: 4298081800542589182
+      sprHouse3_strip24_4: 1688749175577903230
+      sprHouse3_strip24_5: 6619391336369513490
+      sprHouse3_strip24_6: -4996844779402900349
+      sprHouse3_strip24_7: 1021613175609832965
+      sprHouse3_strip24_8: 6275339157225498593
+      sprHouse3_strip24_9: -333644587814980244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNicklasFace_strip4_0: -4059218791492620557
+      sprNicklasFace_strip4_1: 9030335656340756092
+      sprNicklasFace_strip4_2: 3740982982974878881
+      sprNicklasFace_strip4_3: 3683773686746126390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

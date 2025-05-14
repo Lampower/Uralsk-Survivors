@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPBashBoss2_strip8_0: -438237809004669383
+      sprPBashBoss2_strip8_1: -216498870692609192
+      sprPBashBoss2_strip8_2: -7446194063993691030
+      sprPBashBoss2_strip8_3: -2920213674880957589
+      sprPBashBoss2_strip8_4: 6928114012551036584
+      sprPBashBoss2_strip8_5: 8845589021382902599
+      sprPBashBoss2_strip8_6: -2627944009345120064
+      sprPBashBoss2_strip8_7: -6745898213954321039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

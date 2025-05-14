@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEDrinking_strip13_0: 6277370468491626633
+      sprEDrinking_strip13_1: 6107402726784436605
+      sprEDrinking_strip13_10: 1759228775729263
+      sprEDrinking_strip13_11: -1017284931061250249
+      sprEDrinking_strip13_12: 6296625993647662410
+      sprEDrinking_strip13_2: -3912836390989364836
+      sprEDrinking_strip13_3: 945729500270737483
+      sprEDrinking_strip13_4: 6926771049712616820
+      sprEDrinking_strip13_5: 2917882039650525168
+      sprEDrinking_strip13_6: 2133358725567969572
+      sprEDrinking_strip13_7: 6424734862220289547
+      sprEDrinking_strip13_8: 3140058299652011015
+      sprEDrinking_strip13_9: 5163892204391406592
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

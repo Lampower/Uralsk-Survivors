@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprESearchDoubleBarrel_strip10_0: 6058300171648507081
+      sprESearchDoubleBarrel_strip10_1: 3779362242225108216
+      sprESearchDoubleBarrel_strip10_2: 1836453678410851585
+      sprESearchDoubleBarrel_strip10_3: 471192030944669158
+      sprESearchDoubleBarrel_strip10_4: -8931144366543110019
+      sprESearchDoubleBarrel_strip10_5: 6153405988947590082
+      sprESearchDoubleBarrel_strip10_6: 3722853908296943899
+      sprESearchDoubleBarrel_strip10_7: 8347772369929546625
+      sprESearchDoubleBarrel_strip10_8: -8467692351701652755
+      sprESearchDoubleBarrel_strip10_9: -985607599859366986
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHighballBoothBlack_strip4_0: -6058065262192436841
+      sprHighballBoothBlack_strip4_1: -458629155101997391
+      sprHighballBoothBlack_strip4_2: 1951594855305851038
+      sprHighballBoothBlack_strip4_3: 7866322955785570527
+      sprHighballBoothBlack_strip4_4: -4036975022603775053
+      sprHighballBoothBlack_strip4_5: 645177125193088995
+      sprHighballBoothBlack_strip4_6: -5731768345159628767
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

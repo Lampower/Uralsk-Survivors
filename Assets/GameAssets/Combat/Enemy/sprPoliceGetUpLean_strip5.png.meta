@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceGetUpLean_strip5_0: -517501415416130240
+      sprPoliceGetUpLean_strip5_1: 5668805403988604462
+      sprPoliceGetUpLean_strip5_2: 293788011801401555
+      sprPoliceGetUpLean_strip5_3: -258823436252386010
+      sprPoliceGetUpLean_strip5_4: -1060987329422227587
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

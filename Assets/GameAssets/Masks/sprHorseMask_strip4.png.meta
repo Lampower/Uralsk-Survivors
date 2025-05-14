@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHorseMask_strip4_0: 8143566923641817150
+      sprHorseMask_strip4_1: 6610024133237960197
+      sprHorseMask_strip4_2: 1647006172158942701
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

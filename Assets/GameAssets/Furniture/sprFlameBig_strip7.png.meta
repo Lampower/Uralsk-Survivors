@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFlameBig_strip7_0: 1435772077542331937
+      sprFlameBig_strip7_1: -8676332731615238884
+      sprFlameBig_strip7_2: -7886396926399937929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceSearchM16_strip10_0: -1894501816066805992
+      sprPoliceSearchM16_strip10_1: -7012896303082121357
+      sprPoliceSearchM16_strip10_2: 3020339164420493712
+      sprPoliceSearchM16_strip10_3: 773991232430421332
+      sprPoliceSearchM16_strip10_4: -6615676983386400416
+      sprPoliceSearchM16_strip10_5: -1089019292806218984
+      sprPoliceSearchM16_strip10_6: -7699211628439026808
+      sprPoliceSearchM16_strip10_7: 547150610766298523
+      sprPoliceSearchM16_strip10_8: -5462587459823213736
+      sprPoliceSearchM16_strip10_9: -6807066936652072526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

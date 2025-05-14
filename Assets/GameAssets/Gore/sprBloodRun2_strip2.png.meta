@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBloodRun2_strip2_0: -4015075765303210137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

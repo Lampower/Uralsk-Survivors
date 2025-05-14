@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSolariumOpen_0: 6178218695318131255
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

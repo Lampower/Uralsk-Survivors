@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShittyBarShelf_0: 437679972767247520
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

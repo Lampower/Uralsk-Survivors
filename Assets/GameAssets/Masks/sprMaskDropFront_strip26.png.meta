@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMaskDropFront_strip26_0: -1185497195957292112
+      sprMaskDropFront_strip26_1: -4916269875425769766
+      sprMaskDropFront_strip26_10: -7919357334222652853
+      sprMaskDropFront_strip26_11: -464430981663180814
+      sprMaskDropFront_strip26_12: 6032425369541083463
+      sprMaskDropFront_strip26_13: 5068085426499096530
+      sprMaskDropFront_strip26_14: 1040031827147873846
+      sprMaskDropFront_strip26_15: 4674912759613043440
+      sprMaskDropFront_strip26_16: 1265019454229255263
+      sprMaskDropFront_strip26_17: -5533635375601118721
+      sprMaskDropFront_strip26_18: 2783044338232828139
+      sprMaskDropFront_strip26_19: -1015038222002151647
+      sprMaskDropFront_strip26_2: -7674215839251286502
+      sprMaskDropFront_strip26_20: -9090221468542619437
+      sprMaskDropFront_strip26_21: -2609777041879889917
+      sprMaskDropFront_strip26_22: -3366628581601147776
+      sprMaskDropFront_strip26_23: 553252073562659133
+      sprMaskDropFront_strip26_24: -7406458351137619970
+      sprMaskDropFront_strip26_25: 7851231937525876737
+      sprMaskDropFront_strip26_3: 7952617880625398718
+      sprMaskDropFront_strip26_4: 1064097609431867474
+      sprMaskDropFront_strip26_5: 4626879785294217717
+      sprMaskDropFront_strip26_6: -8943300171479659444
+      sprMaskDropFront_strip26_7: -3872140317910858854
+      sprMaskDropFront_strip26_8: -1578707954977988259
+      sprMaskDropFront_strip26_9: -1431888280107723670
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

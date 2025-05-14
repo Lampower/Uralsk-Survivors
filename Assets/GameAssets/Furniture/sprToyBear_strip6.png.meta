@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprToyBear_strip6_0: 4391915256540180356
+      sprToyBear_strip6_1: 2932150618620586005
+      sprToyBear_strip6_2: 7415617161859063429
+      sprToyBear_strip6_3: 2586757337122014658
+      sprToyBear_strip6_4: 4431921396141169916
+      sprToyBear_strip6_5: 7235678017274056321
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

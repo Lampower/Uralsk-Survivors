@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBikerLegs_strip16_0: 2442892150590925143
+      sprBikerLegs_strip16_1: 2692958251183536369
+      sprBikerLegs_strip16_10: 4098740418161989178
+      sprBikerLegs_strip16_11: 8297688997808268883
+      sprBikerLegs_strip16_12: 1683419170594952358
+      sprBikerLegs_strip16_13: 5025161484759014384
+      sprBikerLegs_strip16_14: -29155058193899618
+      sprBikerLegs_strip16_15: -6038645750436391450
+      sprBikerLegs_strip16_16: -72725203730763528
+      sprBikerLegs_strip16_17: -8745754119397393611
+      sprBikerLegs_strip16_18: -2865410300074485434
+      sprBikerLegs_strip16_19: -6706893605396192217
+      sprBikerLegs_strip16_2: 2168007047871241885
+      sprBikerLegs_strip16_20: 8781533840965867925
+      sprBikerLegs_strip16_21: -5556715654401832085
+      sprBikerLegs_strip16_22: -3517628230469505063
+      sprBikerLegs_strip16_23: 761500794984793450
+      sprBikerLegs_strip16_24: -2518393883708312434
+      sprBikerLegs_strip16_25: -8191726655070134344
+      sprBikerLegs_strip16_26: -7141915094617955966
+      sprBikerLegs_strip16_27: -6258613613926383544
+      sprBikerLegs_strip16_3: -7111699242356029815
+      sprBikerLegs_strip16_4: -771494263652463434
+      sprBikerLegs_strip16_5: 553524354082339593
+      sprBikerLegs_strip16_6: -8761045004787307321
+      sprBikerLegs_strip16_7: 7395054912875392288
+      sprBikerLegs_strip16_8: -2056497084503147427
+      sprBikerLegs_strip16_9: -4968644625209661241
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

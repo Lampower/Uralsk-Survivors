@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprClawMachineGlass_0: -7734770179065554811
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

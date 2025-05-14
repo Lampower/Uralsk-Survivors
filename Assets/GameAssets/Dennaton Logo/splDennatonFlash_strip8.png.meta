@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      splDennatonFlash_strip8_0: -4530190053220369204
+      splDennatonFlash_strip8_1: 1425007755793009884
+      splDennatonFlash_strip8_2: 1757106143517935092
+      splDennatonFlash_strip8_3: -8613787862615364484
+      splDennatonFlash_strip8_4: 8597020363122969746
+      splDennatonFlash_strip8_5: -3286013450131298938
+      splDennatonFlash_strip8_6: -655074730067011196
+      splDennatonFlash_strip8_7: 6823436679430266467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

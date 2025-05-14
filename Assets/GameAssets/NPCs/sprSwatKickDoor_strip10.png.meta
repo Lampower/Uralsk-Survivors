@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatKickDoor_strip10_0: -1501593576294443507
+      sprSwatKickDoor_strip10_1: 4244996205231154857
+      sprSwatKickDoor_strip10_2: -7748754162032850232
+      sprSwatKickDoor_strip10_3: -5824138256545586988
+      sprSwatKickDoor_strip10_4: -5177237847036608838
+      sprSwatKickDoor_strip10_5: -8410648456431012659
+      sprSwatKickDoor_strip10_6: -4070733222245210610
+      sprSwatKickDoor_strip10_7: -3046343899556109725
+      sprSwatKickDoor_strip10_8: 8523603572228432629
+      sprSwatKickDoor_strip10_9: -7592099079117130424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKillHammer_strip14_0: -2014139973568728137
+      sprPKillHammer_strip14_1: -4536950746574143464
+      sprPKillHammer_strip14_10: 2607669788616931337
+      sprPKillHammer_strip14_11: -1949719377137719143
+      sprPKillHammer_strip14_12: 6427764683113047993
+      sprPKillHammer_strip14_13: -4023563907572182426
+      sprPKillHammer_strip14_2: 2365058896066627957
+      sprPKillHammer_strip14_3: 7929118140846170608
+      sprPKillHammer_strip14_4: 6316963935538583240
+      sprPKillHammer_strip14_5: 1191499192119501484
+      sprPKillHammer_strip14_6: 6282618128172165009
+      sprPKillHammer_strip14_7: 373654896754582425
+      sprPKillHammer_strip14_8: -2878188635507008760
+      sprPKillHammer_strip14_9: -781490017478131728
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

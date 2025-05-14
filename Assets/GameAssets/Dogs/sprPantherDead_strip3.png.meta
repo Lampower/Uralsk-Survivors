@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherDead_strip3_0: 6736965829779560251
+      sprPantherDead_strip3_1: -6524757453358801709
+      sprPantherDead_strip3_2: -2384630730830525771
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOfficeDesk_strip9_0: 528850941732900806
+      sprOfficeDesk_strip9_1: -2834319907699989576
+      sprOfficeDesk_strip9_2: -8405651755227308671
+      sprOfficeDesk_strip9_3: 4091662089189204514
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

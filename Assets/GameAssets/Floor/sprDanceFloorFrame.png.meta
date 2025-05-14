@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDanceFloorFrame_0: 2998290425552764442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

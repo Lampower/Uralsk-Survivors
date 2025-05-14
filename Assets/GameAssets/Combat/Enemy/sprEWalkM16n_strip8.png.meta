@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEWalkM16n_strip8_0: -7733552092580615555
+      sprEWalkM16n_strip8_1: 2411768464492735495
+      sprEWalkM16n_strip8_2: 3565234321143686199
+      sprEWalkM16n_strip8_3: 6952814913626992344
+      sprEWalkM16n_strip8_4: 4753054815042325779
+      sprEWalkM16n_strip8_5: 1245750175014196710
+      sprEWalkM16n_strip8_6: 6566598306711687107
+      sprEWalkM16n_strip8_7: 8710787674388388801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

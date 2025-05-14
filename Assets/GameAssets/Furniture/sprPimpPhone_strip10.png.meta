@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPimpPhone_strip10_0: -8431576968316919035
+      sprPimpPhone_strip10_1: 1696321858723087675
+      sprPimpPhone_strip10_2: 1915950739136670302
+      sprPimpPhone_strip10_3: 4048849026624083590
+      sprPimpPhone_strip10_4: -8279567484452719093
+      sprPimpPhone_strip10_5: 3391996657520435023
+      sprPimpPhone_strip10_6: 2905484862108523111
+      sprPimpPhone_strip10_7: 4884529645156634010
+      sprPimpPhone_strip10_8: -8694695677592255968
+      sprPimpPhone_strip10_9: 7935770871018077757
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

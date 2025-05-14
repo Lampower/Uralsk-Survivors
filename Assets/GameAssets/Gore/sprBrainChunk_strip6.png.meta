@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBrainChunk_strip6_0: 5770100689860647459
+      sprBrainChunk_strip6_1: -5837329555804773800
+      sprBrainChunk_strip6_2: -4343128273515952566
+      sprBrainChunk_strip6_3: -7168641301465954882
+      sprBrainChunk_strip6_4: -6439652506895027407
+      sprBrainChunk_strip6_5: 1235888918398384122
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

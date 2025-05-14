@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShowerGlassDoor_0: -8198006376737907546
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

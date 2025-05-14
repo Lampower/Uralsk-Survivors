@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotelCloset_0: -8378297401347978837
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNigelTalk_strip2_0: -6899599135230111391
+      sprNigelTalk_strip2_1: -6495121923685695252
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

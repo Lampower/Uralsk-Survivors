@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSunAraw_strip6_0: 1645999056430368004
+      sprSunAraw_strip6_1: -1955376280876375246
+      sprSunAraw_strip6_2: -5183112306073684698
+      sprSunAraw_strip6_3: 7711866490804628450
+      sprSunAraw_strip6_4: 3387942618609686115
+      sprSunAraw_strip6_5: -1324429178838734438
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

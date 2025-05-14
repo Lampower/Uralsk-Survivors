@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShowerGlassH_0: -7136825303189758267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

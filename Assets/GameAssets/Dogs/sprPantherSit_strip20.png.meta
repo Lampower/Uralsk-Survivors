@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherSit_strip20_0: -7504394738826846288
+      sprPantherSit_strip20_1: 8122336919196842843
+      sprPantherSit_strip20_10: 5655425893867310627
+      sprPantherSit_strip20_11: -18729810377540822
+      sprPantherSit_strip20_12: 1912243455640507574
+      sprPantherSit_strip20_13: -2683900167280335085
+      sprPantherSit_strip20_14: -8919024408662512087
+      sprPantherSit_strip20_15: -3679776127483296254
+      sprPantherSit_strip20_16: 4217920549532215394
+      sprPantherSit_strip20_17: 3692079433641644068
+      sprPantherSit_strip20_18: 7564371555460619246
+      sprPantherSit_strip20_19: -6204028063432117963
+      sprPantherSit_strip20_2: -2510585493872538311
+      sprPantherSit_strip20_3: 7598519450045744889
+      sprPantherSit_strip20_4: 1685793987977061298
+      sprPantherSit_strip20_5: 4358582932691343250
+      sprPantherSit_strip20_6: -3051474697221797038
+      sprPantherSit_strip20_7: 6737854779774101377
+      sprPantherSit_strip20_8: -6769150055234582207
+      sprPantherSit_strip20_9: -5924603611864071450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

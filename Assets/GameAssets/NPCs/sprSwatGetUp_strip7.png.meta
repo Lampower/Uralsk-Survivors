@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatGetUp_strip7_0: -5580397242065980237
+      sprSwatGetUp_strip7_1: -5054696172766339210
+      sprSwatGetUp_strip7_2: -2592411933938441317
+      sprSwatGetUp_strip7_3: 6863631787640815322
+      sprSwatGetUp_strip7_4: 8726359976546428513
+      sprSwatGetUp_strip7_5: -3047608986982832117
+      sprSwatGetUp_strip7_6: -5066944261324890473
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

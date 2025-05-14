@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBombCables_0: -2053140700070490863
+      sprBombCables_1: 3626167166799854724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBurningTrashcan_strip5_0: 4274069889736650509
+      sprBurningTrashcan_strip5_1: -8542920133157657303
+      sprBurningTrashcan_strip5_2: 5537872178779817213
+      sprBurningTrashcan_strip5_3: 987683854914483150
+      sprBurningTrashcan_strip5_4: -3343576219168163864
+      sprBurningTrashcan_strip5_5: 5093185556819849705
+      sprBurningTrashcan_strip5_6: -6188133187379504000
+      sprBurningTrashcan_strip5_7: 3863298941435424610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

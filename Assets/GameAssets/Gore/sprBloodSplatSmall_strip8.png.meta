@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBloodSplatSmall_strip8_0: 5481532908032678227
+      sprBloodSplatSmall_strip8_1: -938850115434270718
+      sprBloodSplatSmall_strip8_2: -1061965965031048673
+      sprBloodSplatSmall_strip8_3: 4321168285033666821
+      sprBloodSplatSmall_strip8_4: 8415171501360447311
+      sprBloodSplatSmall_strip8_5: 5582910657820160287
+      sprBloodSplatSmall_strip8_6: -3443201144332148627
+      sprBloodSplatSmall_strip8_7: 1281166303690837917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

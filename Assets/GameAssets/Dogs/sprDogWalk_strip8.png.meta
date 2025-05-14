@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDogWalk_strip8_0: -7095687945135732557
+      sprDogWalk_strip8_1: -8484122592169513971
+      sprDogWalk_strip8_2: -6772185257994699952
+      sprDogWalk_strip8_3: -4134407376458622602
+      sprDogWalk_strip8_4: -7233640085363121008
+      sprDogWalk_strip8_5: -6310737070873449071
+      sprDogWalk_strip8_6: 4446455493775754709
+      sprDogWalk_strip8_7: -6166457686467908765
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

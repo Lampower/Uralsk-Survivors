@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCrocodileFace_strip16_0: -8732719321135472816
+      sprCrocodileFace_strip16_1: -7636736600656543054
+      sprCrocodileFace_strip16_10: 2692586423321219037
+      sprCrocodileFace_strip16_11: 1487369429030479057
+      sprCrocodileFace_strip16_12: -7750294625645298365
+      sprCrocodileFace_strip16_13: -5458596011346606933
+      sprCrocodileFace_strip16_14: 6965584927217044877
+      sprCrocodileFace_strip16_15: -6678649892334875103
+      sprCrocodileFace_strip16_2: -5962600774729481233
+      sprCrocodileFace_strip16_3: -1128425352732633086
+      sprCrocodileFace_strip16_4: 4540582237041282329
+      sprCrocodileFace_strip16_5: 6769731483233058109
+      sprCrocodileFace_strip16_6: 5013292705345691659
+      sprCrocodileFace_strip16_7: 8471551308200277859
+      sprCrocodileFace_strip16_8: -2823100819840513648
+      sprCrocodileFace_strip16_9: -6889303999449781046
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

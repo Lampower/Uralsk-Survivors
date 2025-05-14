@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPHumanShieldMagnumShoot_strip2_0: 6056269865337652031
+      sprPHumanShieldMagnumShoot_strip2_1: -388037925126162593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

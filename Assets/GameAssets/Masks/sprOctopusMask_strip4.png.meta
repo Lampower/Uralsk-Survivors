@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOctopusMask_strip4_0: -800489065427956606
+      sprOctopusMask_strip4_1: -6655805698851275700
+      sprOctopusMask_strip4_2: -8508287739413555659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

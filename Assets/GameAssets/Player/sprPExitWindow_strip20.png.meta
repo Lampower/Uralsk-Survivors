@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPExitWindow_strip20_0: -8372463350111835841
+      sprPExitWindow_strip20_1: -5643455063961294051
+      sprPExitWindow_strip20_10: 7096968764044412195
+      sprPExitWindow_strip20_11: -3735445141345438627
+      sprPExitWindow_strip20_12: 588527085391645830
+      sprPExitWindow_strip20_13: 3907226317187567793
+      sprPExitWindow_strip20_14: -2809586250801641033
+      sprPExitWindow_strip20_15: 2799747421023883163
+      sprPExitWindow_strip20_16: 2587093205837186919
+      sprPExitWindow_strip20_17: -6739372721324861065
+      sprPExitWindow_strip20_18: -1659245126396087478
+      sprPExitWindow_strip20_19: -4070473699296912449
+      sprPExitWindow_strip20_2: 2503012452046602329
+      sprPExitWindow_strip20_3: -4250752010654267497
+      sprPExitWindow_strip20_4: -8752600059104673934
+      sprPExitWindow_strip20_5: 6161535649555094826
+      sprPExitWindow_strip20_6: 3764474474959273069
+      sprPExitWindow_strip20_7: -3407178681441247404
+      sprPExitWindow_strip20_8: 1935048415192858354
+      sprPExitWindow_strip20_9: 5649997859402011008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

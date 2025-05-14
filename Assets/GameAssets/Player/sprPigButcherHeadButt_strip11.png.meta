@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPigButcherHeadButt_strip11_0: -2978771615490637710
+      sprPigButcherHeadButt_strip11_1: 8822089397204876287
+      sprPigButcherHeadButt_strip11_10: 8200938561484031854
+      sprPigButcherHeadButt_strip11_2: -2839416777938228341
+      sprPigButcherHeadButt_strip11_3: -1847933177402586620
+      sprPigButcherHeadButt_strip11_4: -8653633702578049531
+      sprPigButcherHeadButt_strip11_5: -6253155815752106854
+      sprPigButcherHeadButt_strip11_6: 2857489081139312261
+      sprPigButcherHeadButt_strip11_7: -4147321860768953135
+      sprPigButcherHeadButt_strip11_8: -1358279481984039569
+      sprPigButcherHeadButt_strip11_9: -1823710382739099009
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

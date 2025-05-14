@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackNightStick_strip9_0: 7298300104337201781
+      sprPAttackNightStick_strip9_1: -6194702737770464994
+      sprPAttackNightStick_strip9_2: 3387693162903153160
+      sprPAttackNightStick_strip9_3: 5088390579814992111
+      sprPAttackNightStick_strip9_4: 2521272973720855315
+      sprPAttackNightStick_strip9_5: 346048716154246567
+      sprPAttackNightStick_strip9_6: -2068656337134845745
+      sprPAttackNightStick_strip9_7: -2334999627272060435
+      sprPAttackNightStick_strip9_8: 7140162432212577163
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMicrowaveDown_strip2_0: -3431254579966496098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

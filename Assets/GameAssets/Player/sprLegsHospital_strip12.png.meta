@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprLegsHospital_strip12_0: -4779564414169259706
+      sprLegsHospital_strip12_1: -890105856822264976
+      sprLegsHospital_strip12_10: 4181428354803141226
+      sprLegsHospital_strip12_11: 84534020653570472
+      sprLegsHospital_strip12_12: -4176358081090196080
+      sprLegsHospital_strip12_13: 5320914546529369252
+      sprLegsHospital_strip12_14: 4326949329933721875
+      sprLegsHospital_strip12_15: 2462336568955368960
+      sprLegsHospital_strip12_16: 5022160214960546679
+      sprLegsHospital_strip12_17: 8625792584766483093
+      sprLegsHospital_strip12_18: 2045418540121116219
+      sprLegsHospital_strip12_19: -8234453276016149297
+      sprLegsHospital_strip12_2: -5426264728644591870
+      sprLegsHospital_strip12_3: -1574970012777910872
+      sprLegsHospital_strip12_4: 4036120880567115042
+      sprLegsHospital_strip12_5: -8398734673026359665
+      sprLegsHospital_strip12_6: 4024870813809413196
+      sprLegsHospital_strip12_7: 3080796708354031230
+      sprLegsHospital_strip12_8: -1143546921360638965
+      sprLegsHospital_strip12_9: 8763719167709939793
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

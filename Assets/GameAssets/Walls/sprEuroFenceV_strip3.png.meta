@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEuroFenceV_strip3_0: 3951129326707662671
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

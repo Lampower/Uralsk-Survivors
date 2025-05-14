@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEIdleSmoke_strip12_0: -5530076347568148152
+      sprEIdleSmoke_strip12_1: -4847671202169278911
+      sprEIdleSmoke_strip12_10: 3271009756348328131
+      sprEIdleSmoke_strip12_11: 5415034674578733812
+      sprEIdleSmoke_strip12_2: -3489646981985771730
+      sprEIdleSmoke_strip12_3: -7055833158992126905
+      sprEIdleSmoke_strip12_4: -6965964671103609284
+      sprEIdleSmoke_strip12_5: 1238557517610073758
+      sprEIdleSmoke_strip12_6: -2678009030267826642
+      sprEIdleSmoke_strip12_7: -3168358063793007423
+      sprEIdleSmoke_strip12_8: 4447076320313566429
+      sprEIdleSmoke_strip12_9: -5101519287671990160
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHospitalEntranceDoors_strip10_0: 4273224079439067489
+      sprHospitalEntranceDoors_strip10_1: 4196031842700665169
+      sprHospitalEntranceDoors_strip10_10: -4114491910315883488
+      sprHospitalEntranceDoors_strip10_11: 7542696800253998356
+      sprHospitalEntranceDoors_strip10_12: 2002293568629675498
+      sprHospitalEntranceDoors_strip10_13: -8476002135369917409
+      sprHospitalEntranceDoors_strip10_14: 8386215779485485022
+      sprHospitalEntranceDoors_strip10_15: 7463733360603394207
+      sprHospitalEntranceDoors_strip10_16: -1882521435311450270
+      sprHospitalEntranceDoors_strip10_17: 333795570929411650
+      sprHospitalEntranceDoors_strip10_18: 4658215531906556618
+      sprHospitalEntranceDoors_strip10_2: 8379356765294066657
+      sprHospitalEntranceDoors_strip10_3: -8149697011811798277
+      sprHospitalEntranceDoors_strip10_4: 717921000921195859
+      sprHospitalEntranceDoors_strip10_5: 3532296128798235340
+      sprHospitalEntranceDoors_strip10_6: 525682411531911819
+      sprHospitalEntranceDoors_strip10_7: -5655316428680788474
+      sprHospitalEntranceDoors_strip10_8: 5217141282356320758
+      sprHospitalEntranceDoors_strip10_9: 8244294997738695668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprLegsStairs_strip8_0: -5322014417104858273
+      sprLegsStairs_strip8_1: -4303024223034067251
+      sprLegsStairs_strip8_10: -8896515901541559694
+      sprLegsStairs_strip8_11: 8899907891811872926
+      sprLegsStairs_strip8_2: 8155639566395882919
+      sprLegsStairs_strip8_3: 4825740682289658958
+      sprLegsStairs_strip8_4: -4488711017585934041
+      sprLegsStairs_strip8_5: 682382838043858683
+      sprLegsStairs_strip8_6: 8342107710306587669
+      sprLegsStairs_strip8_7: -273056327262039995
+      sprLegsStairs_strip8_8: 4124421862038103727
+      sprLegsStairs_strip8_9: -6162115022084781110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

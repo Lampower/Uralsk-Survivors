@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkPoolBroke_strip8_0: 4523227590831075279
+      sprPWalkPoolBroke_strip8_1: -5477899154880386796
+      sprPWalkPoolBroke_strip8_2: 3926981851729384735
+      sprPWalkPoolBroke_strip8_3: 3262808635417125695
+      sprPWalkPoolBroke_strip8_4: -6705880542974773320
+      sprPWalkPoolBroke_strip8_5: 7918919552073213832
+      sprPWalkPoolBroke_strip8_6: -6800879959148145630
+      sprPWalkPoolBroke_strip8_7: 6387605555404127406
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

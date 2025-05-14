@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprManholePipe_0: 5701693711037346239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackTaser_strip20_0: 5404892413727761461
+      sprPAttackTaser_strip20_1: -6867899446499036978
+      sprPAttackTaser_strip20_10: 1079736195519773667
+      sprPAttackTaser_strip20_11: 7301792090173056593
+      sprPAttackTaser_strip20_12: -424940844984457067
+      sprPAttackTaser_strip20_13: 9165636492745154546
+      sprPAttackTaser_strip20_14: 571533938988287575
+      sprPAttackTaser_strip20_15: -2023448610691115987
+      sprPAttackTaser_strip20_16: 8995666606938256435
+      sprPAttackTaser_strip20_17: 8754396625072354094
+      sprPAttackTaser_strip20_18: 8971547330954858642
+      sprPAttackTaser_strip20_19: -3356839160162878849
+      sprPAttackTaser_strip20_2: -3361366074686144786
+      sprPAttackTaser_strip20_3: -2105508725517936007
+      sprPAttackTaser_strip20_4: 255459753773832690
+      sprPAttackTaser_strip20_5: -509475508062939326
+      sprPAttackTaser_strip20_6: -4222552741560155315
+      sprPAttackTaser_strip20_7: -5232128695862868518
+      sprPAttackTaser_strip20_8: -1222215294390968033
+      sprPAttackTaser_strip20_9: 6024829094491902796
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

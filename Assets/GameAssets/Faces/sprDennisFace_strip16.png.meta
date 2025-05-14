@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDennisFace_strip16_0: -2736917921317846567
+      sprDennisFace_strip16_1: 2689808967220385538
+      sprDennisFace_strip16_10: -4454972880825771563
+      sprDennisFace_strip16_11: -1129970567761293448
+      sprDennisFace_strip16_12: -7075145623872663908
+      sprDennisFace_strip16_13: 689570211901447627
+      sprDennisFace_strip16_14: -1160747468782727264
+      sprDennisFace_strip16_15: 2267551468970220176
+      sprDennisFace_strip16_2: 7860927124274533193
+      sprDennisFace_strip16_3: 6926349030956273223
+      sprDennisFace_strip16_4: -3807748911415106482
+      sprDennisFace_strip16_5: 3071686599471763053
+      sprDennisFace_strip16_6: -2991398957562661608
+      sprDennisFace_strip16_7: -2770919986446503865
+      sprDennisFace_strip16_8: 5500040056141232925
+      sprDennisFace_strip16_9: -2009375085326228498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHomelessBed_0: 1006347092847174585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

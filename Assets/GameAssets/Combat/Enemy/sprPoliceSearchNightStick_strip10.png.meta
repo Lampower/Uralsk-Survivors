@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceSearchNightStick_strip10_0: -8031635244078538573
+      sprPoliceSearchNightStick_strip10_1: -3075907034426908876
+      sprPoliceSearchNightStick_strip10_2: 2310923908817000686
+      sprPoliceSearchNightStick_strip10_3: -4665685128745140001
+      sprPoliceSearchNightStick_strip10_4: -1048912068626863986
+      sprPoliceSearchNightStick_strip10_5: -2344048794196972941
+      sprPoliceSearchNightStick_strip10_6: 4328233674880156339
+      sprPoliceSearchNightStick_strip10_7: -8741958774092461752
+      sprPoliceSearchNightStick_strip10_8: -4535822168076852938
+      sprPoliceSearchNightStick_strip10_9: -527994167585612930
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

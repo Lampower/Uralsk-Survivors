@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGirlfriend_strip8_0: 5371226044882957924
+      sprGirlfriend_strip8_1: 2358024667706593301
+      sprGirlfriend_strip8_2: 2256681961516151374
+      sprGirlfriend_strip8_3: 5564893476640162960
+      sprGirlfriend_strip8_4: -3093773269646958254
+      sprGirlfriend_strip8_5: -1756061705648831701
+      sprGirlfriend_strip8_6: -3222008960690026249
+      sprGirlfriend_strip8_7: -3074162964775105060
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

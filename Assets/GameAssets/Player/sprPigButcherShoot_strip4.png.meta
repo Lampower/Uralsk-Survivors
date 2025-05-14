@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPigButcherShoot_strip4_0: 5279795823713325631
+      sprPigButcherShoot_strip4_1: -5072292356480687526
+      sprPigButcherShoot_strip4_2: -9015051180776119066
+      sprPigButcherShoot_strip4_3: -4627890538011514175
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

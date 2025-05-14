@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprChiefDie_strip11_0: 2376601777714732846
+      sprChiefDie_strip11_1: -1127024983521966279
+      sprChiefDie_strip11_10: 1801206551364722612
+      sprChiefDie_strip11_2: -1200193945862738004
+      sprChiefDie_strip11_3: -450120059530966541
+      sprChiefDie_strip11_4: -4144563784387542983
+      sprChiefDie_strip11_5: 3750030578894631486
+      sprChiefDie_strip11_6: 2934454996647072439
+      sprChiefDie_strip11_7: 6598720311138932911
+      sprChiefDie_strip11_8: 1211107397885044024
+      sprChiefDie_strip11_9: -1473432551657772323
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

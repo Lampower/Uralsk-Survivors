@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHoboGround_strip4_0: 288769210377161195
+      sprHoboGround_strip4_1: -3243661124193755551
+      sprHoboGround_strip4_2: 4823954344504458292
+      sprHoboGround_strip4_3: 7053542241348119680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

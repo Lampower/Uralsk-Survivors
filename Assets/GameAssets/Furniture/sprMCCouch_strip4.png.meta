@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCCouch_strip4_0: 7954267806237533813
+      sprMCCouch_strip4_1: 1689779053696124897
+      sprMCCouch_strip4_2: 6406884107918105669
+      sprMCCouch_strip4_3: -5915214020397377352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

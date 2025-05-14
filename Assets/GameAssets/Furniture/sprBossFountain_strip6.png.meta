@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBossFountain_strip6_0: 2392001404555849032
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

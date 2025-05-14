@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprLaundryBasket_0: 8299395091998053267
+      sprLaundryBasket_1: 8111216804822649727
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

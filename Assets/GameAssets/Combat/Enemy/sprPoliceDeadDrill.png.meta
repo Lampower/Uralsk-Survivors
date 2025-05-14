@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceDeadDrill_0: 5911617647658265340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

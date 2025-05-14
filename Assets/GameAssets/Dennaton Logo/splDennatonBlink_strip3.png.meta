@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      splDennatonBlink_strip3_0: 144574655943984127
+      splDennatonBlink_strip3_1: -5737819359247110403
+      splDennatonBlink_strip3_2: -3284432862193759128
+      splDennatonBlink_strip3_3: -3416843049166480169
+      splDennatonBlink_strip3_4: 8075073311911975298
+      splDennatonBlink_strip3_5: 6452941550220372365
+      splDennatonBlink_strip3_6: 4887121012085479138
+      splDennatonBlink_strip3_7: -3630689922577119509
+      splDennatonBlink_strip3_8: -477548582905829502
+      splDennatonBlink_strip3_9: -6716312847409536936
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

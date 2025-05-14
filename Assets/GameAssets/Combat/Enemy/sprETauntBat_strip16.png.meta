@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprETauntBat_strip16_0: -198924498741539644
+      sprETauntBat_strip16_1: -2476247177452279238
+      sprETauntBat_strip16_10: -1369861210690076497
+      sprETauntBat_strip16_11: -8591033041346863666
+      sprETauntBat_strip16_12: -6328109200954425235
+      sprETauntBat_strip16_13: 5580099609798240697
+      sprETauntBat_strip16_14: -2039348815713620281
+      sprETauntBat_strip16_15: -8958561577876558773
+      sprETauntBat_strip16_2: -5099339046446150694
+      sprETauntBat_strip16_3: -2052791000020266425
+      sprETauntBat_strip16_4: -2155280631020669272
+      sprETauntBat_strip16_5: 6043833145456164387
+      sprETauntBat_strip16_6: -4787528750520820255
+      sprETauntBat_strip16_7: 6096678213093402660
+      sprETauntBat_strip16_8: -2545098189919291701
+      sprETauntBat_strip16_9: 2378400206667302732
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkSledgeHammer_strip8_0: 462458491052397260
+      sprPWalkSledgeHammer_strip8_1: 4439877656253323780
+      sprPWalkSledgeHammer_strip8_2: -5004986320117143439
+      sprPWalkSledgeHammer_strip8_3: 3028735760188324073
+      sprPWalkSledgeHammer_strip8_4: -8328580850369034441
+      sprPWalkSledgeHammer_strip8_5: -855967086624659043
+      sprPWalkSledgeHammer_strip8_6: -7774623209852050422
+      sprPWalkSledgeHammer_strip8_7: -5648140780847328585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

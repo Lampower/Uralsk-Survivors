@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSitCushion_0: 2204985780103633637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

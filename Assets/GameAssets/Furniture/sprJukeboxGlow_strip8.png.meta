@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJukeboxGlow_strip8_0: -6182905279112095835
+      sprJukeboxGlow_strip8_1: -8886743472955752417
+      sprJukeboxGlow_strip8_2: -8420867356645616286
+      sprJukeboxGlow_strip8_3: -4333439074692293241
+      sprJukeboxGlow_strip8_4: 8941992423351854181
+      sprJukeboxGlow_strip8_5: 5933884476718342283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPBackElectrified2_strip2_0: -1436024436832822635
+      sprPBackElectrified2_strip2_1: -6512426983250517327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

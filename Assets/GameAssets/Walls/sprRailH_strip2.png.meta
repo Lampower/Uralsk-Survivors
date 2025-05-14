@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprRailH_strip2_0: -9207369098301027483
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

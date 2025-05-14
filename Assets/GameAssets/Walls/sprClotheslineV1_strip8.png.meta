@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprClotheslineV1_strip8_0: -3650042284254399596
+      sprClotheslineV1_strip8_1: -5507270982916204520
+      sprClotheslineV1_strip8_2: 8826995391699202394
+      sprClotheslineV1_strip8_3: -586048579689254162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

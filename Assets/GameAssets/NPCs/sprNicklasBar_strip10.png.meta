@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNicklasBar_strip10_0: -6817908571377053932
+      sprNicklasBar_strip10_1: 7208946364620075078
+      sprNicklasBar_strip10_2: 7678488410819859807
+      sprNicklasBar_strip10_3: -6066125768843453121
+      sprNicklasBar_strip10_4: -1001103724425171563
+      sprNicklasBar_strip10_5: 4915298906642294029
+      sprNicklasBar_strip10_6: -6262760114187809738
+      sprNicklasBar_strip10_7: -380128342586878008
+      sprNicklasBar_strip10_8: 510276854348876126
+      sprNicklasBar_strip10_9: -6574551608243524342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

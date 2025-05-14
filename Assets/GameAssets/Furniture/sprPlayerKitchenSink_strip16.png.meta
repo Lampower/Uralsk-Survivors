@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPlayerKitchenSink_strip16_0: -1820100751371722645
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSewerFall1_0: -3409284133773556615
+      sprSewerFall1_1: 151792682612351458
+      sprSewerFall1_2: 3145038433852175899
+      sprSewerFall1_3: 1263265963889371378
+      sprSewerFall1_4: -8918162740286557513
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

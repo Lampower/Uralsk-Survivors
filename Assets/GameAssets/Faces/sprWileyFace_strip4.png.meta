@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWileyFace_strip4_0: 3270343934225884478
+      sprWileyFace_strip4_1: -4144796857966061486
+      sprWileyFace_strip4_2: -3456189652489436473
+      sprWileyFace_strip4_3: -5127490477589201746
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

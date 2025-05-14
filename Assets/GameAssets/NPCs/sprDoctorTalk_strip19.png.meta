@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDoctorTalk_strip19_0: 6177874687798244960
+      sprDoctorTalk_strip19_1: 2615415381921920828
+      sprDoctorTalk_strip19_10: 1849072025852687454
+      sprDoctorTalk_strip19_11: -8147272848441901053
+      sprDoctorTalk_strip19_12: 3153681817922226290
+      sprDoctorTalk_strip19_13: -6607111417389657199
+      sprDoctorTalk_strip19_14: 2197972640074247172
+      sprDoctorTalk_strip19_15: 2525311387276044283
+      sprDoctorTalk_strip19_16: 6803197133687930457
+      sprDoctorTalk_strip19_17: -3613482252065018070
+      sprDoctorTalk_strip19_18: 2840874962724036465
+      sprDoctorTalk_strip19_2: 5401275072203890422
+      sprDoctorTalk_strip19_3: 5601686996112108842
+      sprDoctorTalk_strip19_4: 2269412622943307837
+      sprDoctorTalk_strip19_5: 2842305133918022399
+      sprDoctorTalk_strip19_6: 8599018893145008441
+      sprDoctorTalk_strip19_7: 725250263953937652
+      sprDoctorTalk_strip19_8: -4488656403002523796
+      sprDoctorTalk_strip19_9: -4652310799804954482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

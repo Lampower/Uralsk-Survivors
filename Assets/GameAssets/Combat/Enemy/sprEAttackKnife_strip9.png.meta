@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEAttackKnife_strip9_0: 76270246463738046
+      sprEAttackKnife_strip9_1: 6647706666383427277
+      sprEAttackKnife_strip9_2: -5730768229296866295
+      sprEAttackKnife_strip9_3: -598018028475834261
+      sprEAttackKnife_strip9_4: 8444473585588337872
+      sprEAttackKnife_strip9_5: -2780767250890489318
+      sprEAttackKnife_strip9_6: 6080431661647057786
+      sprEAttackKnife_strip9_7: -3044645535500808492
+      sprEAttackKnife_strip9_8: -3528436812318281279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

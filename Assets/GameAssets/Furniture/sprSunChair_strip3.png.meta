@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSunChair_strip3_0: 4105974252258948883
+      sprSunChair_strip3_1: 8957350372082798592
+      sprSunChair_strip3_2: 5974566130211419226
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

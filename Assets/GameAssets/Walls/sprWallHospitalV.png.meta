@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWallHospitalV_0: -87763965876149482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

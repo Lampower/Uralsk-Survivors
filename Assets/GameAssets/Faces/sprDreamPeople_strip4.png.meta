@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDreamPeople_strip4_0: 9140879209618569685
+      sprDreamPeople_strip4_1: 9025741458663780357
+      sprDreamPeople_strip4_2: -8893022403392287210
+      sprDreamPeople_strip4_3: -6846350523093545623
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFountain_strip4_0: -7897822601676443514
+      sprFountain_strip4_1: -8168384786351340887
+      sprFountain_strip4_2: -9014947317361331224
+      sprFountain_strip4_3: 4935907106998261881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

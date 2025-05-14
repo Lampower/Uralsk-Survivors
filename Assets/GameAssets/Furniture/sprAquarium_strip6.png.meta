@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAquarium_strip6_0: -5560700698157523567
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSteamSmoke_strip9_0: 1798343846645582202
+      sprSteamSmoke_strip9_1: -1656014731024654064
+      sprSteamSmoke_strip9_2: -1097289205367407324
+      sprSteamSmoke_strip9_3: 4119775969692672065
+      sprSteamSmoke_strip9_4: -8496064256904560400
+      sprSteamSmoke_strip9_5: -8067402490325793187
+      sprSteamSmoke_strip9_6: -5815527245952440107
+      sprSteamSmoke_strip9_7: -4589393222916173131
+      sprSteamSmoke_strip9_8: 8333916286329680026
+      sprSteamSmoke_strip9_9: 7409641951246476461
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

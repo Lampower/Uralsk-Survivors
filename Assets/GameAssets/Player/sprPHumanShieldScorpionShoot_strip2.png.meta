@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPHumanShieldScorpionShoot_strip2_0: 4204131982171543048
+      sprPHumanShieldScorpionShoot_strip2_1: 8195882317390881773
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

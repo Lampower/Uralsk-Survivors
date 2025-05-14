@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDestroyedDoor_strip10_0: 8600683535501676826
+      sprDestroyedDoor_strip10_1: 3537181713199298871
+      sprDestroyedDoor_strip10_2: -3923173293498290161
+      sprDestroyedDoor_strip10_3: -702448147306040807
+      sprDestroyedDoor_strip10_4: 7098262505485626739
+      sprDestroyedDoor_strip10_5: -6455346753558779229
+      sprDestroyedDoor_strip10_6: -848007664366641750
+      sprDestroyedDoor_strip10_7: -8265191210838825260
+      sprDestroyedDoor_strip10_8: 2328667731271880750
+      sprDestroyedDoor_strip10_9: 1874023168642095507
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

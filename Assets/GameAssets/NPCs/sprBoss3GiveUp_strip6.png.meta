@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss3GiveUp_strip6_0: 6351974709746047899
+      sprBoss3GiveUp_strip6_1: 6707809044765029023
+      sprBoss3GiveUp_strip6_2: -9122696952511606247
+      sprBoss3GiveUp_strip6_3: 2923187191521020906
+      sprBoss3GiveUp_strip6_4: -4447178243195722929
+      sprBoss3GiveUp_strip6_5: 6438836231970852145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

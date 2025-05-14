@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatStumble_strip8_0: 4844874837310477045
+      sprSwatStumble_strip8_1: -6780546684340964849
+      sprSwatStumble_strip8_2: 581450279196214958
+      sprSwatStumble_strip8_3: -2087488118608764371
+      sprSwatStumble_strip8_4: 7860860269458970485
+      sprSwatStumble_strip8_5: 8432602800842014545
+      sprSwatStumble_strip8_6: -3976063559739434058
+      sprSwatStumble_strip8_7: -231127885768565442
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

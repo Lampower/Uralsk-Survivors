@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPHospitalHeadache_strip18_0: -5780098320310132706
+      sprPHospitalHeadache_strip18_1: 1901258184382969337
+      sprPHospitalHeadache_strip18_10: 9120646382540823995
+      sprPHospitalHeadache_strip18_11: -1170412342565839181
+      sprPHospitalHeadache_strip18_12: -5335606244972436064
+      sprPHospitalHeadache_strip18_13: 647007909714465917
+      sprPHospitalHeadache_strip18_14: 7477898255991739340
+      sprPHospitalHeadache_strip18_15: -4327115126812712141
+      sprPHospitalHeadache_strip18_16: -6630182895373926292
+      sprPHospitalHeadache_strip18_17: 2287669423683293250
+      sprPHospitalHeadache_strip18_2: -2499149984142883109
+      sprPHospitalHeadache_strip18_3: -8776540195161710139
+      sprPHospitalHeadache_strip18_4: -237736771215210343
+      sprPHospitalHeadache_strip18_5: 5831253717473843411
+      sprPHospitalHeadache_strip18_6: 858279167437817296
+      sprPHospitalHeadache_strip18_7: 6279673003293137799
+      sprPHospitalHeadache_strip18_8: 1072237134010298761
+      sprPHospitalHeadache_strip18_9: 1654094062201001183
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

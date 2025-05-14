@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJonatanStraightFace_strip16_0: 3175610705896792679
+      sprJonatanStraightFace_strip16_1: 3638200194439547907
+      sprJonatanStraightFace_strip16_10: 7718547948221549561
+      sprJonatanStraightFace_strip16_11: -1230509181052306544
+      sprJonatanStraightFace_strip16_12: 7111886935561556742
+      sprJonatanStraightFace_strip16_13: -403580467965041027
+      sprJonatanStraightFace_strip16_14: -7168901284176442592
+      sprJonatanStraightFace_strip16_15: -7556266248738143472
+      sprJonatanStraightFace_strip16_2: 6233862303256555518
+      sprJonatanStraightFace_strip16_3: 6203598811253517891
+      sprJonatanStraightFace_strip16_4: -123740580221080863
+      sprJonatanStraightFace_strip16_5: -3044727216963150469
+      sprJonatanStraightFace_strip16_6: -6016928740913323474
+      sprJonatanStraightFace_strip16_7: 2171150770557146705
+      sprJonatanStraightFace_strip16_8: 7296272818643994692
+      sprJonatanStraightFace_strip16_9: -317586501043531064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

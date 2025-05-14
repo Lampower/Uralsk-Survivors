@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinRatFace_0: -6302234617281791474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

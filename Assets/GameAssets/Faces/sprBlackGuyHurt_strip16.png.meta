@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBlackGuyHurt_strip16_0: 8939593065977447025
+      sprBlackGuyHurt_strip16_1: 8378645181265489540
+      sprBlackGuyHurt_strip16_10: -1881197788616115191
+      sprBlackGuyHurt_strip16_11: -3003894268193622560
+      sprBlackGuyHurt_strip16_12: 7374335466563913333
+      sprBlackGuyHurt_strip16_13: 1939005258349751595
+      sprBlackGuyHurt_strip16_14: 7164845283941369320
+      sprBlackGuyHurt_strip16_15: -2456118089123071839
+      sprBlackGuyHurt_strip16_2: -5077343063540250026
+      sprBlackGuyHurt_strip16_3: 1225200431940430746
+      sprBlackGuyHurt_strip16_4: 2656549520315430995
+      sprBlackGuyHurt_strip16_5: -2004589759560692565
+      sprBlackGuyHurt_strip16_6: 5014229244790646991
+      sprBlackGuyHurt_strip16_7: 469814842128142884
+      sprBlackGuyHurt_strip16_8: -2557809820246032501
+      sprBlackGuyHurt_strip16_9: -2732023932729050230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

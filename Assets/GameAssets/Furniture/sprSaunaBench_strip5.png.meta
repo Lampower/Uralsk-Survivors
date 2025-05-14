@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSaunaBench_strip5_0: 3297755280547539278
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

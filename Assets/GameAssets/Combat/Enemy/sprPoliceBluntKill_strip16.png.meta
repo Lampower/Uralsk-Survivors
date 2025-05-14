@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceBluntKill_strip16_0: -4171862239578563136
+      sprPoliceBluntKill_strip16_1: -680675636181218109
+      sprPoliceBluntKill_strip16_10: 5623185121827941580
+      sprPoliceBluntKill_strip16_11: 5041385773013841836
+      sprPoliceBluntKill_strip16_12: 6767785330721027233
+      sprPoliceBluntKill_strip16_13: -555625400356187143
+      sprPoliceBluntKill_strip16_14: 4358546596090782356
+      sprPoliceBluntKill_strip16_15: -3952008159426433298
+      sprPoliceBluntKill_strip16_2: 4074116056220926038
+      sprPoliceBluntKill_strip16_3: -1254328188486554664
+      sprPoliceBluntKill_strip16_4: -5907556689131919263
+      sprPoliceBluntKill_strip16_5: 5084159458011352812
+      sprPoliceBluntKill_strip16_6: -3493719091491005572
+      sprPoliceBluntKill_strip16_7: 1430493310868998549
+      sprPoliceBluntKill_strip16_8: -7617367776076408694
+      sprPoliceBluntKill_strip16_9: 6936626732164197448
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

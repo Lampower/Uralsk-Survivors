@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprELegs_strip16_0: -6546665300150147402
+      sprELegs_strip16_1: -3534278852663137488
+      sprELegs_strip16_10: 5723467430683363931
+      sprELegs_strip16_11: 5749448338727723149
+      sprELegs_strip16_12: 2078985850642039841
+      sprELegs_strip16_13: -8798112350151124889
+      sprELegs_strip16_14: -6580084790417682694
+      sprELegs_strip16_15: -9005299507322887390
+      sprELegs_strip16_16: -4771938745274395351
+      sprELegs_strip16_17: 2978230499669470760
+      sprELegs_strip16_18: 3281254285597575623
+      sprELegs_strip16_19: 7711609016974036035
+      sprELegs_strip16_2: -8384192552975883874
+      sprELegs_strip16_20: 4526094040766813922
+      sprELegs_strip16_21: -978649056955063001
+      sprELegs_strip16_22: 606765830852180209
+      sprELegs_strip16_23: -7940860880478200236
+      sprELegs_strip16_24: 6437804578876110110
+      sprELegs_strip16_25: -8142893935998710491
+      sprELegs_strip16_26: -524351204405677005
+      sprELegs_strip16_27: 5359908017620458326
+      sprELegs_strip16_3: 6275946377063505834
+      sprELegs_strip16_4: 8112587430649830485
+      sprELegs_strip16_5: 1687571162610888281
+      sprELegs_strip16_6: 6367696730257014985
+      sprELegs_strip16_7: -8105412471298991823
+      sprELegs_strip16_8: -828844608300123608
+      sprELegs_strip16_9: -3086021066186113053
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

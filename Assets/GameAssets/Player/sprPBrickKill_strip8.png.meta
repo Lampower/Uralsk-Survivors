@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPBrickKill_strip8_0: -5616328172587882643
+      sprPBrickKill_strip8_1: -1810918471836657104
+      sprPBrickKill_strip8_2: 6324497907730399155
+      sprPBrickKill_strip8_3: 207606411761337632
+      sprPBrickKill_strip8_4: -4007249099136730098
+      sprPBrickKill_strip8_5: -6181751764700911671
+      sprPBrickKill_strip8_6: -3922044219903428264
+      sprPBrickKill_strip8_7: 5371790614408338344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

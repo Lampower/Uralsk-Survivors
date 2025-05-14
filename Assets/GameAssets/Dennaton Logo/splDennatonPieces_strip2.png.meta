@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      splDennatonPieces_strip2_0: 262636897007505546
+      splDennatonPieces_strip2_1: 3565493370336292606
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShowerCurtain_0: 5760839530127053468
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

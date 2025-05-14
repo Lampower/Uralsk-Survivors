@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDrawersH24Phone_strip12_0: -2104063190678756073
+      sprDrawersH24Phone_strip12_1: -600537045738474767
+      sprDrawersH24Phone_strip12_10: -8807380642706917331
+      sprDrawersH24Phone_strip12_11: -2400654295519465289
+      sprDrawersH24Phone_strip12_2: -6147404462484061625
+      sprDrawersH24Phone_strip12_3: 3726941189845800481
+      sprDrawersH24Phone_strip12_4: -4283624116619988156
+      sprDrawersH24Phone_strip12_5: -1836474912440436477
+      sprDrawersH24Phone_strip12_6: -4806225097213705028
+      sprDrawersH24Phone_strip12_7: -3668420702512444781
+      sprDrawersH24Phone_strip12_8: -3557022372333146553
+      sprDrawersH24Phone_strip12_9: -1922965208971777531
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGirlfriendDead_0: -5458637632429759352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPlayerCouch_strip16_0: 7783805155970717952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

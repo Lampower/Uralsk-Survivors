@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEuroTrash_strip2_0: 6080120225913771204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

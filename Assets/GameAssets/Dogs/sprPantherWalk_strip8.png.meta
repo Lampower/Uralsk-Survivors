@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherWalk_strip8_0: 3864549328793065441
+      sprPantherWalk_strip8_1: 2317920191384634852
+      sprPantherWalk_strip8_2: 6287452538992834957
+      sprPantherWalk_strip8_3: -7211706312079322448
+      sprPantherWalk_strip8_4: -1925291448908810983
+      sprPantherWalk_strip8_5: 420063851958260987
+      sprPantherWalk_strip8_6: 2891075984403706570
+      sprPantherWalk_strip8_7: 765621911263486601
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

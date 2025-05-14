@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCShakePig_strip7_0: 1797589472622855428
+      sprMCShakePig_strip7_1: 6351350094010504848
+      sprMCShakePig_strip7_2: 6746669551824405361
+      sprMCShakePig_strip7_3: 3246894795909542778
+      sprMCShakePig_strip7_4: 5932236113125448350
+      sprMCShakePig_strip7_5: -453875324939489340
+      sprMCShakePig_strip7_6: -9202683717293828287
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

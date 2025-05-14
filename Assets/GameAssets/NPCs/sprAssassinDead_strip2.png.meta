@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinDead_strip2_0: 1409185588014802662
+      sprAssassinDead_strip2_1: -7721973437340358658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

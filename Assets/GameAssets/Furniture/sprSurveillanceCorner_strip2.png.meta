@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSurveillanceCorner_strip2_0: -2600414074344945482
+      sprSurveillanceCorner_strip2_1: -8778565744965749097
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

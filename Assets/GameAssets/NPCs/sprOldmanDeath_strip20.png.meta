@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOldmanDeath_strip20_0: 6651625357430249734
+      sprOldmanDeath_strip20_1: 44067017579114963
+      sprOldmanDeath_strip20_10: -8168690250217068027
+      sprOldmanDeath_strip20_11: -1366343463905960837
+      sprOldmanDeath_strip20_12: -5451388429193854832
+      sprOldmanDeath_strip20_13: 2900894230734226712
+      sprOldmanDeath_strip20_14: -1125237289332093893
+      sprOldmanDeath_strip20_15: 6860710192045737786
+      sprOldmanDeath_strip20_16: 6490855221154129082
+      sprOldmanDeath_strip20_17: 3058756740187549439
+      sprOldmanDeath_strip20_18: -3153791979109284245
+      sprOldmanDeath_strip20_19: -3536641849055229646
+      sprOldmanDeath_strip20_2: -3301892806536286660
+      sprOldmanDeath_strip20_3: 4464902572308456159
+      sprOldmanDeath_strip20_4: -8271157642053255338
+      sprOldmanDeath_strip20_5: 9076258548601158198
+      sprOldmanDeath_strip20_6: 5678358842035736113
+      sprOldmanDeath_strip20_7: -980227713107832502
+      sprOldmanDeath_strip20_8: 312191801203464450
+      sprOldmanDeath_strip20_9: -771595594288527630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

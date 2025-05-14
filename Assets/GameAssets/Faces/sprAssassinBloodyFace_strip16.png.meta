@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinBloodyFace_strip16_0: 505988928649777610
+      sprAssassinBloodyFace_strip16_1: -6262414053185943026
+      sprAssassinBloodyFace_strip16_10: 6280439486329781203
+      sprAssassinBloodyFace_strip16_11: 7681565423316003358
+      sprAssassinBloodyFace_strip16_12: -5597440060005889066
+      sprAssassinBloodyFace_strip16_13: 5924753760133907951
+      sprAssassinBloodyFace_strip16_14: -3005217184744551628
+      sprAssassinBloodyFace_strip16_15: 4157378378807231987
+      sprAssassinBloodyFace_strip16_2: -5570243794352511237
+      sprAssassinBloodyFace_strip16_3: -8761541886953966784
+      sprAssassinBloodyFace_strip16_4: 6546616265246926619
+      sprAssassinBloodyFace_strip16_5: -3552342178912403447
+      sprAssassinBloodyFace_strip16_6: 76372837192779318
+      sprAssassinBloodyFace_strip16_7: 629091396111666164
+      sprAssassinBloodyFace_strip16_8: 1872732275717111439
+      sprAssassinBloodyFace_strip16_9: -3754209546821145372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

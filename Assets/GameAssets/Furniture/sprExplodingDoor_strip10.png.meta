@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprExplodingDoor_strip10_0: -4733745844010724781
+      sprExplodingDoor_strip10_1: 7692821602939713501
+      sprExplodingDoor_strip10_2: 9105288431197780906
+      sprExplodingDoor_strip10_3: -3414495816319779903
+      sprExplodingDoor_strip10_4: 7028814805457316412
+      sprExplodingDoor_strip10_5: 2907564356686815812
+      sprExplodingDoor_strip10_6: -7044394783035304693
+      sprExplodingDoor_strip10_7: 73987545840358200
+      sprExplodingDoor_strip10_8: -1161512068083793268
+      sprExplodingDoor_strip10_9: -9060770507898387937
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

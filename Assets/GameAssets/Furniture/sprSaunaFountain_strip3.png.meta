@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSaunaFountain_strip3_0: -4130033987160038305
+      sprSaunaFountain_strip3_1: -3843581777104965150
+      sprSaunaFountain_strip3_2: -34817273599263980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

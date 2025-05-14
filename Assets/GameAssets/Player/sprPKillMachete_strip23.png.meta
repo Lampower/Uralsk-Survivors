@@ -697,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKillMachete_strip23_0: -4081903201120915010
+      sprPKillMachete_strip23_1: 1013364796667381934
+      sprPKillMachete_strip23_10: -2999643609564189287
+      sprPKillMachete_strip23_11: -3947394182862596904
+      sprPKillMachete_strip23_12: -6148874201530464187
+      sprPKillMachete_strip23_13: -4423160012455955470
+      sprPKillMachete_strip23_14: 337177438418005804
+      sprPKillMachete_strip23_15: 4694633439112379098
+      sprPKillMachete_strip23_16: -4373088609546824518
+      sprPKillMachete_strip23_17: 2860452368716279156
+      sprPKillMachete_strip23_18: -4111632390888478052
+      sprPKillMachete_strip23_19: 8291559751913114004
+      sprPKillMachete_strip23_2: -803927079069340877
+      sprPKillMachete_strip23_20: -4401558785393443289
+      sprPKillMachete_strip23_21: -5012329020781053645
+      sprPKillMachete_strip23_22: 2126719608596099883
+      sprPKillMachete_strip23_3: 514502464953599259
+      sprPKillMachete_strip23_4: -568184435497303346
+      sprPKillMachete_strip23_5: 1623020648874322397
+      sprPKillMachete_strip23_6: -4123887892257968005
+      sprPKillMachete_strip23_7: 9001478849764353141
+      sprPKillMachete_strip23_8: 5071874482425503753
+      sprPKillMachete_strip23_9: 6601620240828909437
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

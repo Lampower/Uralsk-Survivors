@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinTalkShot_strip2_0: 3747552221203005281
+      sprAssassinTalkShot_strip2_1: 2469807055852733040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

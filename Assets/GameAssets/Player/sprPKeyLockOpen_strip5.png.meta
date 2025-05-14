@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKeyLockOpen_strip5_0: -7648984109712997395
+      sprPKeyLockOpen_strip5_1: 8178898410647536568
+      sprPKeyLockOpen_strip5_2: -6987686631212493703
+      sprPKeyLockOpen_strip5_3: -2811977365942761211
+      sprPKeyLockOpen_strip5_4: 5659468642419479103
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBubbleBath_strip5_0: -8251870718239561613
+      sprBubbleBath_strip5_1: 5508051035881783206
+      sprBubbleBath_strip5_2: 934456919836074881
+      sprBubbleBath_strip5_3: -2461963087294733703
+      sprBubbleBath_strip5_4: -8129401068141736263
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

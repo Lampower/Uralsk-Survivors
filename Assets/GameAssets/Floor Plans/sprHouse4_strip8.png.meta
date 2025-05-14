@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHouse4_strip8_0: -4911563145548469447
+      sprHouse4_strip8_1: 3459035480673638177
+      sprHouse4_strip8_2: -6087990777371962825
+      sprHouse4_strip8_3: -9161322474431569895
+      sprHouse4_strip8_4: 3632684984567360730
+      sprHouse4_strip8_5: -2354640302120026129
+      sprHouse4_strip8_6: -4952907450043004720
+      sprHouse4_strip8_7: -8232073556579960137
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

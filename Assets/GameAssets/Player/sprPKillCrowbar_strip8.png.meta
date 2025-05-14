@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKillCrowbar_strip8_0: 9073828786115482524
+      sprPKillCrowbar_strip8_1: 8104722536779612306
+      sprPKillCrowbar_strip8_2: 3549989183310239534
+      sprPKillCrowbar_strip8_3: 8752623293981368331
+      sprPKillCrowbar_strip8_4: 3268176819669913468
+      sprPKillCrowbar_strip8_5: -4409733286503794763
+      sprPKillCrowbar_strip8_6: -4427383199809255005
+      sprPKillCrowbar_strip8_7: 9086437724301722167
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

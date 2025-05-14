@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFatmanShitDecapitated_strip10_0: 8869160209335508281
+      sprFatmanShitDecapitated_strip10_1: -2008198704119573647
+      sprFatmanShitDecapitated_strip10_2: 6936889933757457545
+      sprFatmanShitDecapitated_strip10_3: -1443019974266018471
+      sprFatmanShitDecapitated_strip10_4: -8714342061170656162
+      sprFatmanShitDecapitated_strip10_5: -5628095706467114706
+      sprFatmanShitDecapitated_strip10_6: 2949417079832436741
+      sprFatmanShitDecapitated_strip10_7: -3688725661137451043
+      sprFatmanShitDecapitated_strip10_8: 206071997234699451
+      sprFatmanShitDecapitated_strip10_9: 4292772455487577685
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

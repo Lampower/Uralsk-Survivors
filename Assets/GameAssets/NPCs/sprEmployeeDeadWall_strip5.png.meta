@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEmployeeDeadWall_strip5_0: 7741227329049936331
+      sprEmployeeDeadWall_strip5_1: -9133574305729596559
+      sprEmployeeDeadWall_strip5_2: -2712295184305843683
+      sprEmployeeDeadWall_strip5_3: -4126736419072505884
+      sprEmployeeDeadWall_strip5_4: 8999659853952506321
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

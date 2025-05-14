@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkGirlfriend_strip6_0: 1608623132148315717
+      sprPWalkGirlfriend_strip6_1: -99201740314732390
+      sprPWalkGirlfriend_strip6_2: 8112120637899785391
+      sprPWalkGirlfriend_strip6_3: 5375243570085754835
+      sprPWalkGirlfriend_strip6_4: 6498416046322905539
+      sprPWalkGirlfriend_strip6_5: 3691823073075979161
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

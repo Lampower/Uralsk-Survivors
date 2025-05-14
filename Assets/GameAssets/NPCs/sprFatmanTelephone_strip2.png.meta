@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFatmanTelephone_strip2_0: 6134530783053757483
+      sprFatmanTelephone_strip2_1: -8930889590353500658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

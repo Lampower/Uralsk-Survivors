@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPBackBlunt_strip5_0: -7444093074925732353
+      sprPBackBlunt_strip5_1: -4498270637782330072
+      sprPBackBlunt_strip5_2: 1151636605543977178
+      sprPBackBlunt_strip5_3: 2443849301983355078
+      sprPBackBlunt_strip5_4: 8853487674308764713
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

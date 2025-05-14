@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKillBottle_strip18_0: 5528637925954417907
+      sprPKillBottle_strip18_1: 3485585579097906345
+      sprPKillBottle_strip18_10: -5387741408869242222
+      sprPKillBottle_strip18_11: -7002416506725363842
+      sprPKillBottle_strip18_12: 599088863070651795
+      sprPKillBottle_strip18_13: -2805594989219404510
+      sprPKillBottle_strip18_14: -3158881502574124998
+      sprPKillBottle_strip18_15: 2339253729295024576
+      sprPKillBottle_strip18_16: 5640869225205044512
+      sprPKillBottle_strip18_17: -7638094910812719304
+      sprPKillBottle_strip18_2: 2177030483308882808
+      sprPKillBottle_strip18_3: -3756042951219345342
+      sprPKillBottle_strip18_4: 2205749662577720483
+      sprPKillBottle_strip18_5: -5358565369890983845
+      sprPKillBottle_strip18_6: 4284710956053662965
+      sprPKillBottle_strip18_7: -9142512303738753897
+      sprPKillBottle_strip18_8: 6833374119028373012
+      sprPKillBottle_strip18_9: 3379041991359525680
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

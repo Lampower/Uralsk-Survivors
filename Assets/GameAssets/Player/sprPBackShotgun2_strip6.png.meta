@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPBackShotgun2_strip6_0: -5216741691550223172
+      sprPBackShotgun2_strip6_1: -3686680706164401964
+      sprPBackShotgun2_strip6_2: -2520803115638770333
+      sprPBackShotgun2_strip6_3: -6617177104715510203
+      sprPBackShotgun2_strip6_4: -8159960351882534450
+      sprPBackShotgun2_strip6_5: -8202656294606164888
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJasper_strip14_0: 7278286190197483908
+      sprJasper_strip14_1: -4736920009924063467
+      sprJasper_strip14_10: -2297257632524799308
+      sprJasper_strip14_11: 1461951252372409004
+      sprJasper_strip14_12: -8194937636087989919
+      sprJasper_strip14_13: 7111362508961894220
+      sprJasper_strip14_2: -6302051371968352203
+      sprJasper_strip14_3: -2126500993364828999
+      sprJasper_strip14_4: 3229827894355097987
+      sprJasper_strip14_5: 8138201516296258375
+      sprJasper_strip14_6: -3393302140216342244
+      sprJasper_strip14_7: 24000018433260504
+      sprJasper_strip14_8: 2720656823631339540
+      sprJasper_strip14_9: 1838151774095139270
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPBrokenPoolKill_strip20_0: 9141909161467588969
+      sprPBrokenPoolKill_strip20_1: 7665753084910575745
+      sprPBrokenPoolKill_strip20_10: 5375822963711216528
+      sprPBrokenPoolKill_strip20_11: 4176526700031804204
+      sprPBrokenPoolKill_strip20_12: 2280238614892804319
+      sprPBrokenPoolKill_strip20_13: 1710028612256266480
+      sprPBrokenPoolKill_strip20_14: -4362221585475565507
+      sprPBrokenPoolKill_strip20_15: -425637298154796982
+      sprPBrokenPoolKill_strip20_16: -5748735246148483539
+      sprPBrokenPoolKill_strip20_17: 1630823080296856813
+      sprPBrokenPoolKill_strip20_18: 2957714500964410318
+      sprPBrokenPoolKill_strip20_19: 1470284115754622179
+      sprPBrokenPoolKill_strip20_2: -726347535737604843
+      sprPBrokenPoolKill_strip20_3: 6511773760456741678
+      sprPBrokenPoolKill_strip20_4: -7927878437497808830
+      sprPBrokenPoolKill_strip20_5: -7418986196348419151
+      sprPBrokenPoolKill_strip20_6: 8861184875347541121
+      sprPBrokenPoolKill_strip20_7: 6432134787490051771
+      sprPBrokenPoolKill_strip20_8: -1792121798054000745
+      sprPBrokenPoolKill_strip20_9: 2894434547218290450
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

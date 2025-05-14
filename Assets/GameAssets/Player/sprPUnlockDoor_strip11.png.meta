@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPUnlockDoor_strip11_0: -4054094741461117847
+      sprPUnlockDoor_strip11_1: 4238004904332490918
+      sprPUnlockDoor_strip11_10: 7979920378281346904
+      sprPUnlockDoor_strip11_2: 3035470091028824794
+      sprPUnlockDoor_strip11_3: -4072137079745346401
+      sprPUnlockDoor_strip11_4: 2483196208520728794
+      sprPUnlockDoor_strip11_5: -706685554650391929
+      sprPUnlockDoor_strip11_6: -5394294387365875900
+      sprPUnlockDoor_strip11_7: -5261758519668043775
+      sprPUnlockDoor_strip11_8: 4288018958453984216
+      sprPUnlockDoor_strip11_9: -4487577654409887062
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

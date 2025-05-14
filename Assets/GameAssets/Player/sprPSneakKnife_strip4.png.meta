@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPSneakKnife_strip4_0: 6610862409177968660
+      sprPSneakKnife_strip4_1: -2576252886727459228
+      sprPSneakKnife_strip4_2: 6601316661013355278
+      sprPSneakKnife_strip4_3: -3595495791429509840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

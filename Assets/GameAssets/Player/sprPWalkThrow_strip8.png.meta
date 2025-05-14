@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkThrow_strip8_0: -2042340311486259908
+      sprPWalkThrow_strip8_1: -4618380050733657771
+      sprPWalkThrow_strip8_2: 3722561479790337404
+      sprPWalkThrow_strip8_3: -1963732356591236089
+      sprPWalkThrow_strip8_4: 4048260878811951152
+      sprPWalkThrow_strip8_5: 1462927376159689083
+      sprPWalkThrow_strip8_6: 7600123992679374505
+      sprPWalkThrow_strip8_7: -3851990328706261738
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

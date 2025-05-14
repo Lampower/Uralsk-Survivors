@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGoArrow_strip4_0: 2904783161672065877
+      sprGoArrow_strip4_1: -6832350988262084812
+      sprGoArrow_strip4_2: -3164212390222201133
+      sprGoArrow_strip4_3: 374070193879468861
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

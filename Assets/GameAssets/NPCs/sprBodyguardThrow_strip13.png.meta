@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBodyguardThrow_strip13_0: -5054219353111820460
+      sprBodyguardThrow_strip13_1: -315135464788895889
+      sprBodyguardThrow_strip13_10: -9099912207871896893
+      sprBodyguardThrow_strip13_11: -7640266386483199459
+      sprBodyguardThrow_strip13_12: 8213236272770819766
+      sprBodyguardThrow_strip13_2: -1728298060908762156
+      sprBodyguardThrow_strip13_3: -2154587794320549619
+      sprBodyguardThrow_strip13_4: 4201068881777714315
+      sprBodyguardThrow_strip13_5: 1406685611636631710
+      sprBodyguardThrow_strip13_6: -1035216383147836927
+      sprBodyguardThrow_strip13_7: -383933643211540187
+      sprBodyguardThrow_strip13_8: 1496977725455665761
+      sprBodyguardThrow_strip13_9: -1353021734148516973
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

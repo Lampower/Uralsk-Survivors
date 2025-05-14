@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkScorpion_strip8_0: 2430174480625684421
+      sprPWalkScorpion_strip8_1: 6072574595299960488
+      sprPWalkScorpion_strip8_2: -2893432871747413883
+      sprPWalkScorpion_strip8_3: -3545376922882529309
+      sprPWalkScorpion_strip8_4: 8685099861108892788
+      sprPWalkScorpion_strip8_5: 8109271785797883430
+      sprPWalkScorpion_strip8_6: -4865204578209859381
+      sprPWalkScorpion_strip8_7: -3457234864655523860
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

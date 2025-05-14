@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBodyguardTurn_strip5_0: 1032588777188104523
+      sprBodyguardTurn_strip5_1: -4048197252663327502
+      sprBodyguardTurn_strip5_2: 2792486593159417136
+      sprBodyguardTurn_strip5_3: 3811616386462144117
+      sprBodyguardTurn_strip5_4: 1319108351774935166
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

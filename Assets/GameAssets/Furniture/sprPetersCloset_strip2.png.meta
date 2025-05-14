@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPetersCloset_strip2_0: 2911575936615619102
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

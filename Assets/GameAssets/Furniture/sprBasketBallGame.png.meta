@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBasketBallGame_0: 2296327555926865684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

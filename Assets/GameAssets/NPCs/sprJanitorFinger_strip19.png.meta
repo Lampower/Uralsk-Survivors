@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJanitorFinger_strip19_0: 7914068766144248873
+      sprJanitorFinger_strip19_1: 6892087663321467112
+      sprJanitorFinger_strip19_10: -2230091299024971584
+      sprJanitorFinger_strip19_11: -2265124604271819018
+      sprJanitorFinger_strip19_12: -9187415680871751591
+      sprJanitorFinger_strip19_13: -8548132273963314223
+      sprJanitorFinger_strip19_14: 548753210416452035
+      sprJanitorFinger_strip19_15: -4060185514424708179
+      sprJanitorFinger_strip19_16: 9213559063780760359
+      sprJanitorFinger_strip19_17: -3546958744707552355
+      sprJanitorFinger_strip19_18: -991318690009336461
+      sprJanitorFinger_strip19_2: 889233419548146163
+      sprJanitorFinger_strip19_3: 8402096638694483660
+      sprJanitorFinger_strip19_4: 5326871058931727523
+      sprJanitorFinger_strip19_5: -5162451236359254778
+      sprJanitorFinger_strip19_6: -3653547323933095735
+      sprJanitorFinger_strip19_7: 253361997046827480
+      sprJanitorFinger_strip19_8: -1561480672614698505
+      sprJanitorFinger_strip19_9: -2573273173576496677
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

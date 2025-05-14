@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAndersDesk_strip6_0: 3603040311168479997
+      sprAndersDesk_strip6_1: -5711458762188440933
+      sprAndersDesk_strip6_2: 3627256979159937728
+      sprAndersDesk_strip6_3: 3029572280616493666
+      sprAndersDesk_strip6_4: 7218510785111476142
+      sprAndersDesk_strip6_5: -7807498447915101570
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

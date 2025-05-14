@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCarThrashedBottom_0: 7505425056296415398
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

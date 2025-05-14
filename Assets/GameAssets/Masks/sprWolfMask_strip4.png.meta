@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWolfMask_strip4_0: 2402583331422659191
+      sprWolfMask_strip4_1: 8822903642507734064
+      sprWolfMask_strip4_2: 4829334967351335174
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

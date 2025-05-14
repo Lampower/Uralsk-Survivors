@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprToyLego_strip4_0: 7031291069133176720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

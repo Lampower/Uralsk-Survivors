@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEBluntKill_strip12_0: -41270825902923444
+      sprEBluntKill_strip12_1: 2399058506066985871
+      sprEBluntKill_strip12_10: 3717924849654169562
+      sprEBluntKill_strip12_11: 4916085641778320263
+      sprEBluntKill_strip12_2: 3114847596214680018
+      sprEBluntKill_strip12_3: 673178702139657691
+      sprEBluntKill_strip12_4: 1035849620953585903
+      sprEBluntKill_strip12_5: -8213973989422460963
+      sprEBluntKill_strip12_6: -5501883674345436121
+      sprEBluntKill_strip12_7: -6046754342907103647
+      sprEBluntKill_strip12_8: -8654442545700627688
+      sprEBluntKill_strip12_9: -1070296353643345652
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

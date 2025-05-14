@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkTaser_strip8_0: 8988433118699727129
+      sprPWalkTaser_strip8_1: 1921429268697310281
+      sprPWalkTaser_strip8_2: 9005848464470329644
+      sprPWalkTaser_strip8_3: 8529809381016239822
+      sprPWalkTaser_strip8_4: -1764575743530878171
+      sprPWalkTaser_strip8_5: -1386435986918259667
+      sprPWalkTaser_strip8_6: -5974447773925132006
+      sprPWalkTaser_strip8_7: 8247615030910414698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

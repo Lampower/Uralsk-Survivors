@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprVenusPatrolSmall_0: 1595773876783519259
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

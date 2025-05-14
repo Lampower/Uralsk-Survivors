@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOldAquarium_strip6_0: -3355383651554868749
+      sprOldAquarium_strip6_1: -4812410256119872807
+      sprOldAquarium_strip6_2: 3422383169480684431
+      sprOldAquarium_strip6_3: -3893517248938356463
+      sprOldAquarium_strip6_4: 1141693906093029437
+      sprOldAquarium_strip6_5: -6344500124751253471
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

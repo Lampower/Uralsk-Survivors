@@ -597,7 +597,26 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprRasmus_strip19_0: -2555914557306090437
+      sprRasmus_strip19_1: -5284514993719197034
+      sprRasmus_strip19_10: 2157680301738880929
+      sprRasmus_strip19_11: 1075500283580054776
+      sprRasmus_strip19_12: 8733646823876468095
+      sprRasmus_strip19_13: 2895639137999765368
+      sprRasmus_strip19_14: -7039064609314917288
+      sprRasmus_strip19_15: -321619736639563757
+      sprRasmus_strip19_16: 7994118767512978729
+      sprRasmus_strip19_17: 3410110411015147661
+      sprRasmus_strip19_18: 662809774130628370
+      sprRasmus_strip19_2: 3597783310616869109
+      sprRasmus_strip19_3: 4177807855222564297
+      sprRasmus_strip19_4: -1567317093895854000
+      sprRasmus_strip19_5: 1497290117234515402
+      sprRasmus_strip19_6: -7620096980276411019
+      sprRasmus_strip19_7: 2164879606163662348
+      sprRasmus_strip19_8: 4087674935218291245
+      sprRasmus_strip19_9: -7704508665555817458
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

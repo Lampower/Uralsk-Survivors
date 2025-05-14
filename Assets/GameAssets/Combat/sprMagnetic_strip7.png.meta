@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMagnetic_strip7_0: -422207837485294843
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

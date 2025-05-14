@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotelNightStandLight_strip4_0: 5530445656773458117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

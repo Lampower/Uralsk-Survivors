@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBannerH_strip16_0: 7610665828859161100
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

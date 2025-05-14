@@ -3,7 +3,7 @@ using UnityEngine;
 
 public abstract class AbstractWeapon : AbstractEntity, IAttackable, ICarriable
 {
-    public LivingEntity Holder { get; set; } = null;
+    public LivingEntity Holder = null;
     public int damage;
 
     public float bps = 1;
@@ -33,6 +33,8 @@ public abstract class AbstractWeapon : AbstractEntity, IAttackable, ICarriable
 
     public virtual bool IsFriendlyFire(GameObject target)
     {
+        if (!Holder)
+            return true;
         return Holder.gameObject.CompareTag(target.tag);
     }
 }

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprESearchKnife_strip10_0: -8913954781015860521
+      sprESearchKnife_strip10_1: 211682463908859668
+      sprESearchKnife_strip10_2: -3438021035382858617
+      sprESearchKnife_strip10_3: -7700098890612475290
+      sprESearchKnife_strip10_4: -2997730858808783311
+      sprESearchKnife_strip10_5: 1753551790229803476
+      sprESearchKnife_strip10_6: -3573320987006277350
+      sprESearchKnife_strip10_7: 7509215264333445459
+      sprESearchKnife_strip10_8: -5870142977421242840
+      sprESearchKnife_strip10_9: 2985110069097815982
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

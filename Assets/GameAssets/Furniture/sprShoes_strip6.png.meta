@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShoes_strip6_0: 3828316984687828271
+      sprShoes_strip6_1: 3402254068415861939
+      sprShoes_strip6_10: -5473914399322570349
+      sprShoes_strip6_11: 3294872649335885105
+      sprShoes_strip6_2: -6954283028223232459
+      sprShoes_strip6_3: 1843612843055437317
+      sprShoes_strip6_4: 728504773995721255
+      sprShoes_strip6_5: -227870263018947866
+      sprShoes_strip6_6: 8957239169292507651
+      sprShoes_strip6_7: -8569546868526388640
+      sprShoes_strip6_8: 3732196784837804373
+      sprShoes_strip6_9: -8153124637977922345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

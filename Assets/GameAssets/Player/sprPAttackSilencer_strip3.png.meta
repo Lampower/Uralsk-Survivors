@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackSilencer_strip3_0: 196652340497568862
+      sprPAttackSilencer_strip3_1: -39940523961728376
+      sprPAttackSilencer_strip3_2: 8272410154296729105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

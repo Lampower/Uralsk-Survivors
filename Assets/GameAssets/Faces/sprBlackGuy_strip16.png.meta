@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBlackGuy_strip16_0: 7662105945349962847
+      sprBlackGuy_strip16_1: -2748371267227455445
+      sprBlackGuy_strip16_10: -7881954451915898543
+      sprBlackGuy_strip16_11: -8092300109969388586
+      sprBlackGuy_strip16_12: -125375550663937677
+      sprBlackGuy_strip16_13: 8938531464018743324
+      sprBlackGuy_strip16_14: -8530736352859233644
+      sprBlackGuy_strip16_15: 4726960590581688624
+      sprBlackGuy_strip16_2: -2778413304576292109
+      sprBlackGuy_strip16_3: 5652169165813696846
+      sprBlackGuy_strip16_4: -6213795230141933994
+      sprBlackGuy_strip16_5: -8185184176196874578
+      sprBlackGuy_strip16_6: -621734193016108415
+      sprBlackGuy_strip16_7: 5552275531794111572
+      sprBlackGuy_strip16_8: -3804159546706224391
+      sprBlackGuy_strip16_9: -4287141185428791182
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

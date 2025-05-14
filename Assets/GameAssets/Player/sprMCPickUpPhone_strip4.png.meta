@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCPickUpPhone_strip4_0: -348172128103849388
+      sprMCPickUpPhone_strip4_1: 2354734520846197545
+      sprMCPickUpPhone_strip4_2: 3925519124230121452
+      sprMCPickUpPhone_strip4_3: 2817084985053093209
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

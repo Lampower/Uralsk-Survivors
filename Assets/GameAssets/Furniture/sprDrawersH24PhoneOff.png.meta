@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDrawersH24PhoneOff_0: 1097204667032106038
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

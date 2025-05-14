@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkDoubleBarrel_strip8_0: 7074669628064465481
+      sprPWalkDoubleBarrel_strip8_1: 3952074283869429614
+      sprPWalkDoubleBarrel_strip8_2: -8373103338407482912
+      sprPWalkDoubleBarrel_strip8_3: -6403466616416155543
+      sprPWalkDoubleBarrel_strip8_4: 7091695436621534640
+      sprPWalkDoubleBarrel_strip8_5: 526458796128028146
+      sprPWalkDoubleBarrel_strip8_6: 1546570782222186923
+      sprPWalkDoubleBarrel_strip8_7: 5400015079796157105
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

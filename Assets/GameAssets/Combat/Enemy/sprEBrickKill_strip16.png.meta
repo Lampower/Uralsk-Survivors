@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEBrickKill_strip16_0: -5544843871225046185
+      sprEBrickKill_strip16_1: -4137850977986431539
+      sprEBrickKill_strip16_10: 7361177698653144147
+      sprEBrickKill_strip16_11: -6798239279526174504
+      sprEBrickKill_strip16_12: -5297764833012016919
+      sprEBrickKill_strip16_13: 3705802768427186584
+      sprEBrickKill_strip16_14: 6837659471447168958
+      sprEBrickKill_strip16_15: 748256914845719790
+      sprEBrickKill_strip16_2: 3239823173031465390
+      sprEBrickKill_strip16_3: -7075062358837677231
+      sprEBrickKill_strip16_4: 53983825478672667
+      sprEBrickKill_strip16_5: -3895908594837252910
+      sprEBrickKill_strip16_6: 6708116991850247776
+      sprEBrickKill_strip16_7: -1185489643807243094
+      sprEBrickKill_strip16_8: -4812334646471313039
+      sprEBrickKill_strip16_9: 8480904377498278352
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

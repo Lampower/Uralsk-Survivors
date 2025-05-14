@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPolicePhone1_strip11_0: -8569188351971935110
+      sprPolicePhone1_strip11_1: 6361196577129291774
+      sprPolicePhone1_strip11_10: -8789012301754866714
+      sprPolicePhone1_strip11_2: -8182684334787701290
+      sprPolicePhone1_strip11_3: 3394541276927636298
+      sprPolicePhone1_strip11_4: -384643545117138911
+      sprPolicePhone1_strip11_5: 6733697280186047936
+      sprPolicePhone1_strip11_6: -4998426457081982040
+      sprPolicePhone1_strip11_7: 2576524101509370783
+      sprPolicePhone1_strip11_8: -8846468950272987864
+      sprPolicePhone1_strip11_9: -7090091721878661826
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

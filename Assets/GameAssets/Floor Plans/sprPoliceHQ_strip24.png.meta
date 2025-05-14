@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceHQ_strip24_0: 832939565949709369
+      sprPoliceHQ_strip24_1: 4582953577688018797
+      sprPoliceHQ_strip24_10: 140156988637265420
+      sprPoliceHQ_strip24_11: 8766704047627776216
+      sprPoliceHQ_strip24_12: 506600735342954990
+      sprPoliceHQ_strip24_13: -3186159126537243282
+      sprPoliceHQ_strip24_14: 1505423778679237815
+      sprPoliceHQ_strip24_15: 8688440704798925628
+      sprPoliceHQ_strip24_16: 5049557494589628502
+      sprPoliceHQ_strip24_17: -7540205364114558818
+      sprPoliceHQ_strip24_18: 1798924711282546911
+      sprPoliceHQ_strip24_19: 6772763374546237829
+      sprPoliceHQ_strip24_2: -4684998007313292882
+      sprPoliceHQ_strip24_20: 1585699903332337427
+      sprPoliceHQ_strip24_21: 6656095993419899135
+      sprPoliceHQ_strip24_22: 2954105593864529053
+      sprPoliceHQ_strip24_23: 8498920621961790324
+      sprPoliceHQ_strip24_3: 8655240899833713563
+      sprPoliceHQ_strip24_4: 4127781356801524208
+      sprPoliceHQ_strip24_5: 3028728765038179198
+      sprPoliceHQ_strip24_6: 6515524222245463928
+      sprPoliceHQ_strip24_7: -4012370493994712493
+      sprPoliceHQ_strip24_8: -2624281305721024377
+      sprPoliceHQ_strip24_9: -2656892758442117934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

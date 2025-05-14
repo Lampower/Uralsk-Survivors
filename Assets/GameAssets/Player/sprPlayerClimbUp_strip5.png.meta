@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPlayerClimbUp_strip5_0: -4842901544587204188
+      sprPlayerClimbUp_strip5_1: -1122869996225578763
+      sprPlayerClimbUp_strip5_2: -4384666763698216436
+      sprPlayerClimbUp_strip5_3: 6213197764917582580
+      sprPlayerClimbUp_strip5_4: -1705703609877750460
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

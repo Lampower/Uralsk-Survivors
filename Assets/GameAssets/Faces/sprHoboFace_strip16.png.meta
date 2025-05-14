@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHoboFace_strip16_0: -7624761616614257818
+      sprHoboFace_strip16_1: 351178439450259003
+      sprHoboFace_strip16_10: 925981657852838598
+      sprHoboFace_strip16_11: 706938068199221075
+      sprHoboFace_strip16_12: 8026432890917635173
+      sprHoboFace_strip16_13: -5471361157717387599
+      sprHoboFace_strip16_14: -9165276949835615603
+      sprHoboFace_strip16_15: -5230889478525381168
+      sprHoboFace_strip16_2: -4468132537373231234
+      sprHoboFace_strip16_3: -97987145216289208
+      sprHoboFace_strip16_4: 4778040252956963258
+      sprHoboFace_strip16_5: -3330061276633466532
+      sprHoboFace_strip16_6: -7593571145794038570
+      sprHoboFace_strip16_7: -6855775503423081262
+      sprHoboFace_strip16_8: -2980362939109698828
+      sprHoboFace_strip16_9: 4871240060482301791
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWindowExplode_strip9_0: -8871713361586978661
+      sprWindowExplode_strip9_1: -2008542201431026468
+      sprWindowExplode_strip9_2: -2245162744978639410
+      sprWindowExplode_strip9_3: -421473773043406797
+      sprWindowExplode_strip9_4: -8627348175943017637
+      sprWindowExplode_strip9_5: -3557045787924653667
+      sprWindowExplode_strip9_6: -7054435857421475930
+      sprWindowExplode_strip9_7: 2502851811122090304
+      sprWindowExplode_strip9_8: 7653249982577638264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

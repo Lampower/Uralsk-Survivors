@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprTrashbag_strip3_0: -1805572155827427813
+      sprTrashbag_strip3_1: 904811760965236494
+      sprTrashbag_strip3_2: 876364789633448164
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

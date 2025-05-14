@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEBackScissor_strip14_0: -5040581086965019514
+      sprEBackScissor_strip14_1: 7771189097490581221
+      sprEBackScissor_strip14_10: 8393972062289417035
+      sprEBackScissor_strip14_11: -1789872826388326087
+      sprEBackScissor_strip14_12: 1364812707425434999
+      sprEBackScissor_strip14_13: 2360809296098491024
+      sprEBackScissor_strip14_2: -5747396711172821231
+      sprEBackScissor_strip14_3: -4023996950299199605
+      sprEBackScissor_strip14_4: 581313103754661867
+      sprEBackScissor_strip14_5: -3757250007179278068
+      sprEBackScissor_strip14_6: 7645105776682020302
+      sprEBackScissor_strip14_7: 1896649616637756673
+      sprEBackScissor_strip14_8: -3099891625629678758
+      sprEBackScissor_strip14_9: 638755199177454882
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

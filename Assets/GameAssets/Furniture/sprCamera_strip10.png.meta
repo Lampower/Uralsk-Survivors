@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCamera_strip10_0: -8048985185760857168
+      sprCamera_strip10_1: 4858344443227205023
+      sprCamera_strip10_2: 643080107344973514
+      sprCamera_strip10_3: -7712047173921535299
+      sprCamera_strip10_4: 7376947226023575960
+      sprCamera_strip10_5: 3456669504928286904
+      sprCamera_strip10_6: -5991301788128230717
+      sprCamera_strip10_7: -1777953402501810042
+      sprCamera_strip10_8: 3657618632208003620
+      sprCamera_strip10_9: -1336159559666353265
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

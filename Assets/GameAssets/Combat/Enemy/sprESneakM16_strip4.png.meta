@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprESneakM16_strip4_0: 9123542850843012502
+      sprESneakM16_strip4_1: 8646285059846959743
+      sprESneakM16_strip4_2: -720464396347123284
+      sprESneakM16_strip4_3: -2309140017717005829
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

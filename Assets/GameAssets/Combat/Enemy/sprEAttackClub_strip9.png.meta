@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEAttackClub_strip9_0: 1501158919654042011
+      sprEAttackClub_strip9_1: -7629747949902140094
+      sprEAttackClub_strip9_2: -8309834448396012474
+      sprEAttackClub_strip9_3: -6282429236859045173
+      sprEAttackClub_strip9_4: 9111107256694384004
+      sprEAttackClub_strip9_5: 4857278531545915749
+      sprEAttackClub_strip9_6: 6936402752609835466
+      sprEAttackClub_strip9_7: -3688745672060225023
+      sprEAttackClub_strip9_8: 649494218874963074
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

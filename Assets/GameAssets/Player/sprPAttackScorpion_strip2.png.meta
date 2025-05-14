@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackScorpion_strip2_0: -1218408245535159675
+      sprPAttackScorpion_strip2_1: 2834068801500612858
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

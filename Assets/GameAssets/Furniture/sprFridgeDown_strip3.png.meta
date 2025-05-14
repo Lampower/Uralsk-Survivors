@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFridgeDown_strip3_0: -5846620600053580104
+      sprFridgeDown_strip3_1: 7333669200877851583
+      sprFridgeDown_strip3_2: -4351394525048380725
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

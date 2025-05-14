@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss4GetGuns_strip10_0: -7031926039848746894
+      sprBoss4GetGuns_strip10_1: -1407213380176821410
+      sprBoss4GetGuns_strip10_2: -2147818859110521915
+      sprBoss4GetGuns_strip10_3: -1612621464455984753
+      sprBoss4GetGuns_strip10_4: 1684837139364535974
+      sprBoss4GetGuns_strip10_5: -1874846473025837648
+      sprBoss4GetGuns_strip10_6: -8985920586707922265
+      sprBoss4GetGuns_strip10_7: -8186722258307718892
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

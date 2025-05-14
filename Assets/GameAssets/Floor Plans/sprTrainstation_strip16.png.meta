@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprTrainstation_strip16_0: 5017079672581085194
+      sprTrainstation_strip16_1: 3995718281447590826
+      sprTrainstation_strip16_10: -5666255615846793127
+      sprTrainstation_strip16_11: -197727751249578451
+      sprTrainstation_strip16_12: 260916026608645732
+      sprTrainstation_strip16_13: -909105340686793318
+      sprTrainstation_strip16_14: -5595795851854681900
+      sprTrainstation_strip16_15: 8750336549550891039
+      sprTrainstation_strip16_2: 8346662252381093440
+      sprTrainstation_strip16_3: 4865846950711585982
+      sprTrainstation_strip16_4: 3593388115783776126
+      sprTrainstation_strip16_5: 8225345165800478846
+      sprTrainstation_strip16_6: 4817740552104508319
+      sprTrainstation_strip16_7: 2449466112471083213
+      sprTrainstation_strip16_8: 3547380511146630160
+      sprTrainstation_strip16_9: 6348964596825440720
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

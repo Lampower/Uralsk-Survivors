@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFoodTray_strip8_0: -4441671750133913525
+      sprFoodTray_strip8_1: -4893772261631821295
+      sprFoodTray_strip8_2: 7578880902571529948
+      sprFoodTray_strip8_3: -6504389528521381036
+      sprFoodTray_strip8_4: 4281703033828945096
+      sprFoodTray_strip8_5: -8640521565862083678
+      sprFoodTray_strip8_6: 1253431371641040437
+      sprFoodTray_strip8_7: -5462750572158607083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

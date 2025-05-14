@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprChiefLegs_strip16_0: -2130637211898359238
+      sprChiefLegs_strip16_1: -8997302041798330810
+      sprChiefLegs_strip16_10: -5157957930245226912
+      sprChiefLegs_strip16_11: 3321001154766047626
+      sprChiefLegs_strip16_12: -7488244204778078039
+      sprChiefLegs_strip16_13: 892373585361512121
+      sprChiefLegs_strip16_14: 9042206327321750789
+      sprChiefLegs_strip16_15: 7939355932693892031
+      sprChiefLegs_strip16_16: 4963199932400826881
+      sprChiefLegs_strip16_17: 5122885273748440618
+      sprChiefLegs_strip16_18: 6355090898608619952
+      sprChiefLegs_strip16_19: 5884384203621308544
+      sprChiefLegs_strip16_2: -9125800216538575926
+      sprChiefLegs_strip16_20: -4179601185420559440
+      sprChiefLegs_strip16_21: 5591648293659723033
+      sprChiefLegs_strip16_22: 919368981976420385
+      sprChiefLegs_strip16_23: 2069550478561671236
+      sprChiefLegs_strip16_24: -8628364110088721582
+      sprChiefLegs_strip16_25: 8235494977513579935
+      sprChiefLegs_strip16_26: 2090456128068069502
+      sprChiefLegs_strip16_27: 1928299708414665708
+      sprChiefLegs_strip16_3: 8834840122391660795
+      sprChiefLegs_strip16_4: -499794961226725837
+      sprChiefLegs_strip16_5: -3577299095174424648
+      sprChiefLegs_strip16_6: -8933064654143739660
+      sprChiefLegs_strip16_7: -9177184847715442284
+      sprChiefLegs_strip16_8: 5958315875195057470
+      sprChiefLegs_strip16_9: 8486531418448390239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

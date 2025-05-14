@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHoboAttack_strip9_0: -4264482875004867939
+      sprHoboAttack_strip9_1: 8971354611654035720
+      sprHoboAttack_strip9_2: -6355191205728213772
+      sprHoboAttack_strip9_3: 7204031676481614372
+      sprHoboAttack_strip9_4: -265451188408989380
+      sprHoboAttack_strip9_5: 2868974796432058570
+      sprHoboAttack_strip9_6: -4488425734917407396
+      sprHoboAttack_strip9_7: -6494662080717527358
+      sprHoboAttack_strip9_8: 3379223861147491547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

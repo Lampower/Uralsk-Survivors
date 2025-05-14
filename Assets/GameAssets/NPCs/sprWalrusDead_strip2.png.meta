@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWalrusDead_strip2_0: -556683758332087551
+      sprWalrusDead_strip2_1: 4567847606138775559
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

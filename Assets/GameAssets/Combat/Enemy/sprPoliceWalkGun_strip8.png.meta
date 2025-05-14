@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceWalkGun_strip8_0: 864369181940975636
+      sprPoliceWalkGun_strip8_1: -3969576357010507193
+      sprPoliceWalkGun_strip8_2: 4949695548767305862
+      sprPoliceWalkGun_strip8_3: -785038279139948093
+      sprPoliceWalkGun_strip8_4: -233834150657632577
+      sprPoliceWalkGun_strip8_5: 6041466155015543548
+      sprPoliceWalkGun_strip8_6: 2763221512573581135
+      sprPoliceWalkGun_strip8_7: -203026366241950910
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

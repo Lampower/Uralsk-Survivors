@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEAttackDoubleBarrel2_strip5_0: -3545021348375846436
+      sprEAttackDoubleBarrel2_strip5_1: 5167516019560206181
+      sprEAttackDoubleBarrel2_strip5_2: -409726713647157251
+      sprEAttackDoubleBarrel2_strip5_3: 7994133083575326024
+      sprEAttackDoubleBarrel2_strip5_4: 6314581886607832781
+      sprEAttackDoubleBarrel2_strip5_5: -4745037736475685980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

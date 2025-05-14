@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprRabbitMask_strip4_0: -4582694171624160796
+      sprRabbitMask_strip4_1: 7494082971033240645
+      sprRabbitMask_strip4_2: 5874812171670697127
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

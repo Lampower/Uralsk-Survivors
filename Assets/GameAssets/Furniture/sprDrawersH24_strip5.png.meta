@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDrawersH24_strip5_0: -8997347691679251151
+      sprDrawersH24_strip5_1: -6178626267620997931
+      sprDrawersH24_strip5_2: -7384930330027493304
+      sprDrawersH24_strip5_3: -5179470887475047502
+      sprDrawersH24_strip5_4: -5465726768208819308
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprESubwayWalk_strip8_0: 2498165907684294487
+      sprESubwayWalk_strip8_1: 8130671198538439072
+      sprESubwayWalk_strip8_2: -4465977695050646241
+      sprESubwayWalk_strip8_3: 8765928318377125006
+      sprESubwayWalk_strip8_4: -156447190913976983
+      sprESubwayWalk_strip8_5: -1538742718111017171
+      sprESubwayWalk_strip8_6: 686394372451042241
+      sprESubwayWalk_strip8_7: 5770789510658818561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

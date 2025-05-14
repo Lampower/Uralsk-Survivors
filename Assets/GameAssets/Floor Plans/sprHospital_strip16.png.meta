@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHospital_strip16_0: -3162838743567964156
+      sprHospital_strip16_1: -8103010466243968283
+      sprHospital_strip16_10: 8418167125625221234
+      sprHospital_strip16_11: 1098435181291456964
+      sprHospital_strip16_12: -6082803910271400625
+      sprHospital_strip16_13: 1857996927593343551
+      sprHospital_strip16_14: -2294953916868395575
+      sprHospital_strip16_15: 8302183545596796662
+      sprHospital_strip16_2: 5774818039209630194
+      sprHospital_strip16_3: 4539256700836772257
+      sprHospital_strip16_4: -4982438108629964441
+      sprHospital_strip16_5: 4285005055296954882
+      sprHospital_strip16_6: 9018598098557120480
+      sprHospital_strip16_7: 5121715475959137062
+      sprHospital_strip16_8: 6051696645903236928
+      sprHospital_strip16_9: -6931258843013768390
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

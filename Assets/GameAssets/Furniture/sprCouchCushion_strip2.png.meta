@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCouchCushion_strip2_0: -1421824638575282292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

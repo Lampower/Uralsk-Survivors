@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDoctorFace_strip16_0: -8967969000231602340
+      sprDoctorFace_strip16_1: 2741333705280646200
+      sprDoctorFace_strip16_10: -3879505656097680053
+      sprDoctorFace_strip16_11: 3837631336800430738
+      sprDoctorFace_strip16_12: 5842978013451198918
+      sprDoctorFace_strip16_13: 3254929744647482631
+      sprDoctorFace_strip16_14: 5118251205468698971
+      sprDoctorFace_strip16_15: 2600217508193226956
+      sprDoctorFace_strip16_2: -5455354148397305710
+      sprDoctorFace_strip16_3: 7407505980888143161
+      sprDoctorFace_strip16_4: 5764515083072852783
+      sprDoctorFace_strip16_5: 890691756875758410
+      sprDoctorFace_strip16_6: -3392473474367461067
+      sprDoctorFace_strip16_7: -8791936421044802831
+      sprDoctorFace_strip16_8: 3399305884751454345
+      sprDoctorFace_strip16_9: 8176975526064460158
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

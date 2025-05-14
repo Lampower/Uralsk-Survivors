@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSewerFall2Water_strip12_0: 3403643961357366296
+      sprSewerFall2Water_strip12_1: 6318519984343040994
+      sprSewerFall2Water_strip12_10: -2403503540242468352
+      sprSewerFall2Water_strip12_11: 9027268460709433002
+      sprSewerFall2Water_strip12_2: -6545570553746528426
+      sprSewerFall2Water_strip12_3: 8726480572822475128
+      sprSewerFall2Water_strip12_4: 3030991537948009110
+      sprSewerFall2Water_strip12_5: 2208725629811689528
+      sprSewerFall2Water_strip12_6: -297366410805670560
+      sprSewerFall2Water_strip12_7: -8478708804876970630
+      sprSewerFall2Water_strip12_8: 3348136938065247832
+      sprSewerFall2Water_strip12_9: -3504343833268808904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

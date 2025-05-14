@@ -822,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSwatLegs_strip16_0: -1007114744537516911
+      sprSwatLegs_strip16_1: -1238756303520361552
+      sprSwatLegs_strip16_10: -2960250838943786320
+      sprSwatLegs_strip16_11: 3158706148360948277
+      sprSwatLegs_strip16_12: 2855706940482052209
+      sprSwatLegs_strip16_13: 5455083539631494533
+      sprSwatLegs_strip16_14: -5367644171810210295
+      sprSwatLegs_strip16_15: -1231983867017664689
+      sprSwatLegs_strip16_16: 8535702234772226831
+      sprSwatLegs_strip16_17: 7756248955782759962
+      sprSwatLegs_strip16_18: 2913812789637414512
+      sprSwatLegs_strip16_19: -556550748546439245
+      sprSwatLegs_strip16_2: 5461138101945861658
+      sprSwatLegs_strip16_20: -3782077463726878054
+      sprSwatLegs_strip16_21: -261982288141030004
+      sprSwatLegs_strip16_22: -8144377422564084436
+      sprSwatLegs_strip16_23: -9094811475323250811
+      sprSwatLegs_strip16_24: -8185780278282621727
+      sprSwatLegs_strip16_25: -8493755801779726004
+      sprSwatLegs_strip16_26: 4415684357583904712
+      sprSwatLegs_strip16_27: 1573341729447415194
+      sprSwatLegs_strip16_3: 7526446386216130142
+      sprSwatLegs_strip16_4: -8518468031342587156
+      sprSwatLegs_strip16_5: 8856570630195177296
+      sprSwatLegs_strip16_6: 2766105859059451427
+      sprSwatLegs_strip16_7: 8220021896838101547
+      sprSwatLegs_strip16_8: 7516175032395835047
+      sprSwatLegs_strip16_9: -6148382910507677492
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

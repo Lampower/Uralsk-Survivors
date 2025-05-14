@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPRipPoliceTape_strip17_0: 7112436592069403082
+      sprPRipPoliceTape_strip17_1: 8187747849635580268
+      sprPRipPoliceTape_strip17_2: -1438701408343927003
+      sprPRipPoliceTape_strip17_3: -7544028596357919288
+      sprPRipPoliceTape_strip17_4: 6175108152568560354
+      sprPRipPoliceTape_strip17_5: -5118989166451682570
+      sprPRipPoliceTape_strip17_6: 6347345412934344653
+      sprPRipPoliceTape_strip17_7: -8010355668429148863
+      sprPRipPoliceTape_strip17_8: -8941394100759109932
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

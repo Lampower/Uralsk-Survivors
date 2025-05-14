@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEnemyRise_strip5_0: -2963509596263903497
+      sprEnemyRise_strip5_1: -8410488760461488282
+      sprEnemyRise_strip5_2: -7311079307838936991
+      sprEnemyRise_strip5_3: -5599987489291462653
+      sprEnemyRise_strip5_4: -9078596124244705110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

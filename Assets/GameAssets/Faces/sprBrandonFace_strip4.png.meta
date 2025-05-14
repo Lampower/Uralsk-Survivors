@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBrandonFace_strip4_0: -4227500423038051024
+      sprBrandonFace_strip4_1: -4736503455505515590
+      sprBrandonFace_strip4_2: -2042005550633582675
+      sprBrandonFace_strip4_3: 5592806481800756393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

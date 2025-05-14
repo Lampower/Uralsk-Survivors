@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss4Die_strip20_0: -8027771739600929290
+      sprBoss4Die_strip20_1: 8074308663348137783
+      sprBoss4Die_strip20_10: 661039995361592399
+      sprBoss4Die_strip20_11: 3649122978149308454
+      sprBoss4Die_strip20_12: 3473575591085730673
+      sprBoss4Die_strip20_13: 3700967137175503963
+      sprBoss4Die_strip20_14: 6829435236911589198
+      sprBoss4Die_strip20_15: 6399658679753381729
+      sprBoss4Die_strip20_16: -8731262755551618135
+      sprBoss4Die_strip20_17: -1067648510188051432
+      sprBoss4Die_strip20_18: -8359975913973074282
+      sprBoss4Die_strip20_19: -1123757358603440380
+      sprBoss4Die_strip20_2: -5467666070231999761
+      sprBoss4Die_strip20_3: -4828365750642514919
+      sprBoss4Die_strip20_4: -5147152299861359264
+      sprBoss4Die_strip20_5: -515038732596696342
+      sprBoss4Die_strip20_6: -2334007362521962353
+      sprBoss4Die_strip20_7: -6420770871869452305
+      sprBoss4Die_strip20_8: -8105778180185590812
+      sprBoss4Die_strip20_9: -8870660552644686708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

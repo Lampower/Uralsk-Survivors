@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDennisTable_strip2_0: 4499916130705539974
+      sprDennisTable_strip2_1: -3882045912036084244
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

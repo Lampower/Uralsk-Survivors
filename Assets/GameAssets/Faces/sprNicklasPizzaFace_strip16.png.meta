@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNicklasPizzaFace_strip16_0: -4988510805416914563
+      sprNicklasPizzaFace_strip16_1: -5289187583505664060
+      sprNicklasPizzaFace_strip16_10: -8551089238314507399
+      sprNicklasPizzaFace_strip16_11: -8076442624704928604
+      sprNicklasPizzaFace_strip16_12: -3830685599809131368
+      sprNicklasPizzaFace_strip16_13: 518736309939172494
+      sprNicklasPizzaFace_strip16_14: -6568018229429842589
+      sprNicklasPizzaFace_strip16_15: -5534476062344294089
+      sprNicklasPizzaFace_strip16_2: -1955657845350953744
+      sprNicklasPizzaFace_strip16_3: -5823148994560372147
+      sprNicklasPizzaFace_strip16_4: -2337192306189694640
+      sprNicklasPizzaFace_strip16_5: 1601378589814417251
+      sprNicklasPizzaFace_strip16_6: -9037807325648382536
+      sprNicklasPizzaFace_strip16_7: -7037803592677046835
+      sprNicklasPizzaFace_strip16_8: 5043052697174042336
+      sprNicklasPizzaFace_strip16_9: 8044799007289584724
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

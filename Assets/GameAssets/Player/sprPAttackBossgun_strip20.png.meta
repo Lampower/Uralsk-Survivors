@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackBossgun_strip20_0: 7013370040920826493
+      sprPAttackBossgun_strip20_1: -2965497954207492593
+      sprPAttackBossgun_strip20_10: 2602036139011555341
+      sprPAttackBossgun_strip20_11: 4639222919275257064
+      sprPAttackBossgun_strip20_12: -4571842003643047278
+      sprPAttackBossgun_strip20_13: 7236125431426030151
+      sprPAttackBossgun_strip20_14: -3837854219266787072
+      sprPAttackBossgun_strip20_15: 2244700070852879729
+      sprPAttackBossgun_strip20_16: -4602845523247335130
+      sprPAttackBossgun_strip20_17: -4399481349454457260
+      sprPAttackBossgun_strip20_18: -5644492081981668606
+      sprPAttackBossgun_strip20_19: -1740219160108728450
+      sprPAttackBossgun_strip20_2: -3703081038645403483
+      sprPAttackBossgun_strip20_3: 1873599880489194815
+      sprPAttackBossgun_strip20_4: -7802165833423198795
+      sprPAttackBossgun_strip20_5: -3688353397668025932
+      sprPAttackBossgun_strip20_6: -2538566427541850462
+      sprPAttackBossgun_strip20_7: -1337933016792219654
+      sprPAttackBossgun_strip20_8: 7987148958846357397
+      sprPAttackBossgun_strip20_9: 6201365609397362499
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

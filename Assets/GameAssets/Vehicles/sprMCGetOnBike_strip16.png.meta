@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCGetOnBike_strip16_0: 6441405957575505628
+      sprMCGetOnBike_strip16_1: 6585467275835714801
+      sprMCGetOnBike_strip16_10: 8010717532681062721
+      sprMCGetOnBike_strip16_11: -7925474850769682200
+      sprMCGetOnBike_strip16_12: 788832249407423079
+      sprMCGetOnBike_strip16_13: 5814902751886846072
+      sprMCGetOnBike_strip16_14: 239018382246380375
+      sprMCGetOnBike_strip16_15: -1772599604094808017
+      sprMCGetOnBike_strip16_16: -4036876352294705859
+      sprMCGetOnBike_strip16_2: -2913031686784401504
+      sprMCGetOnBike_strip16_3: -4379716873779757548
+      sprMCGetOnBike_strip16_4: 4613250007263643596
+      sprMCGetOnBike_strip16_5: -1370113079443831868
+      sprMCGetOnBike_strip16_6: -956291022486785594
+      sprMCGetOnBike_strip16_7: 1250671024013120163
+      sprMCGetOnBike_strip16_8: 833334600761227087
+      sprMCGetOnBike_strip16_9: -3800415804265635583
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

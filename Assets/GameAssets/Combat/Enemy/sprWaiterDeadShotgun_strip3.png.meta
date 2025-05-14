@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWaiterDeadShotgun_strip3_0: -2652754007115457481
+      sprWaiterDeadShotgun_strip3_1: -6990844985085866040
+      sprWaiterDeadShotgun_strip3_2: -2103715363559209267
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

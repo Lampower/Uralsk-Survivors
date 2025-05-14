@@ -397,7 +397,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBombGuy_strip11_0: -155411859643411625
+      sprBombGuy_strip11_1: -4159832501926438824
+      sprBombGuy_strip11_10: 4952901985461721758
+      sprBombGuy_strip11_2: 2443534307257626624
+      sprBombGuy_strip11_3: -7229296958460907156
+      sprBombGuy_strip11_4: 620055698740839105
+      sprBombGuy_strip11_5: -9090581389107451799
+      sprBombGuy_strip11_6: -6235697024081348357
+      sprBombGuy_strip11_7: -5936329794209121698
+      sprBombGuy_strip11_8: -4428341316605452724
+      sprBombGuy_strip11_9: 2685785651827045789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

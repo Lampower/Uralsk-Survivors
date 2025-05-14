@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNoodleShop_strip8_0: 4429601879941283778
+      sprNoodleShop_strip8_1: 6616536594559791507
+      sprNoodleShop_strip8_2: 3836853785729069438
+      sprNoodleShop_strip8_3: 36409620294142975
+      sprNoodleShop_strip8_4: 2563298585735935562
+      sprNoodleShop_strip8_5: 2136947149757530669
+      sprNoodleShop_strip8_6: 1800502369381107866
+      sprNoodleShop_strip8_7: -31973051422437917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHospitalDesk_strip5_0: 7009538715343267166
+      sprHospitalDesk_strip5_1: -7901808389598134210
+      sprHospitalDesk_strip5_2: 2434830557238988916
+      sprHospitalDesk_strip5_3: -9188888723556980298
+      sprHospitalDesk_strip5_4: 9190813814435592482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

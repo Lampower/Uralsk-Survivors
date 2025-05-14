@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceTapeRipped_0: 4674796708927571424
+      sprPoliceTapeRipped_1: 3352970629955766886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

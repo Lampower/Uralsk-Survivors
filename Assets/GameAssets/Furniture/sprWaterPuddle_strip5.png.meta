@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWaterPuddle_strip5_0: -7781364327888710510
+      sprWaterPuddle_strip5_1: -354225320932749084
+      sprWaterPuddle_strip5_2: -3400709338618878368
+      sprWaterPuddle_strip5_3: -1680033152314925881
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

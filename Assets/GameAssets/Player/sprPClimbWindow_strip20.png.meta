@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPClimbWindow_strip20_0: -2262011504247892308
+      sprPClimbWindow_strip20_1: 1032290078614827583
+      sprPClimbWindow_strip20_10: 6016241881344885950
+      sprPClimbWindow_strip20_11: 2720190006018269627
+      sprPClimbWindow_strip20_12: 1688642214112858500
+      sprPClimbWindow_strip20_13: -1350739918525736779
+      sprPClimbWindow_strip20_14: 6857322631109639282
+      sprPClimbWindow_strip20_15: 8055385408903336825
+      sprPClimbWindow_strip20_16: -6775206409549418599
+      sprPClimbWindow_strip20_17: -7968359775983210398
+      sprPClimbWindow_strip20_18: 143020894370525054
+      sprPClimbWindow_strip20_19: -6576663811773049557
+      sprPClimbWindow_strip20_2: -7609757992392521958
+      sprPClimbWindow_strip20_3: 3344098446203403279
+      sprPClimbWindow_strip20_4: 8073551676817185095
+      sprPClimbWindow_strip20_5: -6743228798287376968
+      sprPClimbWindow_strip20_6: -5316273009598691415
+      sprPClimbWindow_strip20_7: -1483251987975295188
+      sprPClimbWindow_strip20_8: 7231048082448689943
+      sprPClimbWindow_strip20_9: -8438409814859547585
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

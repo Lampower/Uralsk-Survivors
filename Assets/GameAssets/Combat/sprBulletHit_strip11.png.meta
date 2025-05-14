@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBulletHit_strip11_0: 9206227955258969337
+      sprBulletHit_strip11_1: -3034859886185345707
+      sprBulletHit_strip11_2: -8015665896046985582
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

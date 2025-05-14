@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEmployeeThrowingKnife_strip4_0: -4204564907498366760
+      sprEmployeeThrowingKnife_strip4_1: 7499306631631996362
+      sprEmployeeThrowingKnife_strip4_2: 3816761906247409577
+      sprEmployeeThrowingKnife_strip4_3: 3084520645265740383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

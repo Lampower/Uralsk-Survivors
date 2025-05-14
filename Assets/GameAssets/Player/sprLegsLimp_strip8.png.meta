@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprLegsLimp_strip8_0: 2972367046868891153
+      sprLegsLimp_strip8_1: 4737220462262245418
+      sprLegsLimp_strip8_10: -372484729977825853
+      sprLegsLimp_strip8_11: 2262821370625737952
+      sprLegsLimp_strip8_2: -2472359238895010063
+      sprLegsLimp_strip8_3: -6922525021199197818
+      sprLegsLimp_strip8_4: -5166538531126247311
+      sprLegsLimp_strip8_5: -6915155328005544781
+      sprLegsLimp_strip8_6: 5636580692575925127
+      sprLegsLimp_strip8_7: 6701925591107506869
+      sprLegsLimp_strip8_8: -3994267228699840738
+      sprLegsLimp_strip8_9: 6531258438339419927
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCarcade_strip3_0: 8988325483262333637
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

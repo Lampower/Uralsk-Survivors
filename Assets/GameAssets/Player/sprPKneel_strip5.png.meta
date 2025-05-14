@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKneel_strip5_0: -1903000344903220623
+      sprPKneel_strip5_1: -1364884262175012995
+      sprPKneel_strip5_2: -411464202395349101
+      sprPKneel_strip5_3: 7831083409353378119
+      sprPKneel_strip5_4: -8588794556092070655
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

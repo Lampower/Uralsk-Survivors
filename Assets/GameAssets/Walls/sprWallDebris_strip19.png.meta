@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprWallDebris_strip19_0: 6178383031553163429
+      sprWallDebris_strip19_1: -409618166508657201
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

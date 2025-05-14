@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkPipe_strip8_0: 4089302293677784167
+      sprPWalkPipe_strip8_1: -7261921933391790579
+      sprPWalkPipe_strip8_2: -6879785274291340912
+      sprPWalkPipe_strip8_3: 4195743801269073101
+      sprPWalkPipe_strip8_4: -7451592820812699271
+      sprPWalkPipe_strip8_5: -2522926444342829294
+      sprPWalkPipe_strip8_6: 1907543795534113401
+      sprPWalkPipe_strip8_7: 7069660997674743490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

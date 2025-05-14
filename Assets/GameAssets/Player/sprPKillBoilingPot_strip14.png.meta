@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPKillBoilingPot_strip14_0: 7170967103032261884
+      sprPKillBoilingPot_strip14_1: 773684473903045959
+      sprPKillBoilingPot_strip14_10: 7036897543506857822
+      sprPKillBoilingPot_strip14_11: 6793096313900277887
+      sprPKillBoilingPot_strip14_12: 8885341177216101723
+      sprPKillBoilingPot_strip14_13: 1440102815887401586
+      sprPKillBoilingPot_strip14_2: -914568605314588497
+      sprPKillBoilingPot_strip14_3: 475022157056802929
+      sprPKillBoilingPot_strip14_4: -2227665344631681186
+      sprPKillBoilingPot_strip14_5: 3586149503945261006
+      sprPKillBoilingPot_strip14_6: 7160307408553042846
+      sprPKillBoilingPot_strip14_7: 6918181209506337161
+      sprPKillBoilingPot_strip14_8: 1514574385737394882
+      sprPKillBoilingPot_strip14_9: 6334426947806075428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

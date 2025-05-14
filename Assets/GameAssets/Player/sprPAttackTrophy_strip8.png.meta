@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackTrophy_strip8_0: 5294196914286409755
+      sprPAttackTrophy_strip8_1: -2402720236786261781
+      sprPAttackTrophy_strip8_2: 1436677988566861994
+      sprPAttackTrophy_strip8_3: 5143613363295459390
+      sprPAttackTrophy_strip8_4: -5800493094416162558
+      sprPAttackTrophy_strip8_5: 7348892347093329914
+      sprPAttackTrophy_strip8_6: 3569940210012248019
+      sprPAttackTrophy_strip8_7: 8235983166523367293
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

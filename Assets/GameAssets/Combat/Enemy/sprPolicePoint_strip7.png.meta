@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPolicePoint_strip7_0: -7339140346938089966
+      sprPolicePoint_strip7_1: -8627425994836495048
+      sprPolicePoint_strip7_2: 7085735058754522098
+      sprPolicePoint_strip7_3: 8046728370628638533
+      sprPolicePoint_strip7_4: 3661533803999094502
+      sprPolicePoint_strip7_5: -1310268947316808544
+      sprPolicePoint_strip7_6: 1908378197639118199
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

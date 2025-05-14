@@ -872,7 +872,37 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss1Finish_strip30_0: 5636175888818192637
+      sprBoss1Finish_strip30_1: 2368309820525963503
+      sprBoss1Finish_strip30_10: -1209617580619390200
+      sprBoss1Finish_strip30_11: 4550683394858947990
+      sprBoss1Finish_strip30_12: -5742049607789298545
+      sprBoss1Finish_strip30_13: 7218296253381330181
+      sprBoss1Finish_strip30_14: -6672159022777293916
+      sprBoss1Finish_strip30_15: -3766406302568706708
+      sprBoss1Finish_strip30_16: 8013636318530843393
+      sprBoss1Finish_strip30_17: 4325914582680254848
+      sprBoss1Finish_strip30_18: -2106935269022289356
+      sprBoss1Finish_strip30_19: 6711858018667626177
+      sprBoss1Finish_strip30_2: 7463852505760006052
+      sprBoss1Finish_strip30_20: 1105589087409230664
+      sprBoss1Finish_strip30_21: 132845852382505753
+      sprBoss1Finish_strip30_22: 3080482334831318748
+      sprBoss1Finish_strip30_23: 8289938280725601946
+      sprBoss1Finish_strip30_24: 4194548487962874579
+      sprBoss1Finish_strip30_25: -5403764081133912875
+      sprBoss1Finish_strip30_26: -9042554296620456176
+      sprBoss1Finish_strip30_27: 3346611059596047384
+      sprBoss1Finish_strip30_28: -2020740379176402832
+      sprBoss1Finish_strip30_29: -4986977314094890499
+      sprBoss1Finish_strip30_3: -971602310175171827
+      sprBoss1Finish_strip30_4: 5099746258335158324
+      sprBoss1Finish_strip30_5: 8851785219610722707
+      sprBoss1Finish_strip30_6: -319747737117112990
+      sprBoss1Finish_strip30_7: -505085906391393741
+      sprBoss1Finish_strip30_8: 4678986307144877990
+      sprBoss1Finish_strip30_9: -156178082090085150
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

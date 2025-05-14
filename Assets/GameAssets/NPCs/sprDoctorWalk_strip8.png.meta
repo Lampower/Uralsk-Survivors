@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDoctorWalk_strip8_0: 4319853043479028883
+      sprDoctorWalk_strip8_1: 3032220546913521016
+      sprDoctorWalk_strip8_2: -5115044017800283818
+      sprDoctorWalk_strip8_3: -2435836233889035683
+      sprDoctorWalk_strip8_4: 8878069204156936585
+      sprDoctorWalk_strip8_5: -3503568938173122155
+      sprDoctorWalk_strip8_6: 5310807752313407562
+      sprDoctorWalk_strip8_7: -665431720320320948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

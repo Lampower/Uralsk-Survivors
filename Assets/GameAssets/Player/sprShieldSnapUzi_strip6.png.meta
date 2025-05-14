@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShieldSnapUzi_strip6_0: 1762850033462769955
+      sprShieldSnapUzi_strip6_1: 9029944680943087370
+      sprShieldSnapUzi_strip6_2: 9142862657217610666
+      sprShieldSnapUzi_strip6_3: 2551385328886348364
+      sprShieldSnapUzi_strip6_4: -6026188394010975456
+      sprShieldSnapUzi_strip6_5: 7200424364687247552
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

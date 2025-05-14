@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShotgunTurn_strip13_0: -7112586310120893947
+      sprShotgunTurn_strip13_1: 8326950864301286742
+      sprShotgunTurn_strip13_10: 3279478741539235404
+      sprShotgunTurn_strip13_11: -3426526607859958155
+      sprShotgunTurn_strip13_12: -5266741149114952812
+      sprShotgunTurn_strip13_2: -5696860172866171271
+      sprShotgunTurn_strip13_3: -2911348413703658135
+      sprShotgunTurn_strip13_4: 9059773994587850580
+      sprShotgunTurn_strip13_5: 3984871545612085981
+      sprShotgunTurn_strip13_6: -6056494801597714280
+      sprShotgunTurn_strip13_7: -8888446684834249431
+      sprShotgunTurn_strip13_8: -1534668555008868839
+      sprShotgunTurn_strip13_9: 4356596207081174563
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

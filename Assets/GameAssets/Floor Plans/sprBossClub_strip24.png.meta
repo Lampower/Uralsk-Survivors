@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBossClub_strip24_0: 4294191929364339909
+      sprBossClub_strip24_1: 4822232574889809999
+      sprBossClub_strip24_10: 6349317731928150666
+      sprBossClub_strip24_11: 4890000397095811129
+      sprBossClub_strip24_12: -6512242553009527048
+      sprBossClub_strip24_13: 4793484815041544775
+      sprBossClub_strip24_14: 498894865964746223
+      sprBossClub_strip24_15: 3617371888095499301
+      sprBossClub_strip24_16: 8651396912950927771
+      sprBossClub_strip24_17: -3685725851885557255
+      sprBossClub_strip24_18: -7259537246988780957
+      sprBossClub_strip24_19: 263168629630026687
+      sprBossClub_strip24_2: -7439342639895118477
+      sprBossClub_strip24_20: 3185879056519203805
+      sprBossClub_strip24_21: 7799709351106955530
+      sprBossClub_strip24_22: 2972659185593998410
+      sprBossClub_strip24_23: -8110810124232078724
+      sprBossClub_strip24_3: 6035866360266306860
+      sprBossClub_strip24_4: -8185139682734085610
+      sprBossClub_strip24_5: 5354192286493285342
+      sprBossClub_strip24_6: -511630788456111633
+      sprBossClub_strip24_7: 8620671247498462210
+      sprBossClub_strip24_8: 7558208242262088238
+      sprBossClub_strip24_9: 1284884720330477581
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

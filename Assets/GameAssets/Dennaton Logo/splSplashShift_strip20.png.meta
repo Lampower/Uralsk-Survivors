@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      splSplashShift_strip20_0: -3961692718330663006
+      splSplashShift_strip20_1: -6619170026669889577
+      splSplashShift_strip20_10: 44356460455767687
+      splSplashShift_strip20_11: 6179208700054062329
+      splSplashShift_strip20_12: 4577844331390717637
+      splSplashShift_strip20_13: 8321184075311135836
+      splSplashShift_strip20_14: -1647332575285855145
+      splSplashShift_strip20_15: 4623463312891603671
+      splSplashShift_strip20_16: -6025553180755525956
+      splSplashShift_strip20_17: 9047143585058630429
+      splSplashShift_strip20_18: 4117615976355704239
+      splSplashShift_strip20_19: 1245396812770768670
+      splSplashShift_strip20_2: 4790199918532940329
+      splSplashShift_strip20_3: -7388350453390000088
+      splSplashShift_strip20_4: -3586818707931880259
+      splSplashShift_strip20_5: -6367751246552379624
+      splSplashShift_strip20_6: 1691586824215559789
+      splSplashShift_strip20_7: 2729707625110704973
+      splSplashShift_strip20_8: 7723175407790617957
+      splSplashShift_strip20_9: 7038220586486593012
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

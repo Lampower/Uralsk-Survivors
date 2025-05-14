@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBookshelfLeft_strip3_0: 7069784504503918953
+      sprBookshelfLeft_strip3_1: -6182054857614772060
+      sprBookshelfLeft_strip3_2: -3993956842331454837
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

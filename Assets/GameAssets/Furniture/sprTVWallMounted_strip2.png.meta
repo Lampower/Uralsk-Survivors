@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprTVWallMounted_strip2_0: 5752044143704795304
+      sprTVWallMounted_strip2_1: -3118266627403695360
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

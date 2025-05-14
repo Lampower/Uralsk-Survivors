@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMetalDetector_0: -1627945943108389712
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

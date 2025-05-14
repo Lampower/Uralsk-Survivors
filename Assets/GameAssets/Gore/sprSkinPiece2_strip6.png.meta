@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSkinPiece2_strip6_0: 5745031149994594810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

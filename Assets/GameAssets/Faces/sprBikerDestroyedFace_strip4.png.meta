@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBikerDestroyedFace_strip4_0: -1984600207457256460
+      sprBikerDestroyedFace_strip4_1: -2435003179267517744
+      sprBikerDestroyedFace_strip4_2: -9193598552255749850
+      sprBikerDestroyedFace_strip4_3: 6893567702964556940
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

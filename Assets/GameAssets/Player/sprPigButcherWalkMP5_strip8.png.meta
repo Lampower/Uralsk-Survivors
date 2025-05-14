@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPigButcherWalkMP5_strip8_0: -4623989537309015512
+      sprPigButcherWalkMP5_strip8_1: 8334037834431143294
+      sprPigButcherWalkMP5_strip8_2: -7567127438382343046
+      sprPigButcherWalkMP5_strip8_3: 71713545761662010
+      sprPigButcherWalkMP5_strip8_4: 3878523910323487190
+      sprPigButcherWalkMP5_strip8_5: 2638054163859590845
+      sprPigButcherWalkMP5_strip8_6: 8272007130620145648
+      sprPigButcherWalkMP5_strip8_7: -1895962809567743283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

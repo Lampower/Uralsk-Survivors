@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBowlingStart_strip3_0: -4044982065380436549
+      sprBowlingStart_strip3_1: 6776073186039995913
+      sprBowlingStart_strip3_2: -1761075654635301586
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

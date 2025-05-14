@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprArcadeCabinet9_strip2_0: 179907645895649918
+      sprArcadeCabinet9_strip2_1: -2167095190227612145
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

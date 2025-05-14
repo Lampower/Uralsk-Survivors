@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprChineseFishtank_strip4_0: 2555466422774745456
+      sprChineseFishtank_strip4_1: -2019539219808735883
+      sprChineseFishtank_strip4_2: -5995046655631255168
+      sprChineseFishtank_strip4_3: -5648348147415240292
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

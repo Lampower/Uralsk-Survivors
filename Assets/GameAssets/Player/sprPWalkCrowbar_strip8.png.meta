@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkCrowbar_strip8_0: 1611492059824595363
+      sprPWalkCrowbar_strip8_1: 468862376859354777
+      sprPWalkCrowbar_strip8_2: 2072467391803413873
+      sprPWalkCrowbar_strip8_3: 5247771392463130207
+      sprPWalkCrowbar_strip8_4: -2516482280684053739
+      sprPWalkCrowbar_strip8_5: -5851026836277902846
+      sprPWalkCrowbar_strip8_6: 985269479863022097
+      sprPWalkCrowbar_strip8_7: 8833735702666587684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprShieldSnapScorpion_strip6_0: -6268693826489819816
+      sprShieldSnapScorpion_strip6_1: -433839301870110719
+      sprShieldSnapScorpion_strip6_2: 7864704198716378079
+      sprShieldSnapScorpion_strip6_3: -1181722259946215538
+      sprShieldSnapScorpion_strip6_4: -1989012762010149178
+      sprShieldSnapScorpion_strip6_5: -7588037105421314810
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPerturbator_strip8_0: -135434812446852924
+      sprPerturbator_strip8_1: 6601094829556226088
+      sprPerturbator_strip8_2: 7485345327544124018
+      sprPerturbator_strip8_3: -897226724467869648
+      sprPerturbator_strip8_4: 7389299325143242522
+      sprPerturbator_strip8_5: 2706455529415908371
+      sprPerturbator_strip8_6: -8985352628410075088
+      sprPerturbator_strip8_7: -8252213014341824345
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

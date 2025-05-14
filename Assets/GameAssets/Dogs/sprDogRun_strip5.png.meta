@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDogRun_strip5_0: 4840154783183797355
+      sprDogRun_strip5_1: 1902195507886478383
+      sprDogRun_strip5_2: -8288206499556200159
+      sprDogRun_strip5_3: -62135825571718350
+      sprDogRun_strip5_4: -7355439287188488703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

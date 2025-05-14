@@ -547,7 +547,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFatmanEating_strip17_0: 6694153486201913309
+      sprFatmanEating_strip17_1: -8724642601151153812
+      sprFatmanEating_strip17_10: 4499635929898810224
+      sprFatmanEating_strip17_11: -3416798234999468412
+      sprFatmanEating_strip17_12: -1229420455672576148
+      sprFatmanEating_strip17_13: -3920969141139613390
+      sprFatmanEating_strip17_14: 7546013091354113396
+      sprFatmanEating_strip17_15: 6859990331671420208
+      sprFatmanEating_strip17_16: -8614063511885712820
+      sprFatmanEating_strip17_2: -628766424494938721
+      sprFatmanEating_strip17_3: -5578459693741066431
+      sprFatmanEating_strip17_4: 2841999239902988774
+      sprFatmanEating_strip17_5: -6742333847603538251
+      sprFatmanEating_strip17_6: -2516987833339705449
+      sprFatmanEating_strip17_7: 4429282518397360057
+      sprFatmanEating_strip17_8: -4948775821066959450
+      sprFatmanEating_strip17_9: 1506965037535283005
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

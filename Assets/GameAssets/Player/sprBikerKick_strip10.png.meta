@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBikerKick_strip10_0: 4700090940597923275
+      sprBikerKick_strip10_1: -6583693944171627919
+      sprBikerKick_strip10_2: -5198096502503014213
+      sprBikerKick_strip10_3: 5041569853780761935
+      sprBikerKick_strip10_4: 2193730445648165235
+      sprBikerKick_strip10_5: 352136859915665512
+      sprBikerKick_strip10_6: 2262438416171271951
+      sprBikerKick_strip10_7: 7179759699350490404
+      sprBikerKick_strip10_8: 4755434282699759285
+      sprBikerKick_strip10_9: 6796378040363056702
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

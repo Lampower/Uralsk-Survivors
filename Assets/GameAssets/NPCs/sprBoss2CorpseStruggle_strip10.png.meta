@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss2CorpseStruggle_strip10_0: -8626360211768580952
+      sprBoss2CorpseStruggle_strip10_1: -1081404091292570641
+      sprBoss2CorpseStruggle_strip10_2: 8652274697022733716
+      sprBoss2CorpseStruggle_strip10_3: 5311604195029676417
+      sprBoss2CorpseStruggle_strip10_4: -1681746333743902058
+      sprBoss2CorpseStruggle_strip10_5: -3078457276763169499
+      sprBoss2CorpseStruggle_strip10_6: 8142071312149181999
+      sprBoss2CorpseStruggle_strip10_7: -9047467062694638812
+      sprBoss2CorpseStruggle_strip10_8: -8859226493687465618
+      sprBoss2CorpseStruggle_strip10_9: 93591067842155907
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

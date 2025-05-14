@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFoxMask_strip4_0: -7834699482542342842
+      sprFoxMask_strip4_1: -156756743676810944
+      sprFoxMask_strip4_2: -8455919641307294599
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

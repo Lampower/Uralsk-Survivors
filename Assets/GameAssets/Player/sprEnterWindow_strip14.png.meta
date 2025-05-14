@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEnterWindow_strip14_0: 5155858603213899532
+      sprEnterWindow_strip14_1: 3758005222293112636
+      sprEnterWindow_strip14_10: -3682161943669490677
+      sprEnterWindow_strip14_11: -7158253039162875393
+      sprEnterWindow_strip14_12: 5093395956283146821
+      sprEnterWindow_strip14_13: -775104375181784676
+      sprEnterWindow_strip14_2: -967377900148646723
+      sprEnterWindow_strip14_3: -8654603919150692903
+      sprEnterWindow_strip14_4: 1792894867735472718
+      sprEnterWindow_strip14_5: 8168345472889969906
+      sprEnterWindow_strip14_6: 4127255495504849314
+      sprEnterWindow_strip14_7: 326054252269378069
+      sprEnterWindow_strip14_8: -3850026279690017227
+      sprEnterWindow_strip14_9: -7427682374340058946
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

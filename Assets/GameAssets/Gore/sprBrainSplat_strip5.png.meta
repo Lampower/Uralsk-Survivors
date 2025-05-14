@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBrainSplat_strip5_0: -1184290553082776930
+      sprBrainSplat_strip5_1: -412939342055952236
+      sprBrainSplat_strip5_2: -6857466734603809286
+      sprBrainSplat_strip5_3: -9118431671754148273
+      sprBrainSplat_strip5_4: 5512049013937088083
+      sprBrainSplat_strip5_5: 1540613624184000900
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

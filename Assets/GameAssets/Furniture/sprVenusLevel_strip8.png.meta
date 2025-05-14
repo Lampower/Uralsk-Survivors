@@ -347,7 +347,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprVenusLevel_strip8_0: 152877445977323507
+      sprVenusLevel_strip8_1: -2767807492130218373
+      sprVenusLevel_strip8_2: -6193240761482066701
+      sprVenusLevel_strip8_3: 1663849013463696091
+      sprVenusLevel_strip8_4: -5129867155776730050
+      sprVenusLevel_strip8_5: 1637040032274459998
+      sprVenusLevel_strip8_6: 2092067855909636092
+      sprVenusLevel_strip8_7: 6037244750610139455
+      sprVenusLevel_strip8_8: -6402639641102494336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

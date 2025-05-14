@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkSilencer_strip8_0: 2740614050567660437
+      sprPWalkSilencer_strip8_1: 4864152261423254159
+      sprPWalkSilencer_strip8_2: -5136637298433969158
+      sprPWalkSilencer_strip8_3: 8572183718455656777
+      sprPWalkSilencer_strip8_4: 5339977098693674046
+      sprPWalkSilencer_strip8_5: -3474955895070388978
+      sprPWalkSilencer_strip8_6: -3874145341588150115
+      sprPWalkSilencer_strip8_7: 6875688106599631749
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

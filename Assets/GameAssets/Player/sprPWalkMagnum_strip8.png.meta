@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkMagnum_strip8_0: -4440581156935096606
+      sprPWalkMagnum_strip8_1: 473186104999561450
+      sprPWalkMagnum_strip8_2: -2923056900944656366
+      sprPWalkMagnum_strip8_3: 9050232110400475767
+      sprPWalkMagnum_strip8_4: -5065398833823506
+      sprPWalkMagnum_strip8_5: 5462092617098020428
+      sprPWalkMagnum_strip8_6: 1626513449855854233
+      sprPWalkMagnum_strip8_7: -8301651220786630112
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

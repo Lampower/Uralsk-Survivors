@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSushiGuyShake_strip4_0: 4772206043400598663
+      sprSushiGuyShake_strip4_1: -3033665658774217437
+      sprSushiGuyShake_strip4_2: -3148493211027252157
+      sprSushiGuyShake_strip4_3: 2625327563095700192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

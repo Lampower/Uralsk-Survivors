@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinVHS_strip6_0: 7245509321304158524
+      sprAssassinVHS_strip6_1: 1319567062561577316
+      sprAssassinVHS_strip6_2: -5743392508892248170
+      sprAssassinVHS_strip6_3: -5174247658838058919
+      sprAssassinVHS_strip6_4: 5400284183816925215
+      sprAssassinVHS_strip6_5: -6114476968622432898
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

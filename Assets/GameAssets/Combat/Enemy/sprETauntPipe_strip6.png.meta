@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprETauntPipe_strip6_0: -8022887897701168899
+      sprETauntPipe_strip6_1: -2665626181781038728
+      sprETauntPipe_strip6_2: 2727593228039604711
+      sprETauntPipe_strip6_3: 1434497932754401824
+      sprETauntPipe_strip6_4: -4080288625452923327
+      sprETauntPipe_strip6_5: 7697218233878491995
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

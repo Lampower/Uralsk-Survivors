@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFancyBar_strip2_0: -8806737962468479000
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

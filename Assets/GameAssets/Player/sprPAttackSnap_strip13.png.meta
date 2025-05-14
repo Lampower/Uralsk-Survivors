@@ -447,7 +447,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPAttackSnap_strip13_0: -2055347698413167048
+      sprPAttackSnap_strip13_1: -9113606689455639212
+      sprPAttackSnap_strip13_10: 2356097919818372023
+      sprPAttackSnap_strip13_11: 2434614984544364051
+      sprPAttackSnap_strip13_12: 7765916517892774692
+      sprPAttackSnap_strip13_2: 8538393447077377461
+      sprPAttackSnap_strip13_3: 192381568100467666
+      sprPAttackSnap_strip13_4: -4005989022616950225
+      sprPAttackSnap_strip13_5: 8475091394748636557
+      sprPAttackSnap_strip13_6: -6031496026955790066
+      sprPAttackSnap_strip13_7: -9129423774796568779
+      sprPAttackSnap_strip13_8: -2159896919027795277
+      sprPAttackSnap_strip13_9: 6649734776228361250
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

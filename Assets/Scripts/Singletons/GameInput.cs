@@ -4,11 +4,7 @@ using UnityEngine.InputSystem;
 
 public class GameInput : Singleton<GameInput>
 {
-    [SerializeField] public InputActionReference movement, interact, attack, mousePos, reload;
-    public InputActionMap Movement {  get; private set; }
-
-   
-
+    [SerializeField] public InputActionReference movement, interact, attack, mousePos, reload, look;
 
     private void Awake()
     {

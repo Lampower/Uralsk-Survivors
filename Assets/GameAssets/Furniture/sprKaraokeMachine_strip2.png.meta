@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprKaraokeMachine_strip2_0: 9199666286905652627
+      sprKaraokeMachine_strip2_1: 6965434534596483577
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

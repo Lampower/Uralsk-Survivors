@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEuroHotlineMiamiLogo_0: 6947302265982058004
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

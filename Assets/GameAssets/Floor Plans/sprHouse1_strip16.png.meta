@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHouse1_strip16_0: 8871235564809152568
+      sprHouse1_strip16_1: -2465627377341819383
+      sprHouse1_strip16_10: -4699397026561496213
+      sprHouse1_strip16_11: 609068697537421929
+      sprHouse1_strip16_12: -848008568682191066
+      sprHouse1_strip16_13: -8379536489240667810
+      sprHouse1_strip16_14: 3983766089910585333
+      sprHouse1_strip16_15: 6961419927414256161
+      sprHouse1_strip16_2: 6573664092290264222
+      sprHouse1_strip16_3: 6572592677847462221
+      sprHouse1_strip16_4: 6796280701415808133
+      sprHouse1_strip16_5: 1411558704110525104
+      sprHouse1_strip16_6: -9060633736329168755
+      sprHouse1_strip16_7: -5877420378008442194
+      sprHouse1_strip16_8: -5727023923794809342
+      sprHouse1_strip16_9: -9139169151100218475
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

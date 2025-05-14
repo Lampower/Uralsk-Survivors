@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSignGlow_strip3_0: 1501101542464644886
+      sprSignGlow_strip3_1: 3648925133271001140
+      sprSignGlow_strip3_2: 4668354200969033262
+      sprSignGlow_strip3_3: -8758260593061408042
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

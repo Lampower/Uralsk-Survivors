@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprUnicornMask_strip4_0: 7474476785869926925
+      sprUnicornMask_strip4_1: 5304657473833029661
+      sprUnicornMask_strip4_2: 1863836186392412837
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss3Burning2_strip4_0: -3130287128554822357
+      sprBoss3Burning2_strip4_1: 335315594053777132
+      sprBoss3Burning2_strip4_2: -5675239030185613793
+      sprBoss3Burning2_strip4_3: -1473230697192150602
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

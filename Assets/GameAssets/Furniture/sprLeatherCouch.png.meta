@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprLeatherCouch_0: 754879689744805629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

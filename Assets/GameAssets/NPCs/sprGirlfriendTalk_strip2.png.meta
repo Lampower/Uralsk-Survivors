@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGirlfriendTalk_strip2_0: 5226145760901764798
+      sprGirlfriendTalk_strip2_1: -7553994654222228311
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

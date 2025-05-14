@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss2Throw_strip6_0: -4861604245771626422
+      sprBoss2Throw_strip6_1: 2384393675663970122
+      sprBoss2Throw_strip6_2: -2964850736927513933
+      sprBoss2Throw_strip6_3: 1904818304973791101
+      sprBoss2Throw_strip6_4: 8060101966973917827
+      sprBoss2Throw_strip6_5: 5474951801062227083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

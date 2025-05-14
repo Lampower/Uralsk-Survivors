@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprChineseLightBlue_strip3_0: 103034089208602783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

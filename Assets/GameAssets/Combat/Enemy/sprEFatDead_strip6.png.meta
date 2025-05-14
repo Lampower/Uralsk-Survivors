@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEFatDead_strip6_0: 7360365405877513700
+      sprEFatDead_strip6_1: -6582413065108495555
+      sprEFatDead_strip6_2: 760030737849000936
+      sprEFatDead_strip6_3: -3683439571163258371
+      sprEFatDead_strip6_4: 7927632651009254699
+      sprEFatDead_strip6_5: 6936749082729442344
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotelSuiteTub_0: 5601953415220393342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

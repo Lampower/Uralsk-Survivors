@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkUnarmed2_strip8_0: 9044389036442406883
+      sprPWalkUnarmed2_strip8_1: 4330271186023409345
+      sprPWalkUnarmed2_strip8_2: -3324418389950841926
+      sprPWalkUnarmed2_strip8_3: -4709947527617267834
+      sprPWalkUnarmed2_strip8_4: 5894589833971943928
+      sprPWalkUnarmed2_strip8_5: 4478555007133351210
+      sprPWalkUnarmed2_strip8_6: -6410402387267327287
+      sprPWalkUnarmed2_strip8_7: -7331104488158628094
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

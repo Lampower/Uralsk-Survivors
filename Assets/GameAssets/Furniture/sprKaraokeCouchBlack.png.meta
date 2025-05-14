@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprKaraokeCouchBlack_0: 5789968962458317275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

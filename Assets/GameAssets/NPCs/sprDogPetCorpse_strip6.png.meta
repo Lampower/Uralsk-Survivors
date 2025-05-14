@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDogPetCorpse_strip6_0: 8367057448670838469
+      sprDogPetCorpse_strip6_1: 2515737813407320012
+      sprDogPetCorpse_strip6_2: -6845091784346226971
+      sprDogPetCorpse_strip6_3: -3041161686506188938
+      sprDogPetCorpse_strip6_4: -229682767140002698
+      sprDogPetCorpse_strip6_5: -1942027585756360834
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

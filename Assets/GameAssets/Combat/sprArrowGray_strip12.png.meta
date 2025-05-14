@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprArrowGray_strip12_0: 5945943660820402425
+      sprArrowGray_strip12_1: -1202286380950380099
+      sprArrowGray_strip12_10: 4973336697099511037
+      sprArrowGray_strip12_11: -4718278844411570691
+      sprArrowGray_strip12_2: 7127408450094672186
+      sprArrowGray_strip12_3: 5649202887806861028
+      sprArrowGray_strip12_4: 7683781465319505540
+      sprArrowGray_strip12_5: 4209155884468186107
+      sprArrowGray_strip12_6: -6702787543242806488
+      sprArrowGray_strip12_7: -5302895614566655888
+      sprArrowGray_strip12_8: -1689407266659230478
+      sprArrowGray_strip12_9: -5145903197177891824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

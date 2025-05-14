@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinsBreed_0: 3713830415982134526
+      sprAssassinsBreed_1: -2523975795134677606
+      sprAssassinsBreed_2: -5513753567245862866
+      sprAssassinsBreed_3: -8740700203173762200
+      sprAssassinsBreed_4: 7172486713089280360
+      sprAssassinsBreed_5: -2583443664177504744
+      sprAssassinsBreed_6: -9113701900748509540
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

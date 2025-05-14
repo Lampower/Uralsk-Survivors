@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBannerV_strip7_0: 1723332632539515182
+      sprBannerV_strip7_1: -8685951390388547267
+      sprBannerV_strip7_2: 9192640530485505383
+      sprBannerV_strip7_3: -8867460450086181107
+      sprBannerV_strip7_4: -7869420360555014815
+      sprBannerV_strip7_5: -7026198640641824703
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

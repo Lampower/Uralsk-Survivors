@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEuroPod2H_strip2_0: 79416114716831371
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDogDeadBlunt_strip6_0: 5103683624683591049
+      sprDogDeadBlunt_strip6_1: -8462355207861079886
+      sprDogDeadBlunt_strip6_2: -5572360643502136030
+      sprDogDeadBlunt_strip6_3: 3943561105095847331
+      sprDogDeadBlunt_strip6_4: -2773764509436019838
+      sprDogDeadBlunt_strip6_5: -1408703895795240136
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

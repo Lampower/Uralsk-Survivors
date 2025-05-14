@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss4CrazyFace_strip2_0: -6675809646016043676
+      sprBoss4CrazyFace_strip2_1: -8756487041241282511
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

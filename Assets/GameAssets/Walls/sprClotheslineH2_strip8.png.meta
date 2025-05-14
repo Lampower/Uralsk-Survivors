@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprClotheslineH2_strip8_0: 7437950942674969395
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkTrophy_strip8_0: 6674218375234854379
+      sprPWalkTrophy_strip8_1: 8820324119124220013
+      sprPWalkTrophy_strip8_2: 3573087785643304881
+      sprPWalkTrophy_strip8_3: -2567872145431099957
+      sprPWalkTrophy_strip8_4: 4783752113043095206
+      sprPWalkTrophy_strip8_5: 9189553269702953567
+      sprPWalkTrophy_strip8_6: -1041039195528978044
+      sprPWalkTrophy_strip8_7: 67355588454837759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

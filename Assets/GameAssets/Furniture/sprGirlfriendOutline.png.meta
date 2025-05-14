@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGirlfriendOutline_0: -3108982098347889410
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

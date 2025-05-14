@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotelSink_strip7_0: -326895972369876705
+      sprHotelSink_strip7_1: -4454549162483199002
+      sprHotelSink_strip7_2: -6400112150086104865
+      sprHotelSink_strip7_3: -5946038237421232410
+      sprHotelSink_strip7_4: -3869280684867544787
+      sprHotelSink_strip7_5: 5958379102883576493
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

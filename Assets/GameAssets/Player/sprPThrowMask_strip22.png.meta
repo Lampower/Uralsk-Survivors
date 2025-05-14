@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPThrowMask_strip22_0: -2545277016699728747
+      sprPThrowMask_strip22_1: 273839375823408936
+      sprPThrowMask_strip22_10: -6365265310501313505
+      sprPThrowMask_strip22_11: 2551850365776535107
+      sprPThrowMask_strip22_12: -7605336911142761560
+      sprPThrowMask_strip22_13: -172658018348600035
+      sprPThrowMask_strip22_14: -2896030519975928692
+      sprPThrowMask_strip22_15: 976105012421657172
+      sprPThrowMask_strip22_16: -638267118352700608
+      sprPThrowMask_strip22_17: 6151115623940478579
+      sprPThrowMask_strip22_18: 2753559422467198338
+      sprPThrowMask_strip22_19: 2465794548703382386
+      sprPThrowMask_strip22_2: 1272609138323253392
+      sprPThrowMask_strip22_20: 1906082082884915976
+      sprPThrowMask_strip22_21: 8992012698676861186
+      sprPThrowMask_strip22_3: -4643661556611064820
+      sprPThrowMask_strip22_4: -855809390221066552
+      sprPThrowMask_strip22_5: 8471411478660610175
+      sprPThrowMask_strip22_6: -7084436370139534295
+      sprPThrowMask_strip22_7: -8719755737320047148
+      sprPThrowMask_strip22_8: -7453037299416855990
+      sprPThrowMask_strip22_9: -7199016640898984327
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

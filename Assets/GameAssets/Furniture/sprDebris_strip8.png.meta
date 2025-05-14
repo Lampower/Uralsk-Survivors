@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDebris_strip8_0: 4571451499846463916
+      sprDebris_strip8_1: 3922475356496743214
+      sprDebris_strip8_2: 1911891714519031154
+      sprDebris_strip8_3: 3584599327232158138
+      sprDebris_strip8_4: 9015130141754455831
+      sprDebris_strip8_5: 3190434021469986370
+      sprDebris_strip8_6: 7117445485822385922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

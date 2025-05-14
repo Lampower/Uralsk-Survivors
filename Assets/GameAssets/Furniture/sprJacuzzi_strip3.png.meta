@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprJacuzzi_strip3_0: 3956440863375655042
+      sprJacuzzi_strip3_1: -1519717904220908414
+      sprJacuzzi_strip3_2: -4143045801381466451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPWalkHospital_strip6_0: 197455489862906630
+      sprPWalkHospital_strip6_1: 8190154284159129262
+      sprPWalkHospital_strip6_2: -229203627280568309
+      sprPWalkHospital_strip6_3: -5669219677643827998
+      sprPWalkHospital_strip6_4: -2401289578993936313
+      sprPWalkHospital_strip6_5: 1147852623478638211
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

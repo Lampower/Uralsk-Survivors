@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprStroboscope_strip2_0: -1170918829357319569
+      sprStroboscope_strip2_1: -7622577030795690960
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

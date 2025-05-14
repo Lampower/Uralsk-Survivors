@@ -159,7 +159,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 105d69c0170db8741976c886368a81f7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Health: 10
+  Health: 100
   ScoreForKilling: 0
   CurrentWeapon: {fileID: 0}
   WeaponPivot: {fileID: 8508614292034415823}

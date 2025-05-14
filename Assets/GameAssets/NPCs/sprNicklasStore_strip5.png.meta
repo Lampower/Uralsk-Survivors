@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNicklasStore_strip5_0: -987766739752287935
+      sprNicklasStore_strip5_1: -3935043435997636169
+      sprNicklasStore_strip5_2: -6504363593275283563
+      sprNicklasStore_strip5_3: -5591004375204799239
+      sprNicklasStore_strip5_4: 5855082313196374034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

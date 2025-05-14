@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBartenderFace_strip16_0: 6096282433756952649
+      sprBartenderFace_strip16_1: -1388631061717755785
+      sprBartenderFace_strip16_10: 1907475399910304769
+      sprBartenderFace_strip16_11: 2464849644295175576
+      sprBartenderFace_strip16_12: 7500256441446506554
+      sprBartenderFace_strip16_13: 7570145959219966312
+      sprBartenderFace_strip16_14: -6712070409453557370
+      sprBartenderFace_strip16_15: -305760760047326647
+      sprBartenderFace_strip16_2: 35317039102143738
+      sprBartenderFace_strip16_3: 4572850477807935122
+      sprBartenderFace_strip16_4: 8041340910519043294
+      sprBartenderFace_strip16_5: 1627904850209829950
+      sprBartenderFace_strip16_6: -4864210805105852655
+      sprBartenderFace_strip16_7: -5211019473177220865
+      sprBartenderFace_strip16_8: 419045221635148072
+      sprBartenderFace_strip16_9: -541469266143118518
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

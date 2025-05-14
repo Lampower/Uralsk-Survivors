@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBikeSmoke_strip10_0: 1654112336722695128
+      sprBikeSmoke_strip10_1: 3773095588287930826
+      sprBikeSmoke_strip10_2: -5587343082276210404
+      sprBikeSmoke_strip10_3: 5852191702119770887
+      sprBikeSmoke_strip10_4: -4850674426829070434
+      sprBikeSmoke_strip10_5: 828598694571099746
+      sprBikeSmoke_strip10_6: -3937934913941608925
+      sprBikeSmoke_strip10_7: 6844010555828397596
+      sprBikeSmoke_strip10_8: 6186342452197235195
+      sprBikeSmoke_strip10_9: -294602695223051296
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

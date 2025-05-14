@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPClubBoss2_strip18_0: 5815942549580297979
+      sprPClubBoss2_strip18_1: -4396309556851726934
+      sprPClubBoss2_strip18_10: -4631647457017489345
+      sprPClubBoss2_strip18_11: -5053817823814867209
+      sprPClubBoss2_strip18_12: 5698542660098958307
+      sprPClubBoss2_strip18_13: 8982012114523059101
+      sprPClubBoss2_strip18_14: 215156804750465535
+      sprPClubBoss2_strip18_15: 7464796508247068564
+      sprPClubBoss2_strip18_16: 1279709435741182900
+      sprPClubBoss2_strip18_17: 5437897713705114630
+      sprPClubBoss2_strip18_2: -6900069507615644656
+      sprPClubBoss2_strip18_3: -1411201172302424311
+      sprPClubBoss2_strip18_4: -1385361524096100399
+      sprPClubBoss2_strip18_5: -3472634303458403652
+      sprPClubBoss2_strip18_6: 4684689946523428547
+      sprPClubBoss2_strip18_7: 4477922823917401941
+      sprPClubBoss2_strip18_8: 1710647873737869050
+      sprPClubBoss2_strip18_9: -2884290275760842017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

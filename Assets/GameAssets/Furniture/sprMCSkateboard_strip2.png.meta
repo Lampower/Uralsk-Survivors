@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMCSkateboard_strip2_0: -6915585736048061737
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

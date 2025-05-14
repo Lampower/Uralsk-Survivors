@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprElliott_strip14_0: -5532646007299663032
+      sprElliott_strip14_1: 3460498962899300298
+      sprElliott_strip14_10: -8901915316597260919
+      sprElliott_strip14_11: -8188746445602628903
+      sprElliott_strip14_12: -1269646049744033297
+      sprElliott_strip14_13: 3441425948413651216
+      sprElliott_strip14_2: -677956743970929878
+      sprElliott_strip14_3: 1387160422938968269
+      sprElliott_strip14_4: 1049602890249470773
+      sprElliott_strip14_5: -1352806027326999500
+      sprElliott_strip14_6: -331189410284817524
+      sprElliott_strip14_7: -8467225778311571966
+      sprElliott_strip14_8: 7088227689877404945
+      sprElliott_strip14_9: 1615837688224668661
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

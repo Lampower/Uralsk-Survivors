@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPantherHitback_strip15_0: 4092400245579004386
+      sprPantherHitback_strip15_1: -2511647622956518253
+      sprPantherHitback_strip15_10: -6595698036573744297
+      sprPantherHitback_strip15_11: -536245421564911196
+      sprPantherHitback_strip15_12: 4480075545170456116
+      sprPantherHitback_strip15_13: 2850855676322576503
+      sprPantherHitback_strip15_14: -5563341978706646942
+      sprPantherHitback_strip15_2: -1269386938926413134
+      sprPantherHitback_strip15_3: -7696817191474878139
+      sprPantherHitback_strip15_4: -13884389505681304
+      sprPantherHitback_strip15_5: 3971552450308891396
+      sprPantherHitback_strip15_6: 1583722091646495304
+      sprPantherHitback_strip15_7: -4499224122668803760
+      sprPantherHitback_strip15_8: 6247574658567596494
+      sprPantherHitback_strip15_9: 2910620654439577516
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

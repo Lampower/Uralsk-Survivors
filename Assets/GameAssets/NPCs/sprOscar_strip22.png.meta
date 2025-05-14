@@ -672,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprOscar_strip22_0: 4603037017602182793
+      sprOscar_strip22_1: -3551149868919542242
+      sprOscar_strip22_10: 8786459427655458147
+      sprOscar_strip22_11: 149507441973625037
+      sprOscar_strip22_12: 6140775840930065989
+      sprOscar_strip22_13: 7681022418293247143
+      sprOscar_strip22_14: 5381083530766831786
+      sprOscar_strip22_15: -5760667374537319433
+      sprOscar_strip22_16: -4801410519830767597
+      sprOscar_strip22_17: 2664797847270221968
+      sprOscar_strip22_18: -6923938350855189372
+      sprOscar_strip22_19: 1981392239852280998
+      sprOscar_strip22_2: -8631017459712479336
+      sprOscar_strip22_20: 1515072428337419676
+      sprOscar_strip22_21: -5391418979785401028
+      sprOscar_strip22_3: -2042603731629671020
+      sprOscar_strip22_4: -2328541153484977760
+      sprOscar_strip22_5: -5197251963248824332
+      sprOscar_strip22_6: -8078686049085490484
+      sprOscar_strip22_7: -6091247340863089858
+      sprOscar_strip22_8: -851494920472478041
+      sprOscar_strip22_9: 733226444342368797
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

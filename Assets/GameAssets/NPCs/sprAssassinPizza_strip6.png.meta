@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinPizza_strip6_0: 3751688298950404379
+      sprAssassinPizza_strip6_1: -5502244019260679821
+      sprAssassinPizza_strip6_2: -4647140312045811879
+      sprAssassinPizza_strip6_3: -6374817631389095934
+      sprAssassinPizza_strip6_4: -8564836749067393357
+      sprAssassinPizza_strip6_5: -5559478481407882539
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

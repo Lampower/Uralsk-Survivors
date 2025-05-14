@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPSneakClub_strip4_0: -7282437867284914346
+      sprPSneakClub_strip4_1: 8699240546400094529
+      sprPSneakClub_strip4_2: 9125668653691791824
+      sprPSneakClub_strip4_3: 962898099846791498
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

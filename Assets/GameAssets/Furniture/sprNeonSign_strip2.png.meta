@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprNeonSign_strip2_0: 539138549337185309
+      sprNeonSign_strip2_1: -1304530164660726238
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

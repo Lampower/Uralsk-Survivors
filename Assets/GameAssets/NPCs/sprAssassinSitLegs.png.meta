@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprAssassinSitLegs_0: -6268858912989663620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

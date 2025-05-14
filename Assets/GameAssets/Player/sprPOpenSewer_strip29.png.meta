@@ -847,7 +847,36 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPOpenSewer_strip29_0: -5115316752802461839
+      sprPOpenSewer_strip29_1: -5625246255965594986
+      sprPOpenSewer_strip29_10: -2541977290160787327
+      sprPOpenSewer_strip29_11: 4799672098448704651
+      sprPOpenSewer_strip29_12: 4360847308096962099
+      sprPOpenSewer_strip29_13: 9043029919246227585
+      sprPOpenSewer_strip29_14: -3662031411386213455
+      sprPOpenSewer_strip29_15: 4171220655943895229
+      sprPOpenSewer_strip29_16: -6408066027640048445
+      sprPOpenSewer_strip29_17: 1807970127957908841
+      sprPOpenSewer_strip29_18: -7159733628570243194
+      sprPOpenSewer_strip29_19: 48686122359106418
+      sprPOpenSewer_strip29_2: -4067510486235670156
+      sprPOpenSewer_strip29_20: -3348970755355391501
+      sprPOpenSewer_strip29_21: 8054758278089741220
+      sprPOpenSewer_strip29_22: -7979979724392427910
+      sprPOpenSewer_strip29_23: -4403182405832063701
+      sprPOpenSewer_strip29_24: -7888039612011517189
+      sprPOpenSewer_strip29_25: -5507974516191076771
+      sprPOpenSewer_strip29_26: 2580530585824734441
+      sprPOpenSewer_strip29_27: 2746146716137513915
+      sprPOpenSewer_strip29_28: 7774425174865146177
+      sprPOpenSewer_strip29_3: -3458721340850100318
+      sprPOpenSewer_strip29_4: 770598668583520536
+      sprPOpenSewer_strip29_5: 4630464362417674318
+      sprPOpenSewer_strip29_6: 269467469697441807
+      sprPOpenSewer_strip29_7: -6846893839320537673
+      sprPOpenSewer_strip29_8: -4501339111282074783
+      sprPOpenSewer_strip29_9: -7338279392551869247
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

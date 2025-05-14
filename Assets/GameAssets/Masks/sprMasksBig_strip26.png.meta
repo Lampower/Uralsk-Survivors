@@ -772,7 +772,33 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMasksBig_strip26_0: -9029497282792611123
+      sprMasksBig_strip26_1: -958052855253269181
+      sprMasksBig_strip26_10: 4707083458046074395
+      sprMasksBig_strip26_11: -1721698348735618286
+      sprMasksBig_strip26_12: -5576224451153623646
+      sprMasksBig_strip26_13: -2900282835653830716
+      sprMasksBig_strip26_14: 3779659256573936824
+      sprMasksBig_strip26_15: -9065263647858084716
+      sprMasksBig_strip26_16: -5129920138439682347
+      sprMasksBig_strip26_17: -2330562921101893499
+      sprMasksBig_strip26_18: -1723558823254699072
+      sprMasksBig_strip26_19: 1225567300869122350
+      sprMasksBig_strip26_2: -7667229863141442435
+      sprMasksBig_strip26_20: 9206593051904077811
+      sprMasksBig_strip26_21: 7840852973340929281
+      sprMasksBig_strip26_22: 7029241060682479959
+      sprMasksBig_strip26_23: -8806023086683650103
+      sprMasksBig_strip26_24: 5744531141152714803
+      sprMasksBig_strip26_25: -4129641178490534108
+      sprMasksBig_strip26_3: -7141130032521021891
+      sprMasksBig_strip26_4: 4361795709592777934
+      sprMasksBig_strip26_5: -5462286823162699123
+      sprMasksBig_strip26_6: 6987445321894447023
+      sprMasksBig_strip26_7: 8697569045983270730
+      sprMasksBig_strip26_8: -4090201222607239838
+      sprMasksBig_strip26_9: 1571292598331256277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPhoneHomSafe1_strip10_0: -5189235595353614407
+      sprPhoneHomSafe1_strip10_1: -4670189511343358666
+      sprPhoneHomSafe1_strip10_2: -2080630512969092566
+      sprPhoneHomSafe1_strip10_3: 5100511113135640547
+      sprPhoneHomSafe1_strip10_4: 3280930957312798821
+      sprPhoneHomSafe1_strip10_5: -227960857037270164
+      sprPhoneHomSafe1_strip10_6: -8823374935894345604
+      sprPhoneHomSafe1_strip10_7: 6640620494155841474
+      sprPhoneHomSafe1_strip10_8: -9023979474525552219
+      sprPhoneHomSafe1_strip10_9: -6952274838556141620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

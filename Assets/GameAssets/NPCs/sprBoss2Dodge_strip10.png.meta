@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBoss2Dodge_strip10_0: -8498604883587806111
+      sprBoss2Dodge_strip10_1: -1012697067909396399
+      sprBoss2Dodge_strip10_2: 7483658248940020969
+      sprBoss2Dodge_strip10_3: -4123118256881487359
+      sprBoss2Dodge_strip10_4: -4293039008794535459
+      sprBoss2Dodge_strip10_5: 4173329485356082553
+      sprBoss2Dodge_strip10_6: 2489721759720006417
+      sprBoss2Dodge_strip10_7: -264057060849612753
+      sprBoss2Dodge_strip10_8: 1622000491544678816
+      sprBoss2Dodge_strip10_9: -4001127545781594608
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

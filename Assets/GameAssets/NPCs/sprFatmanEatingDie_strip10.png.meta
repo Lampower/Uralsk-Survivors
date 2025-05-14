@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFatmanEatingDie_strip10_0: 3270234893452914644
+      sprFatmanEatingDie_strip10_1: 2640574887901833612
+      sprFatmanEatingDie_strip10_2: -1747726078552603133
+      sprFatmanEatingDie_strip10_3: -4646424576027085551
+      sprFatmanEatingDie_strip10_4: -7429518148775891843
+      sprFatmanEatingDie_strip10_5: -7483316404695184905
+      sprFatmanEatingDie_strip10_6: -5675312835729222616
+      sprFatmanEatingDie_strip10_7: -9176998481239819753
+      sprFatmanEatingDie_strip10_8: 1367344122987718409
+      sprFatmanEatingDie_strip10_9: -4791551100076853304
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFatmanShitGiveUp_strip5_0: -63313486586126360
+      sprFatmanShitGiveUp_strip5_1: -6389780923294808876
+      sprFatmanShitGiveUp_strip5_2: -1701105766085017470
+      sprFatmanShitGiveUp_strip5_3: 2736497725646573099
+      sprFatmanShitGiveUp_strip5_4: 5946963792669370415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPalmTrees_strip8_0: 536112391713901455
+      sprPalmTrees_strip8_1: 2003934816647479539
+      sprPalmTrees_strip8_2: -7773424520355385822
+      sprPalmTrees_strip8_3: 5910627654515420254
+      sprPalmTrees_strip8_4: 8799990959850297110
+      sprPalmTrees_strip8_5: -1851430707291186758
+      sprPalmTrees_strip8_6: -6115005661165027966
+      sprPalmTrees_strip8_7: -8336711789067950593
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

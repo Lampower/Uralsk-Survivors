@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBloodDrop_strip6_0: 6239391418692345144
+      sprBloodDrop_strip6_1: 2669921807665464764
+      sprBloodDrop_strip6_2: 1367058457389286623
+      sprBloodDrop_strip6_3: 2189250295458062232
+      sprBloodDrop_strip6_4: -7031414196369540606
+      sprBloodDrop_strip6_5: 6422964539704200948
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

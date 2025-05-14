@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceReading_strip4_0: -7104415949852165514
+      sprPoliceReading_strip4_1: 5980302455468690871
+      sprPoliceReading_strip4_2: -4690382190592434969
+      sprPoliceReading_strip4_3: -3042827276352190482
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

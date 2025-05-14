@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHotelSuiteEntertainment_strip2_0: -7288501847620474394
+      sprHotelSuiteEntertainment_strip2_1: 2894130349875084275
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

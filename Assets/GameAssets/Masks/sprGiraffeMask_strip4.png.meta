@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprGiraffeMask_strip4_0: 5012450168334059571
+      sprGiraffeMask_strip4_1: -603353688416310642
+      sprGiraffeMask_strip4_2: -7811906263533391037
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -322,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceBackBlunt_strip8_0: -5270625563620284170
+      sprPoliceBackBlunt_strip8_1: -529910855837761035
+      sprPoliceBackBlunt_strip8_2: 4652024051068106619
+      sprPoliceBackBlunt_strip8_3: -1043443691455039708
+      sprPoliceBackBlunt_strip8_4: -8071933613811207602
+      sprPoliceBackBlunt_strip8_5: -6622990765702873379
+      sprPoliceBackBlunt_strip8_6: -4036715166224185641
+      sprPoliceBackBlunt_strip8_7: -3471366916416255755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

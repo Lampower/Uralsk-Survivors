@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprSaunaSteam_strip4_0: 5873766870922974116
+      sprSaunaSteam_strip4_1: 8390693067869413941
+      sprSaunaSteam_strip4_2: 6027029318724328467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

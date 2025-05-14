@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprFryingKitchen_strip4_0: 8505422496929124351
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

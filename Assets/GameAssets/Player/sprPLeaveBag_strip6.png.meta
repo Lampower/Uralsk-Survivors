@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPLeaveBag_strip6_0: -8041888607138007703
+      sprPLeaveBag_strip6_1: -9199243637907877401
+      sprPLeaveBag_strip6_2: 5732072949267326558
+      sprPLeaveBag_strip6_3: 3308878577064878961
+      sprPLeaveBag_strip6_4: -385157188204993557
+      sprPLeaveBag_strip6_5: 3768038343600477203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

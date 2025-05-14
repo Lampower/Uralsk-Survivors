@@ -172,7 +172,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPHumanShieldDoubleBarrelShoot1_strip2_0: 6832939444628300412
+      sprPHumanShieldDoubleBarrelShoot1_strip2_1: -3793259366936306301
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

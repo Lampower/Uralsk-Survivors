@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprEFrontBlunt_strip10_0: -2965776092005723929
+      sprEFrontBlunt_strip10_1: 7642060240996101528
+      sprEFrontBlunt_strip10_2: -2491014104534951879
+      sprEFrontBlunt_strip10_3: -843257211837272582
+      sprEFrontBlunt_strip10_4: -3780255064777678082
+      sprEFrontBlunt_strip10_5: -7993837867505254011
+      sprEFrontBlunt_strip10_6: 6774543053470068001
+      sprEFrontBlunt_strip10_7: 4126251457591825145
+      sprEFrontBlunt_strip10_8: -5538095227585572934
+      sprEFrontBlunt_strip10_9: -3150243131877203018
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

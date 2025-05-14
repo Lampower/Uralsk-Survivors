@@ -522,7 +522,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprMansion_strip16_0: -8156575357958396603
+      sprMansion_strip16_1: -3019493765633746398
+      sprMansion_strip16_10: 2967972593586461760
+      sprMansion_strip16_11: -7450067955982809492
+      sprMansion_strip16_12: 1583006566265925013
+      sprMansion_strip16_13: 8778734487616333200
+      sprMansion_strip16_14: -8666615659883999202
+      sprMansion_strip16_15: -3590426209181720979
+      sprMansion_strip16_2: 6985574591118355275
+      sprMansion_strip16_3: 1263143465170340717
+      sprMansion_strip16_4: -7294965000140961110
+      sprMansion_strip16_5: 2558012028295742254
+      sprMansion_strip16_6: 2569579268784798874
+      sprMansion_strip16_7: -1298052592810796514
+      sprMansion_strip16_8: -6879838133594297594
+      sprMansion_strip16_9: -3603641048882713730
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

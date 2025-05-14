@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprDialogueFaces_strip5_0: 6804558098950426440
+      sprDialogueFaces_strip5_1: 5243343562520824080
+      sprDialogueFaces_strip5_2: 8296142445696208489
+      sprDialogueFaces_strip5_3: 2604366334485436501
+      sprDialogueFaces_strip5_4: 5792991532551905246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprCarThrashed_strip13_0: 7196748298129308075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

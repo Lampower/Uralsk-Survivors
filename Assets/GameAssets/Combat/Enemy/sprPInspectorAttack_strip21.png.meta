@@ -647,7 +647,28 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPInspectorAttack_strip21_0: 4009018093685999574
+      sprPInspectorAttack_strip21_1: 7125611702614070209
+      sprPInspectorAttack_strip21_10: 457558494776059277
+      sprPInspectorAttack_strip21_11: 9064347687452181285
+      sprPInspectorAttack_strip21_12: -3923367607069763507
+      sprPInspectorAttack_strip21_13: -8322079934020188225
+      sprPInspectorAttack_strip21_14: -5711943726598890139
+      sprPInspectorAttack_strip21_15: 3121113025112786035
+      sprPInspectorAttack_strip21_16: 1878665449333125440
+      sprPInspectorAttack_strip21_17: 2510084671884620194
+      sprPInspectorAttack_strip21_18: -8655098227625588007
+      sprPInspectorAttack_strip21_19: 743411387549072078
+      sprPInspectorAttack_strip21_2: -5791677472635474856
+      sprPInspectorAttack_strip21_20: -4044953168117184147
+      sprPInspectorAttack_strip21_3: 5526896986087534195
+      sprPInspectorAttack_strip21_4: 4917567705998525234
+      sprPInspectorAttack_strip21_5: 2383409697423169372
+      sprPInspectorAttack_strip21_6: -6401932420865427833
+      sprPInspectorAttack_strip21_7: -3181495321547825276
+      sprPInspectorAttack_strip21_8: 7253477411143027187
+      sprPInspectorAttack_strip21_9: -5424035005496312647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

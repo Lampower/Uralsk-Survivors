@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprPoliceDeskChair_0: 1250154669636482554
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

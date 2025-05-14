@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprHighballCurtain_0: 7625477575519227887
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sprBuddhaStatue_0: -3881351256800856133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
